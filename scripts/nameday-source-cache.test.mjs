@@ -1,0 +1,40 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createServer} from 'node:http';
+import {mkdtemp,mkdir,copyFile,readFile,rm} from 'node:fs/promises';
+import {tmpdir} from 'node:os';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {execFile} from 'node:child_process';
+import {promisify} from 'node:util';
+
+test('cached URLs gain stable IDs without downloading; ID conflicts preserve both sources',async t=>{
+ const fixture=await mkdtemp(path.join(tmpdir(),'nameday-cache-test-'));
+ const project=path.join(fixture,'project');
+ await mkdir(path.join(project,'scripts'),{recursive:true});
+ const script=path.join(project,'scripts/nameday-source-cache.mjs');
+ await copyFile(fileURLToPath(new URL('./nameday-source-cache.mjs',import.meta.url)),script);
+ let requests=0;
+ const server=createServer((req,res)=>{requests++;res.setHeader('content-type','text/html');res.end('<html><title>Fixture '+req.url+'</title><body>A sufficiently long original research page for testing cached source identity and stable aliases.</body></html>');});
+ await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
+ t.after(async()=>{
+  await new Promise(resolve=>server.close(resolve));
+  if(path.dirname(fixture)!==path.resolve(tmpdir())||!path.basename(fixture).startsWith('nameday-cache-test-'))throw Error('Unsafe test cleanup target');
+  await rm(fixture,{recursive:true,force:true});
+ });
+ const base='http://127.0.0.1:'+server.address().port;
+ const run=async args=>JSON.parse((await promisify(execFile)(process.execPath,[script,'fetch',...args],{windowsHide:true})).stdout);
+ const manifest=async id=>JSON.parse(await readFile(path.join(fixture,'var/namedays-sources',id,'source.json'),'utf8'));
+ const first=await run(['--url',base+'/one']);
+ const promoted=await run(['--url',base+'/one#page=2','--id','BOOK-ONE','--title','Stable title']);
+ assert.equal(promoted.id,'BOOK-ONE');assert.equal(promoted.reused,true);assert.equal(requests,1);
+ assert.equal((await manifest('BOOK-ONE')).object,(await manifest(first.id)).object);
+ assert.equal((await manifest('BOOK-ONE')).title,'Stable title');
+ const second=await run(['--url',base+'/two','--id','BOOK-TWO']);
+ const before=await manifest('BOOK-ONE');
+ await assert.rejects(run(['--url',base+'/two','--id','BOOK-ONE']),e=>{assert.match(e.stdout,/already belongs to another URL/);return true;});
+ await assert.rejects(run(['--url',base+'/three','--id','BOOK-ONE']),e=>{assert.match(e.stdout,/already belongs to another URL/);return true;});
+ assert.equal(requests,2,'neither conflicting fetch contacts the server');
+ assert.deepEqual(await manifest('BOOK-ONE'),before);
+ assert.equal((await manifest('BOOK-TWO')).id,second.id);
+});

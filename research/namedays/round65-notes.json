@@ -1,0 +1,383 @@
+{
+  "round": 65,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "12-29: examined all 14 unfinished country profiles in LV, LT and EE calendar order; 2 histories written, 12 remain open. No new provisional origin is displayed. Existing summaries are not promoted where the exact-form bridge remains uncertain.",
+  "records": [
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Solveiga",
+      "spellings": [
+        "Solveiga"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LILE24",
+        "LV-LVA-NORDIC03"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solveiga",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Catalogue p. 295 gives competing house+battle and saal+veig explanations, 1922 use/calendar 1936, and Ibsen character. Do not choose a literal meaning. Seek the original dictionary and Scandinavian onomastic assessment resolving alternatives.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 295 gives competing house+battle and saal+veig explanations, 1922 use/calendar 1936, and Ibsen character. Do not choose a literal meaning. Seek the original dictionary and Scandinavian onomastic assessment resolving alternatives.",
+      "next_steps": "Catalogue p. 295 gives competing house+battle and saal+veig explanations, 1922 use/calendar 1936, and Ibsen character. Do not choose a literal meaning. Seek the original dictionary and Scandinavian onomastic assessment resolving alternatives."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Ilgona",
+      "spellings": [
+        "Ilgona"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ilgona"
+      ],
+      "facts_used": "Catalogue only proposes a feminine form of Ilgonis and explicitly leaves exact spelling unconfirmed. Seek exact feminine entry and dated use, rather than transferring ilgoties derivation.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue only proposes a feminine form of Ilgonis and explicitly leaves exact spelling unconfirmed. Seek exact feminine entry and dated use, rather than transferring ilgoties derivation.",
+      "next_steps": "Catalogue only proposes a feminine form of Ilgonis and explicitly leaves exact spelling unconfirmed. Seek exact feminine entry and dated use, rather than transferring ilgoties derivation."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Invalds",
+      "spellings": [
+        "Invalds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Invalds"
+      ],
+      "facts_used": "Catalogue has Ingvalds, not Invalds; cache found no exact form. Seek an exact dictionary/archival entry; do not insert g.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue has Ingvalds, not Invalds; cache found no exact form. Seek an exact dictionary/archival entry; do not insert g.",
+      "next_steps": "Catalogue has Ingvalds, not Invalds; cache found no exact form. Seek an exact dictionary/archival entry; do not insert g."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Invars",
+      "spellings": [
+        "Invars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Invars"
+      ],
+      "facts_used": "Catalogue p. 168 question-marks Ingvars; Liepāja district 1973 and calendar 1931 do not establish identity. Seek explicit spelling correspondence and clarify separate record scopes.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 168 question-marks Ingvars; Liepāja district 1973 and calendar 1931 do not establish identity. Seek explicit spelling correspondence and clarify separate record scopes.",
+      "next_steps": "Catalogue p. 168 question-marks Ingvars; Liepāja district 1973 and calendar 1931 do not establish identity. Seek explicit spelling correspondence and clarify separate record scopes."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Inveiga",
+      "spellings": [
+        "Inveiga"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Inveiga"
+      ],
+      "facts_used": "No catalogue origin or exact cache evidence. Seek an exact Latvian onomastic entry and dated bearer, without inventing an Inga/Solveiga blend.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No catalogue origin or exact cache evidence. Seek an exact Latvian onomastic entry and dated bearer, without inventing an Inga/Solveiga blend.",
+      "next_steps": "No catalogue origin or exact cache evidence. Seek an exact Latvian onomastic entry and dated bearer, without inventing an Inga/Solveiga blend."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Solanža",
+      "spellings": [
+        "Solanža"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solan%C5%BEa"
+      ],
+      "facts_used": "Solanža is the Latvian rendering of French Solange. The dictionary associates its further origin with Latin sollemnis, ‘solemn’. The Siliņš catalogue records the following historical detail: 1971. The cited dictionary location is page 294. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 294. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Solvega",
+      "spellings": [
+        "Solvega"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solvega"
+      ],
+      "facts_used": "Catalogue explicitly has no exact entry; only Solveiga see-also. Seek exact spelling bridge and dated use; no transferred 1922/1936 dates.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue explicitly has no exact entry; only Solveiga see-also. Seek exact spelling bridge and dated use; no transferred 1922/1936 dates.",
+      "next_steps": "Catalogue explicitly has no exact entry; only Solveiga see-also. Seek exact spelling bridge and dated use; no transferred 1922/1936 dates."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lv",
+      "name": "Solvēga",
+      "spellings": [
+        "Solvēga"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solv%C4%93ga"
+      ],
+      "facts_used": "Catalogue explicitly has no exact entry; only Solveiga see-also. Seek long-ē exact rendering and use, with independent origin evidence.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue explicitly has no exact entry; only Solveiga see-also. Seek long-ē exact rendering and use, with independent origin evidence.",
+      "next_steps": "Catalogue explicitly has no exact entry; only Solveiga see-also. Seek long-ē exact rendering and use, with independent origin evidence."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lt",
+      "name": "Gaja",
+      "spellings": [
+        "Gaja"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-LRYTAS-DEC29",
+        "LT-SINKEVICIUTE12"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.lrytas.lt/gyvenimo-budas/psichologija/2025/12/28/news/vardu-reiksmes-gruodzio-29-sausio-4-d-varduvininkai-40260561",
+        "https://journals.lki.lt/bendrinekalba/article/download/259/324/"
+      ],
+      "facts_used": "Salys PDF 319 / printed 304 documents Gaja in the 1964 calendar on 29 December, without origin. Popular sources compete between Lithuanian adjective, Gaia and Gaius; Lrytas page fetch returned 403 and its snippet was not accepted. New Sinkevičiūtė 2007–2010 name study contains no exact Gaja. Seek an exact Lithuanian scholarly analysis.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Salys PDF 319 / printed 304 documents Gaja in the 1964 calendar on 29 December, without origin. Popular sources compete between Lithuanian adjective, Gaia and Gaius; Lrytas page fetch returned 403 and its snippet was not accepted. New Sinkevičiūtė 2007–2010 name study contains no exact Gaja. Seek an exact Lithuanian scholarly analysis.",
+      "next_steps": "Salys PDF 319 / printed 304 documents Gaja in the 1964 calendar on 29 December, without origin. Popular sources compete between Lithuanian adjective, Gaia and Gaius; Lrytas page fetch returned 403 and its snippet was not accepted. New Sinkevičiūtė 2007–2010 name study contains no exact Gaja. Seek an exact Lithuanian scholarly analysis."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lt",
+      "name": "Gentvainas",
+      "spellings": [
+        "Gentvainas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-LRYTAS-DEC29"
+      ],
+      "sources": [
+        "https://www.lrytas.lt/gyvenimo-budas/psichologija/2025/12/28/news/vardu-reiksmes-gruodzio-29-sausio-4-d-varduvininkai-40260561"
+      ],
+      "facts_used": "No exact cache hit. Web discovery found conflicting unsourced popular gentis+vaina versus vainikas/vald-. Zodynas prose includes an uncorroborated legendary bearer and was rejected; Lrytas fetch returned 403. Seek a scholarly exact-form two-stem analysis and historical record; do not substitute Gintvainas.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact cache hit. Web discovery found conflicting unsourced popular gentis+vaina versus vainikas/vald-. Zodynas prose includes an uncorroborated legendary bearer and was rejected; Lrytas fetch returned 403. Seek a scholarly exact-form two-stem analysis and historical record; do not substitute Gintvainas.",
+      "next_steps": "No exact cache hit. Web discovery found conflicting unsourced popular gentis+vaina versus vainikas/vald-. Zodynas prose includes an uncorroborated legendary bearer and was rejected; Lrytas fetch returned 403. Seek a scholarly exact-form two-stem analysis and historical record; do not substitute Gintvainas."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "lt",
+      "name": "Teofilė",
+      "spellings": [
+        "Teofilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-THEOPHILA",
+        "INT-BTN-THEOPHILUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/theophila",
+        "https://www.behindthename.com/name/theophilus"
+      ],
+      "facts_used": "The Senn–Salys dictionary pairs Lithuanian Teofilė with Theophile. This belongs to the feminine Theophila family of Theophilus, from Greek theos, “god”, and philos, “friend”. The link is an explicit dictionary correspondence, not a substitution based only on a similar ending. Exact Teofilė is recorded as a personal name in the dictionary’s 1968 fifth volume, reprinted in 1983. The entry places the Lithuanian spelling within an older Greek-derived family. It dates this dictionary record, without identifying the first Lithuanian bearer or changing the project calendar.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 271 / printed 256. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "ee",
+      "name": "Merli",
+      "spellings": [
+        "Merli"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 129 / printed 131 visually groups Merle~Merli and explicitly says origin unknown; his 1962 frequencies concern the group, not exact Merli counts. Leole's French comparison is qualified. Seek an independent exact etymology; preserve unknown status and group scope.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Rajandi PDF 129 / printed 131 visually groups Merle~Merli and explicitly says origin unknown; his 1962 frequencies concern the group, not exact Merli counts. Leole's French comparison is qualified. Seek an independent exact etymology; preserve unknown status and group scope.",
+      "next_steps": "Rajandi PDF 129 / printed 131 visually groups Merle~Merli and explicitly says origin unknown; his 1962 frequencies concern the group, not exact Merli counts. Leole's French comparison is qualified. Seek an independent exact etymology; preserve unknown status and group scope."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "ee",
+      "name": "Merili",
+      "spellings": [
+        "Merili"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Only Leole PDF 6 qualified French comparison; not listed exactly in Rajandi. Seek an exact dictionary explanation and a dated independent bearer record.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Only Leole PDF 6 qualified French comparison; not listed exactly in Rajandi. Seek an exact dictionary explanation and a dated independent bearer record.",
+      "next_steps": "Only Leole PDF 6 qualified French comparison; not listed exactly in Rajandi. Seek an exact dictionary explanation and a dated independent bearer record."
+    },
+    {
+      "batch": "calendar-2026-12-29",
+      "date": "2026-11-12",
+      "calendar_date": "12-29",
+      "country": "ee",
+      "name": "Mirle",
+      "spellings": [
+        "Mirle"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "Exact cache search yielded no origin. Web discovery found Statistics Estonia use (already covered by population data), which establishes no derivation. Seek exact dictionary evidence; do not silently change to Merli, Merle or Mirje.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Exact cache search yielded no origin. Web discovery found Statistics Estonia use (already covered by population data), which establishes no derivation. Seek exact dictionary evidence; do not silently change to Merli, Merle or Mirje.",
+      "next_steps": "Exact cache search yielded no origin. Web discovery found Statistics Estonia use (already covered by population data), which establishes no derivation. Seek exact dictionary evidence; do not silently change to Merli, Merle or Mirje."
+    }
+  ]
+}

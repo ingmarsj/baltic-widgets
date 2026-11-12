@@ -1,0 +1,357 @@
+{
+  "round": 63,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "12-27: examined all 13 unfinished country profiles in LV, LT and EE calendar order; 4 histories written, 9 remain open. No new provisional origin is displayed. Existing summaries are not promoted where the exact-form bridge remains uncertain.",
+  "records": [
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lv",
+      "name": "Elmārs",
+      "spellings": [
+        "Elmārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Elm%C4%81rs"
+      ],
+      "facts_used": "Siliņš p. 114 presents competing Germanic combinations and questions the Helmārs connection; catalogue dates Palsmane 1889 and calendar 1901. Obtain the full original alternatives and an independent onomastic assessment before choosing a root.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Siliņš p. 114 presents competing Germanic combinations and questions the Helmārs connection; catalogue dates Palsmane 1889 and calendar 1901. Obtain the full original alternatives and an independent onomastic assessment before choosing a root.",
+      "next_steps": "Siliņš p. 114 presents competing Germanic combinations and questions the Helmārs connection; catalogue dates Palsmane 1889 and calendar 1901. Obtain the full original alternatives and an independent onomastic assessment before choosing a root."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lv",
+      "name": "Inita",
+      "spellings": [
+        "Inita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-IDENTITY25",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Inita",
+        "https://helda.helsinki.fi/server/api/core/bitstreams/fd84c3d3-6e27-4933-a25a-0fa177849054/content",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf"
+      ],
+      "facts_used": "Catalogue p. 167 refers to Ina and questions Latin initā/initus alternatives; 1927 use and calendar 1964 do not choose a derivation. Inspect the printed Ina/Inita entry and seek an independent origin analysis.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 167 refers to Ina and questions Latin initā/initus alternatives; 1927 use and calendar 1964 do not choose a derivation. Inspect the printed Ina/Inita entry and seek an independent origin analysis.",
+      "next_steps": "Catalogue p. 167 refers to Ina and questions Latin initā/initus alternatives; 1927 use and calendar 1964 do not choose a derivation. Inspect the printed Ina/Inita entry and seek an independent origin analysis."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lv",
+      "name": "Helmārs",
+      "spellings": [
+        "Helmārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Helm%C4%81rs"
+      ],
+      "facts_used": "Helmārs combines Old High German helm, ‘helmet, protection’, and māri, ‘famous’. The Siliņš catalogue records the following historical detail: 1903; calendar entry 1966. The cited dictionary location is page 151. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 151. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lv",
+      "name": "Elmāra",
+      "spellings": [
+        "Elmāra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Elm%C4%81ra"
+      ],
+      "facts_used": "Catalogue explicitly cross-refers to Elmārs, with Riga 1922/calendar 1925, but Elmārs itself has competing derivations. Check the full original base-name entry before accepting a root.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue explicitly cross-refers to Elmārs, with Riga 1922/calendar 1925, but Elmārs itself has competing derivations. Check the full original base-name entry before accepting a root.",
+      "next_steps": "Catalogue explicitly cross-refers to Elmārs, with Riga 1922/calendar 1925, but Elmārs itself has competing derivations. Check the full original base-name entry before accepting a root."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lv",
+      "name": "Elmars",
+      "spellings": [
+        "Elmars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Elmars"
+      ],
+      "facts_used": "Catalogue has no exact short-a entry. Elmārs cannot supply its dates or etymology. Seek exact language-agency correspondence or archival use with an onomastic explanation.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue has no exact short-a entry. Elmārs cannot supply its dates or etymology. Seek exact language-agency correspondence or archival use with an onomastic explanation.",
+      "next_steps": "Catalogue has no exact short-a entry. Elmārs cannot supply its dates or etymology. Seek exact language-agency correspondence or archival use with an onomastic explanation."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lv",
+      "name": "Helmars",
+      "spellings": [
+        "Helmars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-HELMAR"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Helmars",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Helmar"
+      ],
+      "facts_used": "Catalogue only proposes a connection to Helmārs; no exact date. Correct LVA Helmar search returned no rows; one malformed encoded search URL returned 404 and was discarded. Find an explicit exact-form bridge.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue only proposes a connection to Helmārs; no exact date. Correct LVA Helmar search returned no rows; one malformed encoded search URL returned 404 and was discarded. Find an explicit exact-form bridge.",
+      "next_steps": "Catalogue only proposes a connection to Helmārs; no exact date. Correct LVA Helmar search returned no rows; one malformed encoded search URL returned 404 and was discarded. Find an explicit exact-form bridge."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lv",
+      "name": "Initra",
+      "spellings": [
+        "Initra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Initra"
+      ],
+      "facts_used": "Catalogue p. 167 puts Initra under Inita or question-marked Anitra and dates use to 1967. Resolve the competing bases using the original entry and exact dated records.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 167 puts Initra under Inita or question-marked Anitra and dates use to 1967. Resolve the competing bases using the original entry and exact dated records.",
+      "next_steps": "Catalogue p. 167 puts Initra under Inita or question-marked Anitra and dates use to 1967. Resolve the competing bases using the original entry and exact dated records."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lt",
+      "name": "Dautartas",
+      "spellings": [
+        "Dautartas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS10",
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Pakerys includes Dautartas among Lithuanian two-stem names with Dau-. He reports the view that Dau- developed from Daug-, connected with daug, “much, many”. Salys connects the name element Tar(t)- with tarti, “to say”, but this does not supply a fixed literal sentence for the whole name. The Senn–Salys dictionary of 1968 lists Dautartas as both a personal name and a surname; the entry was reprinted in 1983. Pakerys discusses its accentuation in 2010. These dated linguistic records establish the exact form, not its first birth registration or a particular medieval bearer.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Pakerys PDF 4 / printed 91; Salys PDF 295 / printed 280; dictionary PDF 224 / printed 209. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lt",
+      "name": "Fabijolė",
+      "spellings": [
+        "Fabijolė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN-FABIOLA"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/fabiola"
+      ],
+      "facts_used": "Visually checked Salys PDF 319 / printed 304: 1964 calendar, 27 December, Fabijolė (Faba). Curated Fabiola explains Latin diminutive of Fabia but does not list Lithuanian Fabijolė; no spelling bridge accepted. Seek a Lithuanian dictionary explicitly pairing the forms.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Visually checked Salys PDF 319 / printed 304: 1964 calendar, 27 December, Fabijolė (Faba). Curated Fabiola explains Latin diminutive of Fabia but does not list Lithuanian Fabijolė; no spelling bridge accepted. Seek a Lithuanian dictionary explicitly pairing the forms.",
+      "next_steps": "Visually checked Salys PDF 319 / printed 304: 1964 calendar, 27 December, Fabijolė (Faba). Curated Fabiola explains Latin diminutive of Fabia but does not list Lithuanian Fabijolė; no spelling bridge accepted. Seek a Lithuanian dictionary explicitly pairing the forms."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "lt",
+      "name": "Gedvinė",
+      "spellings": [
+        "Gedvinė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Visually checked Salys PDF 319 / printed 304 gives Gedvinė (Gedva) on 27 December in the 1964 calendar. This is not an element analysis. Seek an exact scholarly origin statement; preserve -vinė rather than substituting -vydė.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Visually checked Salys PDF 319 / printed 304 gives Gedvinė (Gedva) on 27 December in the 1964 calendar. This is not an element analysis. Seek an exact scholarly origin statement; preserve -vinė rather than substituting -vydė.",
+      "next_steps": "Visually checked Salys PDF 319 / printed 304 gives Gedvinė (Gedva) on 27 December in the 1964 calendar. This is not an element analysis. Seek an exact scholarly origin statement; preserve -vinė rather than substituting -vydė."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "ee",
+      "name": "Sulve",
+      "spellings": [
+        "Sulve"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Leole PDF 6 calls Sulve/Sula feminine counterparts of Sulev; exact Sulve absent from Rajandi search. Seek an independent dictionary entry or historical attestation; the popular column does not establish a unique lexical meaning.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Leole PDF 6 calls Sulve/Sula feminine counterparts of Sulev; exact Sulve absent from Rajandi search. Seek an independent dictionary entry or historical attestation; the popular column does not establish a unique lexical meaning.",
+      "next_steps": "Leole PDF 6 calls Sulve/Sula feminine counterparts of Sulev; exact Sulve absent from Rajandi search. Seek an independent dictionary entry or historical attestation; the popular column does not establish a unique lexical meaning."
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "ee",
+      "name": "Sulvi",
+      "spellings": [
+        "Sulvi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi regards Sulvi as more likely a variant of Silvi than a feminine counterpart of Sulev. His wording is comparative, so it does not establish a unique origin for every bearer or justify assigning Sulev’s proposed meaning to Sulvi. His 1966 lexicon also records Sulvi with the locator Trt 22, a Tartu record of 1922. This gives a dated example of the exact spelling. It is a record cited by a later dictionary, rather than an independently inspected birth register or a date when the name was invented.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 156 / printed 158; PDF 217 / printed 219. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-27",
+      "date": "2026-11-12",
+      "calendar_date": "12-27",
+      "country": "ee",
+      "name": "Sula",
+      "spellings": [
+        "Sula"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi’s lexicon directs the feminine name Sula to Sulev. In the Sulev article he describes an old personal name preserved in folklore and brought into given-name use through literature. He does not establish a single certain lexical origin for that older name. Sula is explicitly listed in the 1966 book, with an older name-list reference in its index. This documents the feminine form itself. Sulev’s nineteenth-century calendar dates belong to Sulev; they cannot be presented as the first calendar appearance of Sula.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 155–156 / printed 157–158; PDF 217 / printed 219. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    }
+  ]
+}

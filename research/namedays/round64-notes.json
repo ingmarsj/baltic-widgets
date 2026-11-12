@@ -1,0 +1,607 @@
+{
+  "round": 64,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "12-28: examined all 22 unfinished country profiles in LV, LT and EE calendar order; 8 histories written, 14 remain open. No new provisional origin is displayed. Existing summaries are not promoted where the exact-form bridge remains uncertain.",
+  "records": [
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Ivita",
+      "spellings": [
+        "Ivita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivita"
+      ],
+      "facts_used": "Catalogue p. 171 lists Iva and Evita alternatives, with third-quarter twentieth-century Saldus district use and calendar 1972. Find an onomastic analysis selecting or explicitly tracing these routes; no one root accepted.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 171 lists Iva and Evita alternatives, with third-quarter twentieth-century Saldus district use and calendar 1972. Find an onomastic analysis selecting or explicitly tracing these routes; no one root accepted.",
+      "next_steps": "Catalogue p. 171 lists Iva and Evita alternatives, with third-quarter twentieth-century Saldus district use and calendar 1972. Find an onomastic analysis selecting or explicitly tracing these routes; no one root accepted."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Irvita",
+      "spellings": [
+        "Irvita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Irvita"
+      ],
+      "facts_used": "No exact origin in catalogue or private cache. Seek an exact onomastic entry and dated bearer; do not infer from Ivita or Irish names.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact origin in catalogue or private cache. Seek an exact onomastic entry and dated bearer; do not infer from Ivita or Irish names.",
+      "next_steps": "No exact origin in catalogue or private cache. Seek an exact onomastic entry and dated bearer; do not infer from Ivita or Irish names."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Ingeborga",
+      "spellings": [
+        "Ingeborga"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-NORDIC03",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ingeborga",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Ingeborga combines the Germanic divine name Ingwio and borg, ‘protection’. The source does not give a literal translation of the whole name. The Siliņš catalogue records the following historical detail: calendar entry 1897. The cited dictionary location is page 165. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Norwegian Ingeborg → Ingeborga, PDF 120 / printed 224, visually checked; applies to Latvian only. Checked location: 165. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Inge",
+      "spellings": [
+        "Inge"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-LEOLE05",
+        "EE-RAJANDI66",
+        "LV-BALODIS-LIV",
+        "LV-LVA-EN06",
+        "LV-LVA-NORDIC03"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Inge",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_11_november.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.diacronia.ro/indexing/details/V193/pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Catalogue cross-refers to male and female Inga with distinct bases; no selected route. The English manual PDF 138 is a surname-rendering section, not this given name. Seek an exact given-name analysis keeping the branches separate.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue cross-refers to male and female Inga with distinct bases; no selected route. The English manual PDF 138 is a surname-rendering section, not this given name. Seek an exact given-name analysis keeping the branches separate.",
+      "next_steps": "Catalogue cross-refers to male and female Inga with distinct bases; no selected route. The English manual PDF 138 is a surname-rendering section, not this given name. Seek an exact given-name analysis keeping the branches separate."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Ingerūda",
+      "spellings": [
+        "Ingerūda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Inger%C5%ABda"
+      ],
+      "facts_used": "Catalogue p. 165 questions Inger or marks fnd; twentieth-century third-quarter use alone does not prove the root. Decode the printed abbreviation and inspect the original entry.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 165 questions Inger or marks fnd; twentieth-century third-quarter use alone does not prove the root. Decode the printed abbreviation and inspect the original entry.",
+      "next_steps": "Catalogue p. 165 questions Inger or marks fnd; twentieth-century third-quarter use alone does not prove the root. Decode the printed abbreviation and inspect the original entry."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Ingeta",
+      "spellings": [
+        "Ingeta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ingeta"
+      ],
+      "facts_used": "Catalogue refers to ambiguous Inga and contains unexpanded {name}/{date} placeholders. Existing profile dates 1971; do not quote broken generated prose as evidence. Inspect printed p. 165 and an independent origin statement.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue refers to ambiguous Inga and contains unexpanded {name}/{date} placeholders. Existing profile dates 1971; do not quote broken generated prose as evidence. Inspect printed p. 165 and an independent origin statement.",
+      "next_steps": "Catalogue refers to ambiguous Inga and contains unexpanded {name}/{date} placeholders. Existing profile dates 1971; do not quote broken generated prose as evidence. Inspect printed p. 165 and an independent origin statement."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Ingita",
+      "spellings": [
+        "Ingita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ingita"
+      ],
+      "facts_used": "Catalogue refers to ambiguous Inga and contains unexpanded {name}/{date} placeholders. Existing profile dates 1969; seek original p. 165 and independent onomastic analysis.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue refers to ambiguous Inga and contains unexpanded {name}/{date} placeholders. Existing profile dates 1969; seek original p. 165 and independent onomastic analysis.",
+      "next_steps": "Catalogue refers to ambiguous Inga and contains unexpanded {name}/{date} placeholders. Existing profile dates 1969; seek original p. 165 and independent onomastic analysis."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Ingo",
+      "spellings": [
+        "Ingo"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ingo"
+      ],
+      "facts_used": "Siliņš places Ingo under Ingolfs and explains that base through the divine name Ingwio and Old High German wolf, ‘wolf’. The Siliņš catalogue records the following historical detail: 1980. The cited dictionary location is page 165. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 165. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Irvalds",
+      "spellings": [
+        "Irvalds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Irvalds"
+      ],
+      "facts_used": "Catalogue p. 169 question-marks Ērvalds; first-quarter twentieth-century record does not prove derivation. Seek exact bridge and decode RAg. before naming the place.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 169 question-marks Ērvalds; first-quarter twentieth-century record does not prove derivation. Seek exact bridge and decode RAg. before naming the place.",
+      "next_steps": "Catalogue p. 169 question-marks Ērvalds; first-quarter twentieth-century record does not prove derivation. Seek exact bridge and decode RAg. before naming the place."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Irvings",
+      "spellings": [
+        "Irvings"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-EN06"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Irvings",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Catalogue p. 169 refers to Ervīns alternatives and dates 1971. LVA English manual PDF 138 / printed 141 visually gives Irving → Ērvings / Irvings in the surname section; not evidence of a given-name etymology. Seek an explicit given-name explanation.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 169 refers to Ervīns alternatives and dates 1971. LVA English manual PDF 138 / printed 141 visually gives Irving → Ērvings / Irvings in the surname section; not evidence of a given-name etymology. Seek an explicit given-name explanation.",
+      "next_steps": "Catalogue p. 169 refers to Ervīns alternatives and dates 1971. LVA English manual PDF 138 / printed 141 visually gives Irving → Ērvings / Irvings in the surname section; not evidence of a given-name etymology. Seek an explicit given-name explanation."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Irvins",
+      "spellings": [
+        "Irvins"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Irvins"
+      ],
+      "facts_used": "Catalogue p. 170 dates Cēsis 1930 and points to Ervīns alternatives on p. 120. Find full printed analysis and exact English given-name bridge before selecting a root.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 170 dates Cēsis 1930 and points to Ervīns alternatives on p. 120. Find full printed analysis and exact English given-name bridge before selecting a root.",
+      "next_steps": "Catalogue p. 170 dates Cēsis 1930 and points to Ervīns alternatives on p. 120. Find full printed analysis and exact English given-name bridge before selecting a root."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lv",
+      "name": "Irvīns",
+      "spellings": [
+        "Irvīns"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Irv%C4%ABns"
+      ],
+      "facts_used": "Catalogue explicitly attests Irvins, not Irvīns. Seek exact long-ī spelling correspondence and dated use; no borrowed first date.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue explicitly attests Irvins, not Irvīns. Seek exact long-ī spelling correspondence and dated use; no borrowed first date.",
+      "next_steps": "Catalogue explicitly attests Irvins, not Irvīns. Seek exact long-ī spelling correspondence and dated use; no borrowed first date."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Ema",
+      "spellings": [
+        "Ema"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-EMA1",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://www.behindthename.com/name/ema-1",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Ema has more than one documented name-family connection. The curated Ema entry includes Lithuanian usage and identifies it as a form of Emma. A historical Lithuanian calendar also uses Ema as a short form of Emelija, so the spelling alone does not select one origin for every person. The 1964 Yla–Salys calendar, reprinted in 1983, places Emelija (Ema) on 30 May and Ema independently on 27 June. These entries show both a short form and independent calendar use. Their dates are historical calendar evidence, not a reason to change the project’s 28 December celebration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 308 / printed 293, PDF 309 / printed 294. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Ingeborga",
+      "spellings": [
+        "Ingeborga"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-LVA-NORDIC03",
+        "LV-SILINS",
+        "INT-BTN-INGEBORGA"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.izpetnieks.lv/en/name/Inge",
+        "https://www.izpetnieks.lv/en/name/Ingeborga",
+        "https://www.behindthename.com/name/ingeborga"
+      ],
+      "facts_used": "No exact Lithuanian onomastic source in cache; BTN page has only user submissions. Latvian catalogue and Norwegian→Latvian manual cannot establish Lithuanian transmission. Find Lithuanian dictionary correspondence to Ingeborg.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact Lithuanian onomastic source in cache; BTN page has only user submissions. Latvian catalogue and Norwegian→Latvian manual cannot establish Lithuanian transmission. Find Lithuanian dictionary correspondence to Ingeborg.",
+      "next_steps": "No exact Lithuanian onomastic source in cache; BTN page has only user submissions. Latvian catalogue and Norwegian→Latvian manual cannot establish Lithuanian transmission. Find Lithuanian dictionary correspondence to Ingeborg."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Irvita",
+      "spellings": [
+        "Irvita"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Irvita"
+      ],
+      "facts_used": "Only a Latvian catalogue hit, with no etymology there either. Seek a Lithuanian given-name entry and dated bearer.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Only a Latvian catalogue hit, with no etymology there either. Seek a Lithuanian given-name entry and dated bearer.",
+      "next_steps": "Only a Latvian catalogue hit, with no etymology there either. Seek a Lithuanian given-name entry and dated bearer."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Ivita",
+      "spellings": [
+        "Ivita"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivita"
+      ],
+      "facts_used": "Only Latvian Ivita hits, with competing Iva/Evita bases. Seek a country-specific exact-name origin source rather than importing Latvian dates.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Only Latvian Ivita hits, with competing Iva/Evita bases. Seek a country-specific exact-name origin source rather than importing Latvian dates.",
+      "next_steps": "Only Latvian Ivita hits, with competing Iva/Evita bases. Seek a country-specific exact-name origin source rather than importing Latvian dates."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Kamilė",
+      "spellings": [
+        "Kamilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-KAMILE",
+        "LT-SENNSALYS68",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://www.behindthename.com/name/kamile20",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Kamilė is the Lithuanian form of Camilla in the curated name entry. The Senn–Salys proper-name dictionary independently lists exact Kamilė as a feminine personal name and pairs it with German Kamilla. This establishes a spelling correspondence rather than a meaning inferred from similar letters. The dictionary record dates from volume five of the written-Lithuanian dictionary, published in Heidelberg in 1968 and reprinted in 1983. It documents the name and its equivalent by that publication date, without identifying the first Lithuanian Kamilė or a single route of borrowing.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 239 / printed 224. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Kantvilas",
+      "spellings": [
+        "Kantvilas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS10",
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Kantvilas is a Lithuanian two-stem name. Pakerys lists it under Kant-, connected with patience and enduring; Salys lists it under both Kan(t)- and -vil-, linking the latter with viltis, “hope”. The stems are documented, but they need not be expanded into a fixed sentence describing a person. The Senn–Salys dictionary records Kantvilas as a personal name in 1968. Pakerys’s 2010 accentuation study also discusses the exact form and notes differing accentuation in Salys. These are linguistic attestations; the variation in stress does not establish a different calendar date or a coining year.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Pakerys PDF 8 / printed 95; Salys PDF 239 / printed 224, PDF 290 / printed 275, PDF 298 / printed 283. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Vaidilutė",
+      "spellings": [
+        "Vaidilutė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "No exact private-cache hit. Seek an exact dictionary entry establishing its relationship to Vaidila/Vaidilė and a dated record; do not derive from common-word resemblance alone.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact private-cache hit. Seek an exact dictionary entry establishing its relationship to Vaidila/Vaidilė and a dated record; do not derive from common-word resemblance alone.",
+      "next_steps": "No exact private-cache hit. Seek an exact dictionary entry establishing its relationship to Vaidila/Vaidilė and a dated record; do not derive from common-word resemblance alone."
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "lt",
+      "name": "Vidas",
+      "spellings": [
+        "Vidas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-VIDAS",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://www.behindthename.com/name/vidas",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Vidas is described as an independently used short form of Vidmantas in the curated name entry. Historical Lithuanian calendar evidence shows that the same short spelling could also accompany another full name. A short name therefore need not identify one full form in every family. The 1964 Yla–Salys calendar, reprinted in 1983, lists Botvidas (Botas, Vidas) on 28 July. This is an explicit historical short-form relationship. It does not move Vidas’s day in the project calendar, or prove that all modern bearers were named after Botvidas.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 311 / printed 296. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "ee",
+      "name": "Piia",
+      "spellings": [
+        "Piia"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Piia with Pia and explains the name through Latin pia, “pious, devout”. He distinguishes it from Piiu, which he links to an Estonian word. The close spelling of the two names does not make their etymologies interchangeable. In his 1966 book, Rajandi reports seven Piia namings in 1963. This is a historical count from the material used by that author, not a current population total or a first-use date. It confirms the exact long-vowel spelling in twentieth-century Estonian naming.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 141 / printed 143. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-28",
+      "date": "2026-11-12",
+      "calendar_date": "12-28",
+      "country": "ee",
+      "name": "Piiu",
+      "spellings": [
+        "Piiu"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-MAGISTE29",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Mägiste’s 1929 collection lists Piiu among proposed feminine names and compares it with Wiedemann’s piiu, piigake, and piiga, “girl”. Rajandi later repeats the Estonian-word connection while keeping it separate from Piia’s Latin explanation. The entry is marked Mg., which denotes Mägiste’s own proposals in this collection. It documents a proposal printed in 1929; it is not evidence that a child first received Piiu that year. Rajandi’s 1966 discussion shows the comparison continuing in later name scholarship.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Mägiste PDF 20 / printed 18; Rajandi PDF 141 / printed 143. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    }
+  ]
+}

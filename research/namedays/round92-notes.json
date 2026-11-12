@@ -1,0 +1,735 @@
+{
+  "round": 92,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-25: researched all 27 unfinished LV/LT/EE profiles before advancing (researched/written: LV 18/5, LT 5/3, EE 4/4). 12 histories written; 15 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Zigurds",
+      "spellings": [
+        "Zigurds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigurds",
+        "https://www.izpetnieks.lv/en/name/Sigurds"
+      ],
+      "facts_used": "Catalogue refers Zigurds to the Sigurd entry (p. 290): Old Norse sigr “victory”, varðōn “to guard”, Sighurdher “guardian of victory”; first quarter of the 20th century; calendar 1915 (pp. 338; 290).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The referenced entry’s headword is reported with long ū (Sigūrds); history phrases it as the Scandinavian Sigurd entry. German Sigurd → Zīgurds (Ceplītis 1960, LVA) has long ī and is not used as an exact bridge. Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Sigurds",
+      "spellings": [
+        "Sigurds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-SIGURD",
+        "INT-SNL-SIGURD"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/words/12672,12671.pdf?locale=lv",
+        "https://snl.no/Sigurd_-_mannsnamn"
+      ],
+      "facts_used": "LVA export visually checked: Swedish Sigurd → Sigurds, Elsberga, LVKJ 21 (1985) p. 111 (separate Balode 2003 p. 324 row gives Sīgurds). SNL signed Alhaug: Old Norse Sig-urðr, “siger” + “vaktar”; Bjørnson plays Sigurd Slembe (1862), Sigurd Jorsalfar (1872); Sigurd Jorsalfare 1090–1130.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The 1985 article itself was not inspected; the agency row is the accepted bridge. Norwegian episodes are labelled Norwegian. Siliņš catalogue says its entry is long-ū Sigūrds; Norwegian manual gives Sigurs (NORDIC03 PDF 116 / printed 220); German gives Zīgurds. None of their dates are transferred.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Sigvards",
+      "spellings": [
+        "Sigvards"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Sigvards"
+      ],
+      "facts_used": "OHG sigu “victory” + wart “guardian”; records 1969 and 1975 (p. 290).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Swedish Sigvard → Sīgvards (NORDIC03 PDF 201 / printed 324) has long ī and is not used as a bridge. Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Berenika",
+      "spellings": [
+        "Berenika"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-BTN-VERONICA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Berenika",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Berenice"
+      ],
+      "facts_used": "Catalogue: possible link to Berenikē “bringer of victory”, but connection with the Latvian record not directly established. LVA English Berenice → Berenaisija/Berinaisī only.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: possible link to Berenikē “bringer of victory”, but connection with the Latvian record not directly established. LVA English Berenice → Berenaisija/Berinaisī only.",
+      "next_steps": "Seek an explicit Greek/Latin/Polish/Czech Berenika → Latvian Berenika rendering or a dated Latvian record."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Berils",
+      "spellings": [
+        "Berils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Berils",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Beryl"
+      ],
+      "facts_used": "No catalogue origin text. LVA English Beryl → Berila (feminine, Ahero 2006 p. 94) does not establish masculine Berils.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No catalogue origin text. LVA English Beryl → Berila (feminine, Ahero 2006 p. 94) does not establish masculine Berils.",
+      "next_steps": "Seek an exact masculine Berils rendering or onomastic note; do not transfer feminine Beryl."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Berita",
+      "spellings": [
+        "Berita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-BTN-BERIT"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Berita",
+        "https://www.behindthename.com/name/berit"
+      ],
+      "facts_used": "Catalogue: Scandinavian form of Brigita (Celtic brigh “strength”); Riga 1940 (pp. 81; 86). BTN curated Berit: variant of Birgit, Latvian Brigita in family.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "NORDIC03 PDF 107 / printed 170 gives Norwegian Berit → Bērita (long ē); PDF 203 Swedish Berit → Bērita; not used as exact bridge. Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Beruta",
+      "spellings": [
+        "Beruta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Beruta"
+      ],
+      "facts_used": "Catalogue: origin of exact form not supported; see also Biruta.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: origin of exact form not supported; see also Biruta.",
+      "next_steps": "Seek an explicit Beruta/Biruta variant statement; do not merge with Biruta from resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Boneta",
+      "spellings": [
+        "Boneta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Boneta"
+      ],
+      "facts_used": "Catalogue proposes a Spanish/Croatian Boneta (Bona “good”) via a surname dictionary; borrowing path uncertain.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue proposes a Spanish/Croatian Boneta (Bona “good”) via a surname dictionary; borrowing path uncertain.",
+      "next_steps": "Seek a given-name source documenting Boneta and a Latvian rendering or dated record."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Bonija",
+      "spellings": [
+        "Bonija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bonija",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Bonnie"
+      ],
+      "facts_used": "Catalogue: possibly Latvianized English Bonnie, explicitly not confirmed. LVA Bonnie search returned only a surname row (Charbonnier).",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: possibly Latvianized English Bonnie, explicitly not confirmed. LVA Bonnie search returned only a surname row (Charbonnier).",
+      "next_steps": "Find an explicit English Bonnie → Bonija rendering (e.g. Ahero 2006 diminutive tables) or dated Latvian record."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Bonijs",
+      "spellings": [
+        "Bonijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bonijs"
+      ],
+      "facts_used": "No catalogue origin text or citation; no cache hit.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No catalogue origin text or citation; no cache hit.",
+      "next_steps": "Seek any onomastic or rendering source for masculine Bonijs."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Sigorts",
+      "spellings": [
+        "Sigorts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Sigorts"
+      ],
+      "facts_used": "No catalogue origin text or citation; no cache hit.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No catalogue origin text or citation; no cache hit.",
+      "next_steps": "Seek an exact source; do not assume Sigurds/Sigvards relation."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Sigurts",
+      "spellings": [
+        "Sigurts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Sigurts"
+      ],
+      "facts_used": "Catalogue: not found in the checked entry; Sigurd roots not transferable by spelling.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: not found in the checked entry; Sigurd roots not transferable by spelling.",
+      "next_steps": "Inspect printed Siliņš p. 290 for a -d-:-t- variant note covering Sigurts."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Sigvars",
+      "spellings": [
+        "Sigvars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Sigvars",
+        "https://www.izpetnieks.lv/en/name/Sigvards"
+      ],
+      "facts_used": "Directly referred to Sigvards (OHG sigu + wart); own records third quarter of the 20th century and 1975 (p. 290).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Sigvarts",
+      "spellings": [
+        "Sigvarts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Sigvarts",
+        "https://www.izpetnieks.lv/en/name/Sigvards"
+      ],
+      "facts_used": "Referred to Sigvards with a -d-:-t- note, but no own date; Sigvards’s 1969/1975 records are not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Referred to Sigvards with a -d-:-t- note, but no own date; Sigvards’s 1969/1975 records are not transferred.",
+      "next_steps": "Inspect printed p. 290 to see whether the shared entry’s records cover the -t- spelling; seek a dated Sigvarts record."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Zigo",
+      "spellings": [
+        "Zigo"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigo"
+      ],
+      "facts_used": "No catalogue origin text; no cache hit.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No catalogue origin text; no cache hit.",
+      "next_steps": "Seek an exact source; do not assume Zigfrīds/Zigmārs hypocoristic origin."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Zigonis",
+      "spellings": [
+        "Zigonis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigonis"
+      ],
+      "facts_used": "Not found on p. 337; Zigons explanation not transferable.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Not found on p. 337; Zigons explanation not transferable.",
+      "next_steps": "Inspect printed p. 337 and seek an explicit Zigonis entry."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Zigurts",
+      "spellings": [
+        "Zigurts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigurts"
+      ],
+      "facts_used": "Included in shared Zigurds (-d-:-t-) entry, but catalogue gives no separate date or translation; Zigurds’s 1915 calendar and first-quarter record are not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Included in shared Zigurds (-d-:-t-) entry, but catalogue gives no separate date or translation; Zigurds’s 1915 calendar and first-quarter record are not transferred.",
+      "next_steps": "Inspect printed pp. 338/290 to establish whether the dates belong to the shared entry; seek a dated Zigurts record."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lv",
+      "name": "Zigvards",
+      "spellings": [
+        "Zigvards"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigvards"
+      ],
+      "facts_used": "Not found in the checked entry; only Zigvarts is referred to Sigvarts.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Not found in the checked entry; only Zigvarts is referred to Sigvarts.",
+      "next_steps": "Inspect printed p. 338 and seek an exact Zigvards rendering (e.g. German Siegward → ?)."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lt",
+      "name": "Viltenis",
+      "spellings": [
+        "Viltenis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/viltenis/"
+      ],
+      "facts_used": "1964 calendar PDF 302 / printed 287: 25 January “Vaira, Viltenis (Viltis)”. Guide: derivative of Viltys, from viltis. Salys PDF 298 / printed 283: Vilt- see Vil- = viltis.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Calendar date matches project date. Suffix analysis is the guide’s; no first registration claimed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lt",
+      "name": "Žiedė",
+      "spellings": [
+        "Žiedė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://www.tevu-darzelis.lt/vaiku-vardai/ziede/"
+      ],
+      "facts_used": "Guide: from žiedas; no Žiedė in Salys dictionary or 1964 calendar, nor in cached Pakerys/Sinkevičiūtė/Maciejauskienė texts.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Guide: from žiedas; no Žiedė in Salys dictionary or 1964 calendar, nor in cached Pakerys/Sinkevičiūtė/Maciejauskienė texts.",
+      "next_steps": "Find a dated record (press calendar, LT-LKI study) and a scholarly note on žied- names."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lt",
+      "name": "Jaunutis",
+      "spellings": [
+        "Jaunutis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-VLE",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.vle.lt/straipsnis/jaunutis/",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/jaunutis/"
+      ],
+      "facts_used": "Salys PDF 109 / printed 94: Jaunutis same affectionate diminutive formation as Kęstutis; PDF 48 / printed 33: baptised Ivan, 1345 in Moscow. VLE Jaunutis: grand duke 1342–early 1345, baptised Jonas in Moscow 1345-09. Guide: from Jaunius < jaunas.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "VLE says Jono vardu; Salys gives Ivan — both reported with attribution. 1964 calendar PDF 314 / printed 299: Jaunutis (Jaunis) 25 September, differs from project 25 January; project date preserved.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lt",
+      "name": "Jomantas",
+      "spellings": [
+        "Jomantas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/jomantas/"
+      ],
+      "facts_used": "Salys PDF 292 / printed 277: Mant- = mantus, manta; PDF 289–290 / printed 274–275: Jo- marked “?” cf. jau- (Jomantas not in the list). PDF 150 / printed 135: 1401 union act signed by Simons, sons of dukes Jonas Algimantas and Jomantas (orig. Semeone … Jamunti). Guide: jo- = joti.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "First element explicitly uncertain. Original 1401 act not inspected. No modern calendar record found.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "lt",
+      "name": "Viltenė",
+      "spellings": [
+        "Viltenė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://www.tevu-darzelis.lt/vaiku-vardai/viltene/"
+      ],
+      "facts_used": "Guide: derivative of Viltė, from viltis; no exact entry in Salys or the 1964 calendar and no dated record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Guide: derivative of Viltė, from viltis; no exact entry in Salys or the 1964 calendar and no dated record.",
+      "next_steps": "Find a dated record and an exact scholarly entry; do not transfer Viltenis’s 1964 calendar record."
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "ee",
+      "name": "Paul",
+      "spellings": [
+        "Paul"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 140 / printed 142 visually checked: Paul ~ Paulus “väike”, Roman family cognomen; Pavel, Pablo, Paavo; Estonian Paavel, Paavo, Paul; earlier Paal, Paali; 17th–18th c. Pol(l) ~ Pool; old calendars 29 VI “Peetri ja Pauli päev”.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Frequency ratios on the same page not used. Leole Dec 2005 gloss not used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "ee",
+      "name": "Paavel",
+      "spellings": [
+        "Paavel"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi PDF 140 / printed 142: Pavel ~ Paavel → Paul; Estonian Paavel among forms. Mägiste PDF 44 / printed 42: [Paavel -li (KA Pawell, TLAV IV 84, SB 1927 124, P 128 Pawel, KKVA 50 Pauel …) = Paul(us)]; abbreviations PDF 11 / printed 9: P = Polska XVI wieku, Inflanty; KKVA = Keila churchwardens’ account book 1472–1553.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Mägiste prints the entry in square brackets; the bracket convention was not interpreted. Older spellings are family records, not Paavel first attestations. EE-TURK10 p. 82 farm-name note not used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "ee",
+      "name": "Paavo",
+      "spellings": [
+        "Paavo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi PDF 140 / printed 142: Finnish Paavo, Estonian Paavel/Paavo/Paul; PDF 60 / printed 62: some South Estonian Paavo possibly from Fabian. Mägiste PDF 44 / printed 42: Paavo (P 247 Pawe Laur …; cf. Finnish Paavo = Paavel).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Both routes kept; no bearer-specific route asserted. Pawe record is not the modern spelling.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-25",
+      "date": "2026-11-12",
+      "calendar_date": "01-25",
+      "country": "ee",
+      "name": "Paap",
+      "spellings": [
+        "Paap"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Mägiste PDF 44 / printed 42: Paap -bu (P 109, 210 Pap; cf. Paul; Wd. Paabu, Paapu women’s names). Rajandi PDF 140 / printed 142: reduplication of Paul view (Mägiste) vs probable Fabian origin; PDF 60 / printed 62: South Estonian Paabo ~ Paabu ~ Paap based on Fabian.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Origin explicitly disputed and presented as such; not resolved. Leole Dec 2005 “Latin small” gloss for Paap rejected (conflicts with Rajandi).",
+      "next_steps": ""
+    }
+  ]
+}

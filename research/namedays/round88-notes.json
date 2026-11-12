@@ -1,0 +1,549 @@
+{
+  "round": 88,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-21: researched all 20 unfinished LV/LT/EE profiles before advancing (8 LV, 7 LT, 5 EE). 11 histories written (LV 3, LT 3, EE 5); 9 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Agna",
+      "spellings": [
+        "Agna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Agna",
+        "https://www.izpetnieks.lv/en/name/Agnese"
+      ],
+      "facts_used": "The Siliņš catalogue refers Agna directly to Agnese. Agnese is explained through Greek hagnos, “pure, innocent; holy”; the association with Latin agnus, “lamb”, arose later. The gloss belongs to the base name and describes its linguistic history. The shared catalogue entry gives calendar inclusion in 1933 and a written record from 1943 (dictionary pages 42–43). Because the record belongs to the shared entry, it is not presented as an independently confirmed first use of the exact short form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Catalogue: Agna referred directly to Agnese; shared-entry record 1943, possible calendar 1933 (pp. 42–43). Agnese's own 1462/1767 dates are not transferred. The Lithuanian 1964 calendar's Agna as a short form of Agnietė is a separate Lithuanian context and is not used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Agnars",
+      "spellings": [
+        "Agnars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Agnars"
+      ],
+      "facts_used": "Catalogue: the checked sources do not support a specific origin; related links only to Agnārs and Ragnārs.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: the checked sources do not support a specific origin; related links only to Agnārs and Ragnārs.",
+      "next_steps": "Seek an exact formation analysis and dated record; Agnārs's own explanation is itself uncertain."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Agnārs",
+      "spellings": [
+        "Agnārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Agn%C4%81rs"
+      ],
+      "facts_used": "Catalogue p. 42 offers either Agn- + -ārs (?) or Ragnārs (?), both questioned; possible record 1971.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 42 offers either Agn- + -ārs (?) or Ragnārs (?), both questioned; possible record 1971.",
+      "next_steps": "Seek an authoritative analysis choosing or excluding the Ragnārs connection; keep the 1971 record as use only."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Agnesija",
+      "spellings": [
+        "Agnesija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Agnesija"
+      ],
+      "facts_used": "Catalogue: form not found in the checked entries; similar spelling does not prove an Agnese connection.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: form not found in the checked entries; similar spelling does not prove an Agnese connection.",
+      "next_steps": "Seek an exact rendering row (e.g. a Slavonic Agnessa/Agnesija source form) and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Agneška",
+      "spellings": [
+        "Agneška"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Agne%C5%A1ka",
+        "https://www.izpetnieks.lv/en/name/Agnese"
+      ],
+      "facts_used": "The Siliņš catalogue lists Agneška as a Polish and other-language feminine form of Agnese. The Agnese entry explains the base name through Greek hagnos, “pure, innocent”; that gloss belongs to the related name rather than being a separate translation of Agneška. The catalogue records Agneška in Rēzekne in 1877 (dictionary page 43). This is a documented use of the form in Latvia, not the date at which the form arose.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Catalogue p. 43: 'possible earliest written attestation 1877 in Rēzekne'; attributed transcription. Not transferred to Agņeška. Salys's Lithuanian Jagneška/Agnieška records are a separate Lithuanian context.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Agņeška",
+      "spellings": [
+        "Agņeška"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-PL98-AGNIESZKA",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/words/1090.pdf?locale=lv",
+        "https://www.izpetnieks.lv/en/name/Ag%C5%86e%C5%A1ka",
+        "https://www.izpetnieks.lv/en/name/Agne%C5%A1ka"
+      ],
+      "facts_used": "Agņeška is the Latvian rendering of Polish Agnieszka: the Latvian Language Agency’s record cites V. Staltmane’s guide to the spelling and pronunciation of Polish proper names in Latvian (2nd edition, 1998, page 54). The Siliņš catalogue links the related form Agneška with Agnese, which it explains through Greek hagnos, “pure”. The 1998 guide is a dated recommendation for rendering the Polish name in Latvian with a palatalised ņ. It does not identify the first Latvian bearer, and the 1877 Rēzekne record of Agneška is not transferred to this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "LVA export visually checked: Agnieszka (Polish, female given name) → Agņeška, Staltmane 1998 p. 54; the printed 1998 guide was not independently inspected. Exact Agņeška query and Agnieszka query both return the same row (words/1090). Catalogue Agņeška page explicitly withholds the borrowing path; the LVA row now supplies it.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Urdze",
+      "spellings": [
+        "Urdze"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Urdze"
+      ],
+      "facts_used": "Catalogue gives a record (1975, Valmiera district) and a calendar year 1966 (p. 312) but no origin explanation; it treats Urde (urga, urdzēt) separately.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue gives a record (1975, Valmiera district) and a calendar year 1966 (p. 312) but no origin explanation; it treats Urde (urga, urdzēt) separately.",
+      "next_steps": "Inspect printed Siliņš p. 312 for the Urdze entry and any explicit link to urdze/urga; then write with the 1975 record."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lv",
+      "name": "Urdziņa",
+      "spellings": [
+        "Urdziņa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Urdzi%C5%86a"
+      ],
+      "facts_used": "Catalogue: Urdziņa not found; Urde's explanation and dating not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: Urdziņa not found; Urde's explanation and dating not transferred.",
+      "next_steps": "Seek an exact diminutive entry or explicit Urdze link and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lt",
+      "name": "Agnietė",
+      "spellings": [
+        "Agnietė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Agnietė is the Lithuanian form of Agnes: the Senn–Salys dictionary pairs it with German Agnes, treats Agnieška as an equivalent and gives Agnė as a short form; the dialect form Agnyta is listed as well. Salys’s sixteenth-century counts place Agnietė sixth among peasant women’s names in estate inventories, with 52 occurrences, and eighth among noblewomen in court acts, with 44. He notes that the sources write it as Jagneška, Jahneška or Jehneška; the 1964 calendar lists Agnietė with Agna and Agnė on 21 January.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Salys dictionary PDF 211 / printed 196 visually checked (Agnė KF of Agnietė; Agnieška = Agnietė; Agnietė PN Agnes). PDF 56 / printed 41 Tables III–IV and PDF 57 / printed 42 source spellings, visually checked; PDF 138 / printed 123 visually checked and NOT used: it says German Net(t)a/Nette short forms are mixed with Agnietė (medieval Latin Agneta), not that Agnietė derives from Agneta. PDF 57 / printed 42 visually checked: the sentence also calls Agnietė obsolete in the author's time; that evaluation is not repeated. Calendar PDF 301 / printed 286 visually checked. Sample counts are not population statistics.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lt",
+      "name": "Galiginas",
+      "spellings": [
+        "Galiginas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Galiginas is a Lithuanian compound name. Antanas Salys places it among names with the first element Gal-, which he connects with galėti, “to be able”, or galas, “end, edge, corner”. The source leaves both possibilities open, so no single translation of the whole name is offered. The 1964 Lithuanian name calendar, reprinted in Salys’s collected writings in 1983, lists Galiginas with the short form Galys on 21 January. The calendar is a dated record of use and recommendation, not proof that the name was created then.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Salys PDF 287 / printed 272 Gal- list (page visually checked in rounds 69–77; OCR reread). The exact second element is not separately analysed for Galiginas (the Gin(t)- list on PDF 289 / printed 274 has Galgin(t)as, not Galiginas), so no gin-/ginti gloss is asserted. Calendar PDF 301 / printed 286 visually checked.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lt",
+      "name": "Garsė",
+      "spellings": [
+        "Garsė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/garse/"
+      ],
+      "facts_used": "Garsė is a Lithuanian name formed from a common word: an exact name-guide entry derives it from garsas, “sound”. Antanas Salys lists Garsė among calendar names made simply by turning ordinary nouns and adjectives into names, alongside names such as Audronė and Eglė. The Senn–Salys dictionary marks Garsė as a personal name, and the 1964 name calendar reprinted by Salys in 1983 places it on 21 January. Salys called such names beautiful and expressive although simple in formation; that is his evaluation, not a dating of the name’s origin.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "LT-GUIDE exact Garsė: 'Iš lietuvių garsas' (no further gloss; 'sound' is the basic dictionary sense). Salys PDF 284 / printed 269 (previously visually checked page; OCR reread) lists Garsė among common-noun/adjective calendar names and evaluates them; PDF 230 / printed 215 PN. Calendar PDF 301 / printed 286 visually checked. Note: Auksė (round 81) lacked an exact explicit word source; Garsė has one.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lt",
+      "name": "Ina",
+      "spellings": [
+        "Ina"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE",
+        "LV-LVA-LT61"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/ina/",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf"
+      ],
+      "facts_used": "Salys PDF 284 / printed 269 lists Ina among names he criticised as non-Lithuanian-looking; LT-GUIDE gives three competing explanations (-ina short form, Inocenta, Russian martyr Inna); LT61 PDF 52 renders Lithuanian Ina as Latvian Ina. The 1964 calendar has Ine (not Ina) on 21 January.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Salys PDF 284 / printed 269 lists Ina among names he criticised as non-Lithuanian-looking; LT-GUIDE gives three competing explanations (-ina short form, Inocenta, Russian martyr Inna); LT61 PDF 52 renders Lithuanian Ina as Latvian Ina. The 1964 calendar has Ine (not Ina) on 21 January.",
+      "next_steps": "Seek an authoritative Lithuanian onomastic entry selecting the base for Ina; the Salys criticism can serve as a dated episode once the origin is settled."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lt",
+      "name": "Ineta",
+      "spellings": [
+        "Ineta"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-GUIDE",
+        "INT-BTN-INETA"
+      ],
+      "sources": [
+        "https://www.tevu-darzelis.lt/vaiku-vardai/ineta/",
+        "https://www.behindthename.com/name/ineta"
+      ],
+      "facts_used": "LT-GUIDE Ineta page repeats the generic Ina explanations; BTN Ineta has no curated definition (user submissions only).",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "LT-GUIDE Ineta page repeats the generic Ina explanations; BTN Ineta has no curated definition (user submissions only).",
+      "next_steps": "Seek a scholarly Lithuanian (or Latvian) entry for Ineta and a dated record."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lt",
+      "name": "Ineza",
+      "spellings": [
+        "Ineza"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-GUIDE",
+        "INT-BTN-INEZA",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.tevu-darzelis.lt/vaiku-vardai/ineza/",
+        "https://www.behindthename.com/name/ineza",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "LT-GUIDE calls Ineza a Spanish/Portuguese version of Agnė (Greek hagnos); Rajandi PDF 15 notes Spanish short Ines (Inez) of Agnes internationally; BTN Ineza is user-submitted (Georgian). No exact Lithuanian scholarly bridge or dated record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "LT-GUIDE calls Ineza a Spanish/Portuguese version of Agnė (Greek hagnos); Rajandi PDF 15 notes Spanish short Ines (Inez) of Agnes internationally; BTN Ineza is user-submitted (Georgian). No exact Lithuanian scholarly bridge or dated record.",
+      "next_steps": "Seek an exact Lithuanian entry (VLKK, Senn–Salys) bridging Inés/Inez → Ineza and a dated use."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "lt",
+      "name": "Augerijus",
+      "spellings": [
+        "Augerijus"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "No exact hit in cached sources; the 1964 calendar (PDF 301 / printed 286) has Auguras (Augas) on 21 January, a different spelling. LT-GUIDE fetch for augerijus failed (no page registered).",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact hit in cached sources; the 1964 calendar (PDF 301 / printed 286) has Auguras (Augas) on 21 January, a different spelling. LT-GUIDE fetch for augerijus failed (no page registered).",
+      "next_steps": "Seek an exact Lithuanian entry (e.g. Latin Augurius) and calendar/dated record; do not substitute Auguras."
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "ee",
+      "name": "Age",
+      "spellings": [
+        "Age"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "In Edgar Rajandi’s supplementary list of rarer names, Age appears in the same line as Agi with a cross-reference to Agnes; his main Agnes entry explains Agnes through Greek “pure” and lists many Estonian short forms. Because this is a grouped cross-reference, the exact formation of Age is not analysed separately. For each name in that list Rajandi gives the oldest source known to him; for Age it is a Tartu birth register of 1933. This is the earliest record in his 1966 compilation, not a proven first use or the date when the name was formed.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Rajandi PDF 190 / printed 192 visually checked: '*Age Trt 33, *Agi → Agnes'. Legend PDF 188 / printed 190 (OCR read): oldest known source; district abbreviation + year for birth registers; arrow = reference to the main entry. The arrow is read as covering both names by analogy with other grouped lines (e.g. '*Agne OK3-u, *Agnese, *Agnesia 35/40 → Agnes'); a single-name reading would leave Age without a stated base. The main Agnes entry (PDF 15 / printed 17) lists Aage, not exact Age. EE-LEOLE05-DEC also lists Age among Agnes variants but is not relied on.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "ee",
+      "name": "Agi",
+      "spellings": [
+        "Agi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Edgar Rajandi lists Agi among the Estonian short forms of Agnes, a name he explains through Greek “pure”; in the Middle Ages its meaning was also interpreted through Latin agna, “ewe lamb”. His supplementary list refers Agi directly to Agnes. Rajandi groups Agi with Aage and Agne as newer short forms, distinguishing them from Neta and Netta, which were already printed in Estonian calendars in 1870 and 1847. The 1966 dictionary documents the relationship, not the first child named Agi.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Rajandi PDF 15 / printed 17 visually checked (Agnes entry: Aage, Agi, Agne (uuemad); Neta kalendris 1870, Netta kal. 1847; agna 'utt'). PDF 190 / printed 192 visually checked ('*Agi → Agnes'). No birth-register year is given for Agi.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "ee",
+      "name": "Aune",
+      "spellings": [
+        "Aune"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Aune is a Finnish short form of Agnes. Edgar Rajandi records Aune ~ Auni as Finnish short forms of Agnes, and Julius Mägiste’s 1929 collection of Estonian-style personal names includes Aune from the Finnish almanac, equated with Agnes. Mägiste’s collection, published in Tartu in 1929, is a dated record of Aune being listed and discussed for Estonian use; it does not identify the first Estonian bearer. Rajandi explains the base name Agnes through Greek “pure”.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Rajandi PDF 31 / printed 33 visually checked ('*Aune ~ Auni — soome lühendid nimest Agnes'). Mägiste PDF 13 / printed 11 visually checked ('Aune (sm. Alm., = Agnes)'). Publication year from the existing EE-MAGISTE29 directory record. Not a first-bearer claim.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "ee",
+      "name": "Auni",
+      "spellings": [
+        "Auni"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Auni is recorded by Edgar Rajandi together with Aune as a Finnish short form of Agnes. His entry joins the two with a tilde, marking them as variant forms of the same short name rather than unrelated names. Rajandi’s 1966 dictionary is the dated record used here; its entry gives no separate first attestation or birth-register year for Auni. Rajandi explains the base name Agnes through Greek “pure”.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Rajandi PDF 31 / printed 33 visually checked. No separate historical episode was found for exact Auni; the second paragraph keeps to the dated dictionary record, as in earlier dictionary-only reviewed entries.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-21",
+      "date": "2026-11-12",
+      "calendar_date": "01-21",
+      "country": "ee",
+      "name": "Neta",
+      "spellings": [
+        "Neta"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Edgar Rajandi explains Neta, with Neto, as a short form of Agnese ~ Agneta, and in his Agnes entry he describes such n-initial forms as short forms of the Swedish name form Agneta. Agnes itself is explained there through Greek “pure”. According to Rajandi, Neta appeared in an Estonian calendar in 1870, while Netta was printed in one in 1847. He also quotes the Ambla church book of 1725, “Neto Pilli Jurri naine”, as an example of the related form Neto; that record is not transferred to the exact spelling Neta.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Rajandi PDF 15 / printed 17 and PDF 133 / printed 135 visually checked. Rajandi's 1966 remark that the name was then not being given is not repeated as a current statement.",
+      "next_steps": ""
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "round": 78,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-11: researched all 20 unfinished LV/LT/EE profiles before advancing. 11 histories written; 9 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Franciska",
+      "spellings": [
+        "Franciska"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-FRANCIS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Franciska",
+        "https://www.behindthename.com/name/francis"
+      ],
+      "facts_used": "The catalogue places Franciska in the Francisks/Franciska family. Its international background includes Late Latin Franciscus, “Frenchman”, associated with the Franks. This family link does not require choosing the catalogue’s competing deeper Germanic glosses as one universal meaning. The Siliņš catalogue records a historical detail: Višķi, 1762; calendar 1767 (dictionary page 128; 129). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Exact local dates are attributed catalogue records; competing deep Germanic glosses are not adopted. Checked location: Siliņš catalogue, dictionary p. 128; 129. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Aruns",
+      "spellings": [
+        "Aruns"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aruns"
+      ],
+      "facts_used": "Exact cache and catalogue give no origin. Seek a direct short-u Latvian correspondence and dated personal-name use, without replacing it with Arūns.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact cache and catalogue give no origin. Seek a direct short-u Latvian correspondence and dated personal-name use, without replacing it with Arūns.",
+      "next_steps": "Exact cache and catalogue give no origin. Seek a direct short-u Latvian correspondence and dated personal-name use, without replacing it with Arūns."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Arūns",
+      "spellings": [
+        "Arūns"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVKJ73"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ar%C5%ABns",
+        "https://www.personvarduatveide.lv/uploads/sources/26/pdf/latviesu_valodas_kulturas_jautajumi_9_1973.pdf"
+      ],
+      "facts_used": "Catalogue proposes Lithuanian Arūnas/aras but transmission remains unverified. The linked LVKJ 9 (1973) PDF fetched through the shared cache produced no text and no accepted evidence; preserve original for targeted visual/OCR work rather than downloading again. Seek exact rendering row and a dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue proposes Lithuanian Arūnas/aras but transmission remains unverified. The linked LVKJ 9 (1973) PDF fetched through the shared cache produced no text and no accepted evidence; preserve original for targeted visual/OCR work rather than downloading again. Seek exact rendering row and a dated use.",
+      "next_steps": "Catalogue proposes Lithuanian Arūnas/aras but transmission remains unverified. The linked LVKJ 9 (1973) PDF fetched through the shared cache produced no text and no accepted evidence; preserve original for targeted visual/OCR work rather than downloading again. Seek exact rendering row and a dated use."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Francisks",
+      "spellings": [
+        "Francisks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-FRANCIS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Francisks",
+        "https://www.behindthename.com/name/francis"
+      ],
+      "facts_used": "The catalogue places Francisks in the Francisks/Franciska family. Its international background includes Late Latin Franciscus, “Frenchman”, associated with the Franks. This family link does not require choosing the catalogue’s competing deeper Germanic glosses as one universal meaning. The Siliņš catalogue records a historical detail: Cēsis, 1349 (catalogue report); calendar 1883 (dictionary page 129). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The original 1349 record/spelling was not independently inspected; do not call it a birth or invention date. Checked location: Siliņš catalogue, dictionary p. 129. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Francišeks",
+      "spellings": [
+        "Francišeks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-FRANCIS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Franci%C5%A1eks",
+        "https://www.behindthename.com/name/francis"
+      ],
+      "facts_used": "The catalogue places Francišeks in the Francisks/Franciska family. Its international background includes Late Latin Franciscus, “Frenchman”, associated with the Franks. This family link does not require choosing the catalogue’s competing deeper Germanic glosses as one universal meaning. The Siliņš catalogue records a historical detail: 1749 (dictionary page 129). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Catalogue explicitly labels the Polish relationship; no additional t is inferred. Checked location: Siliņš catalogue, dictionary p. 129. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Franciška",
+      "spellings": [
+        "Franciška"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-FRANCIS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Franci%C5%A1ka",
+        "https://www.behindthename.com/name/francis"
+      ],
+      "facts_used": "The catalogue places Franciška in the Francisks/Franciska family. Its international background includes Late Latin Franciscus, “Frenchman”, associated with the Franks. This family link does not require choosing the catalogue’s competing deeper Germanic glosses as one universal meaning. The Siliņš catalogue records a historical detail: Višķi, 1762 (linked catalogue entry); calendar 1864 (dictionary page 129; 128). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Retain linked-entry scope; no independent first bearer asserted. Checked location: Siliņš catalogue, dictionary p. 129; 128. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Frančeska",
+      "spellings": [
+        "Frančeska"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-FRANCIS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Fran%C4%8Deska",
+        "https://www.behindthename.com/name/francis"
+      ],
+      "facts_used": "The catalogue places Frančeska in the Francisks/Franciska family. Its international background includes Late Latin Franciscus, “Frenchman”, associated with the Franks. This family link does not require choosing the catalogue’s competing deeper Germanic glosses as one universal meaning. The Siliņš catalogue records a historical detail: 1973 (dictionary page 129; 128). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Catalogue explicitly identifies the Italian family relationship; spelling is not Frančiska. Checked location: Siliņš catalogue, dictionary p. 129; 128. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Frančiska",
+      "spellings": [
+        "Frančiska"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Fran%C4%8Diska"
+      ],
+      "facts_used": "Checked catalogue distinguishes Franciška and Frančeska and says exact Frančiska absent. Seek an explicit exact-form bridge and historical use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Checked catalogue distinguishes Franciška and Frančeska and says exact Frančiska absent. Seek an explicit exact-form bridge and historical use.",
+      "next_steps": "Checked catalogue distinguishes Franciška and Frančeska and says exact Frančiska absent. Seek an explicit exact-form bridge and historical use."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Františeks",
+      "spellings": [
+        "Františeks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Franti%C5%A1eks"
+      ],
+      "facts_used": "Catalogue has Francišeks without t, not exact Františeks. Seek a Czech/Slovak-to-Latvian exact rendering row and dated use; do not transfer Polish-form evidence.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue has Francišeks without t, not exact Františeks. Seek a Czech/Slovak-to-Latvian exact rendering row and dated use; do not transfer Polish-form evidence.",
+      "next_steps": "Catalogue has Francišeks without t, not exact Františeks. Seek a Czech/Slovak-to-Latvian exact rendering row and dated use; do not transfer Polish-form evidence."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Smaidiņa",
+      "spellings": [
+        "Smaidiņa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Smaidi%C5%86a"
+      ],
+      "facts_used": "Exact diminutive formation is not established by the catalogue. Seek an explicit Smaida/Smaidiņa relationship and dated given-name record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact diminutive formation is not established by the catalogue. Seek an explicit Smaida/Smaidiņa relationship and dated given-name record.",
+      "next_steps": "Exact diminutive formation is not established by the catalogue. Seek an explicit Smaida/Smaidiņa relationship and dated given-name record."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Smaidīte",
+      "spellings": [
+        "Smaidīte"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Smaid%C4%ABte"
+      ],
+      "facts_used": "The catalogue explains Smaidīte through Smaida: Latvian smaids «smile». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1892 (dictionary page 293). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 293. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Smaidonis",
+      "spellings": [
+        "Smaidonis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Smaidonis"
+      ],
+      "facts_used": "The catalogue explains Smaidonis through Latvian smaids «smile». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1925 (dictionary page 293). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 293. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Smaidra",
+      "spellings": [
+        "Smaidra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Smaidra"
+      ],
+      "facts_used": "Catalogue explicitly leaves exact form unexplained. Seek an original exact derivation and dated record; Smaida is not automatically its base.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue explicitly leaves exact form unexplained. Seek an original exact derivation and dated record; Smaida is not automatically its base.",
+      "next_steps": "Catalogue explicitly leaves exact form unexplained. Seek an original exact derivation and dated record; Smaida is not automatically its base."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lv",
+      "name": "Smailis",
+      "spellings": [
+        "Smailis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Smailis"
+      ],
+      "facts_used": "No exact origin in cache/catalogue. Seek a direct onomastic entry and dated bearer; do not infer from English smile or Latvian smaile.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin in cache/catalogue. Seek a direct onomastic entry and dated bearer; do not infer from English smile or Latvian smaile.",
+      "next_steps": "No exact origin in cache/catalogue. Seek a direct onomastic entry and dated bearer; do not infer from English smile or Latvian smaile."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lt",
+      "name": "Audrius",
+      "spellings": [
+        "Audrius"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-AUDRIUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/audrius"
+      ],
+      "facts_used": "Audrius is derived from Lithuanian audra, “storm”. The exact masculine name is recorded in the Lithuanian name dictionary; it should not be confused with English Audrey or treated as a spelling of that unrelated name. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: dictionary PDF 215 / printed 200; calendar PDF 301 / printed 286; curated exact Audrius opening. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lt",
+      "name": "Marcijonas",
+      "spellings": [
+        "Marcijonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LOCAL-ROUND7-LT-SURNAMES"
+      ],
+      "sources": [],
+      "facts_used": "Cached thesis discusses Marcijonas as a surname, not a first-name etymology or dated given-name bearer. Seek exact given-name correspondence; do not transfer surname Martianus/Mars analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Cached thesis discusses Marcijonas as a surname, not a first-name etymology or dated given-name bearer. Seek exact given-name correspondence; do not transfer surname Martianus/Mars analysis.",
+      "next_steps": "Cached thesis discusses Marcijonas as a surname, not a first-name etymology or dated given-name bearer. Seek exact given-name correspondence; do not transfer surname Martianus/Mars analysis."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lt",
+      "name": "Palemonas",
+      "spellings": [
+        "Palemonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-VLE-ORIGIN-THEORIES"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.vle.lt/straipsnis/lietuviu-kilmes-teorijos/"
+      ],
+      "facts_used": "Palemonas has a literary and legendary setting in Lithuania. The Lithuanian chronicles’ Roman-origin story makes a Roman nobleman of this name an ancestor of the dukes. The story is a historical tradition, not evidence that the legendary migration actually happened. The historical Lithuanian calendar for 1964 prints Palemonas (Palemas) on 11 January. It documents the exact name and its short form in a modern calendar. It neither dates a real ancient bearer nor identifies the unrelated botanical word palemonas as the name’s origin.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The legendary Roman ancestor is explicitly presented as legend, not a verified migrant or a first personal-name bearer. Botanical VLE palemonas is unrelated. Checked location: 1964 calendar PDF 301 / printed 286; VLE Roman-origin theory and Lithuanian chronicle paragraphs. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "lt",
+      "name": "Vilnė",
+      "spellings": [
+        "Vilnė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-MACIEJAUSKIENE04"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2004~1367158427446/J.04~2004~1367158427446.pdf"
+      ],
+      "facts_used": "Maciejauskienė 2004 PDF 4 / printed 87 explicitly classes Vilnė among common-word creations, separately from water names. Salys 1964 calendar PDF 301 / printed 286 proves exact January 11 use. The lexical base/sense still needs an exact entry; Salys PDF 192 concerns a reconstructed river name, not this given name.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Maciejauskienė 2004 PDF 4 / printed 87 explicitly classes Vilnė among common-word creations, separately from water names. Salys 1964 calendar PDF 301 / printed 286 proves exact January 11 use. The lexical base/sense still needs an exact entry; Salys PDF 192 concerns a reconstructed river name, not this given name.",
+      "next_steps": "Maciejauskienė 2004 PDF 4 / printed 87 explicitly classes Vilnė among common-word creations, separately from water names. Salys 1964 calendar PDF 301 / printed 286 proves exact January 11 use. The lexical base/sense still needs an exact entry; Salys PDF 192 concerns a reconstructed river name, not this given name."
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "ee",
+      "name": "Osvald",
+      "spellings": [
+        "Osvald"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "INT-SNL-OSVALD"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://snl.no/Osvald"
+      ],
+      "facts_used": "Gulbrand Alhaug explains Osvald through Old Norse Os-valdr, with elements meaning “god” and “ruler”. Rajandi also relates the Estonian name to older Germanic forms. The element glosses concern the name’s linguistic history, not a bearer’s powers or character. Rajandi’s 1966 dictionary describes Osvald becoming more common in Estonia in the early twentieth century and cites a frequency of seven per thousand for 1921 in that historical discussion. The figure is evidence about the earlier period, not today’s population or a first-use date.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "1921 7 per mille belongs to the historical name discussion, not current population; outdated good-leader gloss omitted. Checked location: Rajandi PDF 139 / printed 141; SNL signed opening etymology. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-11",
+      "date": "2026-11-12",
+      "calendar_date": "01-11",
+      "country": "ee",
+      "name": "Ove",
+      "spellings": [
+        "Ove"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "INT-SNL-OVE"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://snl.no/Ove_-_mannsnamn"
+      ],
+      "facts_used": "Alhaug traces the Scandinavian name Ove to Old Danish Aghi, a short form of compound names beginning Ag-. He reports alternative meanings for that element: “respect” or a weapon’s “edge”. Neither needs to be selected as the sole meaning behind every Ove. Rajandi’s index records the exact Ove with a Swedish label and Pd 62, a Paide record of 1962. The Swedish context in Estonia and the older Danish family history are different kinds of evidence. The entry does not say how every Estonian bearer received the name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Old Danish family origin and Swedish label in the Estonian record are distinct scopes. No unique transmission route or single deep lexical meaning claimed. Checked location: Rajandi index PDF 212 / printed 214: Ove (rts) Pd62; SNL Alhaug opening Aghi/Ag- alternatives. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

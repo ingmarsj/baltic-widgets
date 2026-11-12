@@ -1,0 +1,303 @@
+{
+  "round": 67,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "12-31: examined all 11 unfinished country profiles in LV, LT and EE calendar order; 5 histories written, 6 remain open. No new provisional origin is displayed. Existing summaries are not promoted where the exact-form bridge remains uncertain.",
+  "records": [
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lv",
+      "name": "Silvis",
+      "spellings": [
+        "Silvis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Silvis",
+        "https://www.izpetnieks.lv/en/name/Silva"
+      ],
+      "facts_used": "The dictionary refers Silvis to Silva, which is listed under Silvija and explained through Latin silva, ‘forest’. The Siliņš catalogue records the following historical detail: 1941. The cited dictionary location is page 291. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 291. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lv",
+      "name": "Kalve",
+      "spellings": [
+        "Kalve"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Kalve",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf"
+      ],
+      "facts_used": "Catalogue explicitly places Kalve under shared Kalv/is,-e from kalvis ‘metalworker’, but gives no separate date. Kalvis page gives 1939 and possible calendar 1921 for Kalvis; these were not transferred to Kalve. Find a separately dated exact feminine/ending-e given-name record; article cache hits appear as surnames.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue explicitly places Kalve under shared Kalv/is,-e from kalvis ‘metalworker’, but gives no separate date. Kalvis page gives 1939 and possible calendar 1921 for Kalvis; these were not transferred to Kalve. Find a separately dated exact feminine/ending-e given-name record; article cache hits appear as surnames.",
+      "next_steps": "Catalogue explicitly places Kalve under shared Kalv/is,-e from kalvis ‘metalworker’, but gives no separate date. Kalvis page gives 1939 and possible calendar 1921 for Kalvis; these were not transferred to Kalve. Find a separately dated exact feminine/ending-e given-name record; article cache hits appear as surnames."
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lv",
+      "name": "Silvestra",
+      "spellings": [
+        "Silvestra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Silvestra"
+      ],
+      "facts_used": "Silvestra is listed as a feminine form under Silvestrs. The base is associated with Latin silvester, ‘wooded, of the forest’. The Siliņš catalogue records the following historical detail: 1962. The cited dictionary location is page 291. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 291. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lt",
+      "name": "Gedgantas",
+      "spellings": [
+        "Gedgantas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-PAKERYS10"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf"
+      ],
+      "facts_used": "Visually checked exact Gėdgantas in Pakerys 2010 PDF 6 / printed 93 and Salys PDF 287 / printed 272; 1964 calendar PDF 319 gives Gedgantas (Gedas), 31 December. Ged- has (pasi)gesti/gedėti/gedauti alternatives, while -gant- cross-refers to gin-. Seek a precise account of the second element before assigning a literal compound meaning.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Visually checked exact Gėdgantas in Pakerys 2010 PDF 6 / printed 93 and Salys PDF 287 / printed 272; 1964 calendar PDF 319 gives Gedgantas (Gedas), 31 December. Ged- has (pasi)gesti/gedėti/gedauti alternatives, while -gant- cross-refers to gin-. Seek a precise account of the second element before assigning a literal compound meaning.",
+      "next_steps": "Visually checked exact Gėdgantas in Pakerys 2010 PDF 6 / printed 93 and Salys PDF 287 / printed 272; 1964 calendar PDF 319 gives Gedgantas (Gedas), 31 December. Ged- has (pasi)gesti/gedėti/gedauti alternatives, while -gant- cross-refers to gin-. Seek a precise account of the second element before assigning a literal compound meaning."
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lt",
+      "name": "Melanija",
+      "spellings": [
+        "Melanija"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-MELANIE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/melanie"
+      ],
+      "facts_used": "The Senn–Salys dictionary pairs Lithuanian Melanija with Melanie. This belongs to the Melania family, derived from Greek melaina, “black, dark”. The dictionary gives a direct spelling correspondence; it does not establish the language through which each Lithuanian family adopted the name. The 1964 Yla–Salys calendar lists Melanija with the short forms Mela and Lana on 31 December. The exact full name also appears in the 1968 dictionary; both texts were reprinted in 1983. These records show a full name and its calendar short forms, without dating the beginning of Lithuanian use.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 251 / printed 236; 1964 calendar PDF 319 / printed 304. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lt",
+      "name": "Mingailė",
+      "spellings": [
+        "Mingailė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS11",
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Pakerys treats Mingailė as a Lithuanian compound feminine name. Its masculine counterpart Mingaila appears in Salys’s stem list under Min-, associated with minti and minėti, “remember, mention”. Salys associates Gail- with gailėti and gailus; these word links are not a single literal description of a bearer. In his 2011 study, Pakerys explicitly names Mingailė among the few compound feminine names already in the 1927 Jaunimo kalendorius. This is a dated historical calendar reference reported by the researcher. It does not claim that 1927 was the name’s creation year or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Pakerys PDF 1 / printed 90; Salys PDF 252 / printed 237, PDF 286 / printed 271, PDF 292 / printed 277. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lt",
+      "name": "Gedgaudas",
+      "spellings": [
+        "Gedgaudas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-PAKERYS10",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Pakerys 2010 PDF 6 / printed 93 explicitly lists Gėdgaudas with qualified Ged- analyses. His Gaud- discussion on the same page questions Salys's gauti comparison on accent grounds and considers gausti/gaudus-related words. Do not choose receiving versus sounding as a settled etymology. Seek the full second-stem analysis and an exact historical given-name episode, separating surnames.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Pakerys 2010 PDF 6 / printed 93 explicitly lists Gėdgaudas with qualified Ged- analyses. His Gaud- discussion on the same page questions Salys's gauti comparison on accent grounds and considers gausti/gaudus-related words. Do not choose receiving versus sounding as a settled etymology. Seek the full second-stem analysis and an exact historical given-name episode, separating surnames.",
+      "next_steps": "Pakerys 2010 PDF 6 / printed 93 explicitly lists Gėdgaudas with qualified Ged- analyses. His Gaud- discussion on the same page questions Salys's gauti comparison on accent grounds and considers gausti/gaudus-related words. Do not choose receiving versus sounding as a settled etymology. Seek the full second-stem analysis and an exact historical given-name episode, separating surnames."
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "lt",
+      "name": "Vaidotė",
+      "spellings": [
+        "Vaidotė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "No exact cache hit. Find a scholarly exact feminine entry and dated use; do not automatically transfer Vaidotas's derivation or attestations.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact cache hit. Find a scholarly exact feminine entry and dated use; do not automatically transfer Vaidotas's derivation or attestations.",
+      "next_steps": "No exact cache hit. Find a scholarly exact feminine entry and dated use; do not automatically transfer Vaidotas's derivation or attestations."
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "ee",
+      "name": "Silvar",
+      "spellings": [
+        "Silvar"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Only Leole December 2005 PDF 6 popular Silvester group; no exact Rajandi hit. Find an independent exact-form dictionary origin and dated use; do not import Silver's evidence.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Only Leole December 2005 PDF 6 popular Silvester group; no exact Rajandi hit. Find an independent exact-form dictionary origin and dated use; do not import Silver's evidence.",
+      "next_steps": "Only Leole December 2005 PDF 6 popular Silvester group; no exact Rajandi hit. Find an independent exact-form dictionary origin and dated use; do not import Silver's evidence."
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "ee",
+      "name": "Silver",
+      "spellings": [
+        "Silver"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi discusses Estonian Silver as a short form of Silvester, whose Latin basis means “of the forest”. He also notes an English surname explanation from silversmith. These belong to different naming contexts and do not make the English word “silver” the automatic origin of every Estonian bearer’s name. The 1966 lexicon describes Silver as a short form returning to given-name use and records a historical frequency of one per thousand. That is the author’s period-specific observation, not a present-day bearer count. The same discussion also distinguishes older surname traces of the Silvester family.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 153–154 / printed 155–156. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-31",
+      "date": "2026-11-12",
+      "calendar_date": "12-31",
+      "country": "ee",
+      "name": "Silvo",
+      "spellings": [
+        "Silvo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Only Leole December 2005 PDF 6 popular Silvester group; no exact Rajandi hit. Find an independent exact-form entry and dated use, distinguishing Silvo from Sulo and Silvi.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Only Leole December 2005 PDF 6 popular Silvester group; no exact Rajandi hit. Find an independent exact-form entry and dated use, distinguishing Silvo from Sulo and Silvi.",
+      "next_steps": "Only Leole December 2005 PDF 6 popular Silvester group; no exact Rajandi hit. Find an independent exact-form entry and dated use, distinguishing Silvo from Sulo and Silvi."
+    }
+  ]
+}

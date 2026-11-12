@@ -17,7 +17,7 @@ Select-String -Path research/namedays/source-index.csv -Pattern "Heinar"
 
 A text hit is a discovery aid. Inspect the rendered original page before using it as evidence.
 
-**131 source IDs**; 31 with a cached PDF. 62 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
+**235 source IDs**; 40 with a cached PDF. 112 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
 
 ## Estonia
 
@@ -25,49 +25,110 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | --- | --- | --- | ---: | ---: |
 | EE-CALENDAR-CHECK | Statistics Estonia name-day list, 10 May / 17 November; Neanky Ainari, exact page. | 17 | 0 / 1 |  |
 | EE-DIGAR | DIGAR. | 15, 20, 57 | 0 / 4 |  |
-| EE-EISEN-TOLL | M. J. Eisen, Tõll ja ta sugu, PDF p. 138 / printed p. 132; cover PDF p. 1. | 33, 59 | 1 / 1 | 170 |
+| EE-EISEN-TOLL | M. J. Eisen, Tõll ja ta sugu, PDF p. 138 / printed p. 132; cover PDF p. 1. | 33, 59, 73 | 1 / 2 | 170 |
 | EE-EKI | Institute of the Estonian Language and its linked dictionaries / Sõnaveeb. | 14–60 (9) | 4 / 7 |  |
 | EE-EKM | Art Museum of Estonia, Arne Maasik author record 17, education and solo exhibitions. | 16 | 1 / 0 |  |
 | EE-ETERA | ETERA digital library. | 14, 15, 17 | 0 / 4 |  |
 | EE-EWOD | University of Tartu, *Estonian Writers’ Online Dictionary*: Einar Maasik, biography and bibliography; Egon Rannet, biography and plays. | 2–19 (5) | 9 / 0 |  |
 | EE-FIBA | FIBA, Egert Haller, 2011 U16 European Championship Division B, event heading and game list. | 29 | 1 / 0 |  |
 | EE-INSTITUTIONS | Tallinn University, Vanemuine, Estonian Art Museum. | directory only | 0 / 0 |  |
-| EE-KALLASMAA17 | Marja Kallasmaa, Nimi ja võim. Isiku- ja kohanimede seostest, Õiguskeel 2/2017, PDF p. 3, paragraph beginning *Tõenäoliselt*. | 23 | 1 / 0 | 7 |
+| EE-KALLASMAA17 | Marja Kallasmaa, Nimi ja võim. Isiku- ja kohanimede seostest, Õiguskeel 2/2017, PDF p. 3, paragraph beginning *Tõenäoliselt*. | 23, 71, 75, 84 | 3 / 2 | 7 |
 | EE-KEVADE | Oskar Luts, *Kevade I*, chapter XVII, primary literary text reproduced by Wikisource. | 16 | 1 / 0 |  |
-| EE-LEOLE05 | Leili Kuusk, November name column in Leole, Suure-Jaani municipal newspaper, no. 11 (68), November 2005, PDF p. 6 / printed p. 6, leftmost column; issue heading p. 1. | 23–58 (8) | 19 / 9 | 8 |
+| EE-LEOLE05 | Leili Kuusk, November name column in Leole, Suure-Jaani municipal newspaper, no. 11 (68), November 2005, PDF p. 6 / printed p. 6, leftmost column; issue heading p. 1. | 23–82 (13) | 19 / 15 | 8 |
 | EE-LEOLE05-12 | Leili Kuusk’s name column, Leole no. 12 (69), December 2005, PDF p. 1. | 60 | 1 / 5 |  |
-| EE-LEOLE05-DEC | Leole, Suure-Jaani municipal newspaper, no. 12 (69), December 2005, *Anno Domini 2005* name column, PDF p. 1 / printed p. 1. | 31–61 (29) | 41 / 48 | 8 |
-| EE-MAGISTE29 | Julius Mägiste, *Eestipäraseid isikunimesid*, Tartu, 1929. Publisher record; ETERA PDF p. 22 / printed p. 20. | 15–61 (28) | 34 / 22 | 59 |
-| EE-MAGISTE29-AES | Julius Mägiste, *Eestipäraseid isikunimesid*, Akadeemilise Emakeele Seltsi Toimetised XVIII, Tartu 1929, Emakeele Selts PDF. PDF p. 11 / printed p. 9 (sources), p. 12… | 59 | 4 / 9 | 66 |
-| EE-MUST62 | Hildegard Must, *The Names of the Apostles as Estonian Christian Names*, Names 10(4), 1962, pp. 260–264, PDF pp. 2–3 / printed pp. 261–262, DOI 10.1179/nam.1962.10.4.260. | 30, 58 | 4 / 1 | 5 |
+| EE-LEOLE05-DEC | Leole, Suure-Jaani municipal newspaper, no. 12 (69), December 2005, *Anno Domini 2005* name column, PDF p. 1 / printed p. 1. | 31–90 (45) | 42 / 70 | 8 |
+| EE-MAGISTE29 | Julius Mägiste, *Eestipäraseid isikunimesid*, Tartu, 1929. Publisher record; ETERA PDF p. 22 / printed p. 20. | 15–92 (43) | 51 / 28 | 59 |
+| EE-MAGISTE29-AES | Julius Mägiste, *Eestipäraseid isikunimesid*, Akadeemilise Emakeele Seltsi Toimetised XVIII, Tartu 1929, Emakeele Selts PDF. PDF p. 11 / printed p. 9 (sources), p. 12… | 59–90 (9) | 5 / 17 | 66 |
+| EE-MUST62 | Hildegard Must, *The Names of the Apostles as Estonian Christian Names*, Names 10(4), 1962, pp. 260–264, PDF pp. 2–3 / printed pp. 261–262, DOI 10.1179/nam.1962.10.4.260. | 30, 58, 75 | 4 / 2 | 5 |
 | EE-NKK | Naiskodukaitse, Saaremaa membership, 1925–1940, PDF p. 46 / printed p. 44. | 14 | 2 / 0 |  |
 | EE-OSU | Ohio State University Department of Linguistics, Remembering Ilse Lehiste, About Ilse section. | 19 | 1 / 0 |  |
 | EE-POMOZI16 | Péter Pomozi and Eszter Földesi, Az észt névtervezés az észt nyelvpolitikai modell tükrében, *Névtani Értesítő* 38 (2016), pp. 193–207, DOI 10.29178/NevtErt.2016.15.… | 19 | 6 / 0 |  |
 | EE-PRESIDENCY | Estonian presidential office, Arnold Rüütel biography, term dates and election paragraphs. | 16 | 1 / 0 |  |
-| EE-RAJANDI66 | Edgar Rajandi, *Raamat nimedest*, Tallinn: Eesti Raamat, 1966. University of Tartu DSpace PDF (138 MB, text layer present but OCR is unreliable; inspect page images).… | 56, 57, 61 | 14 / 16 | 247 |
+| EE-RAJANDI66 | Edgar Rajandi, *Raamat nimedest*, Tallinn: Eesti Raamat, 1966. University of Tartu DSpace PDF (138 MB, text layer present but OCR is unreliable; inspect page images).… | 56–92 (33) | 99 / 41 | 247 |
 | EE-RIIGIKOGU | Parliament of Estonia, Helmer Jõgi biography, parliamentary service line. | 20 | 1 / 0 |  |
-| EE-SAAR16 | Evar Saar, Rõuge ja Vastseliina talupoegade eesnimed XVI ja XVII sajandil, in *Õdagumeresuumlaisi nimeq / Läänemeresoomlaste nimed / Names of Finnic People*,… | 20, 57 | 2 / 2 |  |
-| EE-SINIJARV14 | Siiri Sinijärv (Tartu County Government, population-records office), Tänapäevane eesnimekasutus, 2014 slides, folklore.ee PDF p. 10; p. 7 for rare 2013 girls' names. | 57 | 0 / 1 | 18 |
+| EE-SAAR16 | Evar Saar, Rõuge ja Vastseliina talupoegade eesnimed XVI ja XVII sajandil, in *Õdagumeresuumlaisi nimeq / Läänemeresoomlaste nimed / Names of Finnic People*,… | 20, 57, 84 | 4 / 3 |  |
+| EE-SINIJARV14 | Siiri Sinijärv (Tartu County Government, population-records office), Tänapäevane eesnimekasutus, 2014 slides, folklore.ee PDF p. 10; p. 7 for rare 2013 girls' names. | 57, 74, 80 | 0 / 3 | 18 |
 | EE-SUVETEATER | Emajõe Suveteater, Heinari tähetund, production synopsis. | 17 | 0 / 1 |  |
 | EE-THEATRE | Estonian Theatre Agency, mürisev vaikus, premiere and production contact sections. | 43 | 1 / 0 |  |
-| EE-TURK10 | Tiina Türk, Kiili valla asustusnimed, University of Tartu master's thesis, 2010, PDF p. 80 / printed p. 80, Niiliski entry; title PDF p. 1. | 36 | 2 / 0 | 165 |
+| EE-TURK10 | Tiina Türk, Kiili valla asustusnimed, University of Tartu master's thesis, 2010, PDF p. 80 / printed p. 80, Niiliski entry; title PDF p. 1. | 36, 79 | 2 / 1 | 165 |
 
 ## International and cross-language
 
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
-| INT-BTN | Behind the Name. | 2–61 + 1 topic (58) | 546 / 100 |  |
+| INT-BTN | Behind the Name. | 2–84 + 1 topic (60) | 549 / 100 |  |
+| INT-BTN-ANASTASIUS | Behind the Name, Anastasius, curated opening. | 89 | 1 / 0 |  |
+| INT-BTN-ANTANAS | Behind the Name, Antanas, Meaning & History. | 85 | 1 / 0 |  |
+| INT-BTN-ANTONIUS | Behind the Name, Antonius, related-names list. | 85 | 1 / 0 |  |
+| INT-BTN-APOLLINARIS | Behind the Name Apollinaris | 75 | 1 / 0 |  |
+| INT-BTN-AUDRIUS | Behind the Name Audrius | 78 | 1 / 0 |  |
+| INT-BTN-AUKSE | Behind the Name Auksė | 81 | 0 / 1 |  |
+| INT-BTN-BALTAZARAS | Baltazaras curated-entry check | directory only | 0 / 0 |  |
+| INT-BTN-BALTHAZAR | Balthazar curated entry | 73 | 1 / 0 |  |
+| INT-BTN-BASIL | Basil curated entry | directory only | 0 / 0 |  |
+| INT-BTN-BASIL1 | Basil 1 curated entry | 69 | 1 / 0 |  |
+| INT-BTN-BENEDICT | Benedict curated entry | 71 | 3 / 0 |  |
+| INT-BTN-BENEDIKTAS | Benediktas curated entry | 71 | 2 / 0 |  |
+| INT-BTN-BENJAMIN | Behind the Name, Benjamin, curated opening. | 89 | 1 / 0 |  |
+| INT-BTN-BERIT | Behind the Name, Berit, Meaning & History. | 92 | 1 / 0 |  |
+| INT-BTN-CAESAR | Behind the Name Caesar | 79 | 1 / 0 |  |
+| INT-BTN-CAESARIUS | Behind the Name Caesarius | 79 | 1 / 0 |  |
+| INT-BTN-CLEOPATRA | Behind the Name, Cleopatra, Meaning & History. | 86 | 1 / 0 |  |
+| INT-BTN-EGLE | Behind the Name, Eglė, Meaning & History. | 91 | 1 / 0 |  |
+| INT-BTN-EMA1 | Behind the Name, Ema 1, Meaning & History and usage. | 64 | 1 / 0 |  |
+| INT-BTN-EUFROZINA | Eufrozina, curated entry explicitly labelled Hungarian (rare). | 68 | 0 / 1 |  |
+| INT-BTN-FABIAN | Behind the Name Fabian, Meaning & History. | 87 | 1 / 0 |  |
+| INT-BTN-FABIOLA | Fabiola, curated Latin diminutive of Fabia. | 63 | 0 / 1 |  |
+| INT-BTN-FRANCIS | Behind the Name Francis | 78 | 5 / 0 |  |
+| INT-BTN-GABIJA | Behind the Name Gabija | 76 | 1 / 0 |  |
+| INT-BTN-GAUDENTIUS | Gaudentius curated entry | directory only | 0 / 0 |  |
+| INT-BTN-HEIKO | Behind the Name, Heiko, Meaning & History. | 86 | 1 / 0 |  |
+| INT-BTN-HEINRICH | Behind the Name, Heinrich, related names. | directory only | 0 / 0 |  |
+| INT-BTN-INETA | No curated definition; user submissions only (Latvian, Lithuanian). | 88 | 0 / 1 |  |
+| INT-BTN-INEZA | No curated definition; one user submission (Georgian). | 88 | 0 / 1 |  |
+| INT-BTN-INGEBORGA | Ingeborga, no curated definition; user submissions only. | 64 | 0 / 1 |  |
+| INT-BTN-JOLITA | Behind the Name Jolita: no curated definition, user submission only. | 85 | 0 / 1 |  |
+| INT-BTN-KAMILE | Behind the Name, Kamilė, Meaning & History. | 64 | 1 / 0 |  |
+| INT-BTN-KNUT | Behind the Name Knut: curated Old Norse knútr “knot”; lists no Lithuanian form. | 86 | 0 / 1 |  |
+| INT-BTN-LIBERTA | Behind the Name Liberta: no curated definition; user submission only. | 85 | 0 / 1 |  |
+| INT-BTN-MARIUS | Behind the Name, Marius, Meaning & History and variants. | 86 | 1 / 0 |  |
+| INT-BTN-MECISLOVAS | Behind the Name, Mečislovas, Meaning & History. | 68 | 2 / 0 |  |
+| INT-BTN-MELANIE | Behind the Name, Melanie, Melania and Greek melaina. | 67 | 1 / 0 |  |
+| INT-BTN-MELCHIORAS | Melchioras curated-entry check | directory only | 0 / 0 |  |
+| INT-BTN-MERKELIS | Merkelis curated-entry check | directory only | 0 / 0 |  |
+| INT-BTN-ODYSSEUS | Behind the Name Odysseus, Meaning & History. | 87 | 1 / 0 |  |
+| INT-BTN-ORESTES | Behind the Name Orestes, Meaning & History. | 87 | 1 / 0 |  |
+| INT-BTN-RAIMONDA | Behind the Name Raimonda | 80 | 0 / 1 |  |
+| INT-BTN-RAYMOND | Behind the Name Raymond | 74 | 1 / 0 |  |
+| INT-BTN-SABINA | Behind the Name, Sabina, Latin cognomen and ethnic explanation. | 66 | 2 / 0 |  |
+| INT-BTN-SABINUS | Behind the Name, Sabinus, Latin masculine form; Kajanto reference. | 66 | 2 / 0 |  |
+| INT-BTN-SEVERIN | Behind the Name Severin | directory only | 0 / 0 |  |
+| INT-BTN-SEVERINUS | Behind the Name Severinus | 75 | 1 / 0 |  |
+| INT-BTN-SNIEGUOLE | Behind the Name Snieguolė | 82 | 1 / 0 |  |
+| INT-BTN-TELESFORAS | Telesforas curated entry | directory only | 0 / 0 |  |
+| INT-BTN-THEOPHILA | Behind the Name, Theophila, feminine form, variant Theophile and Oxford LGPN reference. | 65 | 1 / 0 |  |
+| INT-BTN-THEOPHILUS | Behind the Name, Theophilus, Greek base and element glosses. | 65 | 1 / 0 |  |
+| INT-BTN-TITAS | Titas curated entry | 71 | 1 / 0 |  |
+| INT-BTN-TITUS | Titus curated entry | 71 | 1 / 0 |  |
+| INT-BTN-VALENTINE1 | Behind the Name Valentine masculine | 74 | 1 / 0 |  |
+| INT-BTN-VERONICA | Behind the Name Veronica | 80, 92 | 1 / 1 |  |
+| INT-BTN-VIDAS | Behind the Name, Vidas, Meaning & History. | 64, 70 | 1 / 1 |  |
+| INT-BTN-VINCENT | Behind the Name, Vincent, curated opening. | 89 | 1 / 0 |  |
 | INT-BURNEY1782 | Frances Burney, *Cecilia, or Memoirs of an Heiress*, vol. 1, primary text, front matter and Book I chapter i; NYPL manuscript catalogue record. | 22 | 2 / 0 |  |
 | INT-DMNES | Sara L. Uckelman, ed., *Dictionary of Medieval Names from European Sources*, edition 2023/1: Virgil, Rufus, Andrew, Stephen. | 27–55 (19) | 60 / 1 |  |
 | INT-EBSCO | EBSCO Research Starters, The Newcomes by William Makepeace Thackeray. | 60 | 1 / 0 |  |
 | INT-FOLGER | Folger, Catalogue of English Literary Manuscripts, Sir Philip Sidney, Astrophil and Stella heading before SiP 1. Established introduction. | 55 | 1 / 0 |  |
 | INT-FRAM | Fram Museum, Helmer Julius Hanssen, opening expedition paragraph. | 20 | 1 / 0 |  |
-| INT-KRAUS13 | Herwig Kraus, Sowjetrussische Vornamen: Ein Lexikon, de Gruyter, 2013, publicly supplied publisher preview PDF p. 16 / printed p. 8; copyright PDF p. 4. | 38 | 5 / 0 | 23 |
-| INT-MUSE46 | Mary L. Pixley, *Preserved for Eternity on Obsidian: A Baroque Painting Showing the Miracle of Milk at St. Catherine of Alexandria’s Martyrdom*, Muse 46 (2012),… | 25 | 24 / 0 | 146 |
+| INT-KRAUS13 | Herwig Kraus, Sowjetrussische Vornamen: Ein Lexikon, de Gruyter, 2013, publicly supplied publisher preview PDF p. 16 / printed p. 8; copyright PDF p. 4. | 38, 69, 71 | 5 / 2 | 23 |
+| INT-MUSE46 | Mary L. Pixley, *Preserved for Eternity on Obsidian: A Baroque Painting Showing the Miracle of Milk at St. Catherine of Alexandria’s Martyrdom*, Muse 46 (2012),… | 25, 81 | 24 / 1 | 146 |
 | INT-NERGAARD | Norwegian singer Silje Nergaard, official biography, opening paragraphs. | 22 | 1 / 0 |  |
 | INT-NG-CATHERINE | National Gallery, Raphael, *Saint Catherine of Alexandria*, NG168, work record and description. | 25 | 7 / 0 |  |
 | INT-OSCARS | Academy of Motion Picture Arts and Sciences, 72nd Academy Awards, 2000, Actress in a Supporting Role winner. | 40 | 1 / 0 |  |
 | INT-SNL | Store norske leksikon, e.g. Krister. | 2–60 + 1 topic (19) | 21 / 19 |  |
+| INT-SNL-LEA | Lea, signed name entry, Store norske leksikon | 72 | 2 / 0 |  |
+| INT-SNL-OSVALD | SNL Osvald | 78 | 1 / 0 |  |
+| INT-SNL-OVE | SNL Ove masculine name | 78 | 1 / 0 |  |
+| INT-SNL-SIGURD | Store norske leksikon, Sigurd – mannsnamn, signed by Gulbrand Alhaug, opening paragraph and “Kulturell bruk”. | 92 | 1 / 0 |  |
 | INT-VATICAN75 | Paul VI, homily for the canonisation of John Baptist of the Conception and Vicenta María López y Vicuña, 25 May 1975. Spanish HTML (the PDF version is an image scan… | 56 | 1 / 0 |  |
 | INT-WIKTIONARY | Wiktionary, e.g. Kristo, Estonian section. | 2–61 + 1 topic (44) | 54 / 60 |  |
 
@@ -75,28 +136,40 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
-| LT-BURBA24 | Domininkas Burba, *Literatūrinio padavimo apie Jūratę ir Kastytį sklaida neakademiniuose Lietuvos ir Lenkijos folkloro rinkiniuose*, Res Humanitariae XXXII (2024), pp.… | 43 | 1 / 0 | 23 |
-| LT-DRAUGAS | Draugas archive, e.g. 12 March 1960 supplement. | directory only | 0 / 0 |  |
+| LT-BURBA24 | Domininkas Burba, *Literatūrinio padavimo apie Jūratę ir Kastytį sklaida neakademiniuose Lietuvos ir Lenkijos folkloro rinkiniuose*, Res Humanitariae XXXII (2024), pp.… | 43, 74 | 1 / 1 | 23 |
+| LT-DRAUGAS | Draugas archive, e.g. 12 March 1960 supplement. | 85 | 0 / 1 |  |
 | LT-ELTA-CALENDAR | ELTA, 16 November calendar dispatch, published 16 November 2010, 00:00, opening name-day lists. | 18 | 2 / 0 |  |
-| LT-GUIDE | Tėvų Darželis name guide, e.g. Eirimė. | 6–61 (50) | 119 / 70 |  |
+| LT-GUIDE | Tėvų Darželis name guide, e.g. Eirimė. | 6–92 (55) | 127 / 79 |  |
+| LT-GUIDE-GARSE | Tėvų darželis: Garsė, meaning paragraph. | directory only | 0 / 0 |  |
+| LT-GUIDE-NOMEDA | Tėvų darželis: Nomeda, meaning paragraph. | directory only | 0 / 0 |  |
 | LT-HISTORY | Lithuanian Institute of History, Edmundas Gimžauskas, bibliography. | 16 | 1 / 0 |  |
 | LT-INSTITUTIONS | Writers' Union and National Library. | 14, 15, 19 | 3 / 0 |  |
 | LT-LITUANISTIKA | Lituanistika and linked etalpykla.lituanistika.lt full texts. | 13 | 0 / 1 |  |
 | LT-LKI | Institute of the Lithuanian Language journals, especially *Acta Linguistica Lithuanica*. | 17, 20, 57 | 0 / 2 |  |
 | LT-LKZ-MIRROR | Lietuvių kalbos žodynas mirror, jovaras, definition list. | 33 | 1 / 0 |  |
 | LT-LMTA | Lithuanian Academy of Music and Theatre, History of the Department of Organ and Harpsichord, opening historical paragraphs. | 15 | 1 / 0 |  |
+| LT-LRYTAS-DEC29 | Lrytas, 29 December–4 January names, 28 December 2025. | 65 | 0 / 2 |  |
 | LT-LRYTAS-LEAD | Lrytas, 15–21 November name explanations, published 14 November 2021, Gerdvilė paragraph. | 16 | 0 / 1 |  |
-| LT-MACIEJAUSKIENE94 | Vitalija Maciejauskienė, *Antano Salio „Kalendoriniai vardai“*, Lietuvių kalbotyros klausimai XXXIV (1994), PDF p. 3 / printed p. 74. | 21 | 0 / 1 | 3 |
-| LT-PAKERYS09 | Antanas Pakerys, *Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtapradė priegaidė*, Baltistica 44(2), 2009, pp. 185–212, Lituanistika repository PDF… | 21–59 (5) | 1 / 7 | 28 |
-| LT-PAKERYS10 | Antanas Pakerys, Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtagalė priegaidė, Žmogus ir žodis 2010 I, PDF p. 5 / printed p. 92, and PDF p. 2 /… | 33–59 (5) | 2 / 5 | 15 |
-| LT-PAKERYS11 | Antanas Pakerys, *Dvikamienių lietuvių moterų vardų kirčiavimas / Accentuation of Lithuanian compound female names*, Žmogus ir žodis 2011 I, pp. 90–99. PDF p. 6 /… | 22–59 (12) | 9 / 10 | 10 |
+| LT-MACIEJAUSKIENE04 | Vitalija Maciejauskienė, Dar kartą apie lietuvių vardus, Kalbos kultūra 77, 2004, 84–95 | 78, 82 | 1 / 1 | 12 |
+| LT-MACIEJAUSKIENE94 | Vitalija Maciejauskienė, *Antano Salio „Kalendoriniai vardai“*, Lietuvių kalbotyros klausimai XXXIV (1994), PDF p. 3 / printed p. 74. | 21, 76 | 1 / 1 | 3 |
+| LT-MGM-RARE | Mūsų Giminės Medis, Retesni XVII–XX a. krikšto vardai: kilmė ir reikšmės, Eufrosinė/Eufrozija/Frozina paragraphs. | 68–82 (7) | 0 / 8 |  |
+| LT-PAKERYS09 | Antanas Pakerys, *Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtapradė priegaidė*, Baltistica 44(2), 2009, pp. 185–212, Lituanistika repository PDF… | 21–80 (6) | 1 / 8 | 28 |
+| LT-PAKERYS10 | Antanas Pakerys, Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtagalė priegaidė, Žmogus ir žodis 2010 I, PDF p. 5 / printed p. 92, and PDF p. 2 /… | 33–91 (14) | 8 / 9 | 15 |
+| LT-PAKERYS11 | Antanas Pakerys, *Dvikamienių lietuvių moterų vardų kirčiavimas / Accentuation of Lithuanian compound female names*, Žmogus ir žodis 2011 I, pp. 90–99. PDF p. 6 /… | 22–87 (20) | 15 / 12 | 10 |
 | LT-PAVAN14 | Luca Pavan, *Una nuova lista di “falsi amici” e di “interferenze onomastiche” nella lingua italiana e lituana*, Verbum 5 (2014), pp. 238–246, DOI… | 22 | 1 / 0 |  |
-| LT-SALYS83 | Antanas Salys, collected writings, vol. 2 (1983), reprinting the 1964 Tikiu Dievą name calendar. PDF p. 317 / printed p. 302. | 13–61 (49) | 94 / 62 | 714 |
-| LT-SENNSALYS68 | Alfred Senn and Anton Salys, Wörterbuch der litauischen Schriftsprache, vol. 5 (Heidelberg: Carl Winter, 1968), pp. 481–560, *Eigennamen und damit Zusammenhängendes*.… | 61 | 3 / 13 |  |
-| LT-SINKEVICIUTE06 | Daiva Sinkevičiūtė, *Dėl vardyno plėtimo dvikamieniais vardais ir jų variantais* (2006), PDF p. 3 / printed p. 275. | 25, 57, 58 | 1 / 2 | 6 |
+| LT-SALYS83 | Antanas Salys, collected writings, vol. 2 (1983), reprinting the 1964 Tikiu Dievą name calendar. PDF p. 317 / printed p. 302. | 13–92 (80) | 175 / 109 | 714 |
+| LT-SENNSALYS68 | Alfred Senn and Anton Salys, Wörterbuch der litauischen Schriftsprache, vol. 5 (Heidelberg: Carl Winter, 1968), pp. 481–560, *Eigennamen und damit Zusammenhängendes*.… | 61–88 (24) | 48 / 13 |  |
+| LT-SINKEVICIUTE06 | Daiva Sinkevičiūtė, *Dėl vardyno plėtimo dvikamieniais vardais ir jų variantais* (2006), PDF p. 3 / printed p. 275. | 25, 57, 58, 72 | 2 / 2 | 6 |
+| LT-SINKEVICIUTE12 | Daiva Sinkevičiūtė, Nauji 2007–2010 m. lietuviškos kilmės vaikų vardai ir jų davimo polinkiai, Kalbos kultūra 84, pp. 214–229, 16-page PDF. | 65 | 0 / 1 | 16 |
 | LT-SINKEVICIUTE17 | Daiva Sinkevičiūtė, “Dėl lietuvių dvikamienių asmenvardžių kamieno *gerd-* autentiškumo” / “On the authenticity of the Lithuanian compound proper name stem gerd-”,… | 56 | 0 / 1 | 11 |
 | LT-SIRENA15 | *Rokiškio Sirena*, 20 November 2015, no. 75 (266), PDF p. 1, right-hand calendar column. | 20, 21, 57 | 3 / 4 |  |
-| LT-VLE | Visuotinė lietuvių enciklopedija, e.g. Juozapatas Kuncevičius. | 2–60 + 1 topic (19) | 25 / 2 |  |
+| LT-VLE | Visuotinė lietuvių enciklopedija, e.g. Juozapatas Kuncevičius. | 2–92 + 1 topic (20) | 26 / 2 |  |
+| LT-VLE-BAZILIJUS | VLE Bazilijus Didysis | 69 | 1 / 0 |  |
+| LT-VLE-JAUNUTIS | Universal Lithuanian Encyclopedia, Jaunutis, opening biography (alias of cached WEB-VLE-LT-STRAIPSNIS-JAUNUTIS). | directory only | 0 / 0 |  |
+| LT-VLE-KREVE | Universal Lithuanian Encyclopedia, Vincas Krėvė, section “Kūryba”. | 91 | 1 / 0 |  |
+| LT-VLE-MERKELIS | VLE Merkelis Giedraitis | 73 | 1 / 0 |  |
+| LT-VLE-ORIGIN-THEORIES | VLE Lithuanian origin theories | 78 | 1 / 0 |  |
+| LT-VLE-PALEMONAS | VLE Palemonas | directory only | 0 / 0 |  |
 | LT-VLE-SKOMANTAS | Universal Lithuanian Encyclopaedia, Skomantas. | 58 | 1 / 0 |  |
 | LT-VLKK | VLKK names and official classification dataset. | 13–57 (5) | 0 / 4 |  |
 
@@ -105,9 +178,9 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
 | LV-ACME-SIGURNIJA | ACME Film, *Septiņas minūtes pēc pusnakts / A Monster Calls*, cast line, Latvian synopsis and premiere heading. | 23, 57 | 0 / 1 |  |
-| LV-ALL93 | Laimute Balode and Renāte Siliņa-Piņķe, Changes in the Stock of Given Names in the Context of a New Dictionary of Latvian Given Names, *Acta Linguistica Lithuanica* 93… | 13 | 3 / 13 | 10 |
+| LV-ALL93 | Laimute Balode and Renāte Siliņa-Piņķe, Changes in the Stock of Given Names in the Context of a New Dictionary of Latvian Given Names, *Acta Linguistica Lithuanica* 93… | 13–90 (7) | 5 / 19 | 10 |
 | LV-AUDIT | State Audit Office, Riga property-management discussion, participant paragraph. | 15 | 0 / 1 |  |
-| LV-BALODIS-LIV | Pauls Balodis, Personal Names of Livonian Origin in Latvia: Past and Present, in *Names in Multi-Lingual, -Cultural and -Ethnic Contact* (ICOS proceedings volume),… | 59 | 1 / 0 | 12 |
+| LV-BALODIS-LIV | Pauls Balodis, Personal Names of Livonian Origin in Latvia: Past and Present, in *Names in Multi-Lingual, -Cultural and -Ethnic Contact* (ICOS proceedings volume),… | 59, 64 | 1 / 1 | 12 |
 | LV-BTN-JEV | Behind the Name: Jevgēņijs, Yevgeniy, Eugene. | 13 | 1 / 0 |  |
 | LV-ENC-AUSEKLIS | Pauls Daija, National Encyclopaedia, Auseklis, sections “Publicistika” and “Literārā darbība”. | 44 | 1 / 0 |  |
 | LV-ENC-GOLDEN | Benedikts Kalnačs, National Encyclopaedia, Zelta zirgs, character and performance sections. | 51 | 1 / 0 |  |
@@ -115,12 +188,12 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | LV-ENC-SILVER | Benedikts Kalnačs, National Encyclopaedia, Sidraba šķidrauts, plot, publication and Iestudējumi sections. | 40 | 1 / 0 |  |
 | LV-ENCYCLOPEDIA | National Encyclopaedia. | 2–21 (7) | 13 / 0 |  |
 | LV-EPUPA | Latvian Language Agency’s academic electronic lexical resource, brīvība, etymology section. | 18 | 0 / 2 |  |
-| LV-IDENTITY25 | Balode and Siliņa-Piņķe, Reflection of Identity in Given Names of Latvia Over the Last Century, *Onomastica Uralica* 17 (2025), pp. 139–156. Repository record, PDF. | 13 | 2 / 13 | 19 |
+| LV-IDENTITY25 | Balode and Siliņa-Piņķe, Reflection of Identity in Given Names of Latvia Over the Last Century, *Onomastica Uralica* 17 (2025), pp. 139–156. Repository record, PDF. | 13–84 (5) | 3 / 16 | 19 |
 | LV-LAVI | LU Latvian Language Institute, including *Linguistica Lettica* and *Onomastica Lettica*. | 16 | 3 / 3 |  |
 | LV-LFK | Latvian Folklore Archives library, Latviešu personvārdu vārdnīca, bibliographical fields. | 53 | 1 / 0 |  |
-| LV-LILE24 | Linguistica Lettica, special issue (2024), article headed *Ieskats darba procesā / Insight into Work in Progress*. PDF p. 304. | 13 | 2 / 0 | 392 |
+| LV-LILE24 | Linguistica Lettica, special issue (2024), article headed *Ieskats darba procesā / Insight into Work in Progress*. PDF p. 304. | 13–86 (12) | 2 / 13 | 392 |
 | LV-LITERATURE | Literatura.lv, Latvian Literature, National Film Centre archive. | 2–57 (6) | 31 / 0 |  |
-| LV-LNB-ZELTITE | Latvian National Library, Zeltīte: drāma 2 cēlienos, object 60960, full bibliographic record: Aspazija, St Petersburg, Gulbis, 1904, 56 pp. | 21 | 1 / 0 |  |
+| LV-LNB-ZELTITE | Latvian National Library, Zeltīte: drāma 2 cēlienos, object 60960, full bibliographic record: Aspazija, St Petersburg, Gulbis, 1904, 56 pp. | 21, 82 | 2 / 0 |  |
 | LV-LPVV | University of Latvia, Latvian Language Institute, Latviešu personvārdu vēsturiskā vārdnīca, official announcement of the first 200 entries. | directory only | 0 / 0 |  |
 | LV-LSM-KURSITE24 | Janīna Kursīte, Latvian Public Broadcasting (LSM), article on the stone head in Līvu laukums, 11 January 2024. | 59 | 1 / 0 |  |
 | LV-LU-REPO | University of Latvia repository. | directory only | 0 / 0 |  |
@@ -131,43 +204,79 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | LV-LVA-ANDINA | Language Agency English Undine export, single page, citing A. Ahero (2006), p. 119. | 20, 57 | 0 / 1 |  |
 | LV-LVA-ANDRIAN | Language Agency Андриан → Andriāns, Grabis/Porīte 1993 p. 192. | 58 | 1 / 0 |  |
 | LV-LVA-ANDRON | Language Agency Russian Андрон → Androns (1993 p. 192) and Ukrainian Андрон → Androns (Hansons/Poļakova 2023 p. 148). | 58 | 1 / 0 |  |
+| LV-LVA-ANTOINE-R85 | Latvian Language Agency, Antoine search, French masculine given-name row. | 85 | 1 / 1 |  |
+| LV-LVA-ANTONIO-R85 | LVA, Antonio search, Spanish and Italian given-name rows. | 85 | 1 / 0 |  |
+| LV-LVA-ARAM | LVA Armenian Aram rendering | directory only | 0 / 0 |  |
+| LV-LVA-ARM09 | Valda Salmiņa, Armēņu īpašvārdu atveide latviešu valodā, Riga 2009 | 73, 80, 89 | 4 / 3 | 192 |
 | LV-LVA-BETH | Language Agency English Beth → Beta, Ahero (2006), p. 95. | 57 | 0 / 1 |  |
 | LV-LVA-CAT | Latvian Language Agency, English Cat → Keta and PDF export, citing Ahero (2006), p. 96. | 57 | 1 / 0 | 1 |
+| LV-LVA-DANIELS | Latvian Language Agency, Daniels search results, exact given-name rows. | 66 | 1 / 0 |  |
+| LV-LVA-DANIIL | LVA Даниил search: no rows. | 66 | 0 / 4 |  |
+| LV-LVA-DAVIDS | Latvian Language Agency, Davids search results, exact given-name rows. | 66 | 2 / 0 |  |
 | LV-LVA-ELIZABETA | Language Agency English Elisabeth export, single page, citing A. Ahero, *Angļu īpašvārdu atveide latviešu valodā* (2006), p. 100. | 19 | 1 / 0 |  |
-| LV-LVA-EN06 | A. Ahero, *Angļu īpašvārdu atveide latviešu valodā* (2006), agency PDF. | directory only | 0 / 0 | 221 |
+| LV-LVA-EN06 | A. Ahero, *Angļu īpašvārdu atveide latviešu valodā* (2006), agency PDF. | 62–90 (16) | 23 / 8 | 221 |
 | LV-LVA-FREDERICA | Language Agency Frederica export, single page, citing Ahero (2006), p. 102. | 14 | 1 / 0 |  |
 | LV-LVA-FRIEDRICH | Language Agency Friedrich export, single page, citing Ceplītis (1960), p. 61. | 14 | 1 / 0 |  |
 | LV-LVA-GLORIA | Language Agency Gloria export, single page, citing Ahero (2006), p. 103. | 16 | 1 / 0 |  |
+| LV-LVA-GR15-ODISEJS | Agency Οδυσσέας export, two rows citing I. Rūmniece, *Grieķu īpašvārdu atveide latviešu valodā: jaungrieķu valoda. Ieteikumi*, LVA 2015, pp. 31 (Odysseas) and 21… | 87 | 1 / 0 | 1 |
+| LV-LVA-HELMAR | LVA Helmar search: no rows. | 63 | 0 / 1 |  |
+| LV-LVA-IVS | LVA Ivs exact rendering search | directory only | 0 / 0 |  |
+| LV-LVA-JADE-R85 | LVA Jade search: only unrelated surname/other-language matches. | 86 | 0 / 1 |  |
 | LV-LVA-JEFIMIJA | Language Agency Єфимія export, single page, citing Hansons and Poļakova, *Ukraiņu īpašvārdu atveide latviešu valodā* (2023), p. 156. | 16 | 1 / 0 |  |
 | LV-LVA-JELIZAVETA | Latvian Language Agency Ukrainian Єлизавета export, single page, citing A. Hansons and M. Poļakova, *Ukraiņu īpašvārdu atveide latviešu valodā* (2023), p. 156. | 19 | 1 / 0 |  |
+| LV-LVA-JELLIE-R85 | LVA Jellie search: no records. | 86 | 0 / 1 |  |
+| LV-LVA-JOCELYN-R85 | LVA Jocelyn search: Jocelyn → Džos(e)lina, Ahero 2006 p. 106. | 86 | 0 / 1 |  |
+| LV-LVA-KLEOPATRA-R85 | LVA Kleopatra search: fetched; Latvian rendering rows are not evidence for the Lithuanian profile and were not used. | directory only | 0 / 0 |  |
 | LV-LVA-LIZA | Language Agency Lithuanian Liza export, single page, citing T. Porīte’s Lithuanian-name guide (1961), p. 53. | 19 | 1 / 0 |  |
 | LV-LVA-LT | T. Porīte, *Norādījumi par citvalodu īpašvārdu pareizrakstību un pareizrunu latviešu literārajā valodā*, IV: *Lietuviešu valodas īpašvārdi* (Riga, 1961). PDF p. 46. | 13, 15 | 1 / 1 |  |
-| LV-LVA-LT61 | T. Porīte, ed., Lithuanian proper-name rendering manual (1961), agency PDF. | directory only | 0 / 0 | 70 |
+| LV-LVA-LT61 | T. Porīte, ed., Lithuanian proper-name rendering manual (1961), agency PDF. | 66–91 (5) | 7 / 3 | 70 |
 | LV-LVA-LUCIJA | Language Agency Lucija (Croatian), Bušs, *Valodas prakse* no. 6, 2011, p. 156. | 60 | 1 / 0 |  |
-| LV-LVA-NORDIC03 | *Dāņu, norvēģu, zviedru un somu īpašvārdu atveide latviešu valodā* (2003), agency PDF. | directory only | 0 / 0 | 260 |
+| LV-LVA-MEGAN | LVA Megan search: no rows. | 62 | 0 / 1 |  |
+| LV-LVA-NORDIC03 | *Dāņu, norvēģu, zviedru un somu īpašvārdu atveide latviešu valodā* (2003), agency PDF. | 64–82 (7) | 2 / 8 | 260 |
 | LV-LVA-ODETA | Language Agency Odette (French), Bankava 2004 pp. 11, 95; Odett (Hungarian), Sakse 1998 p. 47. | 60 | 1 / 0 |  |
 | LV-LVA-OTILIJA | Language Agency rows Ottilie (German), Ceplītis 1960 p. 63 → Otīlija; Otília (Portuguese), Placinska 2015 p. 144 → Otīlija and Otilija; Otilia (Romanian), Dimiņš 2025… | 60 | 2 / 0 |  |
-| LV-LVA-RU93 | R. Grabis and T. Porīte, Russian proper-name rendering manual (1993), agency PDF. | 61 | 1 / 0 | 177 |
+| LV-LVA-PL98-AGNIESZKA | Latvian Language Agency Agnieszka export, single page, citing V. Staltmane (ed.), *Poļu īpašvārdu pareizrakstība un pareizruna latviešu valodā*, 2nd ed., Riga: Zinātne,… | 88 | 1 / 0 | 1 |
+| LV-LVA-PL98-OLGIERD | Agency Olgierd export, Staltmane 1998, p. 53. | 87 | 0 / 1 | 1 |
+| LV-LVA-REGINALD | LVA Reginald rendering search | 79 | 0 / 1 |  |
+| LV-LVA-RU93 | R. Grabis and T. Porīte, Russian proper-name rendering manual (1993), agency PDF. | 61–90 (10) | 9 / 12 | 177 |
+| LV-LVA-SEARCH-DENISS | Language Agency search, q=Deņiss. | 84 | 0 / 1 |  |
+| LV-LVA-SEARCH-DENIZA | Language Agency search, q=Denīza. | 84 | 1 / 1 |  |
+| LV-LVA-SEARCH-DENIZE | Language Agency search, q=Denīze (cached as WEB-PERSONVARDUATVEIDE-…-Q-DEN-C4-ABZE). | 84 | 1 / 0 |  |
 | LV-LVA-SIGRUNA | Language Agency Norwegian Sigrun export, single page, citing S. Karkonens-Svensons, Norwegian-name chapter in the Nordic-name volume (2003), p. 227. | 23 | 1 / 0 |  |
+| LV-LVA-SIGURD | Latvian Language Agency Swedish Sigurd export, single page, visually checked. | 92 | 1 / 0 | 1 |
+| LV-LVA-UA23 | A. Hansons, M. Poļakova, *Ukraiņu īpašvārdu atveide latviešu valodā*, Latvian Language Agency, 2023. PDF, PDF/printed p. 152 (name list, section IV). Already cached… | 84, 90 | 4 / 1 | 192 |
 | LV-LVA-VALDEMAR | Language Agency rows Waldemar (German), Ceplītis 1960 p. 65; Valdemar (Swedish), Balode 2003 p. 324; Valdemar (Finnish), Bušs et al. 2003 p. 398; Valdemar (Portuguese),… | 60 | 3 / 0 |  |
 | LV-LVA-VIGO | Language Agency Danish Viggo export, single page, citing I. Mežaraupe’s Danish-name chapter in the Nordic-name volume (2003), p. 102. | 20 | 1 / 0 |  |
 | LV-LVA-VILORA | Language Agency Russian Вилора export, single page, citing Grabis/Porīte (1993), p. 184. | 22 | 1 / 0 |  |
 | LV-LVA-VINCENT | Language Agency Vincent export, single page, citing Ahero (2006), p. 89. | 14 | 1 / 0 |  |
+| LV-LVA-YVES | LVA Yves given-name rendering | directory only | 0 / 0 |  |
 | LV-LVA-ZLATA | Latvian Language Agency, Russian Злата export, single page; cites R. Grabis and T. Porīte, Russian-name manual (1993), p. 185. | 21 | 1 / 0 |  |
+| LV-LVKJ73 | (described in prose; see source directory) | 78 | 0 / 1 |  |
 | LV-OLYMPIC | Latvian Olympic Committee: Jevgenijs Borodavko. | 13 | 1 / 0 |  |
 | LV-PERIODIKA | Periodika and LNB collections/catalogues. | 13 | 0 / 18 |  |
 | LV-RFS | FC RFS: Svarīga uzvara Jelgavā, 8 April 2026. | 13 | 1 / 0 |  |
 | LV-SILINA15 | Zane Šiliņa, *Tendencies of Expressionism in Rainis’ Writings: Spēlēju, dancoju (I Played, I Danced, 1915)*, Interlitteraria 20/2 (2015), pp. 7–19; publisher article,… | 49, 61 | 1 / 1 | 13 |
-| LV-SILINS | Klāvs Siliņš, *Latviešu personvārdu vārdnīca* (1990); Personvārdu izpētnieks, e.g. Jevgeņijs. | 2–61 + 1 topic (60) | 483 / 357 |  |
+| LV-SILINS | Klāvs Siliņš, *Latviešu personvārdu vārdnīca* (1990); Personvārdu izpētnieks, e.g. Jevgeņijs. | 2–92 + 1 topic (91) | 637 / 590 |  |
+| LV-SILINS-SIMONA | Simona exact catalogue entry | 72 | 1 / 0 |  |
 | LV-TEZAURS | (described in prose; see source directory) | 58 | 0 / 1 |  |
 | LV-VVC | State Language Centre, extended name-day list. | 13 | 0 / 5 |  |
 | LV-ZAUDETAS | Benedikts Kalnačs, National Encyclopaedia, *Zaudētas tiesības*, production and publication paragraphs. | 24 | 1 / 0 |  |
+
+## Other
+
+| ID | Resource | Rounds | Names | Cached PDF |
+| --- | --- | --- | ---: | ---: |
+| LOCAL-ROUND7-LT-SURNAMES | round7-lt-surnames.pdf (cached PDF; see round notes) | 78 | 0 / 1 | 129 |
 
 ## Population data
 
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
-| POP-EE | Statistics Estonia names, e.g. Krister. | 6–57 (9) | 5 / 7 |  |
+| POP-EE | Statistics Estonia names, e.g. Krister. | 6–86 (10) | 8 / 7 |  |
+| POP-EE-ENO-R86 | Statistics Estonia name statistics ENO (cached HTML; see round notes) | 86 | 1 / 0 |  |
+| POP-EE-HEIKO-R86 | Statistics Estonia name statistics Heiko (cached HTML; see round notes) | 86 | 1 / 0 |  |
+| POP-EE-HENRI-R86 | Statistics Estonia name statistics HENRI (cached HTML; see round notes) | 86 | 1 / 0 |  |
+| POP-EE-LAULI-R86 | Statistics Estonia Lauli: fewer than 5 bearers, no statistics. | 85 | 0 / 1 |  |
 | POP-LT | Registrų centras TOP 50 snapshots used by the existing LT updater. | directory only | 0 / 0 |  |
 | POP-LV | PMLP person-name data and the existing population updater described in NAMEDAYS.md. | directory only | 0 / 0 |  |
 
@@ -200,6 +309,7 @@ Round notes cite these hosts without an ID that the generator can attribute. Giv
 | lsm.lv | 12 |
 | lt.wikipedia.org | 10 |
 | lv.wikipedia.org | 9 |
+| personvarduatveide.lv | 8 |
 | emakeeleselts.ee | 7 |
 | arhiiv.eki.ee | 5 |
 | fi.wikipedia.org | 5 |
@@ -210,7 +320,6 @@ Round notes cite these hosts without an ID that the generator can attribute. Giv
 | filmas.lv | 4 |
 | oca.org | 4 |
 | olympedia.org | 4 |
-| personvarduatveide.lv | 4 |
 | worldathletics.org | 4 |
 | blog.metmuseum.org | 3 |
 | biblegateway.com | 2 |

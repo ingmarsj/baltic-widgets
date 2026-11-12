@@ -1,0 +1,361 @@
+{
+  "round": 77,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-10: researched all 13 unfinished LV/LT/EE profiles before advancing. 8 histories written; 5 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lv",
+      "name": "Dorisa",
+      "spellings": [
+        "Dorisa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dorisa",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Doris → Dorisa. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 99. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 96 / printed 99. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lv",
+      "name": "Doreta",
+      "spellings": [
+        "Doreta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Doreta"
+      ],
+      "facts_used": "Only possible Doretta/Dora correspondence, with several full-name families. Seek exact Latvian rendering and dated use; the manual's Doreen → Dorīna is not Doreta.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only possible Doretta/Dora correspondence, with several full-name families. Seek exact Latvian rendering and dated use; the manual's Doreen → Dorīna is not Doreta.",
+      "next_steps": "Only possible Doretta/Dora correspondence, with several full-name families. Seek exact Latvian rendering and dated use; the manual's Doreen → Dorīna is not Doreta."
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lv",
+      "name": "Dorina",
+      "spellings": [
+        "Dorina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dorina"
+      ],
+      "facts_used": "Romanian Dorin-family and Hungarian Dóra-family analyses compete; the 2006 manual prints Dorīna, not exact Dorina. Seek an exact Latvian bridge and dated episode; do not assign Romanian dor longing.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Romanian Dorin-family and Hungarian Dóra-family analyses compete; the 2006 manual prints Dorīna, not exact Dorina. Seek an exact Latvian bridge and dated episode; do not assign Romanian dor longing.",
+      "next_steps": "Romanian Dorin-family and Hungarian Dóra-family analyses compete; the 2006 manual prints Dorīna, not exact Dorina. Seek an exact Latvian bridge and dated episode; do not assign Romanian dor longing."
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lv",
+      "name": "Dorita",
+      "spellings": [
+        "Dorita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dorita",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Dorrit → Dorita. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 99. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The row does not call Dorrit a diminutive; do not transplant the separate Dora row's full-name alternatives. Checked location: PDF 96 / printed 99. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lv",
+      "name": "Tanisa",
+      "spellings": [
+        "Tanisa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Tanisa"
+      ],
+      "facts_used": "No exact onomastic origin or dated use found. Seek direct evidence, distinguishing Tanita/Tanit/Tatjana.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact onomastic origin or dated use found. Seek direct evidence, distinguishing Tanita/Tanit/Tatjana.",
+      "next_steps": "No exact onomastic origin or dated use found. Seek direct evidence, distinguishing Tanita/Tanit/Tatjana."
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lv",
+      "name": "Tanita",
+      "spellings": [
+        "Tanita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Tanita"
+      ],
+      "facts_used": "Catalogue p. 303 records Riga 1965 but Tatjana comparison is tentative and mention of goddess Tanit does not prove derivation. Seek an explicit exact formation statement.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 303 records Riga 1965 but Tatjana comparison is tentative and mention of goddess Tanit does not prove derivation. Seek an explicit exact formation statement.",
+      "next_steps": "Catalogue p. 303 records Riga 1965 but Tatjana comparison is tentative and mention of goddess Tanit does not prove derivation. Seek an explicit exact formation statement."
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lv",
+      "name": "Taņa",
+      "spellings": [
+        "Taņa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ta%C5%86a"
+      ],
+      "facts_used": "The catalogue explicitly directs Taņa to Tatjana. This documents its relationship with a fuller personal name. The competing explanations of Tatjana’s deeper origin do not have to be resolved to preserve that exact short-name connection. The Siliņš catalogue records a historical detail: Krustpils municipality, third quarter of the twentieth century (dictionary page 303). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 303. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lt",
+      "name": "Agatonas",
+      "spellings": [
+        "Agatonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "The dictionary pairs Agatonas with Agathon. Rajandi explains the Greek name through the same “good, kind” meaning as Agatha. This is a link within an older Greek name family, rather than a Lithuanian word-for-word compound. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Dictionary PDF 211 / printed 196, Agathon; Rajandi PDF 15 / printed 17, Greek agathon good. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lt",
+      "name": "Vilhelmas",
+      "spellings": [
+        "Vilhelmas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Vilhelmas is explicitly paired with Wilhelm in the dictionary. Rajandi gives the Germanic elements willo, “will”, and helm, “helmet, protection”. They explain the older name’s components without predicting the bearer’s character. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 277 / printed 262; calendar PDF 309 / printed 294; Rajandi PDF 177 / printed 179 roots. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "lt",
+      "name": "Vilius",
+      "spellings": [
+        "Vilius"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "The dictionary records Vilius both independently and as a short form of Vilhelmas. Salys also includes Vilius in the native Vil- group, connected with viltis, “hope”. These are distinct contexts, not a single compulsory origin for every bearer. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Preserve independent Baltic and Wilhelm-short-form contexts; no unique etymology claimed for every bearer. Checked location: PDF 277 / printed 262, independent PN and short of Vilhelmas; PDF 298 / printed 283, native Vil-; calendar PDF 309 / printed 294. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "ee",
+      "name": "Talva",
+      "spellings": [
+        "Talva"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Talva with Talvi among newer Estonian nature names, formed in a tradition influenced by Finnish examples. He distinguishes these creations from the separate Taima/Taimi names discussed in the same article. Among adult women changing names in Tallinn in 1935–1940, his account records one choice of Talva. That is a dated example of this exact form. It is not the number of girls born with the name, nor a first-use date borrowed from Taimi.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 158 / printed 160: nature-name formation, one Tallinn female adult name change 1935–40. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "ee",
+      "name": "Talve",
+      "spellings": [
+        "Talve"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "EE-MAGISTE29-AES"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Popular Leole groups Talve with Tali/winter. Mägiste AES PDF 26 / printed 20 search hit is an OCR confusion with Valve (wachsam), requiring original visual reading; it cannot verify Talve. Seek an exact scholarly winter-name analysis and independently dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Popular Leole groups Talve with Tali/winter. Mägiste AES PDF 26 / printed 20 search hit is an OCR confusion with Valve (wachsam), requiring original visual reading; it cannot verify Talve. Seek an exact scholarly winter-name analysis and independently dated use.",
+      "next_steps": "Popular Leole groups Talve with Tali/winter. Mägiste AES PDF 26 / printed 20 search hit is an OCR confusion with Valve (wachsam), requiring original visual reading; it cannot verify Talve. Seek an exact scholarly winter-name analysis and independently dated use."
+    },
+    {
+      "batch": "calendar-2027-01-10",
+      "date": "2026-11-12",
+      "calendar_date": "01-10",
+      "country": "ee",
+      "name": "Talvi",
+      "spellings": [
+        "Talvi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi includes Talvi among newer Estonian nature names, alongside Talva. He also records the name for both women and men. Sharing an article with Taimi does not make Talvi a derivation of Taimi. His historical account records a woman choosing Talvi in Tallinn in 1935–1940, and also notes later male use in southern Estonia. The contexts remain distinct: a name-change example is not an infant birth count or proof that the spelling has always had only one gender.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 158–159 / printed 160–161: nature-name formation and qualified Talvikki connection; Tallinn female name change 1935–40, later male use in South Estonia; Mägiste PDF 21 / printed 19. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

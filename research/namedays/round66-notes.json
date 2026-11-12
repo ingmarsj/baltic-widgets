@@ -1,0 +1,842 @@
+{
+  "round": 66,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "12-30: examined all 30 unfinished country profiles in LV, LT and EE calendar order; 18 histories written, 12 remain open. No new provisional origin is displayed. Existing summaries are not promoted where the exact-form bridge remains uncertain.",
+  "records": [
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dāvids",
+      "spellings": [
+        "Dāvids"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Dāvids with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Riga, 1607; calendar 1767. The cited dictionary location is page 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dāniels",
+      "spellings": [
+        "Dāniels"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-DANIELS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%81niels",
+        "https://www.izpetnieks.lv/en/name/Daniela",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Daniels",
+        "https://www.izpetnieks.lv/en/name/D%C4%81niela"
+      ],
+      "facts_used": "The Latvian Language Agency gives the exact correspondence Daniel → Dāniels for Danish, Norwegian and Swedish names. The source form belongs to the Daniel family, from Hebrew dānīēl, “God is my judge”. This is an explicit rendering link, rather than an inference from matching letters. The recommendation is recorded in a 2003 manual, on page 100, 215, 320. It documents this spelling by the publication date. The cited recommendation does not give the first Latvian birth registration, and dates for other David or Daniel spellings are not inherited.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Danish 100; Norwegian 215; Swedish 320. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Daniela",
+      "spellings": [
+        "Daniela"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Daniela"
+      ],
+      "facts_used": "The dictionary connects Daniela with the Daniels name family, from Hebrew dānīēl, explained as “God is my judge”. A documented local form belongs to this older international family without sharing every other spelling’s earliest attestation. The Siliņš catalogue records the following historical detail: Riga, 1969; calendar 1864. The cited dictionary location is page 94. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 94. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Daniēla",
+      "spellings": [
+        "Daniēla"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dani%C4%93la"
+      ],
+      "facts_used": "Catalogue has no exact entry or date. Agency Daniels search gives masculine Daniēls, not feminine Daniēla. Seek an exact feminine rendering row; do not transfer Daniela dates.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue has no exact entry or date. Agency Daniels search gives masculine Daniēls, not feminine Daniēla. Seek an exact feminine rendering row; do not transfer Daniela dates.",
+      "next_steps": "Catalogue has no exact entry or date. Agency Daniels search gives masculine Daniēls, not feminine Daniēla. Seek an exact feminine rendering row; do not transfer Daniela dates."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dāniela",
+      "spellings": [
+        "Dāniela"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%81niela"
+      ],
+      "facts_used": "Catalogue has no exact entry. Dāniels masculine rendering is not proof of feminine Dāniela. Seek an exact feminine row and dated use.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue has no exact entry. Dāniels masculine rendering is not proof of feminine Dāniela. Seek an exact feminine row and dated use.",
+      "next_steps": "Catalogue has no exact entry. Dāniels masculine rendering is not proof of feminine Dāniela. Seek an exact feminine row and dated use."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Daniella",
+      "spellings": [
+        "Daniella"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Daniella",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Catalogue has no exact entry. Foreign Daniella hits do not prove Latvian correspondence. Seek an explicit exact Latvian name bridge and dated use.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue has no exact entry. Foreign Daniella hits do not prove Latvian correspondence. Seek an explicit exact Latvian name bridge and dated use.",
+      "next_steps": "Catalogue has no exact entry. Foreign Daniella hits do not prove Latvian correspondence. Seek an explicit exact Latvian name bridge and dated use."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Daniils",
+      "spellings": [
+        "Daniils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-ALL93",
+        "LV-IDENTITY25",
+        "LV-LILE24",
+        "LV-LVA-DANIIL"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Daniils",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/",
+        "https://helda.helsinki.fi/server/api/core/bitstreams/fd84c3d3-6e27-4933-a25a-0fa177849054/content",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Даниил"
+      ],
+      "facts_used": "Catalogue provides only see-also forms. Balode's 2025 cached studies mention exact Daniils in discussions of the Latvian stock, but an exact origin chain and dated episode were not established in this pass. LVA Даниил search returned no rows. Inspect the scholarly context and Russian manual original before resolving.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue provides only see-also forms. Balode's 2025 cached studies mention exact Daniils in discussions of the Latvian stock, but an exact origin chain and dated episode were not established in this pass. LVA Даниил search returned no rows. Inspect the scholarly context and Russian manual original before resolving.",
+      "next_steps": "Catalogue provides only see-also forms. Balode's 2025 cached studies mention exact Daniils in discussions of the Latvian stock, but an exact origin chain and dated episode were not established in this pass. LVA Даниил search returned no rows. Inspect the scholarly context and Russian manual original before resolving."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Danils",
+      "spellings": [
+        "Danils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Danils",
+        "https://www.izpetnieks.lv/en/name/Daniela"
+      ],
+      "facts_used": "The dictionary connects Danils with the Daniels name family, from Hebrew dānīēl, explained as “God is my judge”. A documented local form belongs to this older international family without sharing every other spelling’s earliest attestation. The Siliņš catalogue records the following historical detail: Asūne, Latgale, 1645. The cited dictionary location is page 94. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Catalogue's wording says associated with Daniela but related-name field says Daniels; only the Daniel family is asserted, not a derivation of a masculine name from the feminine. Checked location: 94. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Daņiils",
+      "spellings": [
+        "Daņiils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-DANIIL"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Da%C5%86iils",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Даниил"
+      ],
+      "facts_used": "No exact cached origin, catalogue entry or agency Даниил row. Seek exact palatalized spelling in a rendering manual and dated given-name record.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact cached origin, catalogue entry or agency Даниил row. Seek exact palatalized spelling in a rendering manual and dated given-name record.",
+      "next_steps": "No exact cached origin, catalogue entry or agency Даниил row. Seek exact palatalized spelling in a rendering manual and dated given-name record."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Daņila",
+      "spellings": [
+        "Daņila"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-ALL93",
+        "LV-LILE24",
+        "LV-LVA-DANIIL"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Da%C5%86ila",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Даниил"
+      ],
+      "facts_used": "Balode 2025 mentions exact form but catalogue origin is absent; do not turn discussion of spelling into a full origin history. Inspect article context and exact Russian→Latvian row.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Balode 2025 mentions exact form but catalogue origin is absent; do not turn discussion of spelling into a full origin history. Inspect article context and exact Russian→Latvian row.",
+      "next_steps": "Balode 2025 mentions exact form but catalogue origin is absent; do not turn discussion of spelling into a full origin history. Inspect article context and exact Russian→Latvian row."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Daņils",
+      "spellings": [
+        "Daņils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-DANIIL"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Da%C5%86ils",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Даниил"
+      ],
+      "facts_used": "No exact catalogue or private-cache origin. Seek a palatalized short-form entry, keeping it distinct from Danils and Daņiils.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact catalogue or private-cache origin. Seek a palatalized short-form entry, keeping it distinct from Danils and Daņiils.",
+      "next_steps": "No exact catalogue or private-cache origin. Seek a palatalized short-form entry, keeping it distinct from Danils and Daņiils."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dato",
+      "spellings": [
+        "Dato"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dato"
+      ],
+      "facts_used": "Catalogue qualifies Georgian Dato/Davit route and gives no Latvian transmission or dated attestation. Its web lead is not a substitute for an inspected Georgian onomastic entry. Find exact Georgian bridge plus a dated Latvian use; do not infer route from spelling.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue qualifies Georgian Dato/Davit route and gives no Latvian transmission or dated attestation. Its web lead is not a substitute for an inspected Georgian onomastic entry. Find exact Georgian bridge plus a dated Latvian use; do not infer route from spelling.",
+      "next_steps": "Catalogue qualifies Georgian Dato/Davit route and gives no Latvian transmission or dated attestation. Its web lead is not a substitute for an inspected Georgian onomastic entry. Find exact Georgian bridge plus a dated Latvian use; do not infer route from spelling."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Davids",
+      "spellings": [
+        "Davids"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-DAVIDS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Davids",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Davids",
+        "https://www.izpetnieks.lv/en/name/D%C4%81v%C4%ABds"
+      ],
+      "facts_used": "The Latvian Language Agency gives the exact correspondence David → Davids for French names. The source form belongs to the David family, explained through Hebrew Dāvīd, “beloved”. This is an explicit rendering link, rather than an inference from matching letters. The recommendation is recorded in a 1963 manual, on page 70. It documents this spelling by the publication date. The cited recommendation does not give the first Latvian birth registration, and dates for other David or Daniel spellings are not inherited.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 70. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dāvīds",
+      "spellings": [
+        "Dāvīds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-DAVIDS",
+        "LV-LVA-LT61",
+        "LT-SENNSALYS68",
+        "LT-SALYS83",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%81v%C4%ABds",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Davids",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "The Latvian Language Agency gives the exact correspondence Dovydas → Dāvīds for Lithuanian names. The source form belongs to the David family, explained through Hebrew Dāvīd, “beloved”. This is an explicit rendering link, rather than an inference from matching letters. The recommendation is recorded in a 1961 manual, on page 45. It documents this spelling by the publication date. The cited recommendation does not give the first Latvian birth registration, and dates for other David or Daniel spellings are not inherited.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "LVA website's exact given-name row prints Dāvīds; the scanned 1961 p.45 prints *Dāvīds. Salys p.225 pairs Dovydas with David. Do not transfer Dāvids's Riga 1607 date. Checked location: 45. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dāvs",
+      "spellings": [
+        "Dāvs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%81vs",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Dāvs with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Rūjiena, 1761, in the shared Dāv(i)s entry; calendar 1889. The cited dictionary location is page 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "1761 belongs to the combined Dāv(i)s entry, not an independently dated exact Dāvs birth. Checked location: 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Deivids",
+      "spellings": [
+        "Deivids"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Deivids",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Deivids with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Riga, 1971. The cited dictionary location is page 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Deivija",
+      "spellings": [
+        "Deivija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Deivija",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Deivija with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Riga, 1965. The cited dictionary location is page 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Catalogue explicitly includes feminine Deivija in the English-derived David group; no claim that it is a standard English female rendering. Checked location: 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Deivijs",
+      "spellings": [
+        "Deivijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Deivijs",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Deivijs with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Riga, 1965. The cited dictionary location is page 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Deivis",
+      "spellings": [
+        "Deivis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Deivis",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Deivis with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Jelgava, 1979. The cited dictionary location is page 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Deivs",
+      "spellings": [
+        "Deivs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Deivs",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.izpetnieks.lv/en/name/D%C4%81v%C4%ABds"
+      ],
+      "facts_used": "The Latvian Language Agency gives the exact correspondence Dave → Deivs for English names. The source form belongs to the David family, explained through Hebrew Dāvīd, “beloved”. This is an explicit rendering link, rather than an inference from matching letters. The recommendation is recorded in a 2006 manual, on page 66. It documents this spelling by the publication date. The cited recommendation does not give the first Latvian birth registration, and dates for other David or Daniel spellings are not inherited.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Visually checked Dave (diminutive of David) → Deivs in given-name section. No inherited Latvian first-use date. Checked location: PDF 63 / printed 66. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Deniels",
+      "spellings": [
+        "Deniels"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Deniels"
+      ],
+      "facts_used": "Catalogue lacks exact entry. Visually checked Ahero 2006 PDF 63 / printed 66 has Denjels (with j), not Deniels. Seek exact spelling correspondence; do not silently remove j.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue lacks exact entry. Visually checked Ahero 2006 PDF 63 / printed 66 has Denjels (with j), not Deniels. Seek exact spelling correspondence; do not silently remove j.",
+      "next_steps": "Catalogue lacks exact entry. Visually checked Ahero 2006 PDF 63 / printed 66 has Denjels (with j), not Deniels. Seek exact spelling correspondence; do not silently remove j."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dēvids",
+      "spellings": [
+        "Dēvids"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%93vids"
+      ],
+      "facts_used": "Catalogue has no exact long-ē origin. Ahero gives Deivids and Dāvids, neither Dēvids. Seek exact manual/onomastic entry and dated use.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue has no exact long-ē origin. Ahero gives Deivids and Dāvids, neither Dēvids. Seek exact manual/onomastic entry and dated use.",
+      "next_steps": "Catalogue has no exact long-ē origin. Ahero gives Deivids and Dāvids, neither Dēvids. Seek exact manual/onomastic entry and dated use."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dēvija",
+      "spellings": [
+        "Dēvija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%93vija",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Dēvija with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Rēzekne, 1973. The cited dictionary location is page 97; 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 97; 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lv",
+      "name": "Dēvijs",
+      "spellings": [
+        "Dēvijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C4%93vijs",
+        "https://www.izpetnieks.lv/en/name/D%C4%81vids"
+      ],
+      "facts_used": "The dictionary connects Dēvijs with the Dāvids name family and explains its Hebrew base Dāvīd as “beloved”. This establishes the source’s name-family link; each local spelling still has its own history of use. The Siliņš catalogue records the following historical detail: Riga, 1969. The cited dictionary location is page 97; 96. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 97; 96. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lt",
+      "name": "Gražvilas",
+      "spellings": [
+        "Gražvilas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "No exact name hit in private index; Gražvilė or Gražvydas cannot establish Gražvilas. Seek exact masculine two-stem analysis and historical use.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact name hit in private index; Gražvilė or Gražvydas cannot establish Gražvilas. Seek exact masculine two-stem analysis and historical use.",
+      "next_steps": "No exact name hit in private index; Gražvilė or Gražvydas cannot establish Gražvilas. Seek exact masculine two-stem analysis and historical use."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lt",
+      "name": "Sabina",
+      "spellings": [
+        "Sabina"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-SABINA",
+        "INT-BTN-SABINUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/sabina",
+        "https://www.behindthename.com/name/sabinus"
+      ],
+      "facts_used": "The Lithuanian dictionary lists Sabina with the equivalent Sabine and Sabinas with Latin Sabinus. This Roman name family refers to the Sabines, an ancient people of central Italy. It is an ethnic name formation, not a claim that a modern bearer belongs to that ancient people. Both exact forms appear as personal names in the Senn–Salys dictionary of 1968, reprinted in 1983. The same page also records Sabas as a short form of Sabinas. These are dated linguistic records of names and their relationships, not the first use of the family in Lithuania.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 264 / printed 249. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "lt",
+      "name": "Sabinas",
+      "spellings": [
+        "Sabinas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-SABINA",
+        "INT-BTN-SABINUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/sabina",
+        "https://www.behindthename.com/name/sabinus"
+      ],
+      "facts_used": "The Lithuanian dictionary lists Sabina with the equivalent Sabine and Sabinas with Latin Sabinus. This Roman name family refers to the Sabines, an ancient people of central Italy. It is an ethnic name formation, not a claim that a modern bearer belongs to that ancient people. Both exact forms appear as personal names in the Senn–Salys dictionary of 1968, reprinted in 1983. The same page also records Sabas as a short form of Sabinas. These are dated linguistic records of names and their relationships, not the first use of the family in Lithuania.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 264 / printed 249. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "ee",
+      "name": "Taave",
+      "spellings": [
+        "Taave"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 217 / printed 219 visually lists Taave EO 63 (1963 national list) without a David cross-reference. Taavo/Tavo analyses do not settle final-e Taave. Seek an explicit exact-form origin source.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Rajandi PDF 217 / printed 219 visually lists Taave EO 63 (1963 national list) without a David cross-reference. Taavo/Tavo analyses do not settle final-e Taave. Seek an explicit exact-form origin source.",
+      "next_steps": "Rajandi PDF 217 / printed 219 visually lists Taave EO 63 (1963 national list) without a David cross-reference. Taavo/Tavo analyses do not settle final-e Taave. Seek an explicit exact-form origin source."
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "ee",
+      "name": "Taavo",
+      "spellings": [
+        "Taavo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi explicitly links Taavo to David and gives Tavo as equivalent to Taavo. In that entry the Hebrew base of David is explained as “beloved, friend”. The single-a and double-a spellings are linked by the dictionary, rather than being merged merely because they look similar. These correspondences are printed in Raamat nimedest in 1966. The David article also discusses older Estonian forms and twentieth-century use, but its grouped frequencies cannot be assigned to Tavo or Taavo separately. No first-bearer date is inferred from the dictionary’s publication.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 41–42 / printed 43–44; PDF 158 / printed 160. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-30",
+      "date": "2026-11-12",
+      "calendar_date": "12-30",
+      "country": "ee",
+      "name": "Tavo",
+      "spellings": [
+        "Tavo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi explicitly links Taavo to David and gives Tavo as equivalent to Taavo. In that entry the Hebrew base of David is explained as “beloved, friend”. The single-a and double-a spellings are linked by the dictionary, rather than being merged merely because they look similar. These correspondences are printed in Raamat nimedest in 1966. The David article also discusses older Estonian forms and twentieth-century use, but its grouped frequencies cannot be assigned to Tavo or Taavo separately. No first-bearer date is inferred from the dictionary’s publication.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 160 / printed 162; PDF 41–42 / printed 43–44. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    }
+  ]
+}

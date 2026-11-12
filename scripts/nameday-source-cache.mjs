@@ -87,8 +87,19 @@ if(command==='index'){
  await (async()=>{try{
  if(!/^https?:\/\//.test(options.url||''))throw Error('fetch requires --url http(s)://…');
  const known=(await manifests()).find(m=>urlKey(m.url)===urlKey(options.url));
- if(known){console.log(JSON.stringify({id:known.id,kind:known.kind||'pdf',reused:true,pdf_pages:known.pdf_pages,title:known.title}));return;}
+ if(known){
+  let reused=known;
+  if(id&&id!==known.id){
+   let prior;try{prior=JSON.parse(await readFile(manifestFor(id),'utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
+   if(prior&&urlKey(prior.url)!==urlKey(options.url))throw Error('Source ID '+id+' already belongs to another URL; choose a distinct ID');
+   reused={...known,id,title:options.title||known.title};
+   await mkdir(join(cache,id),{recursive:true});await writeFile(manifestFor(id),JSON.stringify(reused,null,2)+'\n');
+  }
+  console.log(JSON.stringify({id:reused.id,kind:reused.kind||'pdf',reused:true,pdf_pages:reused.pdf_pages,title:reused.title}));return;
+ }
  const sourceId=id||slugId(options.url);
+ let prior;try{prior=JSON.parse(await readFile(manifestFor(sourceId),'utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
+ if(prior&&urlKey(prior.url)!==urlKey(options.url))throw Error('Source ID '+sourceId+' already belongs to another URL; choose a distinct ID');
  const response=await fetch(options.url,{redirect:'follow',headers:{'user-agent':'Mozilla/5.0 (compatible; research-source-cache)','accept':'application/pdf,text/html;q=0.9,*/*;q=0.5'},signal:AbortSignal.timeout(Number(options.timeout||120000))});
  if(!response.ok)throw Error('HTTP '+response.status+' for '+options.url+'; nothing cached');
  const bytes=Buffer.from(await response.arrayBuffer());

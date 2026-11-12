@@ -1,0 +1,604 @@
+{
+  "round": 74,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-07: researched all 22 unfinished LV/LT/EE profiles before advancing. 11 histories written; 11 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Rota",
+      "spellings": [
+        "Rota"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Rota"
+      ],
+      "facts_used": "The catalogue explains Rota through Latvian rota. These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1879 (dictionary page 278). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Catalogue explicitly links the Latvian word rota but supplies no gloss: narrative should retain the word without adding this working gloss. Checked location: Siliņš catalogue, dictionary p. 278. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Zigmārs",
+      "spellings": [
+        "Zigmārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigm%C4%81rs"
+      ],
+      "facts_used": "The catalogue explains Zigmārs through Sigmārs: Old High German sigu «victory» + māri «famous». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1901 (dictionary page 337; 289). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 337; 289. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Juliāns",
+      "spellings": [
+        "Juliāns"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Juli%C4%81ns"
+      ],
+      "facts_used": "The catalogue explicitly says this exact spelling is absent from inspected pp. 184–185. Seek an exact rendering row and dated use; Jūlians is not an automatic substitute.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "The catalogue explicitly says this exact spelling is absent from inspected pp. 184–185. Seek an exact rendering row and dated use; Jūlians is not an automatic substitute.",
+      "next_steps": "The catalogue explicitly says this exact spelling is absent from inspected pp. 184–185. Seek an exact rendering row and dated use; Jūlians is not an automatic substitute."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Digmārs",
+      "spellings": [
+        "Digmārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-ALL93",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Digm%C4%81rs",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf"
+      ],
+      "facts_used": "Scholarly cached mentions (All93 p. 5/7; LILE24 p. 306) establish occurrence, not a full exact formation history. Seek an explicit element analysis and independently dated use; do not turn resemblance to Germanic -mar into proof.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Scholarly cached mentions (All93 p. 5/7; LILE24 p. 306) establish occurrence, not a full exact formation history. Seek an explicit element analysis and independently dated use; do not turn resemblance to Germanic -mar into proof.",
+      "next_steps": "Scholarly cached mentions (All93 p. 5/7; LILE24 p. 306) establish occurrence, not a full exact formation history. Seek an explicit element analysis and independently dated use; do not turn resemblance to Germanic -mar into proof."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Džulians",
+      "spellings": [
+        "Džulians"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C5%BEulians"
+      ],
+      "facts_used": "Catalogue marks Julian correspondence as possible only. Seek a Latvian agency exact rendering row and dated episode; do not promote a suggested international bridge.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue marks Julian correspondence as possible only. Seek a Latvian agency exact rendering row and dated episode; do not promote a suggested international bridge.",
+      "next_steps": "Catalogue marks Julian correspondence as possible only. Seek a Latvian agency exact rendering row and dated episode; do not promote a suggested international bridge."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Julians",
+      "spellings": [
+        "Julians"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-NORDIC03"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Julians",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Only foreign spelling hits in rendering manuals; exact Latvian given-name bridge is missing. Seek exact target spelling and historical use, distinguishing Jūlians and Juliāns.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only foreign spelling hits in rendering manuals; exact Latvian given-name bridge is missing. Seek exact target spelling and historical use, distinguishing Jūlians and Juliāns.",
+      "next_steps": "Only foreign spelling hits in rendering manuals; exact Latvian given-name bridge is missing. Seek exact target spelling and historical use, distinguishing Jūlians and Juliāns."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Jūlians",
+      "spellings": [
+        "Jūlians"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/J%C5%ABlians"
+      ],
+      "facts_used": "The catalogue explicitly connects Jūlians with Jūliuss and the Roman family name Iulius. The deeper origin of that Roman name is uncertain. The relationship does not by itself establish the same history for spellings with different vowel marks. The Siliņš catalogue records a historical detail: calendar 1899 (dictionary page 184; 185). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 184; 185. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Jūliāns",
+      "spellings": [
+        "Jūliāns"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/J%C5%ABli%C4%81ns"
+      ],
+      "facts_used": "Not found as exact spelling in cited dictionary pp. 184–185. Seek an explicit macron-on-both-vowels correspondence and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Not found as exact spelling in cited dictionary pp. 184–185. Seek an explicit macron-on-both-vowels correspondence and dated use.",
+      "next_steps": "Not found as exact spelling in cited dictionary pp. 184–185. Seek an explicit macron-on-both-vowels correspondence and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Sigmars",
+      "spellings": [
+        "Sigmars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Sigmars"
+      ],
+      "facts_used": "The catalogue explains Sigmars through Sigmārs: Old High German sigu «victory» + māri «famous». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: the shared Sigmārs/Sigmars entry: Kuldīga district, 1969 (dictionary page 289). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 289. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Sigmārs",
+      "spellings": [
+        "Sigmārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Sigm%C4%81rs"
+      ],
+      "facts_used": "The catalogue explains Sigmārs through Old High German sigu «victory» + māri «famous». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: the shared Sigmārs/Sigmars entry: Kuldīga district, 1969 (dictionary page 289). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 289. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Zigmāra",
+      "spellings": [
+        "Zigmāra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigm%C4%81ra"
+      ],
+      "facts_used": "The catalogue directs Zigmāra to Zigmārs and then Sigmārs. For that family it gives old German sigu, “victory”, and māri, “famous”. The cross-reference documents the relationship without calling every Zigmāra a newly created feminine form. The Siliņš catalogue records a historical detail: 1961 (dictionary page 337; 289). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 337; 289. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Zigmāris",
+      "spellings": [
+        "Zigmāris"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigm%C4%81ris"
+      ],
+      "facts_used": "Catalogue explicitly says the exact form is absent from p. 337. Seek an exact -is formation and dated record, without transferring Zigmāra or Sigmārs data.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue explicitly says the exact form is absent from p. 337. Seek an exact -is formation and dated record, without transferring Zigmāra or Sigmārs data.",
+      "next_steps": "Catalogue explicitly says the exact form is absent from p. 337. Seek an exact -is formation and dated record, without transferring Zigmāra or Sigmārs data."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lv",
+      "name": "Zigmars",
+      "spellings": [
+        "Zigmars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zigmars"
+      ],
+      "facts_used": "Catalogue says the spelling without macron is absent from p. 337. Seek an exact correspondence and dated use; Zigmārs evidence is not inherited.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue says the spelling without macron is absent from p. 337. Seek an exact correspondence and dated use; Zigmārs evidence is not inherited.",
+      "next_steps": "Catalogue says the spelling without macron is absent from p. 337. Seek an exact correspondence and dated use; Zigmārs evidence is not inherited."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lt",
+      "name": "Raimundas",
+      "spellings": [
+        "Raimundas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-RAYMOND"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/raymond"
+      ],
+      "facts_used": "Raimundas corresponds to German Raimund/Reimund in the dictionary. The family’s Germanic elements are regin, “counsel, decision”, and munt, “protection”. These component meanings do not define a bearer’s character. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 261 / printed 246; calendar PDF 301 / printed 286, January 23; curated Raymond root paragraph and Lithuanian forms. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lt",
+      "name": "Raudvilė",
+      "spellings": [
+        "Raudvilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys 1964 calendar PDF 301 / printed 286 records Raudvilė (Rauda); Maciejauskienė PDF 3 lists a proposed female compound. No exact two-element analysis established. Seek original Vardų žinynas entry and root analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Salys 1964 calendar PDF 301 / printed 286 records Raudvilė (Rauda); Maciejauskienė PDF 3 lists a proposed female compound. No exact two-element analysis established. Seek original Vardų žinynas entry and root analysis.",
+      "next_steps": "Salys 1964 calendar PDF 301 / printed 286 records Raudvilė (Rauda); Maciejauskienė PDF 3 lists a proposed female compound. No exact two-element analysis established. Seek original Vardų žinynas entry and root analysis."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lt",
+      "name": "Rūtenis",
+      "spellings": [
+        "Rūtenis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "Dictionary PDF 264 / printed 249 marks PN and FN; calendar January 7 gives Rutenis (Rutys), with vowel marks requiring care. No precise origin verified. Seek original exact etymological entry; do not infer rue or Ruthenian ethnonym.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Dictionary PDF 264 / printed 249 marks PN and FN; calendar January 7 gives Rutenis (Rutys), with vowel marks requiring care. No precise origin verified. Seek original exact etymological entry; do not infer rue or Ruthenian ethnonym.",
+      "next_steps": "Dictionary PDF 264 / printed 249 marks PN and FN; calendar January 7 gives Rutenis (Rutys), with vowel marks requiring care. No precise origin verified. Seek original exact etymological entry; do not infer rue or Ruthenian ethnonym."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lt",
+      "name": "Valentinas",
+      "spellings": [
+        "Valentinas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-VALENTINE1"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/valentine-1"
+      ],
+      "facts_used": "Valentinas is paired with Valentin in the dictionary. Its Roman family comes through Valentinus from Valens, associated with Latin “strong, healthy”. The linguistic meaning is separate from later customs about romantic love. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 275 / printed 260; 1964 calendar PDF 303 / printed 288, February 14; curated Valentine 1 root paragraph and Lithuanian forms. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "lt",
+      "name": "Julius",
+      "spellings": [
+        "Julius"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "In Lithuanian the dictionary explicitly treats Julius as a short form of both Julijus and Julijonas. The short spelling therefore has more than one documented full-name context; it need not be borrowed directly from a modern foreign Julius. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 237 / printed 222: KF von Julijus und Julijonas. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "ee",
+      "name": "Kanut",
+      "spellings": [
+        "Kanut"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Kanut with Kanuth, Knud and Knut, and gives the Latinized form Canutus. This locates the name in a northern European family; an old dictionary’s competing lexical glosses need not be turned into one certain literal meaning. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 92 / printed 94. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "ee",
+      "name": "Nuut",
+      "spellings": [
+        "Nuut"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi explicitly identifies Nuut as an Estonian short form in the Kanut/Knud/Knut family. He also records the genitive Nuudi. Nuut is therefore a documented local name form, rather than a meaning guessed from its modern spelling. His 1966 book describes Nuut as an older given-name form then surviving in surnames; another entry repeats Nuudi ~ Nuut under Kanuth. That description belongs to the book’s time. It is not a statement about how often Nuut is given today.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 92 / printed 94; PDF 135 / printed 137. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "ee",
+      "name": "Susi",
+      "spellings": [
+        "Susi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "EE-RAJANDI66",
+        "EE-SINIJARV14",
+        "LT-BURBA24",
+        "LT-SALYS83",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.folklore.ee/kp/lp/2014/siirisinijarveesnimed.pdf",
+        "https://e-journals.ku.lt/journal/RH/article/3067/file/pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf"
+      ],
+      "facts_used": "Rajandi PDF 156 / printed 158 explicitly lists feminine Susi as a Susanna short form; the January calendar may include an independent masculine/nature-name use. Seek an exact calendar-context analysis and date, distinguishing Susi from Suusi and from the dialect word for wolf. Do not transplant Susanna dates or Rajandi's outdated shush+hannah compound gloss.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi PDF 156 / printed 158 explicitly lists feminine Susi as a Susanna short form; the January calendar may include an independent masculine/nature-name use. Seek an exact calendar-context analysis and date, distinguishing Susi from Suusi and from the dialect word for wolf. Do not transplant Susanna dates or Rajandi's outdated shush+hannah compound gloss.",
+      "next_steps": "Rajandi PDF 156 / printed 158 explicitly lists feminine Susi as a Susanna short form; the January calendar may include an independent masculine/nature-name use. Seek an exact calendar-context analysis and date, distinguishing Susi from Suusi and from the dialect word for wolf. Do not transplant Susanna dates or Rajandi's outdated shush+hannah compound gloss."
+    },
+    {
+      "batch": "calendar-2027-01-07",
+      "date": "2026-11-12",
+      "calendar_date": "01-07",
+      "country": "ee",
+      "name": "Hirvo",
+      "spellings": [
+        "Hirvo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "EE-MAGISTE29",
+        "EE-MAGISTE29-AES",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Mägiste 1929 PDF 28 / printed 26 labels Hirvo as a Finnish-almanac name; Rajandi index PDF 200 / printed 202 gives EO63, a recommendation-list reference, not an independently dated bearer. Seek an exact lexical derivation and given-name episode before asserting hirv deer.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Mägiste 1929 PDF 28 / printed 26 labels Hirvo as a Finnish-almanac name; Rajandi index PDF 200 / printed 202 gives EO63, a recommendation-list reference, not an independently dated bearer. Seek an exact lexical derivation and given-name episode before asserting hirv deer.",
+      "next_steps": "Mägiste 1929 PDF 28 / printed 26 labels Hirvo as a Finnish-almanac name; Rajandi index PDF 200 / printed 202 gives EO63, a recommendation-list reference, not an independently dated bearer. Seek an exact lexical derivation and given-name episode before asserting hirv deer."
+    }
+  ]
+}

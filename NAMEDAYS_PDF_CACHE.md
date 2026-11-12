@@ -11,7 +11,7 @@ node scripts/nameday-source-cache.mjs index --id LT-SALYS83 --file ../var/nameda
 node scripts/nameday-source-cache.mjs search --id LT-SALYS83 --query Mantvinas --word true
 ```
 
-The index lives in `../var/namedays-sources/`, outside the portable repository. Each source ID has a manifest with its URL, title, SHA-256, parser version and PDF page count. Content-addressed objects retain the original PDF, UTF-8 text and NFC-normalized page JSON. Matching file bytes and parser version reuse the existing extraction even if the original filename changes or another source ID points to it. Changed bytes create a new object; old objects remain available. The tool does not fetch URLs. Download only publicly accessible materials that may be consulted; indexing grants no republication rights.
+The index lives in `../var/namedays-sources/`, outside the portable repository. Each source ID has a manifest with its URL, title, SHA-256, parser version and PDF page count. Content-addressed objects retain the original PDF, UTF-8 text and NFC-normalized page JSON. Matching file bytes and parser version reuse the existing extraction even if the original filename changes or another source ID points to it. Changed bytes create a new object; old objects remain available. The index command registers a local original; fetch downloads and registers a new URL or reuses a cached URL. Consult only publicly accessible materials; indexing grants no republication rights.
 
 Search preserves diacritics and searches case-insensitively. `--word true` excludes matches embedded in other words; omit it for discovery of inflections or OCR fragments. Search results give **one-based PDF pages**, not printed pages. An empty result is not proof of absence: extraction may lose accents, insert spaces or mistake glyphs. The tool rejects empty extraction.
 
@@ -63,3 +63,28 @@ The 12 November–25 December verification recheck (rounds 56–61) added **EE-R
 ## Save every new source automatically
 
 `node scripts/nameday-source-cache.mjs fetch --url URL [--id ID --title TITLE]` downloads a PDF or web page once, stores the original and its text under a content hash and registers it; a URL that is already cached (ignoring the `#page` fragment) is reused without a download. HTML pages are stored as one searchable page with their fetch date; challenge pages and errors are not cached. Without `--id`, the source gets an automatic `WEB-<host-path>` ID; promote productive sources to a stable directory ID. In Claude Code, the project hook `.claude/settings.json` (outside this repository, in the parent workspace) runs `scripts/nameday-fetch-hook.mjs` after every WebFetch, so pages opened during research are cached without a manual step; each attempt, including failures, is appended to `../var/namedays-sources/fetch-log.jsonl`. Other agents should call `fetch` themselves.
+
+
+## 26 December–1 January: URL reuse and exact spelling
+
+Rounds 62–68 reuse the registered originals and text for Salys, Pakerys, Mägiste, Rajandi and the English/Nordic rendering manuals. New HTML pages were saved with fetch. One reusable 16-page PDF was added: **LT-SINKEVICIUTE12**, Sinkevičiūtė’s study of names given in 2007–2010, *Kalbos kultūra* 84, pp. 214–229; no exact Gaja result was found and the publication year is left unverified. See the source directory for all visually checked PDF/printed locators and failed leads.
+
+For a cached URL, fetch --url URL --id STABLE-ID --title TITLE now registers the requested stable ID against the existing content object without downloading or extracting again. The old alias remains usable. An ID already assigned to a different URL causes an error before a request or write. Do not build IDs solely by removing Baltic diacritics: different spellings can collapse to the same ASCII string. Use a URL hash suffix or another explicitly distinct stable ID. Originals and extracted text stay private and content-addressed.
+
+The public index includes source IDs documented in the shared directory or round notes; unregistered working-page IDs stay in the private catalogue. HTML contributes searchable text but never to the cached-PDF page count. The private catalogue explicitly labels HTML versus PDF. A cache hit is a discovery aid, and aliases to one object are not independent corroborating sources.
+
+
+## 2–10 January: Armenian manual and accent/OCR checks
+
+Rounds 69–77 added one reusable original: **LV-LVA-ARM09**, Valda Salmiņa, *Armēņu īpašvārdu atveide latviešu valodā* (Riga, 2009), **192 PDF pages**. Original title/imprint at PDF 1–2 and the exact Arams/Արամ/Aram row at PDF/printed 102 were checked. It was fetched through the shared cache, indexed once, and remains outside the public repository. Existing Salys, Pakerys, Sinkevičiūtė, Rajandi, Mägiste and rendering manuals were reused without re-downloading.
+
+Diacritic-insensitive private discovery recovered Arvaidė in Pakerys’s accented 2011 text; the accepted spelling was then confirmed in the original PDF 8 / printed 97. Exact public spellings were not normalized to remove accents. Conversely, the extracted Talve on Mägiste AES PDF 26 visually reads **Valve**. The false hit is recorded in the directory and round 77, so it will not be researched again as new evidence. Search hits in surnames, place names, recommendations and birth registers retain those distinct scopes. Every new HTML reference and rejected submission page is also cached once and documented by stable ID.
+
+
+## 11–15 January: registered original and table/OCR distinctions
+
+Rounds78–82 reused registered originals and their extracted text. The existing private twelve-page r6-source-44 PDF was registered as **LT-MACIEJAUSKIENE04**, Vitalija Maciejauskienė, *Dar kartą apie lietuvių vardus*, *Kalbos kultūra77* (2004), pp84–95, with its repository URL. The content hash matched the already indexed object, so no download or re-extraction occurred. Productive original locations are PDF4/printed87 and PDF7/printed90.
+
+A linked **LV-LVKJ73** candidate fetched through the shared tool yielded no text; no accepted indexed-source manifest was created. Keep its original private for targeted visual/OCR work and reuse the saved failure information rather than fetching again. The Armenian2009 manual and English/Russian/Nordic manuals already in the cache supplied the exact accepted rows without new PDF downloads.
+
+Two important checks: Russian OCR missed Анисья→Aņisja on PDF76/printed183, while the original clearly confirms it. Conversely, the Swedish Felicia row on PDF204/printed327 prints Felīsia/*Felīsija; its asterisk cannot be discarded when evaluating the target spelling. The common word salvi in Rajandi PDF22 is not the name Salvi. All accepted locators and rejected contexts are recorded in the shared source directory and numeric round notes. New web originals, including negative botanical/submission/language-only leads, are cached once under stable IDs.
