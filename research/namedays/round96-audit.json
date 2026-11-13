@@ -1,0 +1,51 @@
+{
+  "calendar_records_covered": 25,
+  "existing_reviewed_preserved": 3,
+  "records": 22,
+  "reviewed": 8,
+  "translations": 40,
+  "paragraphs": 80,
+  "open": 14,
+  "summary": [
+    {
+      "country": "lv",
+      "examined": 17,
+      "new_histories": 6,
+      "calendar_unchanged": true,
+      "unrelated_content_changes": 0,
+      "unrelated_profiles_with_additive_provenance": 70
+    },
+    {
+      "country": "lt",
+      "examined": 2,
+      "new_histories": 1,
+      "calendar_unchanged": true,
+      "unrelated_content_changes": 0,
+      "unrelated_profiles_with_additive_provenance": 16
+    },
+    {
+      "country": "ee",
+      "examined": 3,
+      "new_histories": 1,
+      "calendar_unchanged": true,
+      "unrelated_content_changes": 0,
+      "unrelated_profiles_with_additive_provenance": 12
+    }
+  ],
+  "validation": {
+    "full_tests": {
+      "command": "npm test",
+      "passed": 129,
+      "failed": 0
+    },
+    "static_build": {
+      "command": "npm run build",
+      "status": "passed"
+    },
+    "whitespace_check": {
+      "command": "git diff --check",
+      "status": "passed"
+    }
+  },
+  "note": "The offline generator also adds inherited provenance URLs to some unrelated profiles. Existing provenance is preserved; all other profile fields remain identical apart from the writer version. No publication or push performed."
+}

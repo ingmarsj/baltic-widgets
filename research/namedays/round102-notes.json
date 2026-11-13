@@ -1,0 +1,3250 @@
+{
+  "round": 102,
+  "date": "2026-11-13",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "Calendar-order pass for all LV/LT/EE records on 6–10 May (5 dates). Accounts for 143 calendar-profile records: 21 existing reviewed records preserved and 122 unfinished records examined (122 distinct unfinished profiles). Adds 35 histories in five languages; 87 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 11 May.",
+  "daily_summary": [
+    {
+      "calendar_date": "05-06",
+      "calendar_records": 19,
+      "examined": 15,
+      "written": 6,
+      "open": 9,
+      "existing_reviewed": 4
+    },
+    {
+      "calendar_date": "05-07",
+      "calendar_records": 33,
+      "examined": 29,
+      "written": 9,
+      "open": 20,
+      "existing_reviewed": 4
+    },
+    {
+      "calendar_date": "05-08",
+      "calendar_records": 30,
+      "examined": 24,
+      "written": 7,
+      "open": 17,
+      "existing_reviewed": 6
+    },
+    {
+      "calendar_date": "05-09",
+      "calendar_records": 35,
+      "examined": 32,
+      "written": 7,
+      "open": 25,
+      "existing_reviewed": 3
+    },
+    {
+      "calendar_date": "05-10",
+      "calendar_records": 26,
+      "examined": 22,
+      "written": 6,
+      "open": 16,
+      "existing_reviewed": 4
+    }
+  ],
+  "records": [
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Gaidis",
+      "spellings": [
+        "Gaidis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-GAIDIS-8D9DCCA4",
+        "LV-BALODIS08"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/gaidis",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODIS08 PDF27,51,57,59. Text matches are not proof of exact orthography; original inspection is required for acceptance. Catalogue gives only a related-name field; LV-BALODIS08 PDF51 records Gaida with a questioned Lithuanian gaidys / Prussian gaydis comparison (Riga 1454) and Gaidis Riga 1922. Inspect Siliņš p131 before choosing.",
+      "facts_used": "Catalogue gives only a related-name field; LV-BALODIS 08 PDF 51 records Gaida with a questioned Lithuanian gaidys / Prussian gaydis comparison (Riga 1454) and Gaidis Riga 1922. Inspect Siliņš p 131 before choosing.",
+      "uncertainties": "Catalogue gives only a related-name field; LV-BALODIS 08 PDF 51 records Gaida with a questioned Lithuanian gaidys / Prussian gaydis comparison (Riga 1454) and Gaidis Riga 1922. Inspect Siliņš p 131 before choosing.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Catalogue gives only a related-name field; LV-BALODIS 08 PDF 51 records Gaida with a questioned Lithuanian gaidys / Prussian gaydis comparison (Riga 1454) and Gaidis Riga 1922. Inspect Siliņš p 131 before choosing."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Didzis",
+      "spellings": [
+        "Didzis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-DIDZIS-0E9606B0"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/didzis"
+      ],
+      "evidence_locations": "Attributed catalogue pp98,100; direct link to Dietrich.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Didzis to Dietrich. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Lielauce, 1816; calendar 1895. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Dereks",
+      "spellings": [
+        "Dereks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-DEREKS-7947A25D"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/dereks"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Didrihs",
+      "spellings": [
+        "Didrihs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-DIDRIHS-5151E573"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/didrihs"
+      ],
+      "evidence_locations": "Attributed catalogue pp98,100; explicit form of Dietrich.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Didrihs to Dietrich. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Jaunpiebalga, 1638. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Didriķis",
+      "spellings": [
+        "Didriķis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-DIDRIKIS-5D063162"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/didri%C4%B7is"
+      ],
+      "evidence_locations": "Attributed catalogue pp98,100; listed under Dietrich.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Didriķis to Dietrich. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Riga, 1498; calendar 1877. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Didžus",
+      "spellings": [
+        "Didžus"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-DIDZUS-10B5FE21"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/did%C5%BEus"
+      ],
+      "evidence_locations": "Attributed catalogue pp98,100; listed under Dietrich. LT-LPZ PDF491 offers a different Latvian dižs comparison for the Lithuanian surname Didžius; not displayed.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Didžus to Dietrich. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Dundaga, fourth quarter of the nineteenth century; calendar 1889. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Dīters",
+      "spellings": [
+        "Dīters"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-DITERS-87B33077"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/d%C4%ABters"
+      ],
+      "evidence_locations": "Attributed catalogue pp99,100; direct link to Dietrich.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Dīters to Dietrich. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Tukums, 1930. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Gaidonis",
+      "spellings": [
+        "Gaidonis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-GAIDONIS-4D85BE5B"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/gaidonis"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "facts_used": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "uncertainties": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lv",
+      "name": "Gaidvars",
+      "spellings": [
+        "Gaidvars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-GAIDVARS-25B28CBF"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/gaidvars"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "facts_used": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "uncertainties": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lt",
+      "name": "Benė",
+      "spellings": [
+        "Benė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Salys PDF307/printed292, Benedikta (Benė, Bena), 6 May 1964; original page image inspected in round 101. One recommendation, not an exclusive origin.",
+      "facts_used": "Benė is documented as a proposed short form of Benedikta in a Lithuanian historical name calendar. This is one recorded relationship, rather than proof that every international use of the spelling has the same origin. The 1964 calendar, reprinted in Antanas Salys’s collected writings in 1983, places Benedikta on 6 May. The recommendation is evidence of calendar history, not the first bearer or the invention of the name.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lt",
+      "name": "Eidmantė",
+      "spellings": [
+        "Eidmantė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "evidence_locations": "Exact private-cache search. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "lt",
+      "name": "Evodijus",
+      "spellings": [
+        "Evodijus"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "evidence_locations": "Exact private-cache search. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "ee",
+      "name": "Aasa",
+      "spellings": [
+        "Aasa"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-ESELTS-NIMEDE-NIMEL-2026",
+        "EE-LEOLE05",
+        "EE-PAEVALEHT-19281025",
+        "EE-RAJANDI66",
+        "EE-TURK10",
+        "LT-FRAENKEL62"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2026/03/Nimede-nimel_EST-89_2026.pdf",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_11_november.pdf",
+        "unrecorded:19281025_1.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://dspace.ut.ee/server/api/core/bitstreams/de245993-def6-4644-9877-939eb96079b3/content",
+        "https://archive.org/download/fraenkel-litauisches-etymologisches-woerterbuch-bd.-1-2-1962-1965/Fraenkel%2C%20Litauisches%20Etymologisches%20Woerterbuch%2C%20Bd.%201-2%2C%201962-1965.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: EE-RAJANDI66 PDF189,193,233; EE-ESELTS-NIMEDE-NIMEL-2026 PDF154. Text matches are not proof of exact orthography; original inspection is required for acceptance. Only a Tartu 1934 index record in Rajandi.",
+      "facts_used": "Only a Tartu 1934 index record in Rajandi.",
+      "uncertainties": "Only a Tartu 1934 index record in Rajandi.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Only a Tartu 1934 index record in Rajandi."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "ee",
+      "name": "Aase",
+      "spellings": [
+        "Aase"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: EE-RAJANDI66 PDF224. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-06",
+      "date": "2026-11-13",
+      "calendar_date": "05-06",
+      "country": "ee",
+      "name": "Asse",
+      "spellings": [
+        "Asse"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-MAGISTE29",
+        "EE-MAGISTE29-AES",
+        "EE-RAJANDI66",
+        "LT-FRAENKEL62",
+        "LV-BALODIS-LIV"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://archive.org/download/fraenkel-litauisches-etymologisches-woerterbuch-bd.-1-2-1962-1965/Fraenkel%2C%20Litauisches%20Etymologisches%20Woerterbuch%2C%20Bd.%201-2%2C%201962-1965.pdf",
+        "https://www.diacronia.ro/indexing/details/V193/pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: EE-RAJANDI66 PDF30,193; EE-MAGISTE29-AES PDF17,29. Text matches are not proof of exact orthography; original inspection is required for acceptance. Mägiste 1929 lists feminine Asse (PN 54, Wd., Kallas 1921) without a gloss; Rajandi’s Asse-Asso chronicle basis belongs to Ats.",
+      "facts_used": "Mägiste 1929 lists feminine Asse (PN 54, Wd., Kallas 1921) without a gloss; Rajandi’s Asse-Asso chronicle basis belongs to Ats.",
+      "uncertainties": "Mägiste 1929 lists feminine Asse (PN 54, Wd., Kallas 1921) without a gloss; Rajandi’s Asse-Asso chronicle basis belongs to Ats.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Mägiste 1929 lists feminine Asse (PN 54, Wd., Kallas 1921) without a gloss; Rajandi’s Asse-Asso chronicle basis belongs to Ats."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Henriete",
+      "spellings": [
+        "Henriete"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-HENRIETE-225611E5"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/henriete"
+      ],
+      "evidence_locations": "Attributed catalogue pp152,150; shared Henriet/a, -e group under Heinrihs.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Henriete to Heinrihs. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: second quarter of the nineteenth century; calendar 1901. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date. The dates belong to the shared Henriet/a, -e entry, not to independently checked records for each spelling.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Henrijs",
+      "spellings": [
+        "Henrijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-HENRIJS-05115F01"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/henrijs"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "facts_used": "The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "uncertainties": "The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Jete",
+      "spellings": [
+        "Jete"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-JETE-96D5E1AA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/jete"
+      ],
+      "evidence_locations": "Attributed catalogue pp179,152,150; listed under Henriete.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Jete to Henriete. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: 1843; calendar 1817. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Enriko",
+      "spellings": [
+        "Enriko"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-ENRIKO-56ED392A"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/enriko"
+      ],
+      "evidence_locations": "Attributed catalogue pp118,150; Italian form of Heinrihs.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Enriko to Heinrihs. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: 1922. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Anriete",
+      "spellings": [
+        "Anriete"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANRIETE-B47EE4D1"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/anriete"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Domicela",
+      "spellings": [
+        "Domicela"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-DOMICELA-F48701C6"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/domicela"
+      ],
+      "evidence_locations": "Attributed catalogue p100; Latin gloss as given.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš connects Domicela with the source word Latin domitāre, meaning to tame (the emotions). The catalogue gives the following historical record: Latgale, 1751; calendar 1767. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Domicele",
+      "spellings": [
+        "Domicele"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-DOMICELE-29397EF0"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/domicele"
+      ],
+      "evidence_locations": "Attributed catalogue p100; listed under Domicela.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Domicele to Domicela. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: the Ilūkste area, fourth quarter of the nineteenth century. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Domicelija",
+      "spellings": [
+        "Domicelija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-DOMICELIJA-638840E8"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/domicelija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Domicella",
+      "spellings": [
+        "Domicella"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-DOMICELLA-C356D8F9"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/domicella"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Donicela",
+      "spellings": [
+        "Donicela"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-DONICELA-12D01349"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/donicela"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "facts_used": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "uncertainties": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Ennrike",
+      "spellings": [
+        "Ennrike"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ENNRIKE-26D5CBC3"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ennrike"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "facts_used": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "uncertainties": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Enrija",
+      "spellings": [
+        "Enrija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ENRIJA-84984103"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/enrija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Enrijs",
+      "spellings": [
+        "Enrijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ENRIJS-19A80C08"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/enrijs"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Enrika",
+      "spellings": [
+        "Enrika"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ENRIKA-C3C0B983"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/enrika"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Enriketa",
+      "spellings": [
+        "Enriketa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ENRIKETA-12BAA6D6"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/enriketa"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Enriks",
+      "spellings": [
+        "Enriks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ENRIKS-320CF151"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/enriks"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The prose mixes Enriks and Enrika attestations; inspect pp118,150 before assigning a date.",
+      "facts_used": "The prose mixes Enriks and Enrika attestations; inspect pp 118, 150 before assigning a date.",
+      "uncertainties": "The prose mixes Enriks and Enrika attestations; inspect pp 118, 150 before assigning a date.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The prose mixes Enriks and Enrika attestations; inspect pp 118, 150 before assigning a date."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Genrieta",
+      "spellings": [
+        "Genrieta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-GENRIETA-6E0535D2"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/genrieta"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Henrieta",
+      "spellings": [
+        "Henrieta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-HENRIETA-45289AB7"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/henrieta"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "facts_used": "The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "uncertainties": "The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Henrija",
+      "spellings": [
+        "Henrija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-HENRIJA-60CCBA12"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/henrija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "facts_used": "The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "uncertainties": "The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact entry supplies no formation prose. A date or a related-name field alone does not establish derivation; inspect the original dictionary entry and an explicit spelling relationship."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Henrita",
+      "spellings": [
+        "Henrita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-HENRITA-D6FB21A4"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/henrita"
+      ],
+      "evidence_locations": "Attributed catalogue pp152,150; listed under Henrieta.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Henrita to Henrieta. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Limbaži district, third quarter of the twentieth century. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lv",
+      "name": "Jeta",
+      "spellings": [
+        "Jeta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-JETA-0E47A223"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/jeta"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lt",
+      "name": "Butautas",
+      "spellings": [
+        "Butautas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Salys PDF307/printed292, 7 May 1964 calendar list; original page image inspected in round 101.",
+      "facts_used": "The Lithuanian historical name calendar pairs Butautas with the proposed short form Butas. This documents a naming recommendation without assigning a single distant word origin to the name. The 1964 calendar, reprinted in Antanas Salys’s collected writings in 1983, places Butautas on 7 May. The recommendation is evidence of calendar history, not the first bearer or the invention of the name.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lt",
+      "name": "Domicelė",
+      "spellings": [
+        "Domicelė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-SALYS83 PDF57,225. Text matches are not proof of exact orthography; original inspection is required for acceptance. Salys lists Domicėlė only in the name index.",
+      "facts_used": "Salys lists Domicėlė only in the name index.",
+      "uncertainties": "Salys lists Domicėlė only in the name index.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Salys lists Domicėlė only in the name index."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lt",
+      "name": "Domicijonas",
+      "spellings": [
+        "Domicijonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-SALYS83 PDF225. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lt",
+      "name": "Rimutė",
+      "spellings": [
+        "Rimutė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "evidence_locations": "Exact private-cache search. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "lt",
+      "name": "Rimtė",
+      "spellings": [
+        "Rimtė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-PAKERYS11",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-SALYS83 PDF263; LT-PAKERYS11 PDF3. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "ee",
+      "name": "Helmi",
+      "spellings": [
+        "Helmi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29-AES"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "evidence_locations": "Rajandi PDF75 (Helmi entry); Mägiste 1929 PDF10 (introduction) and PDF18 “Helmi (t. tarv., soomest)”; Mägiste 1936 PDF10 repeats the introduction.",
+      "facts_used": "Edgar Rajandi notes that Finnish Helmi is treated as equivalent in meaning to Margaretha and English Pearl; the Estonian and Finnish word helm means ‘bead, pearl’. Julius Mägiste’s 1929 list marks Helmi as a name already in use and taken from Finnish, and his introduction names Helmi among the names brought forward by the Estonian national awakening.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "ee",
+      "name": "Helma",
+      "spellings": [
+        "Helma"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "evidence_locations": "Rajandi PDF74/printed76, Helma entry, original inspected.",
+      "facts_used": "Edgar Rajandi derives Helma, together with Hilma and Hilme, from the ancient Germanic word helma, ‘protector’. He adds that Germanic peoples did not use helma as a one-stem name: it arose as a shortening of two-stem names such as Anshelma, Wilhelma and Helmtruda. He compares Ilma, Ilme and Helmo without dating the first Estonian bearer.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-07",
+      "date": "2026-11-13",
+      "calendar_date": "05-07",
+      "country": "ee",
+      "name": "Helmeles",
+      "spellings": [
+        "Helmeles"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "evidence_locations": "Exact private-cache search. No exact source located.",
+      "facts_used": "No exact source located.",
+      "uncertainties": "No exact source located.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. No exact source located."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Staņislavs",
+      "spellings": [
+        "Staņislavs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-STANISLAVS-AD543158"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/sta%C5%86islavs"
+      ],
+      "evidence_locations": "Attributed catalogue p297; stated Old Slavic components; “become famous” is the catalogue’s possible interpretation and is not displayed as fact.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explains Staņislavs through the components stani + slava. Their meanings are, respectively: become!; glory. The catalogue gives the following historical record: 1453; calendar 1767. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Staņislava",
+      "spellings": [
+        "Staņislava"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STANISLAVA-95F9D821"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/sta%C5%86islava"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stefānija",
+      "spellings": [
+        "Stefānija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEFANIJA-B3D1EE1A",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stef%C4%81nija",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODE22-TENDENCES PDF13. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Kasandra",
+      "spellings": [
+        "Kasandra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KASANDRA-6E80EE7B"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kasandra"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stanislava",
+      "spellings": [
+        "Stanislava"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-STANISLAVA-9EDB227D"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stanislava"
+      ],
+      "evidence_locations": "Attributed catalogue p297; feminine form of Staņislavs.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Stanislava to Staņislavs. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: fourth quarter of the nineteenth century. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stanislavs",
+      "spellings": [
+        "Stanislavs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STANISLAVS-C22A7ECA",
+        "LV-BALODIS08",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stanislavs",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODIS08 PDF13,239; LV-BALODE22-TENDENCES PDF5. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stase",
+      "spellings": [
+        "Stase"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-STASE-8A49D638"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stase"
+      ],
+      "evidence_locations": "Attributed catalogue p297; Lithuanian feminine diminutive of Staņislava.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Stase to Staņislava. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: fourth quarter of the nineteenth century; calendar 1800. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stasija",
+      "spellings": [
+        "Stasija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STASIJA-81690825"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stasija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stasis",
+      "spellings": [
+        "Stasis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STASIS-89F17295",
+        "LV-BALODIS08"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stasis",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODIS08 PDF27. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stasja",
+      "spellings": [
+        "Stasja"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STASJA-01652392"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stasja"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stass",
+      "spellings": [
+        "Stass"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STASS-7217298A"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stass"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stefanida",
+      "spellings": [
+        "Stefanida"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEFANIDA-D0A5A60F"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stefanida"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stefanīda",
+      "spellings": [
+        "Stefanīda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEFANIDA-35D73E39"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stefan%C4%ABda"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stefanija",
+      "spellings": [
+        "Stefanija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-STEFANIJA-23FACD59"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stefanija"
+      ],
+      "evidence_locations": "Attributed catalogue p297; feminine of Stefan, Greek gloss.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš connects Stefanija with the source word Greek stephanos, meaning crown. The catalogue gives the following historical record: 1877; calendar 1915. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stefi",
+      "spellings": [
+        "Stefi"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEFI-72D12BB9"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stefi"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Steisija",
+      "spellings": [
+        "Steisija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEISIJA-3351BAF5"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/steisija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stepanida",
+      "spellings": [
+        "Stepanida"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEPANIDA-8FEA0C64"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stepanida"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stepanīda",
+      "spellings": [
+        "Stepanīda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-STEPANIDA-F1FE2827"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stepan%C4%ABda"
+      ],
+      "evidence_locations": "Attributed catalogue p297; Russian feminine form listed under Stefanija.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Stepanīda to Stefanija. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: the eighteenth century. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stepanija",
+      "spellings": [
+        "Stepanija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEPANIJA-EE1A9396"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/stepanija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lv",
+      "name": "Stepānija",
+      "spellings": [
+        "Stepānija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-STEPANIJA-E5030375"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/step%C4%81nija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "lt",
+      "name": "Audrė",
+      "spellings": [
+        "Audrė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-SALYS83 PDF215,307,319. Text matches are not proof of exact orthography; original inspection is required for acceptance. Salys lists Audrė on 8 May without a short form.",
+      "facts_used": "Salys lists Audrė on 8 May without a short form.",
+      "uncertainties": "Salys lists Audrė on 8 May without a short form.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Salys lists Audrė on 8 May without a short form."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "ee",
+      "name": "Timmo",
+      "spellings": [
+        "Timmo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-MAGISTE29-AES",
+        "EE-MAGISTE36"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.digar.ee/id/nlib-digar:334837"
+      ],
+      "evidence_locations": "Mägiste 1929 PDF54/printed48 (image inspected): “Timm -u (murd., = Timoteus) ~ Timmo (setu, Hurt Vastseliina) ~ Timo (sm.)”; Mägiste 1936 PDF44.",
+      "facts_used": "Julius Mägiste’s 1929 list groups Timmo with the dialect form Timm, which he equates with the church name Timoteus, and with Finnish Timo. He records Timmo as a Seto form taken from Jakob Hurt’s folklore collections from Vastseliina, and his 1936 recommended list keeps the related Timm as krk., a name found in older church registers.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "ee",
+      "name": "Timmu",
+      "spellings": [
+        "Timmu"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: EE-RAJANDI66 PDF164. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-08",
+      "date": "2026-11-13",
+      "calendar_date": "05-08",
+      "country": "ee",
+      "name": "Timo",
+      "spellings": [
+        "Timo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-MAGISTE29-AES",
+        "EE-MAGISTE36"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.digar.ee/id/nlib-digar:334837"
+      ],
+      "evidence_locations": "Mägiste 1929 PDF54/printed48 (image inspected); Mägiste 1936 PDF44 “Timo murd.” and key PDF28. The two labels are reported as given, not reconciled.",
+      "facts_used": "Julius Mägiste’s 1929 list groups Timo with the dialect forms Timm and Timmo, which he equates with the church name Timoteus. Mägiste labels Timo sm., a Finnish form, in 1929, while his 1936 recommended list marks it murd., a form from dialect collections that by his key entered Estonian use only in the nineteenth or twentieth century.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Einārs",
+      "spellings": [
+        "Einārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-EINARS-1609CA5E"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ein%C4%81rs"
+      ],
+      "evidence_locations": "Attributed catalogue pp110,108,111; listed under Eginhard.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Einārs to Eginhard. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Riga, 1925; calendar 1964. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervīns",
+      "spellings": [
+        "Ervīns"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVINS-03CF5BB6",
+        "LV-PLESUMA-BALODE13"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/erv%C4%ABns",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-PLESUMA-BALODE13 PDF73. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Eina",
+      "spellings": [
+        "Eina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-EINA-22E05FF5"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/eina"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Einards",
+      "spellings": [
+        "Einards"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-EINARDS-0737B147"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/einards"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Einars",
+      "spellings": [
+        "Einars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-EINARS-CE4D3978",
+        "LV-PLESUMA-BALODE13"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/einars",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-PLESUMA-BALODE13 PDF36. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Einarts",
+      "spellings": [
+        "Einarts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-EINARTS-21B94263"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/einarts"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Einis",
+      "spellings": [
+        "Einis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-EINIS-90DE0274"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/einis"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Diminutive of Einārs without a separate dated record.",
+      "facts_used": "Diminutive of Einārs without a separate dated record.",
+      "uncertainties": "Diminutive of Einārs without a separate dated record.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Diminutive of Einārs without a separate dated record."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Eino",
+      "spellings": [
+        "Eino"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-EINO-8D64BA26",
+        "LV-BALODIS08",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/eino",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODIS08 PDF21; LV-BALODE22-TENDENCES PDF24,25. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervids",
+      "spellings": [
+        "Ervids"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVIDS-8E7C4758"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ervids"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervijs",
+      "spellings": [
+        "Ervijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVIJS-A3561661",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ervijs",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODE22-TENDENCES PDF12. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervils",
+      "spellings": [
+        "Ervils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVILS-B53BBB4B"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ervils"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervīna",
+      "spellings": [
+        "Ervīna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVINA-BA208CB2"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/erv%C4%ABna"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervins",
+      "spellings": [
+        "Ervins"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVINS-194BFC87",
+        "LV-PLESUMA-BALODE13"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ervins",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-PLESUMA-BALODE13 PDF73. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervis",
+      "spellings": [
+        "Ervis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVIS-C199F7F6"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ervis"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "facts_used": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "uncertainties": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Ervita",
+      "spellings": [
+        "Ervita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ERVITA-E1902916"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ervita"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Glafira",
+      "spellings": [
+        "Glafira"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-GLAFIRA-2BF54E7B"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/glafira"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Glafīra",
+      "spellings": [
+        "Glafīra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-GLAFIRA-7BD8E59B"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/glaf%C4%ABra"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Dates only; no formation prose.",
+      "facts_used": "Dates only; no formation prose.",
+      "uncertainties": "Dates only; no formation prose.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Dates only; no formation prose."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Kevins",
+      "spellings": [
+        "Kevins"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KEVINS-5B18355E",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kevins",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODE22-TENDENCES PDF12. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Klaidis",
+      "spellings": [
+        "Klaidis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KLAIDIS-15A0058F"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/klaidis"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Klaids",
+      "spellings": [
+        "Klaids"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-KLAIDS-C7E0EF54"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/klaids"
+      ],
+      "evidence_locations": "Attributed catalogue p196; Scottish river name Clyde; the Dreiser novel character is mentioned but not dated here.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Klaids to Clyde. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: 1969. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Klāss",
+      "spellings": [
+        "Klāss"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-KLASS-F3E4EF6A"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kl%C4%81ss"
+      ],
+      "evidence_locations": "Attributed catalogue pp196,249; variant of Nikolaus.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Klāss to Nikolaus. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: 1461. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Timiāna",
+      "spellings": [
+        "Timiāna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-TIMIANA-67E4DE7C",
+        "LV-PLESUMA-BALODE13"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/timi%C4%81na",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-PLESUMA-BALODE13 PDF164. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Timo",
+      "spellings": [
+        "Timo"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-TIMO-B5D0FEF1",
+        "LV-BALODIS08"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/timo",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODIS08 PDF21. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Timofejs",
+      "spellings": [
+        "Timofejs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-TIMOFEJS-9334D965"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/timofejs"
+      ],
+      "evidence_locations": "Attributed catalogue p307; linked to Timotejs.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explicitly refers Timofejs to Timotejs. This records a relationship between name forms; it does not by itself resolve the family’s more distant word origin. The catalogue gives the following historical record: Virbi, 1931. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Timotejs",
+      "spellings": [
+        "Timotejs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-TIMOTEJS-BD207634"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/timotejs"
+      ],
+      "evidence_locations": "Attributed catalogue p307; stated Greek elements, no whole-name translation.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš explains Timotejs through the components timaō + theos. Their meanings are, respectively: to honour; god. The catalogue gives the following historical record: Ranka, 1509; calendar 1767. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lv",
+      "name": "Tims",
+      "spellings": [
+        "Tims"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-TIMS-92ED94EF"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/tims"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lt",
+      "name": "Austėja",
+      "spellings": [
+        "Austėja"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-GAIVENIS14-RASTAI",
+        "LT-LITUANISTIKA-19207",
+        "LT-VU-ELABA-231782682",
+        "LT-VU-ELABA-4017487",
+        "LT-VU-ELABA-78200385",
+        "LV-BALODE22-TENDENCES",
+        "LT-LKI-RYTU-VARDYNAS"
+      ],
+      "sources": [
+        "unrecorded:KG_Rinktiniai_rastai_maketas.sp_.pdf",
+        "https://www.lituanistika.lt/content/19207",
+        "https://epublications.vu.lt/object/elaba:231782682/231782682.pdf",
+        "https://epublications.vu.lt/object/elaba:4017487/4017487.pdf",
+        "https://epublications.vu.lt/object/elaba:78200385/78200385.pdf",
+        "http://hdl.handle.net/10138/352293",
+        "https://lki.lt/wp-content/uploads/2024/08/RYTU_LIETUVOS_VARDYNAS_maketas_spalva.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-VU-ELABA-231782682 PDF10,13; LT-LKI-RYTU-VARDYNAS PDF50. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lt",
+      "name": "Beatas",
+      "spellings": [
+        "Beatas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Salys PDF307/printed292, 9 May 1964 calendar list; original page image inspected in round 101.",
+      "facts_used": "The Lithuanian historical name calendar pairs Beatas with the proposed short form Atas. This documents a naming recommendation without assigning a single distant word origin to the name. The 1964 calendar, reprinted in Antanas Salys’s collected writings in 1983, places Beatas on 9 May. The recommendation is evidence of calendar history, not the first bearer or the invention of the name.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "lt",
+      "name": "Mingailas",
+      "spellings": [
+        "Mingailas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-MACIEJAUSKIENE04",
+        "LT-PASAULIOLIETUVIS-RETI-VARDAI"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2004~1367158427446/J.04~2004~1367158427446.pdf",
+        "https://pasauliolietuvis.lt/labai-retu-lietuvisku-vardu-ivairove-emigrantu-is-lietuvos-vardyne/?print=pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-PASAULIOLIETUVIS-RETI-VARDAI PDF4. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "ee",
+      "name": "Otto",
+      "spellings": [
+        "Otto"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-EISEN-TOLL",
+        "EE-ESELTS-NIMEDE-NIMEL-2026",
+        "EE-KURRIK1901",
+        "EE-MAGISTE29",
+        "EE-MAGISTE29-AES",
+        "EE-PAEVALEHT-19281025",
+        "EE-RAJANDI66",
+        "EE-TURK10",
+        "INT-KRAUS13",
+        "LT-LPZ",
+        "LT-MGM-RARE",
+        "LT-SALYS83",
+        "LV-LILE24",
+        "LV-LPVV-178",
+        "LV-LVA-EN06",
+        "LV-LVA-NORDIC03",
+        "LV-PLESUMA-BALODE12",
+        "LV-PLESUMA-BALODE13"
+      ],
+      "sources": [
+        "https://www.etera.ee/api/oai2/download/9493.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2026/03/Nimede-nimel_EST-89_2026.pdf",
+        "unrecorded:203935.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "unrecorded:19281025_1.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://dspace.ut.ee/server/api/core/bitstreams/de245993-def6-4644-9877-939eb96079b3/content",
+        "https://api.pageplace.de/preview/DT0400.9783110314052_A20903989/preview-9783110314052_A20903989.pdf",
+        "https://archive.org/download/lietuviu-pavardziu-zodynas-t.-1-2-1985-89/Lietuvi%C5%B3%20pavard%C5%BEi%C5%B3%20%C5%BEodynas%2C%20t.1-2%2C%201985-89.pdf",
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf",
+        "https://personvardi.lu.lv/lv/personvards/178",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: EE-RAJANDI66 PDF139,167,169,227,239; EE-MAGISTE29-AES PDF48; EE-ESELTS-NIMEDE-NIMEL-2026 PDF66,156,221,223,232; EE-KURRIK1901 PDF17,23,32,44. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "ee",
+      "name": "Ott",
+      "spellings": [
+        "Ott"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-ESELTS-NIMEDE-NIMEL-2026",
+        "EE-KURRIK1901",
+        "EE-LEOLE05-DEC",
+        "EE-MAGISTE36",
+        "EE-PAEVALEHT-19281025",
+        "EE-RAJANDI66",
+        "EE-REZOLD1869",
+        "EE-TURK10",
+        "INT-MUSE46",
+        "LT-BUGA22",
+        "LT-LPZ",
+        "LT-SALYS83",
+        "LV-BALODIS08"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2026/03/Nimede-nimel_EST-89_2026.pdf",
+        "unrecorded:203935.pdf",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://www.digar.ee/id/nlib-digar:334837",
+        "unrecorded:19281025_1.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.digar.ee/arhiiv/en/download/110786",
+        "https://dspace.ut.ee/server/api/core/bitstreams/de245993-def6-4644-9877-939eb96079b3/content",
+        "https://maa.missouri.edu/sites/default/files/file-uploads/2021-11/muse.vol_.46.pdf",
+        "https://archive.org/download/buga-kalba-ir-senove-1922/B%C5%ABga%2C%20Kalba%20ir%20senov%C4%97%2C%201922_djvu.txt",
+        "https://archive.org/download/lietuviu-pavardziu-zodynas-t.-1-2-1985-89/Lietuvi%C5%B3%20pavard%C5%BEi%C5%B3%20%C5%BEodynas%2C%20t.1-2%2C%201985-89.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: EE-RAJANDI66 PDF136,139; EE-ESELTS-NIMEDE-NIMEL-2026 PDF7,12,15,18,155,303,316,317,318; EE-REZOLD1869 PDF7; EE-MAGISTE36 PDF42; EE-KURRIK1901 PDF44. Text matches are not proof of exact orthography; original inspection is required for acceptance. Mägiste 1936 marks Ott ür. (from 13th–17th-century documents) but gives no dated record; inspect Mägiste 1929 for the document citation.",
+      "facts_used": "Mägiste 1936 marks Ott ür. (from 13th–17th-century documents) but gives no dated record; inspect Mägiste 1929 for the document citation.",
+      "uncertainties": "Mägiste 1936 marks Ott ür. (from 13th–17th-century documents) but gives no dated record; inspect Mägiste 1929 for the document citation.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Mägiste 1936 marks Ott ür. (from 13th–17th-century documents) but gives no dated record; inspect Mägiste 1929 for the document citation."
+    },
+    {
+      "batch": "calendar-annual-05-09",
+      "date": "2026-11-13",
+      "calendar_date": "05-09",
+      "country": "ee",
+      "name": "Kahru",
+      "spellings": [
+        "Kahru"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-MAGISTE29-AES",
+        "EE-MAGISTE36"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.digar.ee/id/nlib-digar:334837"
+      ],
+      "evidence_locations": "Mägiste 1929 PDF36/printed30 “Kahru (Rnm. = bär)”, PDF15 key Rnm. = O. Kallas 1921; Mägiste 1936 PDF39 “Kahru kstl.”, PDF27–28 key. Originals inspected (1929 image; 1936 clean text layer). The Finnish Karhu comparison is from LV-BALODIS08 PDF69 and is not displayed as Mägiste’s claim.",
+      "facts_used": "Kahru is one of the Estonian-style names promoted in the early twentieth century. Julius Mägiste lists it with the meaning ‘bear’; the form resembles Finnish karhu and Estonian karu, but he gives no fuller derivation. Mägiste’s 1929 list cites the name from Oskar Kallas’s booklet of new baptismal names (third printing, Tartu 1921), glossed as ‘bear’. His 1936 recommended list marks Kahru kstl., an artificially created name with a known proposer.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Paija",
+      "spellings": [
+        "Paija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-PAIJA-6FC9DEDF"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/paija"
+      ],
+      "evidence_locations": "Attributed catalogue p258; Brigadere’s play Maija un Paija is mentioned but not dated here.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš connects Paija with the source word Latvian paija, meaning toy. The catalogue gives the following historical record: possibly 1922; calendar 1922. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Keila",
+      "spellings": [
+        "Keila"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KEILA-9DB9BF1B"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/keila"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Keitlīna",
+      "spellings": [
+        "Keitlīna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KEITLINA-0AEB8AEF"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/keitl%C4%ABna"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Kelija",
+      "spellings": [
+        "Kelija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KELIJA-685C9676"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kelija"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Kelina",
+      "spellings": [
+        "Kelina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KELINA-DC3FBCFB"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kelina"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "facts_used": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "uncertainties": "The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The exact catalogue entry provides no usable origin explanation or separately dated episode. Inspect a primary name dictionary or official rendering and a dated use; do not infer a compound from spelling."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Kellija",
+      "spellings": [
+        "Kellija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KELLIJA-491B860D",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kellija",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-BALODE22-TENDENCES PDF12. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Kenets",
+      "spellings": [
+        "Kenets"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KENETS-EA342E9A"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kenets"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Kestutis",
+      "spellings": [
+        "Kestutis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-KESTUTIS-9A5F6695"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/kestutis"
+      ],
+      "evidence_locations": "Attributed catalogue p194; Lithuanian verb with the suffix -utis.",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš connects Kestutis with the source word Lithuanian kęsti, meaning to suffer, endure. The catalogue gives the following historical record: 1936; calendar 1879. Recorded use and calendar inclusion are different kinds of evidence; neither is automatically a name-creation date.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Ketlina",
+      "spellings": [
+        "Ketlina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KETLINA-29B0187C"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ketlina"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Ketlīna",
+      "spellings": [
+        "Ketlīna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KETLINA-9C6BF8F0"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ketl%C4%ABna"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "facts_used": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "uncertainties": "The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue distinguishes this spelling from a nearby form or withholds an exact explanation. Inspect the exact printed entry or official spelling correspondence; dates and roots of the neighbouring form are not transferred."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Ķestutis",
+      "spellings": [
+        "Ķestutis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KESTUTIS-2460D932",
+        "LV-PLESUMA-BALODE13",
+        "LV-BALODIS08",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%B7estutis",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-PLESUMA-BALODE13 PDF80; LV-BALODIS08 PDF25,26; LV-BALODE22-TENDENCES PDF21,22. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lv",
+      "name": "Ķēstutis",
+      "spellings": [
+        "Ķēstutis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-KESTUTIS-72F7875F",
+        "LV-PLESUMA-BALODE13",
+        "LV-BALODIS08",
+        "LV-BALODE22-TENDENCES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%B7%C4%93stutis",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1",
+        "http://hdl.handle.net/10138/352293"
+      ],
+      "evidence_locations": "Exact online catalogue origin and attestation sections. Additional folded/accent discovery leads: LV-PLESUMA-BALODE13 PDF80; LV-BALODIS08 PDF25,26; LV-BALODE22-TENDENCES PDF21,22. Text matches are not proof of exact orthography; original inspection is required for acceptance. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "facts_used": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "uncertainties": "The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. The catalogue gives a qualified comparison or competing analyses. The exact formation and historical transmission remain unverified; inspect the printed entry and independent onomastic evidence before choosing a root."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lt",
+      "name": "Antoninas",
+      "spellings": [
+        "Antoninas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Salys PDF307/printed292, 10 May 1964 calendar list; original page image inspected in round 101.",
+      "facts_used": "The Lithuanian historical name calendar pairs Antoninas with the proposed short form Antas. This documents a naming recommendation without assigning a single distant word origin to the name. The 1964 calendar, reprinted in Antanas Salys’s collected writings in 1983, places Antoninas on 10 May. The recommendation is evidence of calendar history, not the first bearer or the invention of the name.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lt",
+      "name": "Putinas",
+      "spellings": [
+        "Putinas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-BUGA-RR1",
+        "LT-FRAENKEL62",
+        "LT-GAIVENIS14-RASTAI",
+        "LT-LPZ",
+        "LT-SALYS83",
+        "LT-ZINKEVICIUS77",
+        "LV-BALODIS08",
+        "LV-LVA-LT61"
+      ],
+      "sources": [
+        "https://archive.org/download/buga-rinktiniai-rastai-t.-1-1958_202012/B%C5%ABga%2C%20Rinktiniai%20ra%C5%A1tai%2C%20t.1%2C%201958.pdf",
+        "https://archive.org/download/fraenkel-litauisches-etymologisches-woerterbuch-bd.-1-2-1962-1965/Fraenkel%2C%20Litauisches%20Etymologisches%20Woerterbuch%2C%20Bd.%201-2%2C%201962-1965.pdf",
+        "unrecorded:KG_Rinktiniai_rastai_maketas.sp_.pdf",
+        "https://archive.org/download/lietuviu-pavardziu-zodynas-t.-1-2-1985-89/Lietuvi%C5%B3%20pavard%C5%BEi%C5%B3%20%C5%BEodynas%2C%20t.1-2%2C%201985-89.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "unrecorded:Zinkevičius_1977_LT.pdf",
+        "https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-SALYS83 PDF61,64,261,284,307,384; LT-ZINKEVICIUS77 PDF95,187,232,247,286; LT-FRAENKEL62 PDF704,706,707,1381; LT-BUGA-RR1 PDF475. Text matches are not proof of exact orthography; original inspection is required for acceptance. Salys lists Putinas on 10 May without a short form; Zinkevičius 1977 records the Dzūkian surname form Pucin.",
+      "facts_used": "Salys lists Putinas on 10 May without a short form; Zinkevičius 1977 records the Dzūkian surname form Pucin.",
+      "uncertainties": "Salys lists Putinas on 10 May without a short form; Zinkevičius 1977 records the Dzūkian surname form Pucin.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Salys lists Putinas on 10 May without a short form; Zinkevičius 1977 records the Dzūkian surname form Pucin."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lt",
+      "name": "Sangailė",
+      "spellings": [
+        "Sangailė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "evidence_locations": "Exact private-cache search. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lt",
+      "name": "Viktorina",
+      "spellings": [
+        "Viktorina"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-LVA-RU93",
+        "LV-LVA-UA23"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lt",
+      "name": "Gordijonas",
+      "spellings": [
+        "Gordijonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "evidence_locations": "Exact private-cache search. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "lt",
+      "name": "Ramojus",
+      "spellings": [
+        "Ramojus"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: LT-SALYS83 PDF261. Text matches are not proof of exact orthography; original inspection is required for acceptance. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "facts_used": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "uncertainties": "Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "ee",
+      "name": "Aina",
+      "spellings": [
+        "Aina"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-MAGISTE29-AES",
+        "EE-MAGISTE36"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.digar.ee/id/nlib-digar:334837"
+      ],
+      "evidence_locations": "Mägiste 1929 PDF17/printed11 (image inspected); Mägiste 1936 PDF29 “Aina krk.” and key PDF28.",
+      "facts_used": "Julius Mägiste’s 1929 list places Aina at the head of a group with Aine, Aini, Ainike and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, without assigning one origin to every form. His 1936 recommended list marks Aina krk., a name taken from older church registers; by his own key, such names had not been found in the oldest documents and date from after the seventeenth century.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "ee",
+      "name": "Aini",
+      "spellings": [
+        "Aini"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-MAGISTE29-AES",
+        "EE-MAGISTE36"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.digar.ee/id/nlib-digar:334837"
+      ],
+      "evidence_locations": "Mägiste 1929 PDF17/printed11 (image inspected): “Aini (Mg., sm. murd.)”; Mägiste 1936 PDF29 “Aini sm.”.",
+      "facts_used": "Julius Mägiste’s 1929 list places Aini in one group with Aina, Aine, Ainike and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, without assigning one origin to every form. He marks Aini as a Finnish dialect form that he had collected himself, and his 1936 recommended list labels it sm., a name of Finnish origin. Neither list dates the first Estonian bearer.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "ee",
+      "name": "Ainu",
+      "spellings": [
+        "Ainu"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-MAGISTE36",
+        "EE-RAJANDI66",
+        "EE-TURK10",
+        "LT-BUGA-RR4",
+        "LV-PLESUMA-BALODE12",
+        "LV-PLESUMA-BALODE13"
+      ],
+      "sources": [
+        "https://www.digar.ee/id/nlib-digar:334837",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://dspace.ut.ee/server/api/core/bitstreams/de245993-def6-4644-9877-939eb96079b3/content",
+        "https://archive.org/download/buga-rinktiniai-rastai-t.-4-1962_202012/B%C5%ABga%2C%20Rinktiniai%20ra%C5%A1tai%2C%20t.4%2C%201962.pdf",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf",
+        "https://www.valodaskonsultacijas.lv/uploads/suggested_sources/8/pdf/valodas_prakse_Nr8.pdf"
+      ],
+      "evidence_locations": "Exact private-cache search. Additional folded/accent discovery leads: EE-RAJANDI66 PDF17; EE-MAGISTE36 PDF29. Text matches are not proof of exact orthography; original inspection is required for acceptance. Mägiste 1936 marks Ainu kstl., “cf. the previous” (Aino), without a separate source; weak on its own.",
+      "facts_used": "Mägiste 1936 marks Ainu kstl., “cf. the previous” (Aino), without a separate source; weak on its own.",
+      "uncertainties": "Mägiste 1936 marks Ainu kstl., “cf. the previous” (Aino), without a separate source; weak on its own.",
+      "next_steps": "Inspect the exact primary entry and a separately dated episode. Mägiste 1936 marks Ainu kstl., “cf. the previous” (Aino), without a separate source; weak on its own."
+    },
+    {
+      "batch": "calendar-annual-05-10",
+      "date": "2026-11-13",
+      "calendar_date": "05-10",
+      "country": "ee",
+      "name": "Ainike",
+      "spellings": [
+        "Ainike"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-MAGISTE29-AES",
+        "EE-MAGISTE36"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.digar.ee/id/nlib-digar:334837"
+      ],
+      "evidence_locations": "Mägiste 1929 PDF17/printed11 (image inspected): “Ainike (Rnm. Ainik)”; Mägiste 1936 PDF29 “Ainike kstl.”.",
+      "facts_used": "Julius Mägiste’s 1929 list places Ainike in one group with Aina, Aine, Aini and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, and glosses Aino as ‘the only one’. For Ainike he cites Oskar Kallas’s 1921 list of new baptismal names, where the form appears as Ainik. In his 1936 recommended list Ainike is marked kstl., an artificially created name.",
+      "uncertainties": "Only the stated relationship, source interpretation or historical episode is reviewed. Unknown distant roots remain unresolved; exact spelling, country, shared-entry and historical sample scope are preserved.",
+      "next_steps": "Do not extend these dates, interpretations or samples to another spelling or country without exact evidence."
+    }
+  ]
+}

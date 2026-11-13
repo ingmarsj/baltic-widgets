@@ -17,7 +17,7 @@ Select-String -Path research/namedays/source-index.csv -Pattern "Heinar"
 
 A text hit is a discovery aid. Inspect the rendered original page before using it as evidence.
 
-**235 source IDs**; 40 with a cached PDF. 112 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
+**1395 source IDs**; 71 with a cached PDF. 542 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
 
 ## Estonia
 
@@ -25,32 +25,44 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | --- | --- | --- | ---: | ---: |
 | EE-CALENDAR-CHECK | Statistics Estonia name-day list, 10 May / 17 November; Neanky Ainari, exact page. | 17 | 0 / 1 |  |
 | EE-DIGAR | DIGAR. | 15, 20, 57 | 0 / 4 |  |
-| EE-EISEN-TOLL | M. J. Eisen, Tõll ja ta sugu, PDF p. 138 / printed p. 132; cover PDF p. 1. | 33, 59, 73 | 1 / 2 | 170 |
+| EE-EISEN-TOLL | M. J. Eisen, Tõll ja ta sugu, PDF p. 138 / printed p. 132; cover PDF p. 1. | 33–102 (10) | 1 / 15 | 170 |
 | EE-EKI | Institute of the Estonian Language and its linked dictionaries / Sõnaveeb. | 14–60 (9) | 4 / 7 |  |
 | EE-EKM | Art Museum of Estonia, Arne Maasik author record 17, education and solo exhibitions. | 16 | 1 / 0 |  |
+| EE-EOK-BERLIN36 | Cached primary source | 98 | 1 / 0 |  |
+| EE-ERR-ROLF13 | Cached primary source | 98, 101 | 1 / 1 |  |
+| EE-ESELTS-NIMEDE-NIMEL-2026 | Emakeele Selts, Nimede nimel (ESA toimetised 89, 2026, 415 pp.). | 101, 102 | 0 / 8 | 415 |
+| EE-ETBL-ITA-EVER | Estonian Theatre Union encyclopedia, Ever, Ita, opening biography and employment paragraph. | 94, 99, 101 | 1 / 2 |  |
 | EE-ETERA | ETERA digital library. | 14, 15, 17 | 0 / 4 |  |
 | EE-EWOD | University of Tartu, *Estonian Writers’ Online Dictionary*: Einar Maasik, biography and bibliography; Egon Rannet, biography and plays. | 2–19 (5) | 9 / 0 |  |
 | EE-FIBA | FIBA, Egert Haller, 2011 U16 European Championship Division B, event heading and game list. | 29 | 1 / 0 |  |
+| EE-HUSSAR-2014-SLIDES | Annika Hussar, Eesti eesnimede ajaloost, lecture slides, Tartu, 30 January 2014. | 101 | 0 / 4 | 34 |
 | EE-INSTITUTIONS | Tallinn University, Vanemuine, Estonian Art Museum. | directory only | 0 / 0 |  |
-| EE-KALLASMAA17 | Marja Kallasmaa, Nimi ja võim. Isiku- ja kohanimede seostest, Õiguskeel 2/2017, PDF p. 3, paragraph beginning *Tõenäoliselt*. | 23, 71, 75, 84 | 3 / 2 | 7 |
+| EE-KALLASMAA17 | Marja Kallasmaa, Nimi ja võim. Isiku- ja kohanimede seostest, Õiguskeel 2/2017, PDF p. 3, paragraph beginning *Tõenäoliselt*. | 23–100 (8) | 3 / 6 | 7 |
 | EE-KEVADE | Oskar Luts, *Kevade I*, chapter XVII, primary literary text reproduced by Wikisource. | 16 | 1 / 0 |  |
-| EE-LEOLE05 | Leili Kuusk, November name column in Leole, Suure-Jaani municipal newspaper, no. 11 (68), November 2005, PDF p. 6 / printed p. 6, leftmost column; issue heading p. 1. | 23–82 (13) | 19 / 15 | 8 |
+| EE-KURRIK1901 | Juhan Kurrik (välja andnud), *Nimede raamat* (Jurjev [Tartu]: M. Vares, 1901; censor approval 25 April 1900), 57 PDF pp. Indexed from the user’s download (source URL… | 102 | 0 / 2 | 57 |
+| EE-LEOLE05 | Leili Kuusk, November name column in Leole, Suure-Jaani municipal newspaper, no. 11 (68), November 2005, PDF p. 6 / printed p. 6, leftmost column; issue heading p. 1. | 23–102 (19) | 20 / 25 | 8 |
 | EE-LEOLE05-12 | Leili Kuusk’s name column, Leole no. 12 (69), December 2005, PDF p. 1. | 60 | 1 / 5 |  |
-| EE-LEOLE05-DEC | Leole, Suure-Jaani municipal newspaper, no. 12 (69), December 2005, *Anno Domini 2005* name column, PDF p. 1 / printed p. 1. | 31–90 (45) | 42 / 70 | 8 |
-| EE-MAGISTE29 | Julius Mägiste, *Eestipäraseid isikunimesid*, Tartu, 1929. Publisher record; ETERA PDF p. 22 / printed p. 20. | 15–92 (43) | 51 / 28 | 59 |
-| EE-MAGISTE29-AES | Julius Mägiste, *Eestipäraseid isikunimesid*, Akadeemilise Emakeele Seltsi Toimetised XVIII, Tartu 1929, Emakeele Selts PDF. PDF p. 11 / printed p. 9 (sources), p. 12… | 59–90 (9) | 5 / 17 | 66 |
-| EE-MUST62 | Hildegard Must, *The Names of the Apostles as Estonian Christian Names*, Names 10(4), 1962, pp. 260–264, PDF pp. 2–3 / printed pp. 261–262, DOI 10.1179/nam.1962.10.4.260. | 30, 58, 75 | 4 / 2 | 5 |
+| EE-LEOLE05-DEC | Leole, Suure-Jaani municipal newspaper, no. 12 (69), December 2005, *Anno Domini 2005* name column, PDF p. 1 / printed p. 1. | 31–102 (50) | 43 / 77 | 8 |
+| EE-MAGISTE29 | Julius Mägiste, *Eestipäraseid isikunimesid*, Tartu, 1929. Publisher record; ETERA PDF p. 22 / printed p. 20. | 15–102 (51) | 51 / 67 | 59 |
+| EE-MAGISTE29-AES | Julius Mägiste, *Eestipäraseid isikunimesid*, Akadeemilise Emakeele Seltsi Toimetised XVIII, Tartu 1929, Emakeele Selts PDF. PDF p. 11 / printed p. 9 (sources), p. 12… | 59–102 (18) | 49 / 54 | 66 |
+| EE-MAGISTE36 | J. Mägiste (toim.), *Eestipäraseid eesnimesid*, Akadeemilise Emakeele Seltsi toimetised XXVIII (Tartu: Nimede Eestistamise Liidu kirjastus, 1936), 51 PDF pp., National… | 102 | 6 / 2 | 51 |
+| EE-MUST62 | Hildegard Must, *The Names of the Apostles as Estonian Christian Names*, Names 10(4), 1962, pp. 260–264, PDF pp. 2–3 / printed pp. 261–262, DOI 10.1179/nam.1962.10.4.260. | 30, 58, 75, 98 | 4 / 3 | 5 |
 | EE-NKK | Naiskodukaitse, Saaremaa membership, 1925–1940, PDF p. 46 / printed p. 44. | 14 | 2 / 0 |  |
+| EE-OMAKEEL-2011-2-03 | Huno Rätsep, “Kolumbus Krisostomus” on favourite boys’ names in the Lihula Wackenbuch, Oma Keel 2011/2, PDF2–7/printed18–23. | 101 | 1 / 1 | 10 |
+| EE-OMAKEEL-2016-2-14 | Marja Kallasmaa on *Eesti kohanimeraamat*, Oma Keel 2016/2. | 101 | 0 / 1 | 9 |
 | EE-OSU | Ohio State University Department of Linguistics, Remembering Ilse Lehiste, About Ilse section. | 19 | 1 / 0 |  |
+| EE-PAEVALEHT-19281025 | *Päevaleht*, 25 October 1928, PDF5: article “Oskar Kallas ja eestiline kultuur” for Kallas’s sixtieth birthday. Indexed from the user’s download (DIGAR newspaper issue;… | 102 | 0 / 3 | 10 |
 | EE-POMOZI16 | Péter Pomozi and Eszter Földesi, Az észt névtervezés az észt nyelvpolitikai modell tükrében, *Névtani Értesítő* 38 (2016), pp. 193–207, DOI 10.29178/NevtErt.2016.15.… | 19 | 6 / 0 |  |
 | EE-PRESIDENCY | Estonian presidential office, Arnold Rüütel biography, term dates and election paragraphs. | 16 | 1 / 0 |  |
-| EE-RAJANDI66 | Edgar Rajandi, *Raamat nimedest*, Tallinn: Eesti Raamat, 1966. University of Tartu DSpace PDF (138 MB, text layer present but OCR is unreliable; inspect page images).… | 56–92 (33) | 99 / 41 | 247 |
+| EE-RAJANDI66 | Edgar Rajandi, *Raamat nimedest*, Tallinn: Eesti Raamat, 1966. University of Tartu DSpace PDF (138 MB, text layer present but OCR is unreliable; inspect page images).… | 56–102 (43) | 233 / 242 | 247 |
+| EE-REZOLD1869 | J. R. Rezold, Nimede seletus (Tallinn 1869), DIGAR item page. | 102 | 0 / 1 | 10 |
 | EE-RIIGIKOGU | Parliament of Estonia, Helmer Jõgi biography, parliamentary service line. | 20 | 1 / 0 |  |
 | EE-SAAR16 | Evar Saar, Rõuge ja Vastseliina talupoegade eesnimed XVI ja XVII sajandil, in *Õdagumeresuumlaisi nimeq / Läänemeresoomlaste nimed / Names of Finnic People*,… | 20, 57, 84 | 4 / 3 |  |
-| EE-SINIJARV14 | Siiri Sinijärv (Tartu County Government, population-records office), Tänapäevane eesnimekasutus, 2014 slides, folklore.ee PDF p. 10; p. 7 for rare 2013 girls' names. | 57, 74, 80 | 0 / 3 | 18 |
+| EE-SINIJARV14 | Siiri Sinijärv (Tartu County Government, population-records office), Tänapäevane eesnimekasutus, 2014 slides, folklore.ee PDF p. 10; p. 7 for rare 2013 girls' names. | 57–101 (7) | 0 / 11 | 18 |
 | EE-SUVETEATER | Emajõe Suveteater, Heinari tähetund, production synopsis. | 17 | 0 / 1 |  |
 | EE-THEATRE | Estonian Theatre Agency, mürisev vaikus, premiere and production contact sections. | 43 | 1 / 0 |  |
-| EE-TURK10 | Tiina Türk, Kiili valla asustusnimed, University of Tartu master's thesis, 2010, PDF p. 80 / printed p. 80, Niiliski entry; title PDF p. 1. | 36, 79 | 2 / 1 | 165 |
+| EE-TURK10 | Tiina Türk, Kiili valla asustusnimed, University of Tartu master's thesis, 2010, PDF p. 80 / printed p. 80, Niiliski entry; title PDF p. 1. | 36–102 (9) | 3 / 21 | 165 |
+| EE-UT-MASING21 | Primary original | 99 | 1 / 0 |  |
 
 ## International and cross-language
 
@@ -69,13 +81,13 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | INT-BTN-BASIL1 | Basil 1 curated entry | 69 | 1 / 0 |  |
 | INT-BTN-BENEDICT | Benedict curated entry | 71 | 3 / 0 |  |
 | INT-BTN-BENEDIKTAS | Benediktas curated entry | 71 | 2 / 0 |  |
-| INT-BTN-BENJAMIN | Behind the Name, Benjamin, curated opening. | 89 | 1 / 0 |  |
+| INT-BTN-BENJAMIN | Behind the Name, Benjamin, curated opening. | 89, 99 | 1 / 1 |  |
 | INT-BTN-BERIT | Behind the Name, Berit, Meaning & History. | 92 | 1 / 0 |  |
 | INT-BTN-CAESAR | Behind the Name Caesar | 79 | 1 / 0 |  |
 | INT-BTN-CAESARIUS | Behind the Name Caesarius | 79 | 1 / 0 |  |
 | INT-BTN-CLEOPATRA | Behind the Name, Cleopatra, Meaning & History. | 86 | 1 / 0 |  |
-| INT-BTN-EGLE | Behind the Name, Eglė, Meaning & History. | 91 | 1 / 0 |  |
-| INT-BTN-EMA1 | Behind the Name, Ema 1, Meaning & History and usage. | 64 | 1 / 0 |  |
+| INT-BTN-EGLE | Behind the Name, Eglė, Meaning & History. | 91, 97, 99 | 1 / 2 |  |
+| INT-BTN-EMA1 | Behind the Name, Ema 1, Meaning & History and usage. | 64, 99 | 1 / 1 |  |
 | INT-BTN-EUFROZINA | Eufrozina, curated entry explicitly labelled Hungarian (rare). | 68 | 0 / 1 |  |
 | INT-BTN-FABIAN | Behind the Name Fabian, Meaning & History. | 87 | 1 / 0 |  |
 | INT-BTN-FABIOLA | Fabiola, curated Latin diminutive of Fabia. | 63 | 0 / 1 |  |
@@ -91,7 +103,7 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | INT-BTN-KAMILE | Behind the Name, Kamilė, Meaning & History. | 64 | 1 / 0 |  |
 | INT-BTN-KNUT | Behind the Name Knut: curated Old Norse knútr “knot”; lists no Lithuanian form. | 86 | 0 / 1 |  |
 | INT-BTN-LIBERTA | Behind the Name Liberta: no curated definition; user submission only. | 85 | 0 / 1 |  |
-| INT-BTN-MARIUS | Behind the Name, Marius, Meaning & History and variants. | 86 | 1 / 0 |  |
+| INT-BTN-MARIUS | Behind the Name, Marius, Meaning & History and variants. | 86, 99 | 1 / 1 |  |
 | INT-BTN-MECISLOVAS | Behind the Name, Mečislovas, Meaning & History. | 68 | 2 / 0 |  |
 | INT-BTN-MELANIE | Behind the Name, Melanie, Melania and Greek melaina. | 67 | 1 / 0 |  |
 | INT-BTN-MELCHIORAS | Melchioras curated-entry check | directory only | 0 / 0 |  |
@@ -117,10 +129,11 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | INT-BURNEY1782 | Frances Burney, *Cecilia, or Memoirs of an Heiress*, vol. 1, primary text, front matter and Book I chapter i; NYPL manuscript catalogue record. | 22 | 2 / 0 |  |
 | INT-DMNES | Sara L. Uckelman, ed., *Dictionary of Medieval Names from European Sources*, edition 2023/1: Virgil, Rufus, Andrew, Stephen. | 27–55 (19) | 60 / 1 |  |
 | INT-EBSCO | EBSCO Research Starters, The Newcomes by William Makepeace Thackeray. | 60 | 1 / 0 |  |
+| INT-ELLIPSIS-LTLV-BIBLIO | Annotated Bibliography of Lithuanian & Latvian Name books (2002). | directory only | 0 / 0 |  |
 | INT-FOLGER | Folger, Catalogue of English Literary Manuscripts, Sir Philip Sidney, Astrophil and Stella heading before SiP 1. Established introduction. | 55 | 1 / 0 |  |
 | INT-FRAM | Fram Museum, Helmer Julius Hanssen, opening expedition paragraph. | 20 | 1 / 0 |  |
-| INT-KRAUS13 | Herwig Kraus, Sowjetrussische Vornamen: Ein Lexikon, de Gruyter, 2013, publicly supplied publisher preview PDF p. 16 / printed p. 8; copyright PDF p. 4. | 38, 69, 71 | 5 / 2 | 23 |
-| INT-MUSE46 | Mary L. Pixley, *Preserved for Eternity on Obsidian: A Baroque Painting Showing the Miracle of Milk at St. Catherine of Alexandria’s Martyrdom*, Muse 46 (2012),… | 25, 81 | 24 / 1 | 146 |
+| INT-KRAUS13 | Herwig Kraus, Sowjetrussische Vornamen: Ein Lexikon, de Gruyter, 2013, publicly supplied publisher preview PDF p. 16 / printed p. 8; copyright PDF p. 4. | 38–102 (5) | 5 / 4 | 23 |
+| INT-MUSE46 | Mary L. Pixley, *Preserved for Eternity on Obsidian: A Baroque Painting Showing the Miracle of Milk at St. Catherine of Alexandria’s Martyrdom*, Muse 46 (2012),… | 25–102 (6) | 24 / 6 | 146 |
 | INT-NERGAARD | Norwegian singer Silje Nergaard, official biography, opening paragraphs. | 22 | 1 / 0 |  |
 | INT-NG-CATHERINE | National Gallery, Raphael, *Saint Catherine of Alexandria*, NG168, work record and description. | 25 | 7 / 0 |  |
 | INT-OSCARS | Academy of Motion Picture Arts and Sciences, 72nd Academy Awards, 2000, Actress in a Supporting Role winner. | 40 | 1 / 0 |  |
@@ -136,66 +149,110 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
-| LT-BURBA24 | Domininkas Burba, *Literatūrinio padavimo apie Jūratę ir Kastytį sklaida neakademiniuose Lietuvos ir Lenkijos folkloro rinkiniuose*, Res Humanitariae XXXII (2024), pp.… | 43, 74 | 1 / 1 | 23 |
+| LT-BUGA-RR1 | Kazimieras Būga, *Rinktiniai raštai*, t. 1 (Vilnius 1958), archive.org, text PDF, 654 pp. | 102 | 0 / 1 | 654 |
+| LT-BUGA-RR4 | Kazimieras Būga, *Rinktiniai raštai*, t. 4: *Rodyklės* (Vilnius 1962), archive.org, 396 pp. | 102 | 0 / 1 | 396 |
+| LT-BUGA22 | Kazimieras Būga, *Kalba ir senovė*, I dalis (Kaunas: Švietimo ministerija, 1922), archive.org OCR text (reader page). | 102 | 0 / 1 |  |
+| LT-BURBA24 | Domininkas Burba, *Literatūrinio padavimo apie Jūratę ir Kastytį sklaida neakademiniuose Lietuvos ir Lenkijos folkloro rinkiniuose*, Res Humanitariae XXXII (2024), pp.… | 43–101 (5) | 1 / 8 | 23 |
 | LT-DRAUGAS | Draugas archive, e.g. 12 March 1960 supplement. | 85 | 0 / 1 |  |
 | LT-ELTA-CALENDAR | ELTA, 16 November calendar dispatch, published 16 November 2010, 00:00, opening name-day lists. | 18 | 2 / 0 |  |
-| LT-GUIDE | Tėvų Darželis name guide, e.g. Eirimė. | 6–92 (55) | 127 / 79 |  |
-| LT-GUIDE-GARSE | Tėvų darželis: Garsė, meaning paragraph. | directory only | 0 / 0 |  |
-| LT-GUIDE-NOMEDA | Tėvų darželis: Nomeda, meaning paragraph. | directory only | 0 / 0 |  |
+| LT-FRAENKEL62 | Ernst Fraenkel, *Litauisches etymologisches Wörterbuch*, Bd. 1–2 (Heidelberg/Göttingen 1962–1965), archive.org item, cached from the item’s text PDF (1,586 PDF pp.);… | 102 | 0 / 3 | 1586 |
+| LT-GAIVENIS14-RASTAI | Kazimieras Gaivenis, *Rinktiniai raštai*, comp. Jolanta Gaivenytė-Butler (Vilnius: Lietuvių kalbos institutas, 2014), ISBN 978-609-411-122-8, 780 pp. Indexed from the… | 102 | 0 / 2 | 780 |
+| LT-GUDAVICIUS13-NATURE | Gudavičius, “Nature in the System of Lithuanian Personal Names”, Voprosy onomastiki (2013), DOAJ record. | directory only | 0 / 0 |  |
+| LT-GUIDE | Tėvų Darželis name guide, e.g. Eirimė. | 6–93 (56) | 127 / 79 |  |
+| LT-GUIDE-FELICIJA | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-GAIVILE | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-GARSE | Tėvų darželis: Garsė, meaning paragraph. | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-GAUDILE | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-GAUDVILAS | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-GINDVILE | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-JAUNUTIS | Existing cached lead | 97, 99, 101 | 0 / 3 |  |
+| LT-GUIDE-JOMANTAS | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-NOMEDA | Tėvų darželis: Nomeda, meaning paragraph. | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-SARUNAS | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-VILGAUDAS | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-VILTENE | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-VILTENIS | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| LT-GUIDE-ZIEDE | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
 | LT-HISTORY | Lithuanian Institute of History, Edmundas Gimžauskas, bibliography. | 16 | 1 / 0 |  |
 | LT-INSTITUTIONS | Writers' Union and National Library. | 14, 15, 19 | 3 / 0 |  |
+| LT-KUZAVINIS-KALBOTYRA-X | K. Kuzavinis, Lietuvos vardo kilmė, Kalbotyra X (1964). | 101 | 0 / 1 | 14 |
 | LT-LITUANISTIKA | Lituanistika and linked etalpykla.lituanistika.lt full texts. | 13 | 0 / 1 |  |
+| LT-LITUANISTIKA-19207 | Lituanistika record: *Lietuvių vardų kilmės žodynas*. | 102 | 0 / 1 |  |
+| LT-LITUANUS-1978-3-02 | K. A. Girvilas, Pre-Christian Name Giving in Lithuania, Lituanus 24/3 (1978). | 101 | 0 / 4 |  |
+| LT-LITUANUS-1990-3-09 | Review of *Lietuvių pavardžių žodynas* L–Ž, Lituanus 36/3 (1990). | directory only | 0 / 0 |  |
 | LT-LKI | Institute of the Lithuanian Language journals, especially *Acta Linguistica Lithuanica*. | 17, 20, 57 | 0 / 2 |  |
+| LT-LKI-RYTU-VARDYNAS | Kazimieras Garšva, *Rytų Lietuvos vardynas ir jo rašyba* (Vilnius: Lietuvių kalbos institutas, 2024), LKI PDF, 135 pp. Indexed from the user’s download; the private… | 102 | 0 / 1 | 135 |
 | LT-LKZ-MIRROR | Lietuvių kalbos žodynas mirror, jovaras, definition list. | 33 | 1 / 0 |  |
 | LT-LMTA | Lithuanian Academy of Music and Theatre, History of the Department of Organ and Harpsichord, opening historical paragraphs. | 15 | 1 / 0 |  |
+| LT-LPZ | *Lietuvių pavardžių žodynas*, t. 1–2, ed. Aleksandras Vanagas (Vilnius: Mokslas, 1985–1989), archive.org, text PDF, 2,503 pp. Suggested by the user on 13 November 2026. | 102 | 0 / 3 | 2503 |
 | LT-LRYTAS-DEC29 | Lrytas, 29 December–4 January names, 28 December 2025. | 65 | 0 / 2 |  |
 | LT-LRYTAS-LEAD | Lrytas, 15–21 November name explanations, published 14 November 2021, Gerdvilė paragraph. | 16 | 0 / 1 |  |
-| LT-MACIEJAUSKIENE04 | Vitalija Maciejauskienė, Dar kartą apie lietuvių vardus, Kalbos kultūra 77, 2004, 84–95 | 78, 82 | 1 / 1 | 12 |
-| LT-MACIEJAUSKIENE94 | Vitalija Maciejauskienė, *Antano Salio „Kalendoriniai vardai“*, Lietuvių kalbotyros klausimai XXXIV (1994), PDF p. 3 / printed p. 74. | 21, 76 | 1 / 1 | 3 |
-| LT-MGM-RARE | Mūsų Giminės Medis, Retesni XVII–XX a. krikšto vardai: kilmė ir reikšmės, Eufrosinė/Eufrozija/Frozina paragraphs. | 68–82 (7) | 0 / 8 |  |
-| LT-PAKERYS09 | Antanas Pakerys, *Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtapradė priegaidė*, Baltistica 44(2), 2009, pp. 185–212, Lituanistika repository PDF… | 21–80 (6) | 1 / 8 | 28 |
-| LT-PAKERYS10 | Antanas Pakerys, Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtagalė priegaidė, Žmogus ir žodis 2010 I, PDF p. 5 / printed p. 92, and PDF p. 2 /… | 33–91 (14) | 8 / 9 | 15 |
-| LT-PAKERYS11 | Antanas Pakerys, *Dvikamienių lietuvių moterų vardų kirčiavimas / Accentuation of Lithuanian compound female names*, Žmogus ir žodis 2011 I, pp. 90–99. PDF p. 6 /… | 22–87 (20) | 15 / 12 | 10 |
+| LT-LVKZ-EDITIONS | Edition history of Kuzavinis & Savukynas, compiled from cached bibliographies (no full text online): LT-PAKERYS09 PDF27, LT-PAKERYS11 PDF10, LT-VU-ELABA-20206206 PDF10,… | directory only | 0 / 0 |  |
+| LT-MACIEJAUSKIENE04 | Vitalija Maciejauskienė, Dar kartą apie lietuvių vardus, Kalbos kultūra 77, 2004, 84–95 | 78–102 (11) | 10 / 13 | 12 |
+| LT-MACIEJAUSKIENE94 | Vitalija Maciejauskienė, *Antano Salio „Kalendoriniai vardai“*, Lietuvių kalbotyros klausimai XXXIV (1994), PDF p. 3 / printed p. 74. | 21–101 (6) | 3 / 4 | 3 |
+| LT-MGM-RARE | Mūsų Giminės Medis, Retesni XVII–XX a. krikšto vardai: kilmė ir reikšmės, Eufrosinė/Eufrozija/Frozina paragraphs. | 68–102 (16) | 0 / 49 |  |
+| LT-PAKERYS09 | Antanas Pakerys, *Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtapradė priegaidė*, Baltistica 44(2), 2009, pp. 185–212, Lituanistika repository PDF… | 21–100 (7) | 1 / 9 | 28 |
+| LT-PAKERYS10 | Antanas Pakerys, Dvikamienių lietuvių vyrų vardų kirčiavimas: pirmųjų dėmenų tvirtagalė priegaidė, Žmogus ir žodis 2010 I, PDF p. 5 / printed p. 92, and PDF p. 2 /… | 33–100 (18) | 9 / 12 | 15 |
+| LT-PAKERYS11 | Antanas Pakerys, *Dvikamienių lietuvių moterų vardų kirčiavimas / Accentuation of Lithuanian compound female names*, Žmogus ir žodis 2011 I, pp. 90–99. PDF p. 6 /… | 22–102 (29) | 23 / 31 | 10 |
+| LT-PALMAITIS98-PRUSU | Letas Palmaitis, *Prūsų raštija*, Knygotyra 25(32), 1998, 8 pp. Indexed from the user’s download (URL not recorded); not committed. | directory only | 0 / 0 | 8 |
+| LT-PASAULIOLIETUVIS-RETI-VARDAI | Daiva Sinkevičiūtė, Labai retų lietuviškų vardų įvairovė emigrantų iš Lietuvos vardyne. | 101, 102 | 0 / 3 | 8 |
 | LT-PAVAN14 | Luca Pavan, *Una nuova lista di “falsi amici” e di “interferenze onomastiche” nella lingua italiana e lituana*, Verbum 5 (2014), pp. 238–246, DOI… | 22 | 1 / 0 |  |
-| LT-SALYS83 | Antanas Salys, collected writings, vol. 2 (1983), reprinting the 1964 Tikiu Dievą name calendar. PDF p. 317 / printed p. 302. | 13–92 (80) | 175 / 109 | 714 |
+| LT-RG-MONOCOMPONENT | “Lithuanian Mono-Component Personal Names: Semantics, Pragmatics, Tendencies”, ResearchGate full text, suggested by the user on 13 November 2026. | directory only | 0 / 0 |  |
+| LT-SALYS83 | Antanas Salys, collected writings, vol. 2 (1983), reprinting the 1964 Tikiu Dievą name calendar. PDF p. 317 / printed p. 302. | 13–102 (90) | 369 / 283 | 714 |
 | LT-SENNSALYS68 | Alfred Senn and Anton Salys, Wörterbuch der litauischen Schriftsprache, vol. 5 (Heidelberg: Carl Winter, 1968), pp. 481–560, *Eigennamen und damit Zusammenhängendes*.… | 61–88 (24) | 48 / 13 |  |
-| LT-SINKEVICIUTE06 | Daiva Sinkevičiūtė, *Dėl vardyno plėtimo dvikamieniais vardais ir jų variantais* (2006), PDF p. 3 / printed p. 275. | 25, 57, 58, 72 | 2 / 2 | 6 |
-| LT-SINKEVICIUTE12 | Daiva Sinkevičiūtė, Nauji 2007–2010 m. lietuviškos kilmės vaikų vardai ir jų davimo polinkiai, Kalbos kultūra 84, pp. 214–229, 16-page PDF. | 65 | 0 / 1 | 16 |
-| LT-SINKEVICIUTE17 | Daiva Sinkevičiūtė, “Dėl lietuvių dvikamienių asmenvardžių kamieno *gerd-* autentiškumo” / “On the authenticity of the Lithuanian compound proper name stem gerd-”,… | 56 | 0 / 1 | 11 |
+| LT-SINKEVICIUTE06 | Daiva Sinkevičiūtė, *Dėl vardyno plėtimo dvikamieniais vardais ir jų variantais* (2006), PDF p. 3 / printed p. 275. | 25–100 (5) | 2 / 3 | 6 |
+| LT-SINKEVICIUTE12 | Daiva Sinkevičiūtė, Nauji 2007–2010 m. lietuviškos kilmės vaikų vardai ir jų davimo polinkiai, Kalbos kultūra 84, pp. 214–229, 16-page PDF. | 65, 95, 99, 100 | 0 / 4 | 16 |
+| LT-SINKEVICIUTE17 | Daiva Sinkevičiūtė, “Dėl lietuvių dvikamienių asmenvardžių kamieno *gerd-* autentiškumo” / “On the authenticity of the Lithuanian compound proper name stem gerd-”,… | 56, 100 | 0 / 2 | 11 |
 | LT-SIRENA15 | *Rokiškio Sirena*, 20 November 2015, no. 75 (266), PDF p. 1, right-hand calendar column. | 20, 21, 57 | 3 / 4 |  |
 | LT-VLE | Visuotinė lietuvių enciklopedija, e.g. Juozapatas Kuncevičius. | 2–92 + 1 topic (20) | 26 / 2 |  |
-| LT-VLE-BAZILIJUS | VLE Bazilijus Didysis | 69 | 1 / 0 |  |
+| LT-VLE-BAZILIJUS | VLE Bazilijus Didysis | 69, 98 | 1 / 1 |  |
 | LT-VLE-JAUNUTIS | Universal Lithuanian Encyclopedia, Jaunutis, opening biography (alias of cached WEB-VLE-LT-STRAIPSNIS-JAUNUTIS). | directory only | 0 / 0 |  |
-| LT-VLE-KREVE | Universal Lithuanian Encyclopedia, Vincas Krėvė, section “Kūryba”. | 91 | 1 / 0 |  |
+| LT-VLE-KREVE | Universal Lithuanian Encyclopedia, Vincas Krėvė, section “Kūryba”. | 91, 100 | 1 / 1 |  |
 | LT-VLE-MERKELIS | VLE Merkelis Giedraitis | 73 | 1 / 0 |  |
 | LT-VLE-ORIGIN-THEORIES | VLE Lithuanian origin theories | 78 | 1 / 0 |  |
 | LT-VLE-PALEMONAS | VLE Palemonas | directory only | 0 / 0 |  |
 | LT-VLE-SKOMANTAS | Universal Lithuanian Encyclopaedia, Skomantas. | 58 | 1 / 0 |  |
+| LT-VLE-VYTENIS-DUKE | Universal Lithuanian Encyclopedia, Vytenis, ruler, opening biography and 1298 diplomacy paragraph. | 93, 100 | 1 / 1 |  |
 | LT-VLKK | VLKK names and official classification dataset. | 13–57 (5) | 0 / 4 |  |
+| LT-VLKK-REGISTRAS-1-BALTISKI | VLKK news: Lietuvos piliečių vardų registras (1): baltiškos kilmės vardai, suggested by the user on 13 November 2026. | directory only | 0 / 0 |  |
+| LT-VU-ELABA-115477061 | Daiva Sinkevičiūtė, Skolintų vardų su baigmeniu -ij- kaita Lietuvos vardyne, Acta Linguistica Lithuanica 84. | 101 | 0 / 2 | 22 |
+| LT-VU-ELABA-20206206 | Daiva Sinkevičiūtė, review of *Rinkis vardą lietuvišką* (2014), Taikomoji kalbotyra 8 (2016). | directory only | 0 / 0 | 10 |
+| LT-VU-ELABA-231782682 | Daiva Sinkevičiūtė, Naming trends of Lithuanian emigrants in Ireland, Norway and Germany (1991–2020), Onomástica desde América Latina 6 (2025). | 101, 102 | 0 / 3 | 19 |
+| LT-VU-ELABA-34081137 | Daiva Sinkevičiūtė, Nežinomi Lietuvos metrikos senieji lietuvių dvikamieniai asmenvardžiai, Baltistica 53(1), 2018, pp. 117–132, doi:10.15388/Baltistica.53.1.2346. | directory only | 0 / 0 | 16 |
+| LT-VU-ELABA-4017487 | Kazys Morkūnas obituary. | 101, 102 | 0 / 2 | 8 |
+| LT-VU-ELABA-78200385 | Márcia Sipavicius Seide, Lolita Petrulionė, Formation and usage of hypocoristic forms in Brazilian Portuguese and Lithuanian (Alfa, São Paulo). | 102 | 0 / 1 | 25 |
+| LT-ZINKEVICIUS09-SAVEIKA | Zigmas Zinkevičius, Lietuvių asmenvardžių sąveika, Baltistica 44(1), 2009, pp. 125–134. | directory only | 0 / 0 | 10 |
+| LT-ZINKEVICIUS77 | Zigmas Zinkevičius, *Lietuvių antroponimika: Vilniaus lietuvių asmenvardžiai XVII a. pradžioje* (Vilnius: Mokslas, 1977), 305 PDF pp., with a usable text layer and an… | 102 | 0 / 1 | 305 |
 
 ## Latvia
 
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
 | LV-ACME-SIGURNIJA | ACME Film, *Septiņas minūtes pēc pusnakts / A Monster Calls*, cast line, Latvian synopsis and premiere heading. | 23, 57 | 0 / 1 |  |
-| LV-ALL93 | Laimute Balode and Renāte Siliņa-Piņķe, Changes in the Stock of Given Names in the Context of a New Dictionary of Latvian Given Names, *Acta Linguistica Lithuanica* 93… | 13–90 (7) | 5 / 19 | 10 |
+| LV-ALL93 | Laimute Balode and Renāte Siliņa-Piņķe, Changes in the Stock of Given Names in the Context of a New Dictionary of Latvian Given Names, *Acta Linguistica Lithuanica* 93… | 13–100 (10) | 7 / 21 | 10 |
 | LV-AUDIT | State Audit Office, Riga property-management discussion, participant paragraph. | 15 | 0 / 1 |  |
-| LV-BALODIS-LIV | Pauls Balodis, Personal Names of Livonian Origin in Latvia: Past and Present, in *Names in Multi-Lingual, -Cultural and -Ethnic Contact* (ICOS proceedings volume),… | 59, 64 | 1 / 1 | 12 |
+| LV-BALODE22-TENDENCES | Laimute Balode, *Personvārdu izvēles tendences Latvijā un citās Baltijas valstīs: salīdzinošais aspekts* (2022), in a volume ed. by A. Navickaitė-Klišauskienė et al.,… | 102 | 0 / 9 | 33 |
+| LV-BALODIS-LIV | Pauls Balodis, Personal Names of Livonian Origin in Latvia: Past and Present, in *Names in Multi-Lingual, -Cultural and -Ethnic Contact* (ICOS proceedings volume),… | 59–102 (6) | 1 / 6 | 12 |
+| LV-BALODIS08 | Pauls Balodis, *Latviešu personvārdu etimoloģiskās semantikas teorētiskais modelis un tā realizācija*, doctoral thesis, University of Latvia, 2008 (supervisor Ojārs… | 102 | 0 / 9 | 263 |
 | LV-BTN-JEV | Behind the Name: Jevgēņijs, Yevgeniy, Eugene. | 13 | 1 / 0 |  |
+| LV-DZIRKSTELE-IMALDA09 | Cached primary source | 98 | 1 / 0 |  |
 | LV-ENC-AUSEKLIS | Pauls Daija, National Encyclopaedia, Auseklis, sections “Publicistika” and “Literārā darbība”. | 44 | 1 / 0 |  |
 | LV-ENC-GOLDEN | Benedikts Kalnačs, National Encyclopaedia, Zelta zirgs, character and performance sections. | 51 | 1 / 0 |  |
 | LV-ENC-PLAY | National Encyclopaedia, Spēlēju, dancoju, composition, plot and publication sections. | 49 | 1 / 0 |  |
 | LV-ENC-SILVER | Benedikts Kalnačs, National Encyclopaedia, Sidraba šķidrauts, plot, publication and Iestudējumi sections. | 40 | 1 / 0 |  |
 | LV-ENCYCLOPEDIA | National Encyclopaedia. | 2–21 (7) | 13 / 0 |  |
 | LV-EPUPA | Latvian Language Agency’s academic electronic lexical resource, brīvība, etymology section. | 18 | 0 / 2 |  |
-| LV-IDENTITY25 | Balode and Siliņa-Piņķe, Reflection of Identity in Given Names of Latvia Over the Last Century, *Onomastica Uralica* 17 (2025), pp. 139–156. Repository record, PDF. | 13–84 (5) | 3 / 16 | 19 |
+| LV-IDENTITY25 | Balode and Siliņa-Piņķe, Reflection of Identity in Given Names of Latvia Over the Last Century, *Onomastica Uralica* 17 (2025), pp. 139–156. Repository record, PDF. | 13–100 (8) | 3 / 20 | 19 |
+| LV-JELGAVA-GEILA22 | Cached primary source | 98, 100 | 1 / 1 |  |
 | LV-LAVI | LU Latvian Language Institute, including *Linguistica Lettica* and *Onomastica Lettica*. | 16 | 3 / 3 |  |
 | LV-LFK | Latvian Folklore Archives library, Latviešu personvārdu vārdnīca, bibliographical fields. | 53 | 1 / 0 |  |
-| LV-LILE24 | Linguistica Lettica, special issue (2024), article headed *Ieskats darba procesā / Insight into Work in Progress*. PDF p. 304. | 13–86 (12) | 2 / 13 | 392 |
+| LV-LILE24 | Linguistica Lettica, special issue (2024), article headed *Ieskats darba procesā / Insight into Work in Progress*. PDF p. 304. | 13–102 (21) | 3 / 72 | 392 |
 | LV-LITERATURE | Literatura.lv, Latvian Literature, National Film Centre archive. | 2–57 (6) | 31 / 0 |  |
 | LV-LNB-ZELTITE | Latvian National Library, Zeltīte: drāma 2 cēlienos, object 60960, full bibliographic record: Aspazija, St Petersburg, Gulbis, 1904, 56 pp. | 21, 82 | 2 / 0 |  |
 | LV-LPVV | University of Latvia, Latvian Language Institute, Latviešu personvārdu vēsturiskā vārdnīca, official announcement of the first 200 entries. | directory only | 0 / 0 |  |
+| LV-LPVV-178 | LPVV: Latis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 | 1 |
 | LV-LSM-KURSITE24 | Janīna Kursīte, Latvian Public Broadcasting (LSM), article on the stone head in Līvu laukums, 11 January 2024. | 59 | 1 / 0 |  |
+| LV-LU-NAMEVARIATION | University of Latvia name-variation study, linked by exact Dane catalogue entry — New repository bitstream request; the cached HTML response was inspected. | 100 | 0 / 1 |  |
 | LV-LU-REPO | University of Latvia repository. | directory only | 0 / 0 |  |
 | LV-LVA | Latvian Language Agency, Citvalodu personvārdu atveide, especially its literature list and language-specific manuals. Russian manual (1993). | 13–61 (48) | 100 / 294 |  |
 | LV-LVA-ALFONS | Language Agency German Alfons → Alfonss and PDF export, citing Ceplītis (1960), p. 58; also Polish Alfons (Staltmane 1998 p. 49), Swedish Alfons (Balode 2003 p. 319),… | 57 | 1 / 0 |  |
@@ -207,14 +264,14 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | LV-LVA-ANTOINE-R85 | Latvian Language Agency, Antoine search, French masculine given-name row. | 85 | 1 / 1 |  |
 | LV-LVA-ANTONIO-R85 | LVA, Antonio search, Spanish and Italian given-name rows. | 85 | 1 / 0 |  |
 | LV-LVA-ARAM | LVA Armenian Aram rendering | directory only | 0 / 0 |  |
-| LV-LVA-ARM09 | Valda Salmiņa, Armēņu īpašvārdu atveide latviešu valodā, Riga 2009 | 73, 80, 89 | 4 / 3 | 192 |
+| LV-LVA-ARM09 | Valda Salmiņa, Armēņu īpašvārdu atveide latviešu valodā, Riga 2009 | 73–99 (6) | 4 / 7 | 192 |
 | LV-LVA-BETH | Language Agency English Beth → Beta, Ahero (2006), p. 95. | 57 | 0 / 1 |  |
 | LV-LVA-CAT | Latvian Language Agency, English Cat → Keta and PDF export, citing Ahero (2006), p. 96. | 57 | 1 / 0 | 1 |
 | LV-LVA-DANIELS | Latvian Language Agency, Daniels search results, exact given-name rows. | 66 | 1 / 0 |  |
 | LV-LVA-DANIIL | LVA Даниил search: no rows. | 66 | 0 / 4 |  |
 | LV-LVA-DAVIDS | Latvian Language Agency, Davids search results, exact given-name rows. | 66 | 2 / 0 |  |
 | LV-LVA-ELIZABETA | Language Agency English Elisabeth export, single page, citing A. Ahero, *Angļu īpašvārdu atveide latviešu valodā* (2006), p. 100. | 19 | 1 / 0 |  |
-| LV-LVA-EN06 | A. Ahero, *Angļu īpašvārdu atveide latviešu valodā* (2006), agency PDF. | 62–90 (16) | 23 / 8 | 221 |
+| LV-LVA-EN06 | A. Ahero, *Angļu īpašvārdu atveide latviešu valodā* (2006), agency PDF. | 62–102 (24) | 31 / 63 | 221 |
 | LV-LVA-FREDERICA | Language Agency Frederica export, single page, citing Ahero (2006), p. 102. | 14 | 1 / 0 |  |
 | LV-LVA-FRIEDRICH | Language Agency Friedrich export, single page, citing Ceplītis (1960), p. 61. | 14 | 1 / 0 |  |
 | LV-LVA-GLORIA | Language Agency Gloria export, single page, citing Ahero (2006), p. 103. | 16 | 1 / 0 |  |
@@ -225,26 +282,28 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | LV-LVA-JEFIMIJA | Language Agency Єфимія export, single page, citing Hansons and Poļakova, *Ukraiņu īpašvārdu atveide latviešu valodā* (2023), p. 156. | 16 | 1 / 0 |  |
 | LV-LVA-JELIZAVETA | Latvian Language Agency Ukrainian Єлизавета export, single page, citing A. Hansons and M. Poļakova, *Ukraiņu īpašvārdu atveide latviešu valodā* (2023), p. 156. | 19 | 1 / 0 |  |
 | LV-LVA-JELLIE-R85 | LVA Jellie search: no records. | 86 | 0 / 1 |  |
-| LV-LVA-JOCELYN-R85 | LVA Jocelyn search: Jocelyn → Džos(e)lina, Ahero 2006 p. 106. | 86 | 0 / 1 |  |
+| LV-LVA-JOCELYN-R85 | LVA Jocelyn search: Jocelyn → Džos(e)lina, Ahero 2006 p. 106. | 86, 94 | 0 / 2 |  |
 | LV-LVA-KLEOPATRA-R85 | LVA Kleopatra search: fetched; Latvian rendering rows are not evidence for the Lithuanian profile and were not used. | directory only | 0 / 0 |  |
 | LV-LVA-LIZA | Language Agency Lithuanian Liza export, single page, citing T. Porīte’s Lithuanian-name guide (1961), p. 53. | 19 | 1 / 0 |  |
 | LV-LVA-LT | T. Porīte, *Norādījumi par citvalodu īpašvārdu pareizrakstību un pareizrunu latviešu literārajā valodā*, IV: *Lietuviešu valodas īpašvārdi* (Riga, 1961). PDF p. 46. | 13, 15 | 1 / 1 |  |
-| LV-LVA-LT61 | T. Porīte, ed., Lithuanian proper-name rendering manual (1961), agency PDF. | 66–91 (5) | 7 / 3 | 70 |
+| LV-LVA-LT61 | T. Porīte, ed., Lithuanian proper-name rendering manual (1961), agency PDF. | 66–102 (14) | 7 / 26 | 70 |
 | LV-LVA-LUCIJA | Language Agency Lucija (Croatian), Bušs, *Valodas prakse* no. 6, 2011, p. 156. | 60 | 1 / 0 |  |
 | LV-LVA-MEGAN | LVA Megan search: no rows. | 62 | 0 / 1 |  |
-| LV-LVA-NORDIC03 | *Dāņu, norvēģu, zviedru un somu īpašvārdu atveide latviešu valodā* (2003), agency PDF. | 64–82 (7) | 2 / 8 | 260 |
+| LV-LVA-NORDIC03 | *Dāņu, norvēģu, zviedru un somu īpašvārdu atveide latviešu valodā* (2003), agency PDF. | 64–102 (16) | 3 / 67 | 260 |
 | LV-LVA-ODETA | Language Agency Odette (French), Bankava 2004 pp. 11, 95; Odett (Hungarian), Sakse 1998 p. 47. | 60 | 1 / 0 |  |
 | LV-LVA-OTILIJA | Language Agency rows Ottilie (German), Ceplītis 1960 p. 63 → Otīlija; Otília (Portuguese), Placinska 2015 p. 144 → Otīlija and Otilija; Otilia (Romanian), Dimiņš 2025… | 60 | 2 / 0 |  |
 | LV-LVA-PL98-AGNIESZKA | Latvian Language Agency Agnieszka export, single page, citing V. Staltmane (ed.), *Poļu īpašvārdu pareizrakstība un pareizruna latviešu valodā*, 2nd ed., Riga: Zinātne,… | 88 | 1 / 0 | 1 |
 | LV-LVA-PL98-OLGIERD | Agency Olgierd export, Staltmane 1998, p. 53. | 87 | 0 / 1 | 1 |
 | LV-LVA-REGINALD | LVA Reginald rendering search | 79 | 0 / 1 |  |
-| LV-LVA-RU93 | R. Grabis and T. Porīte, Russian proper-name rendering manual (1993), agency PDF. | 61–90 (10) | 9 / 12 | 177 |
+| LV-LVA-RU93 | R. Grabis and T. Porīte, Russian proper-name rendering manual (1993), agency PDF. | 61–102 (18) | 9 / 44 | 177 |
 | LV-LVA-SEARCH-DENISS | Language Agency search, q=Deņiss. | 84 | 0 / 1 |  |
 | LV-LVA-SEARCH-DENIZA | Language Agency search, q=Denīza. | 84 | 1 / 1 |  |
 | LV-LVA-SEARCH-DENIZE | Language Agency search, q=Denīze (cached as WEB-PERSONVARDUATVEIDE-…-Q-DEN-C4-ABZE). | 84 | 1 / 0 |  |
+| LV-LVA-SEARCH-RICHIE | Latvian Language Agency Richie query, cached results. | 94 | 0 / 1 |  |
+| LV-LVA-SEARCH-RICK | Latvian Language Agency Rick query, cached results. | 94 | 0 / 2 |  |
 | LV-LVA-SIGRUNA | Language Agency Norwegian Sigrun export, single page, citing S. Karkonens-Svensons, Norwegian-name chapter in the Nordic-name volume (2003), p. 227. | 23 | 1 / 0 |  |
 | LV-LVA-SIGURD | Latvian Language Agency Swedish Sigurd export, single page, visually checked. | 92 | 1 / 0 | 1 |
-| LV-LVA-UA23 | A. Hansons, M. Poļakova, *Ukraiņu īpašvārdu atveide latviešu valodā*, Latvian Language Agency, 2023. PDF, PDF/printed p. 152 (name list, section IV). Already cached… | 84, 90 | 4 / 1 | 192 |
+| LV-LVA-UA23 | A. Hansons, M. Poļakova, *Ukraiņu īpašvārdu atveide latviešu valodā*, Latvian Language Agency, 2023. PDF, PDF/printed p. 152 (name list, section IV). Already cached… | 84–102 (10) | 4 / 37 | 192 |
 | LV-LVA-VALDEMAR | Language Agency rows Waldemar (German), Ceplītis 1960 p. 65; Valdemar (Swedish), Balode 2003 p. 324; Valdemar (Finnish), Bušs et al. 2003 p. 398; Valdemar (Portuguese),… | 60 | 3 / 0 |  |
 | LV-LVA-VIGO | Language Agency Danish Viggo export, single page, citing I. Mežaraupe’s Danish-name chapter in the Nordic-name volume (2003), p. 102. | 20 | 1 / 0 |  |
 | LV-LVA-VILORA | Language Agency Russian Вилора export, single page, citing Grabis/Porīte (1993), p. 184. | 22 | 1 / 0 |  |
@@ -254,19 +313,1120 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | LV-LVKJ73 | (described in prose; see source directory) | 78 | 0 / 1 |  |
 | LV-OLYMPIC | Latvian Olympic Committee: Jevgenijs Borodavko. | 13 | 1 / 0 |  |
 | LV-PERIODIKA | Periodika and LNB collections/catalogues. | 13 | 0 / 18 |  |
+| LV-PLESUMA-BALODE12 | Plesuma and Balode, Retie personvardi musdienu Latvija, Valodas prakse8 — Existing cache text/related-form discovery only; exact per-name outcome and next inspection… | 100, 101, 102 | 0 / 7 | 186 |
+| LV-PLESUMA-BALODE13 | Primary original | 99, 100, 101, 102 | 5 / 35 | 186 |
 | LV-RFS | FC RFS: Svarīga uzvara Jelgavā, 8 April 2026. | 13 | 1 / 0 |  |
 | LV-SILINA15 | Zane Šiliņa, *Tendencies of Expressionism in Rainis’ Writings: Spēlēju, dancoju (I Played, I Danced, 1915)*, Interlitteraria 20/2 (2015), pp. 7–19; publisher article,… | 49, 61 | 1 / 1 | 13 |
-| LV-SILINS | Klāvs Siliņš, *Latviešu personvārdu vārdnīca* (1990); Personvārdu izpētnieks, e.g. Jevgeņijs. | 2–92 + 1 topic (91) | 637 / 590 |  |
+| LV-SILINS | Klāvs Siliņš, *Latviešu personvārdu vārdnīca* (1990); Personvārdu izpētnieks, e.g. Jevgeņijs. | 2–95 + 1 topic (94) | 753 / 899 |  |
+| LV-SILINS-ABIGEILA-8D1C1817 | Abigeila | 98 | 0 / 1 |  |
+| LV-SILINS-ABITA-8559A101 | Abita | 98 | 0 / 1 |  |
+| LV-SILINS-ADELAINE-08E6B535 | Adelaine | 98 | 0 / 1 |  |
+| LV-SILINS-ADELFINA-D7EBC94A | Adelfina | 98 | 0 / 1 |  |
+| LV-SILINS-ADELINA-7DCE3D5B | Adelīna | 98 | 1 / 0 |  |
+| LV-SILINS-ADELINA-B35FE10B | Adeļina | 98 | 0 / 1 |  |
+| LV-SILINS-ADELINA-F583B85A | Adelina | 98 | 0 / 1 |  |
+| LV-SILINS-ADGARS-F18BE348 | Siliņš catalogue: Adgars — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-AFANASIJA-2DF51F29 | Siliņš catalogue: Afanasija — Afanasija: Attributed catalogue pp41,73; explicit reference to the masculine Afanasijs. | 101 | 1 / 0 |  |
+| LV-SILINS-AFANASIJS-F5AFC5C1 | Siliņš catalogue: Afanasijs — Afanasijs: Attributed catalogue pp41,73; explicit Belarusian/Russian/Ukrainian form of Atanasijs. | 101 | 1 / 0 |  |
+| LV-SILINS-AGEJS-B9E8A61B | Agejs | 99 | 0 / 1 |  |
+| LV-SILINS-AGIJA-C9DA1D1F | Agija | 99 | 0 / 1 |  |
+| LV-SILINS-AGIJS-BD9C6C35 | Agijs | 99 | 0 / 1 |  |
+| LV-SILINS-AGIKA-0E3E62A1 | Agika | 98 | 0 / 1 |  |
+| LV-SILINS-AGIS-EEC47802 | Aģis | 98 | 0 / 1 |  |
+| LV-SILINS-AGISA-B7FE3094 | Agisa | 98 | 0 / 1 |  |
+| LV-SILINS-AIGILS-64EC12C9 | Siliņš catalogue: Aigils — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-AINIS-992ED392 | Siliņš catalogue: Ainis — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-AIVA-35A20FDB | Aiva | 98 | 0 / 1 |  |
+| LV-SILINS-AIVIJA-54A2342A | Aivija | 99 | 1 / 0 |  |
+| LV-SILINS-AIVIJS-50702FA5 | Aivijs | 99 | 0 / 1 |  |
+| LV-SILINS-AIVIKA-987D06BA | Aivika | 98 | 0 / 1 |  |
+| LV-SILINS-AIVILS-75E4CAEF | Aivils | 98 | 0 / 1 |  |
+| LV-SILINS-AIVIS-2439DD32 | Aivis | 98 | 0 / 1 |  |
+| LV-SILINS-AIVO-7E8D154F | Aivo | 98 | 0 / 1 |  |
+| LV-SILINS-AJITA-AAF65DEA | Ajita | 98 | 0 / 1 |  |
+| LV-SILINS-ALA-2A5B1227 | Siliņš catalogue: Aļa — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ALDONIS-8E2FD061 | Aldonis | 99 | 1 / 0 |  |
+| LV-SILINS-ALDONS-1B28E350 | Aldons | 99 | 0 / 1 |  |
+| LV-SILINS-ALESJA-D09BEB6B | Siliņš catalogue: Aļesja — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ALFA-53B59486 | Siliņš catalogue: Alfa — Alfa: Attributed catalogue p49; catalogue qualifies1976 as possible calendar date. | 100 | 1 / 0 |  |
+| LV-SILINS-ALFEJS-365A9EC9 | Siliņš catalogue: Alfejs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ALFIJA-91C4E858 | Siliņš catalogue: Alfija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ALFIJS-F22CEFCE | Siliņš catalogue: Alfijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ALFS-546C524F | Siliņš catalogue: Alfs — Alfs: Attributed catalogue p50; multiple explicit name bases, not an exclusive ancient root. Original1467 record not independently inspected. | 100 | 1 / 0 |  |
+| LV-SILINS-ALIANA-A5E4C770 | Siliņš catalogue: Aliāna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ALICIJA-B18D0F64 | Alīcija | 97 | 1 / 0 |  |
+| LV-SILINS-ALINA-1DBF8C8E | Siliņš catalogue: Aļina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ALINA-67D5E0ED | Siliņš catalogue: Alina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ALINA-E677425B | Siliņš catalogue: Alīna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ALINE-66A4BEC7 | Siliņš catalogue: Aline — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ALINE-BF66C9D0 | Siliņš catalogue: Alīne — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ALINTE-49DA5456 | Siliņš catalogue: Alinte — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ALISA-EFB1CDA6 | Alīsa | 97 | 0 / 1 |  |
+| LV-SILINS-ALISE-82ED6931 | Alīse | 97 | 0 / 1 |  |
+| LV-SILINS-ALISIJA-2256BB77 | Alīsija | 97 | 0 / 1 |  |
+| LV-SILINS-ALISIJA-41DED279 | Alisija | 97 | 0 / 1 |  |
+| LV-SILINS-ALISTERS-35C53440 | Alisters | 97 | 0 / 1 |  |
+| LV-SILINS-ALLIJA-05B5BA39 | Siliņš catalogue: Allija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ALMA | Alma | 96 | 1 / 0 |  |
+| LV-SILINS-ALMARA | Almāra | 96 | 0 / 1 |  |
+| LV-SILINS-ALMARS | Almars | 96 | 0 / 1 |  |
+| LV-SILINS-ALMARS-LONG | Almārs | 96 | 0 / 1 |  |
+| LV-SILINS-ALMIRA | Almīra | 96 | 0 / 1 |  |
+| LV-SILINS-ALONDRA-245CA036 | Siliņš catalogue: Alondra — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ALSIS-0F1B35BC | Alsis | 97 | 0 / 1 |  |
+| LV-SILINS-ALTAIRS-35E1C8D0 | Siliņš catalogue: Altairs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-AMILDA-BCE8F5EC | Amilda | 98 | 0 / 1 |  |
+| LV-SILINS-ANAITA-5716CEDF | Siliņš catalogue: Anaita — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ANASTASIJA-024CCC93 | Siliņš catalogue: Anastāsija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ANASTASIJS-0EFB1455 | Siliņš catalogue: Anastāsijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ANASTASIJS-82E35FBB | Siliņš catalogue: Anastasijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ANASTAZIJA-4E181BB3 | Siliņš catalogue: Anastazija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ANASTAZIJA-8D90610C | Siliņš catalogue: Anastāzija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ANASTAZIJS-48F62F3C | Siliņš catalogue: Anastāzijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ANASTAZIJS-D504C4D7 | Siliņš catalogue: Anastazijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ANDARTA | Andārta | 96 | 1 / 0 |  |
+| LV-SILINS-ANDRA-319F1240 | Andra | 97, 100 | 0 / 2 |  |
+| LV-SILINS-ANDRE-9D9726D2 | Andre | 97 | 1 / 0 |  |
+| LV-SILINS-ANDRELITA-4E35655B | Andrelita | 97 | 0 / 1 |  |
+| LV-SILINS-ANDRETA-9136C1B3 | Andreta | 97, 100 | 0 / 2 |  |
+| LV-SILINS-ANDRIANA-3FA8CC77 | Andriāna | 97 | 0 / 1 |  |
+| LV-SILINS-ANDRIANA-E8429AFE | Andriana | 97 | 1 / 0 |  |
+| LV-SILINS-ANDRIJA-C642548F | Andrija | 97 | 1 / 0 |  |
+| LV-SILINS-ANDRIJANA-5183B722 | Andrijana | 97 | 0 / 1 |  |
+| LV-SILINS-ANDRIKA-CAB37926 | Andrika | 97 | 0 / 1 |  |
+| LV-SILINS-ANDRITA-DBD8F27E | Andrita | 97, 100 | 0 / 2 |  |
+| LV-SILINS-ANDROMEDA-AD0AA2DB | Andromeda | 97 | 1 / 0 |  |
+| LV-SILINS-ANICETA-CA83CBBF | Siliņš catalogue: Aniceta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ANICETS-4EB00F5A | Siliņš catalogue: Anicets — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ANIJA-91322A2C | Siliņš catalogue: Anija — Anija: Attributed catalogue pp59,60; third quarter of eighteenth century retained. | 100 | 1 / 0 |  |
+| LV-SILINS-ANIKA-CEE0825A | Siliņš catalogue: Anika — Anika: Attributed catalogue pp59,60; exact single-n form, separate from Annika1975. | 100 | 1 / 0 |  |
+| LV-SILINS-ANIS-F00FA944 | Siliņš catalogue: Anis — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ANKATRINA | Ankatrīna | 96 | 1 / 0 |  |
+| LV-SILINS-ANLIZA | Anlīza | 96 | 0 / 1 |  |
+| LV-SILINS-ANLIZE | Anlīze | 96 | 1 / 0 |  |
+| LV-SILINS-ANLIZETA | Anlizeta | 96 | 0 / 1 |  |
+| LV-SILINS-ANMARA | Anmāra | 96 | 0 / 1 |  |
+| LV-SILINS-ANMARIJA | Anmarija | 96 | 1 / 0 |  |
+| LV-SILINS-ANNAKLARA | Annaklāra | 96 | 0 / 1 |  |
+| LV-SILINS-ANNAMARIJA | Annamarija | 96 | 0 / 1 |  |
+| LV-SILINS-ANNEMARIJA | Annemarija | 96 | 0 / 1 |  |
+| LV-SILINS-ANNIKA-F4840C5C | Siliņš catalogue: Annika — Annika: Attributed catalogue p60; exact double-n form; Anna root alternatives not selected. | 100 | 1 / 0 |  |
+| LV-SILINS-ANNMARIJA | Annmarija | 96 | 0 / 1 |  |
+| LV-SILINS-ANRIETE-B47EE4D1 | Siliņš catalogue: Anriete — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ARIGO-D5BCAE25 | Henrika | 98 | 0 / 1 |  |
+| LV-SILINS-ARMA-11949AAF | Siliņš catalogue: Arma — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ARMANDA-1A29EB34 | Siliņš catalogue: Armanda — Armanda: Attributed catalogue p68, 153; explicit form reference with the entry’s own dated record. | 101 | 1 / 0 |  |
+| LV-SILINS-ARMANDO-235313B7 | Siliņš catalogue: Armando — Armando: Attributed catalogue pp68,153; Italian/Spanish form of Armands. | 101 | 1 / 0 |  |
+| LV-SILINS-ARMANTS-F1405AA5 | Siliņš catalogue: Armants — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ARMASS-1DC35BDC | Siliņš catalogue: Armass — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ARVALDA-BA156381 | Arvalda | 99 | 0 / 1 |  |
+| LV-SILINS-ARVALDA-F98269DC | Ārvalda | 99 | 0 / 1 |  |
+| LV-SILINS-ARVALDINA-5598EA85 | Arvaldina | 99 | 0 / 1 |  |
+| LV-SILINS-ARVALDIS-8096D1FE | Arvaldis | 99 | 0 / 1 |  |
+| LV-SILINS-ARVALDIS-F16EC558 | Ārvaldis | 99 | 1 / 0 |  |
+| LV-SILINS-ARVALDS-2DB0C710 | Ārvalds | 99 | 0 / 1 |  |
+| LV-SILINS-ARVALDS-3E2591AC | Arvalds | 99 | 0 / 1 |  |
+| LV-SILINS-ATANAZIJS-EE7EF873 | Siliņš catalogue: Atanazijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ATSTARS-74332500 | Atstars | 99 | 1 / 0 |  |
+| LV-SILINS-ATVARS-CEDA6230 | Atvars | 99 | 1 / 0 |  |
+| LV-SILINS-AUCE-65AB7953 | Auce | 97 | 0 / 1 |  |
+| LV-SILINS-AURA-224EA01E | Aura | 97 | 0 / 2 |  |
+| LV-SILINS-AURELIJA-962FD42C | Aurēlija | 97 | 1 / 0 |  |
+| LV-SILINS-AURELIJA-F99772B4 | Aurelija | 97 | 0 / 1 |  |
+| LV-SILINS-AURELIJS-30177D9B | Aurēlijs | 97 | 1 / 0 |  |
+| LV-SILINS-AURELIJS-R97 | Aurelijs | 97 | 0 / 1 |  |
+| LV-SILINS-AURELS-R97 | Aurels | 97 | 0 / 1 |  |
+| LV-SILINS-AURIKA-00DCA126 | Aurika | 97 | 1 / 0 |  |
+| LV-SILINS-AURORA-E9DE098C | Aurora | 97 | 1 / 1 |  |
+| LV-SILINS-AUSRA-1EE29A1F | Aušra | 97 | 1 / 0 |  |
+| LV-SILINS-AUSTRA-0BF71126 | Austra | 97 | 1 / 1 |  |
+| LV-SILINS-AUSTRIS-5BE84F9B | Siliņš catalogue: Austris | 97 | 0 / 1 |  |
+| LV-SILINS-AUSTRITE-11BFBCA8 | Austrīte | 97 | 0 / 2 |  |
+| LV-SILINS-AVITA-R83 | Vita | 98 | 0 / 1 |  |
+| LV-SILINS-BALDURS-402A132F | Baldūrs | 98 | 0 / 1 |  |
+| LV-SILINS-BALVIS-5782A087 | Balvis | 98 | 1 / 0 |  |
+| LV-SILINS-BARBALA-38874F0A | Siliņš catalogue: Bārbala — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-BARBALA-D1404342 | Siliņš catalogue: Barbala — Barbala: Attributed catalogue pp77–78; explicit form of Barbara. | 101 | 1 / 0 |  |
+| LV-SILINS-BARBOLA-AF52C789 | Siliņš catalogue: Barbola — Barbola: Attributed catalogue p78; explicit form of Barbara. | 101 | 1 / 0 |  |
+| LV-SILINS-BENEDIKTA-1BF78473 | Benedikta | 98 | 1 / 0 |  |
+| LV-SILINS-BENEDIKTS-D594F507 | Benedikts | 98 | 1 / 0 |  |
+| LV-SILINS-BERNADA-C489FB68 | Siliņš catalogue: Bernada — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-BERNADE-4046B2A7 | Siliņš catalogue: Bernāde — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-BERNADE-8C3A29A6 | Siliņš catalogue: Bernade — Bernade: Attributed catalogue p81; exact Bernade, not Bernada or Bernāde. | 100 | 1 / 0 |  |
+| LV-SILINS-BERNADETA-BEA51131 | Siliņš catalogue: Bernadeta — Bernadeta: Attributed catalogue p81, explicit French-form relationship; local Latvian first-quarter-century reference. | 100 | 1 / 0 |  |
+| LV-SILINS-BERNADETE-C6508898 | Siliņš catalogue: Bernadete — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-BERNADITA-7E5E9ED2 | Siliņš catalogue: Bernadita — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-BERNADITE-D6A791CD | Siliņš catalogue: Bernadite — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-BERNADITE-E0F10B58 | Siliņš catalogue: Bernadīte — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-BITITE-17A6D9BE | Siliņš catalogue: Bitīte — Bitīte: Attributed catalogue p84; direct diminutive relation, Latvian bee basis not a claimed bearer trait. | 100 | 1 / 0 |  |
+| LV-SILINS-BORBALA-5D9CF623 | Siliņš catalogue: Borbala — Borbala: Attributed catalogue pp85,78; explicit form of Barbara. | 101 | 1 / 0 |  |
+| LV-SILINS-BORBOLA-F227F40E | Siliņš catalogue: Borbola — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-BORBULA-EB856D45 | Siliņš catalogue: Borbula — Borbula: Attributed catalogue pp85,78; explicit form of Barbara. | 101 | 1 / 0 |  |
+| LV-SILINS-CENSONIS-DEFD5BBB | Censonis | 97 | 1 / 0 |  |
+| LV-SILINS-CENSONS-3C4CD1AA | Censons | 97 | 1 / 0 |  |
+| LV-SILINS-CENTA-BF2E68BE | Centa | 97 | 0 / 1 |  |
+| LV-SILINS-CENTIS-F9EA2C3D | Centis | 97 | 1 / 0 |  |
+| LV-SILINS-CENTOLLA-01B6256E | Centolla | 97 | 0 / 1 |  |
+| LV-SILINS-CENTONIS-F8D7DDDB | Centonis | 97 | 0 / 1 |  |
+| LV-SILINS-CIEDRA-A7478C46 | Ciedra | 99 | 0 / 1 |  |
+| LV-SILINS-DAGITA-E7778127 | Dagita | 98 | 0 / 1 |  |
+| LV-SILINS-DAGMARA-CA848B67 | Dagmara | 98 | 0 / 1 |  |
+| LV-SILINS-DAGMARA-CE66C6FC | Dagmāra | 98 | 0 / 1 |  |
+| LV-SILINS-DAGMARS-4FF118ED | Dagmārs | 98 | 1 / 0 |  |
+| LV-SILINS-DAGMARS-C359F866 | Dagmars | 98 | 0 / 1 |  |
+| LV-SILINS-DAGNA-870B223D | Dagna | 99 | 0 / 1 |  |
+| LV-SILINS-DAGNE-E5B30A71 | Dagne | 99 | 1 / 0 |  |
+| LV-SILINS-DAGNIJS-4D988267 | Dagnijs | 99 | 1 / 0 |  |
+| LV-SILINS-DAGNIS-BF19B60F | Dagnis | 99 | 1 / 0 |  |
+| LV-SILINS-DAGNITA-93BFA7F4 | Dagnita | 99 | 0 / 1 |  |
+| LV-SILINS-DAGRITA-82579D9B | Dagrita | 98 | 0 / 1 |  |
+| LV-SILINS-DAINUVITE | Siliņš catalogue: Dainuvīte | 97 | 0 / 1 |  |
+| LV-SILINS-DAINUVITE-724626D1 | Siliņš catalogue: Dainuvīte | 97 | 0 / 1 |  |
+| LV-SILINS-DAIRITA-6A753D0B | Dairita | 99 | 0 / 1 |  |
+| LV-SILINS-DAIVA-CDD88DED | Daiva | 99 | 0 / 1 |  |
+| LV-SILINS-DAIVIS-EBBCFFF7 | Daivis | 99 | 1 / 0 |  |
+| LV-SILINS-DAJANA-9E3B65C3 | Siliņš catalogue: Dajana — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DALA-0DDA8886 | Siliņš catalogue: Daļa — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-DALIJA-6ECAC136 | Siliņš catalogue: Dālija — Dālija: Attributed catalogue p93; plant-name gloss. | 101 | 1 / 0 |  |
+| LV-SILINS-DAMARS-D727327D | Damārs | 99 | 0 / 1 |  |
+| LV-SILINS-DAMARS-FE80EE14 | Damars | 99 | 0 / 1 |  |
+| LV-SILINS-DAMIANS-977B3EB7 | Damians | 99 | 1 / 0 |  |
+| LV-SILINS-DAMIJS-ABD4B411 | Damijs | 99 | 0 / 1 |  |
+| LV-SILINS-DAMIRS-E0827470 | Damirs | 99 | 0 / 1 |  |
+| LV-SILINS-DANA-09FB9FF3 | Siliņš catalogue: Dana — Dana: Attributed catalogue p94; exact feminine reference and local record. | 100 | 1 / 0 |  |
+| LV-SILINS-DANE-79CFA503 | Siliņš catalogue: Dane — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANEKS-721DC934 | Siliņš catalogue: Daneks — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANETA-B3AD2FF6 | Siliņš catalogue: Daneta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANICA-6DF0C55B | Siliņš catalogue: Danica — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANIDA-6156E68F | Siliņš catalogue: Danida — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANIJA-BC6A7343 | Siliņš catalogue: Danija — Danija: Attributed catalogue p94; direct form reference. | 100 | 1 / 0 |  |
+| LV-SILINS-DANIJS-FA0E6FB4 | Siliņš catalogue: Danijs — Danijs: Attributed catalogue p94; prose Daniel retained, not silently substituted from related-field Daniels. | 100 | 1 / 0 |  |
+| LV-SILINS-DANIKA-B46E3F2D | Siliņš catalogue: Danika — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANINA-BA658489 | Siliņš catalogue: Danīna — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANIS-40EADDD0 | Siliņš catalogue: Danis — Danis: Attributed catalogue p94; direct reference. | 100 | 1 / 0 |  |
+| LV-SILINS-DANITA-198AFAE3 | Siliņš catalogue: Danita — Danita: Attributed catalogue p94; direct form reference and quarter precision. | 100 | 1 / 0 |  |
+| LV-SILINS-DANNA-4037DC1C | Siliņš catalogue: Danna — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANS-29D88369 | Siliņš catalogue: Dans — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANUTA-14923905 | Siliņš catalogue: Daņuta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANUTA-DEED7666 | Siliņš catalogue: Danuta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DANUTE-F3732CF6 | Siliņš catalogue: Danute — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DEMENTIJS-ACBF23C2 | Dementijs | 98 | 0 / 1 |  |
+| LV-SILINS-DENIJA-8B935DB2 | Siliņš catalogue: Denija — Denija: Attributed catalogue pp97,99; direct English-form correspondence. | 100 | 1 / 0 |  |
+| LV-SILINS-DENIJS-47C6FC87 | Siliņš catalogue: Denijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DEREKS-7947A25D | Siliņš catalogue: Dereks — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-DIDRIHS-5151E573 | Siliņš catalogue: Didrihs — Didrihs: Attributed catalogue pp98,100; explicit form of Dietrich. | 102 | 1 / 0 |  |
+| LV-SILINS-DIDRIKIS-5D063162 | Siliņš catalogue: Didriķis — Didriķis: Attributed catalogue pp98,100; listed under Dietrich. | 102 | 1 / 0 |  |
+| LV-SILINS-DIDZIS-0E9606B0 | Siliņš catalogue: Didzis — Didzis: Attributed catalogue pp98,100; direct link to Dietrich. | 102 | 1 / 0 |  |
+| LV-SILINS-DIDZUS-10B5FE21 | Siliņš catalogue: Didžus — Didžus: Attributed catalogue pp98,100; listed under Dietrich. LT-LPZ PDF491 offers a different Latvian dižs comparison for the Lithuanian… | 102 | 1 / 0 |  |
+| LV-SILINS-DITERS-87B33077 | Siliņš catalogue: Dīters — Dīters: Attributed catalogue pp99,100; direct link to Dietrich. | 102 | 1 / 0 |  |
+| LV-SILINS-DOMICELA-F48701C6 | Siliņš catalogue: Domicela — Domicela: Attributed catalogue p100; Latin gloss as given. | 102 | 1 / 0 |  |
+| LV-SILINS-DOMICELE-29397EF0 | Siliņš catalogue: Domicele — Domicele: Attributed catalogue p100; listed under Domicela. | 102 | 1 / 0 |  |
+| LV-SILINS-DOMICELIJA-638840E8 | Siliņš catalogue: Domicelija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-DOMICELLA-C356D8F9 | Siliņš catalogue: Domicella — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-DONICELA-12D01349 | Siliņš catalogue: Donicela — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-DZANA-05DFDEE9 | Džana | 99 | 0 / 1 |  |
+| LV-SILINS-DZANETA-BF7CB191 | Džaneta | 99 | 1 / 0 |  |
+| LV-SILINS-DZANETE-116C9EA0 | Džanete | 99 | 0 / 1 |  |
+| LV-SILINS-DZANITA-C02FE229 | Džanita | 99 | 1 / 0 |  |
+| LV-SILINS-DZEINA-C4864A9F | Džeina | 99 | 1 / 0 |  |
+| LV-SILINS-DZELME-F96D529C | Dzelme | 98 | 1 / 0 |  |
+| LV-SILINS-DZENA-B91F37A3 | Džena | 99 | 1 / 0 |  |
+| LV-SILINS-DZENETA-123D1654 | Dženeta | 99 | 1 / 0 |  |
+| LV-SILINS-DZENETE-908BE44A | Dženete | 99 | 0 / 1 |  |
+| LV-SILINS-DZENIFERA-DF4A10A1 | Dženifera | 99 | 0 / 1 |  |
+| LV-SILINS-DZENIJA-C7D8E890 | Dženija | 99 | 1 / 0 |  |
+| LV-SILINS-DZENITA-C0341E69 | Dženita | 99 | 1 / 0 |  |
+| LV-SILINS-DZERALDA-423A4249 | Džeralda | 99 | 1 / 0 |  |
+| LV-SILINS-DZERALDINE-23DFBF07 | Džeraldīne | 99 | 0 / 1 |  |
+| LV-SILINS-DZERALDS-AE0F5F3B | Džeralds | 99 | 1 / 0 |  |
+| LV-SILINS-DZERIJS-0DF7D538 | Džerijs | 99 | 0 / 1 |  |
+| LV-SILINS-DZESIJA-4445A120 | Džesija | 99 | 1 / 0 |  |
+| LV-SILINS-DZESIKA-F0E9C19B | Džesika | 99 | 0 / 1 |  |
+| LV-SILINS-DZIEDRA-11BB1E11 | Dziedra | 99 | 0 / 1 |  |
+| LV-SILINS-DZINA-343356EF | Džina | 99 | 0 / 1 |  |
+| LV-SILINS-DZINA-47A4B850 | Džīna | 99 | 0 / 1 |  |
+| LV-SILINS-DZINE-95A6A316 | Siliņš catalogue: Dzīne — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DZINETA-7B18B8FB | Džineta | 99 | 1 / 0 |  |
+| LV-SILINS-DZINITA-205A9F59 | Džinita | 99 | 0 / 1 |  |
+| LV-SILINS-DZINTA-BC6CD2C7 | Siliņš catalogue: Dzinta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DZINTIS-00493811 | Siliņš catalogue: Dzintis — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-DZOANNA-54692B27 | Džoanna | 99 | 1 / 0 |  |
+| LV-SILINS-DZORDZS-C76F19BF | Siliņš catalogue: Džordžs — Džordžs: Attributed catalogue pp105,135; English form listed under Georgs. | 101 | 1 / 0 |  |
+| LV-SILINS-EDGARS-04C42964 | Siliņš catalogue: Edgārs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-EGILS-2C80F50C | Siliņš catalogue: Egīls — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-EGILS-A4D080BC | Siliņš catalogue: Egils — Egils: LV-LVA-NORDIC03 PDF111/printed215 exact personal-name row Egil→Egils, original inspected; own attributed catalogue p108 Valmiera first… | 100 | 1 / 0 |  |
+| LV-SILINS-EGLE-F251F7E0 | Siliņš catalogue: Egle | 97 | 0 / 1 |  |
+| LV-SILINS-EGLIS-B4678C29 | Siliņš catalogue: Eglis | 97 | 0 / 1 |  |
+| LV-SILINS-EGLONS-017A1A25 | Siliņš catalogue: Eglons | 97 | 0 / 1 |  |
+| LV-SILINS-EIGITS-40A35358 | Eigits | 97 | 0 / 1 |  |
+| LV-SILINS-EINA-22E05FF5 | Siliņš catalogue: Eina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-EINARDS-0737B147 | Siliņš catalogue: Einards — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-EINARS-1609CA5E | Siliņš catalogue: Einārs — Einārs: Attributed catalogue pp110,108,111; listed under Eginhard. | 102 | 1 / 0 |  |
+| LV-SILINS-EINARS-CE4D3978 | Siliņš catalogue: Einars — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-EINARTS-21B94263 | Siliņš catalogue: Einarts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-EINIJA-A1D8CC7E | Einija | 97 | 0 / 1 |  |
+| LV-SILINS-EINIS-90DE0274 | Siliņš catalogue: Einis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-EINO-8D64BA26 | Siliņš catalogue: Eino — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-EIZENIJA-34580089 | Eiženija | 99 | 0 / 1 |  |
+| LV-SILINS-EIZENIJA-F7C3EB79 | Eižēnija | 99 | 0 / 1 |  |
+| LV-SILINS-ELA-9C2ECA5D | Eļa | 98 | 0 / 1 |  |
+| LV-SILINS-ELARS-07C1ADCE | Elārs | 97 | 0 / 1 |  |
+| LV-SILINS-ELCINS-F740DA57 | Elčins | 97 | 0 / 1 |  |
+| LV-SILINS-ELDA-3927285E | Elda | 97 | 0 / 1 |  |
+| LV-SILINS-ELDARS-880E1317 | Eldars | 97 | 0 / 1 |  |
+| LV-SILINS-ELDIJS-6B53AA34 | Eldijs | 97 | 0 / 1 |  |
+| LV-SILINS-ELEKTRA-BE6FBA7E | Elektra | 97 | 1 / 0 |  |
+| LV-SILINS-ELERTS-9B04F845 | Elerts | 97 | 1 / 0 |  |
+| LV-SILINS-ELISIJA-C3867684 | Elīsija | 97 | 0 / 1 |  |
+| LV-SILINS-ELLA-C007C297 | Ella | 98 | 0 / 1 |  |
+| LV-SILINS-ELLADA-41765485 | Ellada | 98 | 0 / 1 |  |
+| LV-SILINS-ELLIJA-CA3A9BC0 | Ellija | 98 | 1 / 0 |  |
+| LV-SILINS-ELMIRA-1B840B36 | Elmīra | 98 | 0 / 1 |  |
+| LV-SILINS-ELMIRA-39C21F97 | Eļmira | 98 | 0 / 1 |  |
+| LV-SILINS-ELMIRA-3AE3747D | Elmira | 98 | 0 / 1 |  |
+| LV-SILINS-ELMO-21C004C9 | Siliņš catalogue: Elmo — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ELMONDS-A14DF2A1 | Siliņš catalogue: Elmonds — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ELMUTS-6FEE75B2 | Siliņš catalogue: Elmuts — Elmuts: Attributed catalogue pp114,151; clear direct form reference, competing helm/heil proposals not selected. | 100 | 1 / 0 |  |
+| LV-SILINS-ELTA-3546D17C | Siliņš catalogue: Elta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ELTONS-F0D06F65 | Siliņš catalogue: Eltons — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ELVINA-98FD426F | Elvīna | 97 | 1 / 0 |  |
+| LV-SILINS-ELVINA-R97 | Elvina | 97 | 0 / 1 |  |
+| LV-SILINS-ELVINE-R97 | Elvīne | 97 | 0 / 1 |  |
+| LV-SILINS-ELVINGS-R97 | Elvings | 97 | 0 / 1 |  |
+| LV-SILINS-ELVINS-AFE5CA9A | Elvins | 97 | 0 / 2 |  |
+| LV-SILINS-ELVINS-R97 | Elvīns | 97 | 0 / 1 |  |
+| LV-SILINS-EMERALDS-ADECB8E7 | Emeralds | 97 | 0 / 1 |  |
+| LV-SILINS-EMERIHS-76AA12D4 | Emerihs | 97 | 0 / 1 |  |
+| LV-SILINS-EMERIKS-E98C3E82 | Emeriks | 97 | 0 / 1 |  |
+| LV-SILINS-ENA-27D3995B | Ena | 97 | 0 / 1 |  |
+| LV-SILINS-ENARS-1496E821 | Enārs | 97 | 0 / 1 |  |
+| LV-SILINS-ENDA-E2E53A97 | Enda | 97 | 0 / 1 |  |
+| LV-SILINS-ENDIJA-CE17CB8C | Endija | 97 | 1 / 0 |  |
+| LV-SILINS-ENDIJS-7DE1282C | Endijs | 97 | 0 / 1 |  |
+| LV-SILINS-ENDO-F38CC7F3 | Endo | 97 | 1 / 0 |  |
+| LV-SILINS-ENE-B8BCA0BE | Ene | 97 | 1 / 0 |  |
+| LV-SILINS-ENGELBERTS-C39A60F7 | Siliņš catalogue: Engelberts — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ENGELINA-767208AD | Siliņš catalogue: Engelīna — Engelīna: Attributed catalogue pp117,118; direct Eņģele reference only, no remote Angela Greek gloss transferred. | 100 | 1 / 0 |  |
+| LV-SILINS-ENIDA-35C7E54B | Enīda | 97 | 0 / 1 |  |
+| LV-SILINS-ENIJA-19D49472 | Enija | 97 | 1 / 0 |  |
+| LV-SILINS-ENIJS-5C55DD9C | Enijs | 97 | 0 / 1 |  |
+| LV-SILINS-ENIKA-C9598EF6 | Enika | 97 | 0 / 1 |  |
+| LV-SILINS-ENINA-CB4FB0F1 | Enina | 97 | 0 / 1 |  |
+| LV-SILINS-ENITA-6B4A2DBA | Enita | 97 | 0 / 1 |  |
+| LV-SILINS-ENNATA-40F5D69E | Ennata | 97 | 0 / 1 |  |
+| LV-SILINS-ENNIJA-C7DD9175 | Ennija | 97 | 0 / 1 |  |
+| LV-SILINS-ENNO-A129CBCC | Enno | 97 | 0 / 1 |  |
+| LV-SILINS-ENNRIKE-26D5CBC3 | Siliņš catalogue: Ennrike — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ENOKS-2D9B9D50 | Enoks | 97 | 0 / 1 |  |
+| LV-SILINS-ENRIJA-84984103 | Siliņš catalogue: Enrija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ENRIJS-19A80C08 | Siliņš catalogue: Enrijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ENRIKA-C3C0B983 | Siliņš catalogue: Enrika — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ENRIKETA-12BAA6D6 | Siliņš catalogue: Enriketa — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ENRIKO-56ED392A | Siliņš catalogue: Enriko — Enriko: Attributed catalogue pp118,150; Italian form of Heinrihs. | 102 | 1 / 0 |  |
+| LV-SILINS-ENRIKS-320CF151 | Siliņš catalogue: Enriks — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ENSIJA-B557D52A | Ensija | 97 | 0 / 1 |  |
+| LV-SILINS-ENTA-7CCF79BA | Enta | 97 | 0 / 1 |  |
+| LV-SILINS-ENVIJA-163FD8E5 | Envija | 97 | 0 / 1 |  |
+| LV-SILINS-ENZO-59E7D31E | Enzo | 97 | 0 / 1 |  |
+| LV-SILINS-ERASTS-D196E39B | Erasts | 98 | 0 / 1 |  |
+| LV-SILINS-ERIDA-58717F78 | Erīda | 98 | 0 / 1 |  |
+| LV-SILINS-ERIDANA-0EE6F996 | Eridāna | 98 | 1 / 0 |  |
+| LV-SILINS-ERIDANA-7B423FC4 | Eridana | 98 | 0 / 1 |  |
+| LV-SILINS-ERIMS-899C50FA | Erims | 98 | 0 / 1 |  |
+| LV-SILINS-ERINA-884C3B6C | Erīna | 98 | 0 / 1 |  |
+| LV-SILINS-ERINA-902BB097 | Erina | 98 | 0 / 1 |  |
+| LV-SILINS-ERITA-3E36C4AB | Erita | 98 | 0 / 1 |  |
+| LV-SILINS-ERMANIS-24950A16 | Siliņš catalogue: Ērmanis — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ERMANIS-45417429 | Siliņš catalogue: Ermanis — Hermanis: Attributed catalogue p153: Hermans prose explicitly analyses the base Hermanis while qualifying only Hermans; Ermanis prose… | 100 | 2 / 0 |  |
+| LV-SILINS-ERMANS-3B0072DB | Siliņš catalogue: Ermans — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ERNANDO-FC54E81C | Siliņš catalogue: Ernando — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ERNIJS-52E60197 | Ernijs | 98 | 0 / 1 |  |
+| LV-SILINS-ERNIS-2A3C2CFF | Ernis | 98 | 0 / 1 |  |
+| LV-SILINS-ERNSTS-8BDD79DC | Ernsts | 98 | 0 / 1 |  |
+| LV-SILINS-ERVIDS-8E7C4758 | Siliņš catalogue: Ervids — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ERVIJS-A3561661 | Siliņš catalogue: Ervijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ERVILS-B53BBB4B | Siliņš catalogue: Ervils — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ERVINA-BA208CB2 | Siliņš catalogue: Ervīna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ERVINS-03CF5BB6 | Siliņš catalogue: Ervīns — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ERVINS-194BFC87 | Siliņš catalogue: Ervins — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ERVIS-C199F7F6 | Siliņš catalogue: Ervis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ERVITA-E1902916 | Siliņš catalogue: Ervita — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-ESAMS-19E4747A | Esams | 98 | 0 / 1 |  |
+| LV-SILINS-ESENIJA-70C5FC7B | Esēnija | 98 | 0 / 1 |  |
+| LV-SILINS-ESIJA-DD54E600 | Esija | 98 | 1 / 0 |  |
+| LV-SILINS-ESLIJA-EA271B51 | Ešlija | 98 | 0 / 1 |  |
+| LV-SILINS-ETA-93334A97 | Eta | 98 | 0 / 1 |  |
+| LV-SILINS-ETELE-F0DD980C | Etele | 98 | 1 / 0 |  |
+| LV-SILINS-ETELVINE-25761189 | Etelvīne | 98 | 0 / 1 |  |
+| LV-SILINS-ETERE-DF2C9F42 | Etere | 98 | 0 / 1 |  |
+| LV-SILINS-ETERI-B7AE235E | Eteri | 98 | 0 / 1 |  |
+| LV-SILINS-ETINA-30D8DF92 | Etīna | 98 | 0 / 1 |  |
+| LV-SILINS-ETJENS-CC0DADA8 | Etjēns | 98 | 0 / 1 |  |
+| LV-SILINS-ETNIJA-AF31F91F | Etnija | 98 | 0 / 1 |  |
+| LV-SILINS-EUGENIJA-166AF8D7 | Eugēnija | 99 | 0 / 1 |  |
+| LV-SILINS-EUGENIJA-5D075282 | Euģēnija | 99 | 0 / 1 |  |
+| LV-SILINS-EUGENIJA-9CB43784 | Eugenija | 99 | 0 / 1 |  |
+| LV-SILINS-EUGENIJA-CBED650E | Euģenija | 99 | 0 / 1 |  |
+| LV-SILINS-EULALIJA-206647CF | Eulālija | 98 | 0 / 1 |  |
+| LV-SILINS-EULALIJA-786F31A9 | Eulalija | 98 | 0 / 1 |  |
+| LV-SILINS-EUZEBIJS-D609B028 | Euzebijs | 98 | 0 / 1 |  |
+| LV-SILINS-EVALDS-D9E59193 | Evalds | 98 | 0 / 1 |  |
+| LV-SILINS-EVALDS-EEBC3150 | Ēvalds | 98 | 0 / 1 |  |
+| LV-SILINS-EVALINA-R97 | Evalīna | 97 | 0 / 1 |  |
+| LV-SILINS-EVANDZELINA-R97 | Evandželīna | 97 | 0 / 1 |  |
+| LV-SILINS-EVELINA-995F8556 | Evelina | 97 | 0 / 1 |  |
+| LV-SILINS-EVELINE-61427FA5 | Evelīne | 97 | 0 / 1 |  |
+| LV-SILINS-EVELINE-R97 | Eveline | 97 | 0 / 1 |  |
+| LV-SILINS-EVENTIJS-D7AB0D2C | Eventijs | 98 | 0 / 1 |  |
+| LV-SILINS-EVERIKA-FF6487EA | Everika | 98 | 0 / 1 |  |
+| LV-SILINS-EVGENIJA-3CC4AD75 | Evgēnija | 99 | 0 / 1 |  |
+| LV-SILINS-EVGENIJA-7E21E718 | Evgenija | 99 | 0 / 1 |  |
+| LV-SILINS-EVGENIJA-8613C37A | Evģenija | 99 | 0 / 1 |  |
+| LV-SILINS-EVGENIJA-F72C194B | Evģēnija | 99 | 0 / 1 |  |
+| LV-SILINS-EVRIKA-2FA0C252 | Evrika | 98 | 0 / 1 |  |
+| LV-SILINS-FABIANS-1B061AE1 | Fabians | 98 | 1 / 0 |  |
+| LV-SILINS-FABIANS-AFAE11CD | Fabiāns | 98 | 0 / 1 |  |
+| LV-SILINS-FABIJANS-6AFF474D | Fabijans | 98 | 0 / 1 |  |
+| LV-SILINS-FABIJANS-C53EB70F | Fabijāns | 98 | 0 / 1 |  |
+| LV-SILINS-FALKS-45A9CF5C | Falks | 98 | 0 / 1 |  |
+| LV-SILINS-FANI-BEFF5433 | Siliņš catalogue: Fani — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FANIJA-8852398E | Siliņš catalogue: Fanija — Fanija: Attributed catalogue pp123,129; shared Fan(n)ija cross-references both bases, no exclusive distant root selected. | 100 | 1 / 0 |  |
+| LV-SILINS-FANNIJA-8091270E | Siliņš catalogue: Fannija — Fannija: Attributed catalogue pp123,129; shared Fan(n)ija cross-references both bases, no exclusive distant root selected. | 100 | 1 / 0 |  |
+| LV-SILINS-FEBE-898AF0C0 | Siliņš catalogue: Fēbe — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FEJA-86444BBB | Siliņš catalogue: Feja — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FELONIJA-B77EFF46 | Siliņš catalogue: Felonija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FENIJA-05852CDA | Siliņš catalogue: Fenija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FEONA-0F381EF6 | Siliņš catalogue: Feona — Feona: Attributed catalogue p125; exact Feona, not Feonija. | 100 | 1 / 0 |  |
+| LV-SILINS-FEONIJA-3109BEE8 | Siliņš catalogue: Feonija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FERDINANDS-6AE8137D | Ferdinands | 98 | 0 / 1 |  |
+| LV-SILINS-FERIJS-92985D03 | Ferijs | 98 | 0 / 1 |  |
+| LV-SILINS-FERNANDS-DFA9B768 | Fernands | 98 | 1 / 0 |  |
+| LV-SILINS-FETNA-6AF2612F | Fetna | 98 | 0 / 1 |  |
+| LV-SILINS-FILEMONA-2162FE99 | Filemona | 98 | 0 / 1 |  |
+| LV-SILINS-FILGITA-130345EC | Filgita | 98 | 0 / 1 |  |
+| LV-SILINS-FILIMONA-5A6F4FB9 | Filimona | 98 | 1 / 0 |  |
+| LV-SILINS-FILIMONA-721D30FE | Fiļimona | 98 | 1 / 0 |  |
+| LV-SILINS-FILIMONIJA-5FCC68F5 | Filimonija | 98 | 0 / 1 |  |
+| LV-SILINS-FILIOMENA-2A326CC7 | Filiomena | 98 | 0 / 1 |  |
+| LV-SILINS-FILIPINA-D1921659 | Siliņš catalogue: Filipina — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FILIPS-0CE3E0B7 | Siliņš catalogue: Filips — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FILIPS-78795CE5 | Siliņš catalogue: Fīlips — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FILOMEJA-1BBB6640 | Filomeja | 98 | 0 / 1 |  |
+| LV-SILINS-FILOMENA-1B1B314D | Filomena | 98 | 0 / 1 |  |
+| LV-SILINS-FILUMENA-1DC2F82A | Filumena | 98 | 0 / 1 |  |
+| LV-SILINS-FIONIJA-9345CD07 | Siliņš catalogue: Fionija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FLERA-AADCE4F1 | Siliņš catalogue: Flēra — Flēra: Attributed catalogue p128; explicit French-form relationship only, no goddess biography transferred. | 100 | 1 / 0 |  |
+| LV-SILINS-FLORA-69BD9530 | Siliņš catalogue: Flora — Flora: Attributed catalogue p128; Roman goddess-name source, no mortal bearer biography or ancient lexical reconstruction. | 100 | 1 / 0 |  |
+| LV-SILINS-FLORENCE-544C789E | Siliņš catalogue: Florence — Florence: Attributed catalogue p128; direct exact Florence reference only. Florentīna: Attributed catalogue p128; Florence prose explicitly… | 100 | 3 / 0 |  |
+| LV-SILINS-FLORENTIJA-534B83DC | Siliņš catalogue: Florentija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FLORENTINA-820B17BE | Siliņš catalogue: Florentina — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FLORENTINA-D9D7718C | Siliņš catalogue: Florentīna — Florentīna: Attributed catalogue p128; Florence prose explicitly states Florentīne/Florentīna variant grouping, own shared1901/1767… | 100 | 2 / 0 |  |
+| LV-SILINS-FLORENTINE-4C50214E | Siliņš catalogue: Florentīne — Florentīna: Attributed catalogue p128; Florence prose explicitly states Florentīne/Florentīna variant grouping, own shared1901/1767… | 100 | 2 / 0 |  |
+| LV-SILINS-FLORENTINE-F0699841 | Siliņš catalogue: Florentine — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FLORIANA-9A45FA61 | Siliņš catalogue: Floriana — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FLORIANS-35810020 | Siliņš catalogue: Florians — Florians: Attributed catalogue p128; exact short-i Florians distinct from Floriāns. | 100 | 1 / 0 |  |
+| LV-SILINS-FLORIJA-769A4087 | Siliņš catalogue: Florija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FLORIJANA-8242B2E2 | Siliņš catalogue: Florijana — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FLORIJANS-0C46E308 | Siliņš catalogue: Florijans — Florijans: Attributed catalogue p128; exact Florijans, not Florijana or Florijs. | 100 | 1 / 0 |  |
+| LV-SILINS-FLORIJS-1F37CDFA | Siliņš catalogue: Florijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-FRASKITA-76C995B4 | Fraskita | 98 | 0 / 1 |  |
+| LV-SILINS-FREMENTIJS-8947AB59 | Frementijs | 98 | 0 / 1 |  |
+| LV-SILINS-FRITJOFS-A82102EE | Fritjofs | 98 | 0 / 1 |  |
+| LV-SILINS-GABIJA-3A403CBC | Gabija | 99 | 1 / 0 |  |
+| LV-SILINS-GABRIELA-BE51B0C3 | Gabriela | 99 | 1 / 0 |  |
+| LV-SILINS-GABRIELA-F89BB165 | Gabriēla | 99 | 0 / 1 |  |
+| LV-SILINS-GABRIELE-947D668D | Gabriele | 99 | 0 / 1 |  |
+| LV-SILINS-GABRIELLA-1625B63E | Gabriella | 99 | 0 / 1 |  |
+| LV-SILINS-GABRIELS-7D70E145 | Gabriels | 99 | 1 / 0 |  |
+| LV-SILINS-GABRIELS-A3CB0BB8 | Gabriēls | 99 | 0 / 1 |  |
+| LV-SILINS-GAIDIS-8D9DCCA4 | Siliņš catalogue: Gaidis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-GAIDONIS-4D85BE5B | Siliņš catalogue: Gaidonis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-GAIDVARS-25B28CBF | Siliņš catalogue: Gaidvars — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-GAIJA-AFD17EEE | Gaija | 98 | 1 / 0 |  |
+| LV-SILINS-GARLIBS-E1F034D0 | Garlībs | 99 | 0 / 1 |  |
+| LV-SILINS-GASTONS-C52034F9 | Siliņš catalogue: Gastons — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-GAVRILS-780EB86E | Gavrils | 99 | 1 / 0 |  |
+| LV-SILINS-GEDA-172791E9 | Geda | 99 | 1 / 0 |  |
+| LV-SILINS-GEDA-71CDBD67 | Ģēda | 99 | 0 / 1 |  |
+| LV-SILINS-GEDA-A187C041 | Gēda | 99 | 0 / 1 |  |
+| LV-SILINS-GEDERTS-B72FB33C | Siliņš catalogue: Ģederts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-GEDIMINS-D22B51B1 | Ģedimins | 99 | 1 / 0 |  |
+| LV-SILINS-GEDIMINS-E9BA2FEA | Gedimins | 99 | 0 / 1 |  |
+| LV-SILINS-GEDRA-ED000C7D | Gedra | 99 | 0 / 1 |  |
+| LV-SILINS-GELARIJS-153E687E | Gelārijs | 98 | 0 / 1 |  |
+| LV-SILINS-GELIJA-21D87308 | Gelija | 99 | 1 / 0 |  |
+| LV-SILINS-GELIJA-62243AD4 | Gēlija | 99 | 0 / 1 |  |
+| LV-SILINS-GELINTA-C8CC8A59 | Gelija | 99 | 1 / 1 |  |
+| LV-SILINS-GENEFA-E485BB97 | Genefa | 99 | 0 / 1 |  |
+| LV-SILINS-GENEROZA-5EF9EBDD | Generoza | 99 | 0 / 1 |  |
+| LV-SILINS-GENIJA-6CA6986B | Genija | 99 | 1 / 0 |  |
+| LV-SILINS-GENITA-92C7C5DC | Genita | 99 | 0 / 1 |  |
+| LV-SILINS-GENRIETA-6E0535D2 | Siliņš catalogue: Genrieta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-GENTRA-6810FCA9 | Gentra | 99 | 0 / 1 |  |
+| LV-SILINS-GERALDINA-8E8CB5CB | Geraldina | 99 | 0 / 1 |  |
+| LV-SILINS-GERALDS-6A29875D | Geralds | 99 | 0 / 1 |  |
+| LV-SILINS-GERARDA-F74D13F9 | Gerarda | 98 | 0 / 1 |  |
+| LV-SILINS-GERARDS-DDF381B4 | Gerards | 98 | 0 / 1 |  |
+| LV-SILINS-GERDA-5EE0483B | Gerda | 98 | 0 / 2 |  |
+| LV-SILINS-GERDS-4924F015 | Gerds | 98 | 1 / 0 |  |
+| LV-SILINS-GERHARDS-4BB25AFE | Gerhards | 98 | 0 / 1 |  |
+| LV-SILINS-GERITA-9FFC33F7 | Gerita | 99 | 0 / 1 |  |
+| LV-SILINS-GERTIJA-3E312392 | Gertija | 98 | 1 / 0 |  |
+| LV-SILINS-GERTRUDA-D1555D8E | Ģertruda | 98 | 0 / 1 |  |
+| LV-SILINS-GERTRUDA-FE4AC537 | Ģertrūda | 98 | 0 / 1 |  |
+| LV-SILINS-GERTRUDE-3FDA4DA2 | Ģertrude | 98 | 0 / 1 |  |
+| LV-SILINS-GERTRUDE-F4DD2458 | Ģertrūde | 98 | 1 / 0 |  |
+| LV-SILINS-GERTS-B5A1C6EB | Gerts | 98 | 0 / 1 |  |
+| LV-SILINS-GESTA-F49C4192 | Gesta | 99, 101 | 1 / 1 |  |
+| LV-SILINS-GIANEJA-0E86E678 | Gianeja | 99 | 0 / 1 |  |
+| LV-SILINS-GIDO-C1AF8575 | Gido | 99 | 1 / 0 |  |
+| LV-SILINS-GIDONS-F7453D48 | Gidons | 99 | 0 / 1 |  |
+| LV-SILINS-GIEDRA-78CB9F71 | Ģiedra | 99 | 0 / 1 |  |
+| LV-SILINS-GIEDRA-F5571CC3 | Giedra | 99 | 0 / 1 |  |
+| LV-SILINS-GILBERTS-A00670D0 | Gilberts | 99 | 1 / 0 |  |
+| LV-SILINS-GINA-4D08697A | Gina | 99 | 0 / 2 |  |
+| LV-SILINS-GINETA-E3D869BB | Gineta | 99 | 0 / 1 |  |
+| LV-SILINS-GINITA-1EF1FAA0 | Ginita | 99 | 0 / 1 |  |
+| LV-SILINS-GINTA-E900CBED | Ginta | 99 | 0 / 1 |  |
+| LV-SILINS-GINTA-F0841228 | Ģinta | 99 | 0 / 1 |  |
+| LV-SILINS-GINTIJA-CCDB58FD | Gintija | 99 | 0 / 1 |  |
+| LV-SILINS-GINTIS-301A5D5A | Siliņš catalogue: Gintis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-GINTS-74C360E9 | Siliņš catalogue: Ģints — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-GIRTS-BD530478 | Siliņš catalogue: Ģirts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-GIZELA-9A3B3392 | Gizela | 99 | 0 / 1 |  |
+| LV-SILINS-GLAFIRA-2BF54E7B | Siliņš catalogue: Glafira — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-GLAFIRA-7BD8E59B | Siliņš catalogue: Glafīra — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-GLAIMA-241623AC | Glaima | 99 | 0 / 1 |  |
+| LV-SILINS-GLEDISA-97458308 | Gledisa | 99 | 0 / 1 |  |
+| LV-SILINS-GLENDA-462E57DE | Glenda | 99 | 0 / 1 |  |
+| LV-SILINS-GLENDIJA-92BDC2B9 | Glendija | 99 | 0 / 1 |  |
+| LV-SILINS-GLENS-D8AF37E6 | Glens | 99 | 0 / 1 |  |
+| LV-SILINS-GLITA-2A7359E6 | Glita | 99 | 0 / 1 |  |
+| LV-SILINS-GODFRIDS-21BD6B50 | Godfrīds | 97 | 0 / 1 |  |
+| LV-SILINS-GODVARS-8B2AEB7C | Godvars | 97 | 1 / 0 |  |
+| LV-SILINS-GONDA-89C2700B | Gonda | 99 | 0 / 1 |  |
+| LV-SILINS-GOTARDS-6FD991FE | Gotards | 97 | 0 / 1 |  |
+| LV-SILINS-GOTFRIDS-496E178A | Gotfrīds | 97 | 0 / 1 |  |
+| LV-SILINS-GOTHARDS-58A50A66 | Gothards | 97 | 0 / 1 |  |
+| LV-SILINS-GOTLIBA-06D2867C | Gotlība | 97 | 0 / 1 |  |
+| LV-SILINS-GRACIJA-21832EF9 | Gracija | 99 | 0 / 1 |  |
+| LV-SILINS-GRACIJA-8D3EC484 | Grācija | 99 | 1 / 0 |  |
+| LV-SILINS-GRACIJANS-0D052270 | Gracijans | 99 | 0 / 1 |  |
+| LV-SILINS-GRANTS-B3E1C95A | Grants | 99 | 0 / 1 |  |
+| LV-SILINS-GRANTS-B4CC8D33 | Grānts | 99 | 0 / 1 |  |
+| LV-SILINS-GRASILDA-530DC9F6 | Grasilda | 99 | 1 / 0 |  |
+| LV-SILINS-GRATA-2812C33B | Grata | 99 | 0 / 1 |  |
+| LV-SILINS-GRATS-F254AA31 | Grats | 99 | 0 / 1 |  |
+| LV-SILINS-GRAZINA-A349AF91 | Gražina | 99, 101 | 1 / 1 |  |
+| LV-SILINS-GREGORS-91A55711 | Gregors | 99 | 0 / 1 |  |
+| LV-SILINS-GRIGORIJS-538361E9 | Grigorijs | 99 | 1 / 0 |  |
+| LV-SILINS-GRIGORS-301793B3 | Grigors | 99 | 0 / 1 |  |
+| LV-SILINS-GRINETA-A240788D | Grineta | 99 | 0 / 1 |  |
+| LV-SILINS-GRINETE-EA9044AD | Grinete | 99 | 0 / 1 |  |
+| LV-SILINS-GRITA-0A2265E3 | Grita | 99 | 1 / 0 |  |
+| LV-SILINS-GRIZELDA-2415B3A4 | Grizelda | 99 | 0 / 1 |  |
+| LV-SILINS-GUDMUNDS-48713F7B | Siliņš catalogue: Gudmunds — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-GUDRITE-3B4B98C0 | Siliņš catalogue: Gudrīte — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-GUDRUNA-A8E2FB6A | Siliņš catalogue: Gudruna — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-GUNDA-3EDC99F8 | Gunda | 99 | 1 / 0 |  |
+| LV-SILINS-GUNDEGA-DFE7AB4D | Siliņš catalogue: Gundega — Gundega: Attributed catalogue p144; plant-name gloss. The Brigadere play mentioned by the entry is not dated here and is not displayed. | 101 | 1 / 0 |  |
+| LV-SILINS-GUNDIJA-FD95A1FD | Gundija | 99 | 1 / 0 |  |
+| LV-SILINS-GUNDIS-95E6B037 | Gundis | 99 | 0 / 1 |  |
+| LV-SILINS-GUNMARA | Gunmāra | 96 | 1 / 0 |  |
+| LV-SILINS-GUNTARS-45D6508F | Guntars | 98 | 0 / 1 |  |
+| LV-SILINS-GUNTARS-DE9CA4CA | Guntārs | 98 | 0 / 1 |  |
+| LV-SILINS-GUNTINA-945732AC | Guntiņa | 99 | 1 / 0 |  |
+| LV-SILINS-GUNTRIS-148C824B | Guntris | 98 | 0 / 1 |  |
+| LV-SILINS-GUNTS-0A1D081E | Gunts | 98 | 0 / 1 |  |
+| LV-SILINS-GUSTS-76362252 | Gusts | 99 | 0 / 1 |  |
+| LV-SILINS-GUTARS-731CF19F | Gutars | 98 | 0 / 1 |  |
+| LV-SILINS-GVENDA-40A968C4 | Gvenda | 99 | 0 / 1 |  |
+| LV-SILINS-GVIDA-6D70EC35 | Gvida | 99 | 0 / 1 |  |
+| LV-SILINS-GVIDALIJA-B41321EE | Gvidālija | 99 | 0 / 1 |  |
+| LV-SILINS-GVIDIS-E7D9341A | Gvidis | 99 | 0 / 1 |  |
+| LV-SILINS-GVIDO-CAF4D24B | Gvido | 99 | 0 / 1 |  |
+| LV-SILINS-GVIDONS-FB89C5F2 | Gvidons | 99 | 0 / 1 |  |
+| LV-SILINS-GVINETA-43C15FE4 | Gvineta | 99 | 0 / 1 |  |
+| LV-SILINS-HAIDA-0661E988 | Siliņš catalogue: Haida — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HAIDE-59C2B4B9 | Siliņš catalogue: Haide — Haide: Attributed catalogue pp147,149; direct Haide/Heide relationship, no disputed distant Adelheid/Hedwig root selected. | 100 | 1 / 0 |  |
+| LV-SILINS-HAIDEJA-0014D16C | Siliņš catalogue: Haideja — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HAMILKARS-9D2AC63A | Siliņš catalogue: Hamilkārs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HARDIJA-C57B7BA4 | Siliņš catalogue: Hardija — Hardija: Attributed catalogue pp148–149; explicit feminine/masculine relationship without choosing disputed distant Hardijs roots. | 100 | 1 / 0 |  |
+| LV-SILINS-HARDIJS-40A1C4DD | Siliņš catalogue: Hārdijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HARDIJS-DFFAB3A6 | Siliņš catalogue: Hardijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HARDIS-0620D4A3 | Siliņš catalogue: Hardis — Hardis: Attributed catalogue pp148–149; direct relation with d/t alternation noted, not proof of a single remote root. | 100 | 1 / 0 |  |
+| LV-SILINS-HARLIJS-7BEB23D6 | Siliņš catalogue: Harlijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HEIDIJA-98344149 | Siliņš catalogue: Heidija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELIJA-CC6115FE | Siliņš catalogue: Hēlija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELIJS-75ED2320 | Siliņš catalogue: Helijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELIODORS-391823D5 | Siliņš catalogue: Heliodors — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELITA-A0BDB553 | Siliņš catalogue: Helita — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELJU-41197093 | Siliņš catalogue: Helju — Helju: Attributed catalogue pp151,150; source explicitly presents an Estonian feminine-form comparison in its Latvian entry; this does not… | 100 | 1 / 0 |  |
+| LV-SILINS-HELLA-62197CE6 | Siliņš catalogue: Hella — Hella: Attributed catalogue pp151,150,154; three explicit cross-references, no exclusive distant root or folk etymology chosen. | 100 | 1 / 0 |  |
+| LV-SILINS-HELLIJA-74CBE5B8 | Siliņš catalogue: Hellija — Hellija: Attributed catalogue pp151,150,154; direct reference only, competing distant Hella chains remain unresolved. | 100 | 1 / 0 |  |
+| LV-SILINS-HELMIRA-DA5AE72F | Helmīra | 98 | 0 / 1 |  |
+| LV-SILINS-HELMUTE-19A5CA66 | Siliņš catalogue: Helmute — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELMUTS-2C56E2CE | Siliņš catalogue: Helmuts — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELMUTS-60B26882 | Siliņš catalogue: Helmūts — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HELTA-C0138F2F | Siliņš catalogue: Helta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HENDIJA-1FA596CD | Siliņš catalogue: Hendija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HENIJA-7A58070A | Siliņš catalogue: Henija — Henija: Attributed catalogue pp152,150; direct Henriete reference only, no unproved Henrieta identity. | 100 | 1 / 0 |  |
+| LV-SILINS-HENISA-62412E69 | Siliņš catalogue: Henisa — Henisa: Attributed catalogue pp152,150; exact Henisa1971. | 100 | 1 / 0 |  |
+| LV-SILINS-HENITA-D2B18F37 | Siliņš catalogue: Henita — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HENNIJA-7ADE6D99 | Siliņš catalogue: Hennija — Hennija: Attributed catalogue pp152,150; exact double-n Hennija1967, not Henija. | 100 | 1 / 0 |  |
+| LV-SILINS-HENNO-96A0E287 | Siliņš catalogue: Henno — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HENRIETA-45289AB7 | Siliņš catalogue: Henrieta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-HENRIETE-225611E5 | Siliņš catalogue: Henriete — Henriete: Attributed catalogue pp152,150; shared Henriet/a, -e group under Heinrihs. | 102 | 1 / 0 |  |
+| LV-SILINS-HENRIJA-60CCBA12 | Siliņš catalogue: Henrija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-HENRIJS-05115F01 | Siliņš catalogue: Henrijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-HENRITA-D6FB21A4 | Siliņš catalogue: Henrita — Henrita: Attributed catalogue pp152,150; listed under Henrieta. | 102 | 1 / 0 |  |
+| LV-SILINS-HERA-5FACB174 | Siliņš catalogue: Hera — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HERA-BB32C53E | Siliņš catalogue: Hēra — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HERENIJA-DAEA3EDE | Siliņš catalogue: Herenija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HERITA-3BE526F2 | Siliņš catalogue: Herita — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HERMANIS-770AC66C | Siliņš catalogue: Hermanis — Hermanis: Attributed catalogue p153: Hermans prose explicitly analyses the base Hermanis while qualifying only Hermans; Ermanis prose… | 100 | 1 / 0 |  |
+| LV-SILINS-HERMANS-8C2EB14B | Siliņš catalogue: Hermans — Hermanis: Attributed catalogue p153: Hermans prose explicitly analyses the base Hermanis while qualifying only Hermans; Ermanis prose… | 100 | 1 / 1 |  |
+| LV-SILINS-HERMUNDS-CDAFC699 | Siliņš catalogue: Hermunds — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HERTA-DA9B02A4 | Herta | 99 | 1 / 0 |  |
+| LV-SILINS-HETE-A25F704F | Siliņš catalogue: Hete — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HETIJA-295CF869 | Siliņš catalogue: Hetija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HEVENA-49DC3DF5 | Siliņš catalogue: Hevena — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HEVIJS-EF25B6B7 | Siliņš catalogue: Hevijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HIACINTA-B4233111 | Siliņš catalogue: Hiacinta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-HONORADS-A9138868 | Siliņš catalogue: Honorads — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HONORATA-E63934CD | Siliņš catalogue: Honorata — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HONORETA-DF5A9057 | Siliņš catalogue: Honoreta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HORSTS-B8A3D6E5 | Siliņš catalogue: Horsts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-HORTENZIJA-EB049803 | Siliņš catalogue: Hortenzija — Hortenzija: Attributed catalogue p156; Latin gloss only. | 101 | 1 / 0 |  |
+| LV-SILINS-IEVALDS-491BF8ED | Ievalds | 98 | 1 / 0 |  |
+| LV-SILINS-IGMARS-94F6D865 | Igmārs | 99 | 0 / 1 |  |
+| LV-SILINS-IGNARS-E1ABF86E | Ignars | 99 | 0 / 1 |  |
+| LV-SILINS-IGUNDA-C71B2E95 | Igunda | 99 | 0 / 1 |  |
+| LV-SILINS-IGVARS-5D47D13E | Igvars | 97 | 0 / 1 |  |
+| LV-SILINS-ILANA-11AED97E | Ilāna | 98 | 1 / 0 |  |
+| LV-SILINS-ILANA-860CB642 | Ilana | 98 | 0 / 1 |  |
+| LV-SILINS-ILANDA-0791F10C | Ilanda | 98 | 0 / 1 |  |
+| LV-SILINS-ILANTA-49B7CEC6 | Ilanta | 98 | 1 / 0 |  |
+| LV-SILINS-ILEANA-54AD094F | Ileana | 98 | 0 / 1 |  |
+| LV-SILINS-ILGMARS-0E18A2E9 | Ilgmārs | 99 | 0 / 1 |  |
+| LV-SILINS-ILGMARS-ABEF6BA1 | Ilgmars | 99 | 0 / 1 |  |
+| LV-SILINS-ILGVALDS-A9938F93 | Ilgvalds | 97 | 0 / 1 |  |
+| LV-SILINS-ILGVARDS-1ABCDB88 | Ilgvards | 97 | 0 / 1 |  |
+| LV-SILINS-ILGVARIS-9832256D | Ilgvaris | 97 | 0 / 1 |  |
+| LV-SILINS-ILGVARS-87456649 | Ilgvārs | 97 | 0 / 1 |  |
+| LV-SILINS-ILGVARS-C42B6580 | Ilgvars | 97 | 0 / 1 |  |
+| LV-SILINS-ILIANA-4085B401 | Iliana | 98 | 0 / 1 |  |
+| LV-SILINS-ILIJA-BD754BB1 | Ilija | 98 | 0 / 1 |  |
+| LV-SILINS-ILITA-62BE458D | Ilita | 98 | 0 / 1 |  |
+| LV-SILINS-ILONDA-CDCB08F4 | Ilonda | 98 | 0 / 1 |  |
+| LV-SILINS-ILONE-0C31C2DA | Ilone | 98 | 0 / 1 |  |
+| LV-SILINS-ILONIJA-5FC911E5 | Ilonija | 98 | 1 / 0 |  |
+| LV-SILINS-ILONS-4D0211CB | Ilons | 98 | 1 / 0 |  |
+| LV-SILINS-IMA-96909F8B | Ima | 98 | 0 / 1 |  |
+| LV-SILINS-IMARS-7C0CF2D3 | Siliņš catalogue: Imars — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IMARS-B643E2EA | Siliņš catalogue: Imārs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IMARTS-1B4A3378 | Siliņš catalogue: Imarts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IMELDA-EB45A357 | Imelda | 98 | 0 / 1 |  |
+| LV-SILINS-IMRE-1027DFE3 | Imre | 97 | 0 / 1 |  |
+| LV-SILINS-IMULA-B666DCD0 | Imula | 98 | 0 / 1 |  |
+| LV-SILINS-INELDA-A4A5FF59 | Inelda | 98 | 0 / 1 |  |
+| LV-SILINS-INGO | Siliņš catalogue: Ingo | 97 | 0 / 1 |  |
+| LV-SILINS-INGO-EEB6EA07 | Siliņš catalogue: Ingo | 97 | 0 / 1 |  |
+| LV-SILINS-INGOLFS-E4A6185E | Siliņš catalogue: Ingolfs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-INNOCENTIJS-5EC31569 | Innocentijs | 99 | 0 / 1 |  |
+| LV-SILINS-INOLDS-822B37DE | Siliņš catalogue: Inolds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-INRIGO-4DB1DCD5 | Siliņš catalogue: Inrigo — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IRBE-2942A01D | Irbe | 98 | 1 / 0 |  |
+| LV-SILINS-IRMGARDA-24D17FED | Irmgarda | 99 | 0 / 1 |  |
+| LV-SILINS-IRMGARDE-C4833568 | Irmgarde | 99 | 0 / 1 |  |
+| LV-SILINS-IRMTRAUTA-A6BF59DF | Irmtrauta | 99 | 0 / 1 |  |
+| LV-SILINS-IRMTRAUTE-4625347D | Irmtraute | 99 | 1 / 0 |  |
+| LV-SILINS-IRTA-2CC12651 | Siliņš catalogue: Irta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IRUTA-5A92D9FF | Siliņš catalogue: Iruta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IRUTE-C02CEC18 | Siliņš catalogue: Irute — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IRZI-53269B0F | Siliņš catalogue: Irži — Irži: Attributed catalogue pp170,135; Czech form listed under Georgs. | 101 | 1 / 0 |  |
+| LV-SILINS-ISMA-46C84C0F | Siliņš catalogue: Isma — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ITALLO-1B940EE9 | Siliņš catalogue: Itallo — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ITALO-0F055C1F | Siliņš catalogue: Itālo — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ITALO-56FA8E92 | Siliņš catalogue: Italo — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IVALDS-A668BFFB | Ivalds | 98 | 0 / 1 |  |
+| LV-SILINS-IVARA-24621E5A | Ivāra | 97 | 0 / 1 |  |
+| LV-SILINS-IVARS-33B71F16 | Ivārs | 97 | 0 / 1 |  |
+| LV-SILINS-IZANDA-21827739 | Siliņš catalogue: Izanda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IZAURA-0EE390AE | Siliņš catalogue: Izaura — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-IZIDA-001A692B | Izida | 99 | 0 / 1 |  |
+| LV-SILINS-IZIDA-275F2EB3 | Izīda | 99 | 1 / 0 |  |
+| LV-SILINS-IZIDORS-0AE88B3C | Izidors | 99 | 0 / 1 |  |
+| LV-SILINS-JACINTA-86932B9E | Siliņš catalogue: Jacinta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JADVIGA-50D50DE7 | Siliņš catalogue: Jadvīga — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JADVIGA-E365F897 | Siliņš catalogue: Jadviga — Jadviga: Attributed catalogue pp172,149; multilingual form correspondence, not an exclusively Polish transmission. | 100 | 1 / 0 |  |
+| LV-SILINS-JADZE-9B7E6CF3 | Siliņš catalogue: Jadze — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JALMARS-81139E75 | Siliņš catalogue: Jalmars — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JANETA-53D2AEB0 | Janeta | 99 | 1 / 0 |  |
+| LV-SILINS-JANETE-69BDC4B4 | Janete | 99 | 0 / 1 |  |
+| LV-SILINS-JANITA-AD9014A9 | Janita | 99 | 1 / 0 |  |
+| LV-SILINS-JANTA-4CC3EC86 | Janta | 99 | 0 / 1 |  |
+| LV-SILINS-JAROSLAVA-513194EB | Siliņš catalogue: Jaroslava — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JAROSLAVS-F7779EA8 | Siliņš catalogue: Jaroslavs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JAZEPA-8E2518A9 | Jāzepa | 98 | 0 / 1 |  |
+| LV-SILINS-JAZEPATA-782B6E7D | Jazepata | 98 | 0 / 1 |  |
+| LV-SILINS-JAZEPS-4EA5B8F2 | Jazeps | 98 | 0 / 1 |  |
+| LV-SILINS-JAZEPS-86AF96BA | Jāzeps | 98 | 1 / 0 |  |
+| LV-SILINS-JAZUPATA-6A5DA15D | Jazupata | 98 | 0 / 1 |  |
+| LV-SILINS-JEDVIGA-E5DD6870 | Siliņš catalogue: Jedviga — Jedviga: Attributed catalogue pp177,172,149; exact Jedviga reference and own1877 header. | 100 | 1 / 0 |  |
+| LV-SILINS-JELLA-8CEEFD1A | Siliņš catalogue: Jella — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JERMOLAJS-46F775D8 | Siliņš catalogue: Jermolajs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JEROSLAVS-8F38BF43 | Siliņš catalogue: Jeroslavs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JESENIJA-BB761594 | Jesēnija | 98 | 0 / 1 |  |
+| LV-SILINS-JESIJA-3AB61DF7 | Jesija | 99 | 1 / 0 |  |
+| LV-SILINS-JETA-0E47A223 | Siliņš catalogue: Jeta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-JETE-96D5E1AA | Siliņš catalogue: Jete — Jete: Attributed catalogue pp179,152,150; listed under Henriete. | 102 | 1 / 0 |  |
+| LV-SILINS-JEZIJS-64D0F5B4 | Siliņš catalogue: Ježijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JEZUFATA-3B15778F | Jezufata | 98 | 0 / 1 |  |
+| LV-SILINS-JEZUPATA-2F74EF48 | Jezupata | 98 | 0 / 1 |  |
+| LV-SILINS-JEZUPATE-993634BD | Jezupate | 98 | 0 / 1 |  |
+| LV-SILINS-JEZUPS-101D2169 | Jezups | 98 | 1 / 0 |  |
+| LV-SILINS-JEZUPS-5295AC52 | Jēzups | 98 | 0 / 1 |  |
+| LV-SILINS-JIRGENS-4D54817D | Siliņš catalogue: Jirgens — Jirgens: Attributed catalogue pp181,135; Low German form listed under Georgs. | 101 | 1 / 0 |  |
+| LV-SILINS-JORGENS-B03D1FCB | Siliņš catalogue: Jorgens — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JOZEFA-9A3FC7D9 | Jozefa | 98 | 1 / 0 |  |
+| LV-SILINS-JOZEFATA-2385B0A7 | Jozefata | 98 | 0 / 1 |  |
+| LV-SILINS-JOZEFINA-8665FC78 | Jozefina | 98 | 0 / 1 |  |
+| LV-SILINS-JOZEFINA-CD6A3112 | Jozefīna | 98 | 1 / 0 |  |
+| LV-SILINS-JOZEFINE-CC43BB64 | Jozefīne | 98 | 1 / 0 |  |
+| LV-SILINS-JOZEFINE-CC92FB8B | Jozefine | 98 | 0 / 1 |  |
+| LV-SILINS-JOZEFS-17ABBAAF | Jozefs | 98 | 0 / 1 |  |
+| LV-SILINS-JOZS-D47942B6 | Jozs | 98 | 0 / 1 |  |
+| LV-SILINS-JULIJANS-8CDD5FC8 | Siliņš catalogue: Julijāns — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JULIJANS-D5DF3E32 | Siliņš catalogue: Julijans — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JULIJANS-EB0BA36B | Siliņš catalogue: Jūlijans — Jūlijans: Attributed catalogue pp185,184; exact long ū, short a form. Remote iūlos/Iulus suggestions not selected. | 100 | 1 / 0 |  |
+| LV-SILINS-JULIJS-48FF3541 | Siliņš catalogue: Jūlijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JULIJS-AAD7C6BE | Siliņš catalogue: Julijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JULIUSS-0A04AFE8 | Siliņš catalogue: Juliuss — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JULIUSS-268EFEE5 | Siliņš catalogue: Jūliuss — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JULJANS-168FA917 | Siliņš catalogue: Juļjans — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JULJANS-D8CE2B1D | Siliņš catalogue: Juļjāns — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-JURANDS-E73FA5B6 | Siliņš catalogue: Jurands — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JURANTA-DAA7DB8C | Siliņš catalogue: Juranta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JURATE-54296F15 | Siliņš catalogue: Jūrāte — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JURATE-7D1FBCEC | Siliņš catalogue: Jurate — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JURATE-BEBAE36F | Siliņš catalogue: Jurāte — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JUREKS-26C05A27 | Siliņš catalogue: Jureks — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JURETA-5FCA92FD | Siliņš catalogue: Jureta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JURGITA-D7BEA831 | Siliņš catalogue: Jurgita — Jurgita: Attributed catalogue pp186,135; listed under Jurģis with a Lithuanian-form note. | 101 | 1 / 0 |  |
+| LV-SILINS-JURIKA-DE787698 | Siliņš catalogue: Jurika — Jurika: Attributed catalogue pp186–187; listed under Juriks. | 101 | 1 / 0 |  |
+| LV-SILINS-JURIKS-B2336BFC | Siliņš catalogue: Juriks — Juriks: Attributed catalogue pp187,186; Russian form of Jurijs. | 101 | 1 / 0 |  |
+| LV-SILINS-JURIS-00EDEB6B | Siliņš catalogue: Jūris — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JURITA-E9A4E8E4 | Siliņš catalogue: Jurita — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JUSTINS-74C87EAC | Justins | 97 | 1 / 0 |  |
+| LV-SILINS-JUSTINS-7B71DB56 | Justīns | 97 | 0 / 1 |  |
+| LV-SILINS-JUSTS-0665786F | Justs | 97 | 1 / 0 |  |
+| LV-SILINS-JUTVALDIS-3552E24E | Siliņš catalogue: Jūtvaldis — Jūtvaldis: Attributed catalogue p188; explicit two-element formation. | 101 | 1 / 0 |  |
+| LV-SILINS-JUVENTS-91C3B6E7 | Siliņš catalogue: Juvents — Juvents: Attributed catalogue p188; Latin gloss only. | 101 | 1 / 0 |  |
+| LV-SILINS-JUVITA-56C105E9 | Siliņš catalogue: Juvita — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-JUZEFA-5DDBADE2 | Juzefa | 98 | 1 / 0 |  |
+| LV-SILINS-JUZEFATA-5DB236CD | Juzefata | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEFATE-72B543CD | Juzefate | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEFINA-45C7728E | Juzefina | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEFINA-EC035AEE | Juzefīna | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEFINE-E8F303A9 | Juzefine | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEFS-BE0F3EBC | Juzefs | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEPA-4EAB77E8 | Juzepa | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEPATA-76CB73FA | Juzepata | 98 | 0 / 1 |  |
+| LV-SILINS-JUZEPATE-FF54D833 | Juzepate | 98 | 0 / 1 |  |
+| LV-SILINS-JUZUFATA-8F4FB87F | Juzufata | 98 | 0 / 1 |  |
+| LV-SILINS-KAIDO-2BDE1E95 | Siliņš catalogue: Kaido — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KALIKSTS-1C3F5D17 | Siliņš catalogue: Kaliksts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KALINS-B1C15A4B | Siliņš catalogue: Kalins — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KARDIJS-0FAF50D2 | Siliņš catalogue: Kardijs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-KASANDRA-6E80EE7B | Siliņš catalogue: Kasandra — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KAZEMIRS-4359A3EE | Kazemirs | 99 | 0 / 1 |  |
+| LV-SILINS-KAZIMERINA-6A3E1D09 | Kazimerina | 99 | 0 / 1 |  |
+| LV-SILINS-KAZIMIRA-33A0BD57 | Kazimira | 99 | 0 / 1 |  |
+| LV-SILINS-KAZIMIRINA-E06C3D07 | Kazimirina | 99 | 0 / 1 |  |
+| LV-SILINS-KAZIMIRS-CF801508 | Kazimirs | 99 | 0 / 1 |  |
+| LV-SILINS-KAZIS-29CB11F6 | Kazis | 99 | 1 / 0 |  |
+| LV-SILINS-KAZMERINA-4975CA88 | Kazmerina | 99 | 0 / 1 |  |
+| LV-SILINS-KAZMERS-6B931B0E | Kazmers | 99 | 1 / 0 |  |
+| LV-SILINS-KAZMIRINA-8D42B48A | Kazmirina | 99 | 0 / 1 |  |
+| LV-SILINS-KEILA-9DB9BF1B | Siliņš catalogue: Keila — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KEITLINA-0AEB8AEF | Siliņš catalogue: Keitlīna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KEITS-53355636 | Siliņš catalogue: Keits — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KELIJA-685C9676 | Siliņš catalogue: Kelija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KELINA-DC3FBCFB | Siliņš catalogue: Kelina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KELLIJA-491B860D | Siliņš catalogue: Kellija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KENETS-EA342E9A | Siliņš catalogue: Kenets — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KESTUTIS-2460D932 | Siliņš catalogue: Ķestutis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KESTUTIS-72F7875F | Siliņš catalogue: Ķēstutis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KESTUTIS-9A5F6695 | Siliņš catalogue: Kestutis — Kestutis: Attributed catalogue p194; Lithuanian verb with the suffix -utis. | 102 | 1 / 0 |  |
+| LV-SILINS-KETLINA-29B0187C | Siliņš catalogue: Ketlina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KETLINA-9C6BF8F0 | Siliņš catalogue: Ketlīna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KEVINS-5B18355E | Siliņš catalogue: Kevins — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KLAIDIS-15A0058F | Siliņš catalogue: Klaidis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-KLAIDS-C7E0EF54 | Siliņš catalogue: Klaids — Klaids: Attributed catalogue p196; Scottish river name Clyde; the Dreiser novel character is mentioned but not dated here. | 102 | 1 / 0 |  |
+| LV-SILINS-KLASS-F3E4EF6A | Siliņš catalogue: Klāss — Klāss: Attributed catalogue pp196,249; variant of Nikolaus. | 102 | 1 / 0 |  |
+| LV-SILINS-KLEMANS-D8FD6CCB | Siliņš catalogue: Klemans — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KLEMENS-57138196 | Siliņš catalogue: Klemens — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KLEMENSS-876E74C3 | Siliņš catalogue: Klemenss — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KLEMENTIJS-05F20936 | Siliņš catalogue: Klementijs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KLEMENTINA-E67ED758 | Siliņš catalogue: Klementīna — Klementīna: Attributed catalogue pp196–197; shared Klementīn/a, -e entry. | 101 | 1 / 0 |  |
+| LV-SILINS-KLEMENTINA-FA904EBE | Siliņš catalogue: Klementina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KLEMENTINE-107C2847 | Siliņš catalogue: Klementine — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KLEMENTINE-FA186571 | Siliņš catalogue: Klementīne — Klementīne: Attributed catalogue pp196–197; shared Klementīn/a, -e entry. | 101 | 1 / 0 |  |
+| LV-SILINS-KLEMENTINS-8A8E20E0 | Siliņš catalogue: Klementīns — Klementīns: Attributed catalogue pp197,196; form of Klemens(s). | 101 | 1 / 0 |  |
+| LV-SILINS-KLEMENTS-BEB5A28D | Siliņš catalogue: Klements — Klements: Attributed catalogue pp197,196; form of Klemens(s). | 101 | 1 / 0 |  |
+| LV-SILINS-KLIMANS-92650E99 | Siliņš catalogue: Klimans — Klimans: Attributed catalogue pp197,196; form of Klemens(s). | 101 | 1 / 0 |  |
+| LV-SILINS-KLIMENTIJS-70663B7A | Siliņš catalogue: Klimentijs — Klimentijs: Attributed catalogue pp197,196; form of Klemens(s) with i/e variation noted. | 101 | 1 / 0 |  |
+| LV-SILINS-KLIMENTINA-A2DB67E4 | Siliņš catalogue: Klimentīna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KLIMENTINA-FD820F75 | Siliņš catalogue: Klimentina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-KONSTANTINS-90AF3C48 | Konstantīns | 98 | 1 / 0 |  |
+| LV-SILINS-KONSTANTINS-C800FDDC | Konstantins | 98 | 0 / 1 |  |
+| LV-SILINS-KUNEGUNDA-112017B9 | Kunegunda | 98 | 0 / 1 |  |
+| LV-SILINS-KUNIGUNDA-59F13367 | Kunigunda | 98 | 1 / 0 |  |
+| LV-SILINS-KUNO-B15D8BDA | Kuno | 98 | 1 / 0 |  |
+| LV-SILINS-KUZMA-7C564BC4 | Siliņš catalogue: Kuzma — Kuzma: Attributed catalogue pp204,199; Belarusian/Russian form linked to Kosma. | 101 | 1 / 0 |  |
+| LV-SILINS-LAIJA-CF4EDFCE | Laija | 97 | 1 / 0 |  |
+| LV-SILINS-LAILITA-F3B32DC9 | Lailita | 97 | 0 / 1 |  |
+| LV-SILINS-LAIMA | Laima | 98 | 0 / 1 |  |
+| LV-SILINS-LAIMINA | Laima | 98 | 0 / 1 |  |
+| LV-SILINS-LAIMITE | Laima | 98 | 0 / 1 |  |
+| LV-SILINS-LAIMRITA-1F375A1B | Laimrita | 98 | 0 / 1 |  |
+| LV-SILINS-LAIMROTA-EC1C5882 | Laimrota | 98 | 1 / 0 |  |
+| LV-SILINS-LAIMUTE | Laima | 98 | 0 / 1 |  |
+| LV-SILINS-LAINA-2F3E7099 | Siliņš catalogue: Laina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LAINETA-C3ECD231 | Siliņš catalogue: Laineta — Laineta: Attributed catalogue p206; listed under Laine. | 101 | 1 / 0 |  |
+| LV-SILINS-LAINIS-F6071B95 | Siliņš catalogue: Lainis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LAURE-4DC3713A | Siliņš catalogue: Laure — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-LAURENTINA-24439ADE | Siliņš catalogue: Laurentīna — Laurentīna: Attributed catalogue p209; exact Laurentīna, no laurel gloss inferred. | 100 | 1 / 0 |  |
+| LV-SILINS-LAURETA-B390FB07 | Siliņš catalogue: Laureta — Laureta: Attributed catalogue p209; direct Laura relationship, own1933 date. | 100 | 1 / 0 |  |
+| LV-SILINS-LAURITA-C29B8F38 | Siliņš catalogue: Laurita — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-LAVIZE-A4E586D1 | Lavīze | 97 | 1 / 0 |  |
+| LV-SILINS-LEINA-8405CEBF | Siliņš catalogue: Leina — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LEINO-30E3F0BE | Siliņš catalogue: Leino — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LIA-7CB8E7A4 | Siliņš catalogue: Lia — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LIANA-1EC6C0A8 | Siliņš catalogue: Liana — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LIANA-2D0DA9CB | Siliņš catalogue: Liāna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LIANDA-4FDEB4B5 | Siliņš catalogue: Lianda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LIANTA-7B7D379C | Siliņš catalogue: Lianta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LIKSMA-C72128DA | Siliņš catalogue: Līksma — Līksma: Attributed catalogue p215; adjective gloss. | 101 | 1 / 0 |  |
+| LV-SILINS-LILANA-C94F62C6 | Lilana | 98 | 0 / 1 |  |
+| LV-SILINS-LILI-D7D0CDB0 | Lili | 98 | 0 / 1 |  |
+| LV-SILINS-LILIANA-EE15B07B | Liliāna | 98 | 1 / 0 |  |
+| LV-SILINS-LILIANA-F8B9936C | Liliana | 98 | 0 / 1 |  |
+| LV-SILINS-LILIANNA-5D9813E0 | Lilianna | 98 | 0 / 1 |  |
+| LV-SILINS-LILIANS-325C4B0A | Lilians | 98 | 0 / 1 |  |
+| LV-SILINS-LILIANS-57F83E43 | Liliāns | 98 | 1 / 0 |  |
+| LV-SILINS-LILIJA-2C833C01 | Siliņš catalogue: Lilija — Lilija: Attributed catalogue p215; the competing Elizabete/Jūlija/Karolīne links are not displayed as the origin. | 101 | 1 / 0 |  |
+| LV-SILINS-LILIJA-59EED330 | Siliņš catalogue: Līlija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LILIJANA-0F2B1C5C | Lilijana | 98 | 0 / 1 |  |
+| LV-SILINS-LILINDA-D4CA2929 | Lilinda | 98 | 0 / 1 |  |
+| LV-SILINS-LILIOZA-22E74EEC | Lilioza | 98 | 0 / 1 |  |
+| LV-SILINS-LILJA-7D225B90 | Siliņš catalogue: Lilja — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LILJANA-66D33620 | Liljana | 98 | 0 / 1 |  |
+| LV-SILINS-LILLI-08D6CE00 | Lilli | 98 | 0 / 1 |  |
+| LV-SILINS-LILLIJA-B27CCC08 | Siliņš catalogue: Lillija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-LILU-281E3739 | Lilu | 98 | 0 / 1 |  |
+| LV-SILINS-LIVA-868CD71F | Liva | 97 | 0 / 1 |  |
+| LV-SILINS-LIVA-CD263B04 | Līva | 97 | 0 / 1 |  |
+| LV-SILINS-LIVARS-A6F925C4 | Livars | 97 | 0 / 1 |  |
+| LV-SILINS-LIVETA-7B830953 | Liveta | 97 | 1 / 0 |  |
+| LV-SILINS-LIVIJA-7B40EB77 | Livija | 97 | 0 / 2 |  |
+| LV-SILINS-LIVIJA-BDC0DB4D | Līvija | 97 | 1 / 0 |  |
+| LV-SILINS-LIVIS-4775DADE | Līvis | 97 | 0 / 1 |  |
+| LV-SILINS-LIVITA-97F19250 | Livita | 97 | 0 / 1 |  |
+| LV-SILINS-LIVS-86820B9A | Līvs | 97 | 0 / 1 |  |
+| LV-SILINS-LOVISA-4B5AB73C | Lovisa | 97 | 0 / 1 |  |
+| LV-SILINS-LUISA-06B4F936 | Luisa | 97 | 0 / 1 |  |
+| LV-SILINS-LUISE-9A128644 | Luise | 97 | 0 / 1 |  |
+| LV-SILINS-LUIZA-2866266C | Luīza | 97 | 0 / 1 |  |
+| LV-SILINS-LUIZA-9CDF5B14 | Luiza | 97 | 0 / 1 |  |
+| LV-SILINS-LUIZE-5F69DFA5 | Luīze | 97 | 1 / 0 |  |
+| LV-SILINS-LUIZE-A25099CA | Luize | 97 | 0 / 1 |  |
+| LV-SILINS-MADALA-29E4564F | Madaļa | 98 | 1 / 0 |  |
+| LV-SILINS-MADE-45A5300C | Made | 98 | 1 / 0 |  |
+| LV-SILINS-MADRIJA-4F5260F9 | Madrija | 98 | 0 / 1 |  |
+| LV-SILINS-MAGRITA-AE1DCC81 | Magrita | 98 | 0 / 1 |  |
+| LV-SILINS-MARA-D48C6C58 | Mara | 99 | 0 / 1 |  |
+| LV-SILINS-MARE-8E76E8C2 | Māre | 99 | 0 / 1 |  |
+| LV-SILINS-MARETA-6D628686 | Mareta | 99 | 0 / 1 |  |
+| LV-SILINS-MARETA-B1996BCC | Māreta | 99 | 0 / 1 |  |
+| LV-SILINS-MARGERIS-769D2AA2 | Siliņš catalogue: Marģeris — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-MARGERS-0F32EF16 | Siliņš catalogue: Marģers — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-MARGIS-CB926818 | Siliņš catalogue: Marģis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-MARGO-97C8D879 | Margo | 98 | 0 / 1 |  |
+| LV-SILINS-MARIETA-55E6DC4E | Mārieta | 99 | 0 / 1 |  |
+| LV-SILINS-MARIJETA-DCE8C135 | Marijeta | 99 | 0 / 1 |  |
+| LV-SILINS-MARITA-6B4CFA44 | Mārita | 99 | 0 / 1 |  |
+| LV-SILINS-MARITA-90105361 | Marita | 99 | 0 / 1 |  |
+| LV-SILINS-MARITE-30028E33 | Marīte | 99 | 1 / 0 |  |
+| LV-SILINS-MARITE-76CF0340 | Marite | 99 | 0 / 1 |  |
+| LV-SILINS-MARJETA-D7F96B78 | Marjeta | 99 | 0 / 1 |  |
+| LV-SILINS-MARTS-A68BFB74 | Mārts | 97 | 1 / 0 |  |
+| LV-SILINS-MARTS-C62AFAB3 | Marts | 97 | 1 / 0 |  |
+| LV-SILINS-MATILDA-6F52240E | Matilda | 98 | 0 / 1 |  |
+| LV-SILINS-MATILDE-6AC510AA | Matilde | 98 | 1 / 0 |  |
+| LV-SILINS-MATRJONA-748F9F6B | Siliņš catalogue: Matrjona — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-MATRONA-EAFFAAA4 | Siliņš catalogue: Matrona — Matrona: Attributed catalogue p234; possible century precision retained, not a date for Matrjona. | 100 | 1 / 0 |  |
+| LV-SILINS-MEIJA-33777E4D | Siliņš catalogue: Meija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-MINDAUGS-6B7137EE | Siliņš catalogue: Mindaugs — Mindaugs: Attributed catalogue p241; explicit elements; local1973 possibility and1889 calendar distinct from medieval ruler. | 100 | 1 / 0 |  |
+| LV-SILINS-MINGAILE-D3670D8B | Siliņš catalogue: Mingaile — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-MINTAUTS-B35FA900 | Siliņš catalogue: Mintauts — Mintauts: Attributed catalogue p241, explicit two-element explanation;1898 attestation qualified,1879 calendar independently scoped. | 100 | 1 / 0 |  |
+| LV-SILINS-MIRTA-58CF4319 | Siliņš catalogue: Mirta — Mirta: Attributed catalogue p242; attestation explicitly qualified, calendar1889 separate. | 100 | 1 / 0 |  |
+| LV-SILINS-NAMEDA-32090B6A | Siliņš catalogue: Nameda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-NANA-E88B2FC6 | Nana | 99 | 1 / 0 |  |
+| LV-SILINS-NANETE-329DF06C | Nanete | 99 | 0 / 1 |  |
+| LV-SILINS-NANIJA-E3BF5A41 | Nanija | 99 | 0 / 1 |  |
+| LV-SILINS-NANNIJA-47ECFE57 | Nannija | 99 | 0 / 1 |  |
+| LV-SILINS-NAULA-EB4FBCCB | Siliņš catalogue: Naula — Naula: Attributed catalogue p247; explicit masculine-name reference, possible local quarter-date retained; calendar1879 separate. | 100 | 1 / 0 |  |
+| LV-SILINS-NAURIS-DBFCD3F0 | Siliņš catalogue: Nauris — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-NEILA-76F0C995 | Siliņš catalogue: Neila — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-NEILS-803B69D2 | Siliņš catalogue: Neils — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-NENA-29E18CAA | Nena | 99 | 0 / 1 |  |
+| LV-SILINS-NESTERS-0F89B85B | Nesters | 98 | 0 / 1 |  |
+| LV-SILINS-NESTORS-D9FA1449 | Nestors | 98 | 1 / 0 |  |
+| LV-SILINS-NIKIFORS-1675F43E | Ņikifors | 98 | 0 / 1 |  |
+| LV-SILINS-NIKIFORS-926015F0 | Nikifors | 98 | 1 / 0 |  |
+| LV-SILINS-NOELA-DBFAF500 | Siliņš catalogue: Noela — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-NOELS-8D007BCB | Siliņš catalogue: Noels — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-NOLANS-CEF964A0 | Siliņš catalogue: Nolāns — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-OMARS-389EF5E5 | Siliņš catalogue: Omars — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-OMARS-CB24C038 | Siliņš catalogue: Omārs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ORIONS-5064E03F | Siliņš catalogue: Orions — Orions: Attributed catalogue p256; Greek name correspondence,1924 qualified. Mythological Eros/Eos wording not repeated. | 100 | 1 / 0 |  |
+| LV-SILINS-ORTENZIJA-680A38F9 | Siliņš catalogue: Ortenzija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ORTIJA-3A790081 | Siliņš catalogue: Ortija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-OSIPS-793134BB | Osips | 98 | 1 / 0 |  |
+| LV-SILINS-OTARS-5044FAFD | Siliņš catalogue: Otārs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-OTARS-C89AAC2C | Siliņš catalogue: Otars — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-PAIJA-6FC9DEDF | Siliņš catalogue: Paija — Paija: Attributed catalogue p258; Brigadere’s play Maija un Paija is mentioned but not dated here. | 102 | 1 / 0 |  |
+| LV-SILINS-PILIMONA-4E2BAF10 | Pilimona | 98 | 0 / 1 |  |
+| LV-SILINS-RAHMATS-F315722B | Siliņš catalogue: Rahmats — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RAIMA-641C6B83 | Siliņš catalogue: Raima — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RAIMIJA-253AB1D0 | Siliņš catalogue: Raimija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RAIMIS-FDF202A7 | Siliņš catalogue: Raimis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RAIMO-F80EA120 | Siliņš catalogue: Raimo — Raimo: Attributed catalogue p266; listed under Raimonds. | 101 | 1 / 0 |  |
+| LV-SILINS-RAIMONA-895FA901 | Siliņš catalogue: Raimona — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RAIMONDA-18F9FCE3 | Siliņš catalogue: Raimonda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RAIMONS-BDC3E398 | Siliņš catalogue: Raimons — Raimons: Attributed catalogue p266; listed under Raimonds. | 101 | 1 / 0 |  |
+| LV-SILINS-RAIMUNDS-EAC4FFBD | Siliņš catalogue: Raimunds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RAINA-B45BD86C | Siliņš catalogue: Raina — Raina: Attributed catalogue p267; Belarusian form of Regīna. | 101 | 1 / 0 |  |
+| LV-SILINS-RAKSANA-1CF6A801 | Siliņš catalogue: Raksana — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RASIDS-E6E1CB0B | Siliņš catalogue: Rašids — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-REIMO-8D202503 | Siliņš catalogue: Reimo — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RIGLINDA-66EBF772 | Riglinda | 97 | 0 / 1 |  |
+| LV-SILINS-RIGMORA-D8393CAB | Rigmora | 97 | 0 / 1 |  |
+| LV-SILINS-RIGO-6CE0ADED | Rigo | 97 | 0 / 1 |  |
+| LV-SILINS-RIMONA-AE4233B1 | Siliņš catalogue: Rimona — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RIMONDA-4D15FB18 | Siliņš catalogue: Rimonda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RIMONDS-8D4F75EC | Siliņš catalogue: Rimonds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RIMONS-CA25691C | Siliņš catalogue: Rimons — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RITUMS-FC4C0904 | Siliņš catalogue: Ritums — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RITVALDIS-D7FD494C | Siliņš catalogue: Ritvaldis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RITVALDS-27B135CA | Siliņš catalogue: Ritvalds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-RUDI-2457164E | Siliņš catalogue: Rudi — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-RUDIARDS-F09872E6 | Siliņš catalogue: Rudiards — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-RUDIS-E254CFFE | Siliņš catalogue: Rūdis — Rūdis: Attributed catalogue p279; exact long-ū form, no date transferred to Rudi. | 100 | 1 / 0 |  |
+| LV-SILINS-RUDOLFS-382AF5ED | Siliņš catalogue: Rudolfs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-RUDOLFS-F2EB1724 | Siliņš catalogue: Rūdolfs — Rūdolfs: Attributed catalogue p279; explicit elements,1545 record and1767 calendar kept distinct. | 100 | 1 / 0 |  |
+| LV-SILINS-RUSINS-6999099A | Siliņš catalogue: Rūsiņš — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-SAGITA-7D2310B8 | Siliņš catalogue: Sagita — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-SANDARS-3F86228C | Siliņš catalogue: Sandars — Sandars: Attributed catalogue pp283,49; both dates qualified as earliest possible. | 101 | 1 / 0 |  |
+| LV-SILINS-SANDERS-9FCBEB64 | Siliņš catalogue: Sanders — Sanders: Attributed catalogue pp283,49; both dates qualified as earliest possible. | 101 | 1 / 0 |  |
+| LV-SILINS-SANDORS-7BC574B6 | Siliņš catalogue: Sandors — Sandors: Attributed catalogue pp283,49; unexpanded place abbreviation omitted. | 101 | 1 / 0 |  |
+| LV-SILINS-SANDORS-A58245B8 | Siliņš catalogue: Šandors — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-SANDRINO-751DC28A | Siliņš catalogue: Sandrino — Sandrino: Attributed catalogue pp283,49; unexpanded place abbreviation omitted. | 101 | 1 / 0 |  |
+| LV-SILINS-SANDRIS-5B53A5F6 | Siliņš catalogue: Sandris — Sandris: Attributed catalogue pp283,49,284; joint Sandris/Sandra entry. | 101 | 1 / 0 |  |
+| LV-SILINS-SANDRO-78CE6D1E | Siliņš catalogue: Sandro — Sandro: Attributed catalogue pp283,49,284; unexpanded place abbreviation omitted. | 101 | 1 / 0 |  |
+| LV-SILINS-SANDRS-B5D3C2CA | Siliņš catalogue: Sandrs — Sandrs: Attributed catalogue pp283,49,284; Sandrs refers to Sandris; joint entry dates. | 101 | 1 / 0 |  |
+| LV-SILINS-SAULIS-0DEF0024 | Saulis | 99 | 1 / 0 |  |
+| LV-SILINS-SAULUS-1C0A96FE | Sauļus | 99 | 0 / 1 |  |
+| LV-SILINS-SIDARS-3F3C72EF | Sidars | 99 | 0 / 1 |  |
+| LV-SILINS-SIDORS-13568193 | Sidors | 99 | 0 / 1 |  |
+| LV-SILINS-SIGISMUNDS-482AC380 | Siliņš catalogue: Sigismunds — Sigismunds: Attributed catalogue p289; Old High German root glosses. | 101 | 1 / 0 |  |
+| LV-SILINS-SIGIZMUNDS-4A0BC2E4 | Siliņš catalogue: Sigizmunds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-SIGMUNDS-BD9DBAC2 | Siliņš catalogue: Sigmunds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-SIGUNDS-54B7036F | Siliņš catalogue: Sigunds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-SIGUTA-3F4AF4A6 | Siliņš catalogue: Siguta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-SIGUTE-45886463 | Siliņš catalogue: Sigute — Sigute: Attributed catalogue p290; explicit Lithuanian form correspondence, Latvian local dates retained. | 100 | 1 / 0 |  |
 | LV-SILINS-SIMONA | Simona exact catalogue entry | 72 | 1 / 0 |  |
+| LV-SILINS-SKAIDRE-07868972 | Skaidre | 97 | 0 / 1 |  |
+| LV-SILINS-SKAIDRITE-D58EE03A | Skaidrīte | 97 | 1 / 0 |  |
+| LV-SILINS-SKAILA-3166FF24 | Skaila | 97 | 0 / 1 |  |
+| LV-SILINS-SOLVITA-C95266A0 | Vita | 98 | 0 / 1 |  |
+| LV-SILINS-STANISLAVA-95F9D821 | Siliņš catalogue: Staņislava — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STANISLAVA-9EDB227D | Siliņš catalogue: Stanislava — Stanislava: Attributed catalogue p297; feminine form of Staņislavs. | 102 | 1 / 0 |  |
+| LV-SILINS-STANISLAVS-AD543158 | Siliņš catalogue: Staņislavs — Staņislavs: Attributed catalogue p297; stated Old Slavic components; “become famous” is the catalogue’s possible interpretation and is… | 102 | 1 / 0 |  |
+| LV-SILINS-STANISLAVS-C22A7ECA | Siliņš catalogue: Stanislavs — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STASE-8A49D638 | Siliņš catalogue: Stase — Stase: Attributed catalogue p297; Lithuanian feminine diminutive of Staņislava. | 102 | 1 / 0 |  |
+| LV-SILINS-STASIJA-81690825 | Siliņš catalogue: Stasija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STASIS-89F17295 | Siliņš catalogue: Stasis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STASJA-01652392 | Siliņš catalogue: Stasja — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STASS-7217298A | Siliņš catalogue: Stass — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEFANIDA-35D73E39 | Siliņš catalogue: Stefanīda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEFANIDA-D0A5A60F | Siliņš catalogue: Stefanida — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEFANIJA-23FACD59 | Siliņš catalogue: Stefanija — Stefanija: Attributed catalogue p297; feminine of Stefan, Greek gloss. | 102 | 1 / 0 |  |
+| LV-SILINS-STEFANIJA-B3D1EE1A | Siliņš catalogue: Stefānija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEFI-72D12BB9 | Siliņš catalogue: Stefi — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEISIJA-3351BAF5 | Siliņš catalogue: Steisija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEPANIDA-8FEA0C64 | Siliņš catalogue: Stepanida — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEPANIDA-F1FE2827 | Siliņš catalogue: Stepanīda — Stepanīda: Attributed catalogue p297; Russian feminine form listed under Stefanija. | 102 | 1 / 0 |  |
+| LV-SILINS-STEPANIJA-E5030375 | Siliņš catalogue: Stepānija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STEPANIJA-EE1A9396 | Siliņš catalogue: Stepanija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-STRAUJA-6F9A46E7 | Siliņš catalogue: Strauja — Strauja: Attributed catalogue p298; adjective meaning, not a claimed personal naming intention. | 100 | 1 / 0 |  |
+| LV-SILINS-TALA-8A2ED60C | Siliņš catalogue: Tāla — Tāla: Attributed catalogue p302; explicit link to Natālija. | 101 | 1 / 0 |  |
+| LV-SILINS-TALAVS-95C44BC4 | Tālavs | 97 | 1 / 0 |  |
+| LV-SILINS-TALE-AD6DF9F9 | Siliņš catalogue: Tāle — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TALIS-81E27E8E | Tālis | 97 | 1 / 0 |  |
+| LV-SILINS-TALRIDS-90FF50CF | Tālrids | 99 | 0 / 1 |  |
+| LV-SILINS-TALRITA-96B0AB67 | Tālrita | 99 | 0 / 1 |  |
+| LV-SILINS-TALRITS-622817AB | Tālrits | 99 | 0 / 1 |  |
+| LV-SILINS-TALRITS-6375153B | Tālrīts | 99 | 1 / 0 |  |
+| LV-SILINS-TAMARA-3AF7596F | Tamara | 99 | 0 / 1 |  |
+| LV-SILINS-TAMARS-5739C25B | Tamārs | 99 | 0 / 1 |  |
+| LV-SILINS-TARASS-8E621346 | Tarass | 98 | 0 / 1 |  |
+| LV-SILINS-TERESA-19966286 | Siliņš catalogue: Terēsa — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TERESA-A27F2F31 | Siliņš catalogue: Teresa — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TERESE-4362F11E | Siliņš catalogue: Terēse — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TERESE-87DE0284 | Siliņš catalogue: Terese — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TERESIJA-09F0778B | Siliņš catalogue: Teresija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TERESIJA-B618F0DA | Siliņš catalogue: Terēsija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TEREZA-5B6C3877 | Siliņš catalogue: Terēza — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TEREZA-893BF827 | Siliņš catalogue: Tereza — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TEREZE-7621B50E | Siliņš catalogue: Terēze — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TEREZE-DADB55EC | Siliņš catalogue: Tereze — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TEREZIJA-B4B75C44 | Siliņš catalogue: Terēzija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TEREZIJA-E8DB0823 | Siliņš catalogue: Terezija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TERMIJA-BD51887D | Siliņš catalogue: Termija — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-TIMIANA-67E4DE7C | Siliņš catalogue: Timiāna — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-TIMO-B5D0FEF1 | Siliņš catalogue: Timo — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-TIMOFEJS-9334D965 | Siliņš catalogue: Timofejs — Timofejs: Attributed catalogue p307; linked to Timotejs. | 102 | 1 / 0 |  |
+| LV-SILINS-TIMOTEJS-BD207634 | Siliņš catalogue: Timotejs — Timotejs: Attributed catalogue p307; stated Greek elements, no whole-name translation. | 102 | 1 / 0 |  |
+| LV-SILINS-TIMS-92ED94EF | Siliņš catalogue: Tims — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round102 notes. | 102 | 0 / 1 |  |
+| LV-SILINS-TRAUTA-0AC92619 | Trauta | 98 | 0 / 1 |  |
+| LV-SILINS-TRAUTINA-708C1363 | Trautiņa | 98 | 0 / 1 |  |
+| LV-SILINS-TRUDE-2B1998D3 | Trūde | 98 | 0 / 1 |  |
+| LV-SILINS-TRUTA-A15487EE | Trūta | 98 | 0 / 1 |  |
+| LV-SILINS-TRUTE-71AD5E3E | Trūte | 98 | 0 / 1 |  |
+| LV-SILINS-ULRIHS-F9198BE2 | Ulrihs | 98 | 1 / 0 |  |
+| LV-SILINS-ULRIKA-45DC245A | Ulrika | 98 | 2 / 0 |  |
+| LV-SILINS-ULRIKS-BFAEA2E7 | Ulriks | 98 | 0 / 1 |  |
+| LV-SILINS-UMA-038F5C33 | Ūma | 98 | 0 / 1 |  |
+| LV-SILINS-UNA-2CE2F99C | Ūna | 98 | 0 / 1 |  |
+| LV-SILINS-UNA-658116FE | Una | 98 | 0 / 1 |  |
+| LV-SILINS-UNIGUNDA-77B100B8 | Unigunda | 98 | 0 / 1 |  |
+| LV-SILINS-UNIGUNDE-4A7F1344 | Unigunde | 98 | 0 / 1 |  |
+| LV-SILINS-UNIJA-253C4DF8 | Unija | 98 | 0 / 1 |  |
+| LV-SILINS-UNIKA-18835EDF | Ūnika | 98 | 0 / 1 |  |
+| LV-SILINS-UNIKA-F9AF0A1B | Unika | 98 | 0 / 1 |  |
+| LV-SILINS-UNITA-D237D17E | Unita | 98 | 0 / 1 |  |
+| LV-SILINS-UNO-17BCC6FA | Uno | 98 | 0 / 1 |  |
+| LV-SILINS-UVIS-7BF44B38 | Siliņš catalogue: Uvis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VALDA-C96277B0 | Valda | 99 | 0 / 1 |  |
+| LV-SILINS-VALERIANA-A5D4A44F | Siliņš catalogue: Valeriana — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VALERIANNA-0111CF42 | Siliņš catalogue: Valerianna — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VALERIJA-2F317DA7 | Siliņš catalogue: Valērija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VALERIJA-9C735E69 | Siliņš catalogue: Valerija — Valerija: Attributed catalogue p315; exact short-e spelling, not Valērija. | 100 | 1 / 0 |  |
+| LV-SILINS-VALERIJANA-CBEEE2ED | Siliņš catalogue: Valerijana — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VALERINA-6E4C068C | Siliņš catalogue: Valerina — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VALERJANA-909CB8D7 | Siliņš catalogue: Valerjana — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VENEDIKTS-52174369 | Venedikts | 98 | 0 / 1 |  |
+| LV-SILINS-VENTIS-37BE5AED | Ventis | 97 | 1 / 0 |  |
+| LV-SILINS-VENTS-CA854CEC | Vents | 97 | 1 / 0 |  |
+| LV-SILINS-VESMINA-FE2073F2 | Siliņš catalogue: Vēsmiņa — Vēsmiņa: Attributed catalogue p323; direct relationship without inventing an independent full-name gloss. | 100 | 1 / 0 |  |
+| LV-SILINS-VIDAGA-4F313F0B | Vidaga | 99 | 0 / 1 |  |
+| LV-SILINS-VIDAIJA-8D8D1CDD | Vidaija | 99 | 0 / 1 |  |
+| LV-SILINS-VIDE-B3DFE7B1 | Vide | 99 | 0 / 1 |  |
+| LV-SILINS-VIDEGA-3945302F | Vīdega | 99 | 0 / 1 |  |
+| LV-SILINS-VIDEGA-D948DA63 | Videga | 99 | 0 / 1 |  |
+| LV-SILINS-VIJARS-A4A3E5F2 | Vijārs | 99 | 0 / 1 |  |
+| LV-SILINS-VIJARS-AC73D5E2 | Vijars | 99 | 0 / 1 |  |
+| LV-SILINS-VIJOLITE-654E2929 | Siliņš catalogue: Vijolīte — Vijolīte: Attributed catalogue p325; refers to Vijole. | 101 | 1 / 0 |  |
+| LV-SILINS-VILEMONS-CE9455C5 | Vilemons | 98 | 1 / 0 |  |
+| LV-SILINS-VILIPS-9D7FC964 | Siliņš catalogue: Vīlips — Vīlips: Attributed catalogue p327; exact long ī retained. Dates not transferred to Filips. | 100 | 1 / 0 |  |
+| LV-SILINS-VILMARS-019DBA32 | Siliņš catalogue: Vilmārs — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VILMARS-36EAC63C | Siliņš catalogue: Vilmars — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VILNIS-6866C311 | Siliņš catalogue: Vilnis — Vilnis: Attributed catalogue p327; common-noun gloss only. | 101 | 1 / 0 |  |
+| LV-SILINS-VIOLA-CAEDA42E | Siliņš catalogue: Viola — Viola: Attributed catalogue p329; Latin gloss only. | 101 | 1 / 0 |  |
+| LV-SILINS-VIOLANDA-4EA67302 | Siliņš catalogue: Violanda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VIOLANTA-8D5D7E36 | Siliņš catalogue: Violanta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VIOLENTA-EB03A9FE | Siliņš catalogue: Violenta — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VISVALDA-66403E2F | Siliņš catalogue: Visvalda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VISVALDIS-DF0DC1F1 | Siliņš catalogue: Visvaldis — Visvaldis: Attributed catalogue p330; stated components. The thirteenth-century record belongs to the historical ruler named in the entry;… | 101 | 1 / 0 |  |
+| LV-SILINS-VISVALDS-F5274DC2 | Siliņš catalogue: Visvalds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VISVARIS-6C12D21C | Siliņš catalogue: Visvaris — Visvaris: Attributed catalogue p330; separate root glosses, no full translation. | 101 | 1 / 0 |  |
+| LV-SILINS-VISVARS-91125289 | Siliņš catalogue: Visvars — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VIVIANA-866AF32F | Siliņš catalogue: Viviāna — Viviāna: Attributed catalogue p331; direct Viva relationship only, not a full Latin translation of Viviāna. | 100 | 1 / 0 |  |
+| LV-SILINS-VIVIANA-E1A8DF4A | Siliņš catalogue: Viviana — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VIVIENA-75E15125 | Siliņš catalogue: Viviena — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VIVJENA-080E579A | Siliņš catalogue: Vivjena — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-VIZBULE-84104D96 | Siliņš catalogue: Vizbule — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-VIZBULIS-F8F3F05E | Siliņš catalogue: Vizbulis — Vizbulis: Attributed catalogue p331; plant-name gloss. | 101 | 1 / 0 |  |
+| LV-SILINS-ZANA-44A66C49 | Žana | 99 | 0 / 1 |  |
+| LV-SILINS-ZANETA-F257F941 | Žaneta | 99 | 0 / 1 |  |
+| LV-SILINS-ZANETE-D53A999D | Žanete | 99 | 0 / 1 |  |
+| LV-SILINS-ZANIJA-EC27FA3C | Žanija | 99 | 0 / 1 |  |
+| LV-SILINS-ZANNETA-A27528F3 | Žanneta | 99 | 0 / 1 |  |
+| LV-SILINS-ZENA-0FB94089 | Siliņš catalogue: Zena — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZENAIDA-44CE6289 | Siliņš catalogue: Zenaida — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZENE-771D8B00 | Žene | 99 | 0 / 1 |  |
+| LV-SILINS-ZENIJA-D6C60934 | Ženija | 99 | 1 / 0 |  |
+| LV-SILINS-ZENIJS-FD4013D4 | Ženijs | 99 | 0 / 1 |  |
+| LV-SILINS-ZERARS-7461B4C9 | Žerārs | 98 | 1 / 0 |  |
+| LV-SILINS-ZIDRA-833737C0 | Zidra | 99 | 0 / 1 |  |
+| LV-SILINS-ZIEDITE-3901B45B | Siliņš catalogue: Ziedīte — Ziedīte: Attributed catalogue p336; verb-root connection, not a separate translation of the entire personal name. | 100 | 1 / 0 |  |
+| LV-SILINS-ZIEDNESE-33A535F7 | Siliņš catalogue: Ziednese — Ziednese: Attributed catalogue p336; stated components without a full translation. | 101 | 1 / 0 |  |
+| LV-SILINS-ZIEDONIS-4D23A0E2 | Siliņš catalogue: Ziedonis — Ziedonis: Attributed catalogue p336; lexical gloss of the base word. | 101 | 1 / 0 |  |
+| LV-SILINS-ZIEDONS-5641DF36 | Siliņš catalogue: Ziedons — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIEDVALDA-9E992D6F | Siliņš catalogue: Ziedvalda — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIGETA-89F4F826 | Siliņš catalogue: Zigeta — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZIGIJA-5997005A | Siliņš catalogue: Zigija — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZIGIS-A75F373F | Siliņš catalogue: Zigis — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIGISMUNDS-EE3849A5 | Siliņš catalogue: Zigismunds — Zigismunds: Attributed catalogue pp337,289; listed under Sigismunds. | 101 | 1 / 0 |  |
+| LV-SILINS-ZIGIZMUNDS-D36E033E | Siliņš catalogue: Zigizmunds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIGMANS-A8A02632 | Siliņš catalogue: Zigmans — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIGMANTS-BD775556 | Siliņš catalogue: Zigmants — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIGMONDS-C84141D5 | Siliņš catalogue: Zigmonds — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIGMONTS-045D27B5 | Siliņš catalogue: Zigmonts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZIGMUNDA-C3842BDA | Siliņš catalogue: Zigmunda — Zigmunda: Attributed catalogue pp337,289; listed under Zigmunds. | 101 | 1 / 0 |  |
+| LV-SILINS-ZIGMUNDS-90B421AA | Siliņš catalogue: Zigmunds — Zigmunds: Attributed catalogue pp337,289; listed under Zigismunds with its own Rēzekne record. | 101 | 1 / 0 |  |
+| LV-SILINS-ZIGMUNTS-CA00D9A3 | Siliņš catalogue: Zigmunts — Exact-name cache/catalogue entry examined; per-name outcome and next inspection are recorded in round101 notes. | 101 | 0 / 1 |  |
+| LV-SILINS-ZILITE-DB93B730 | Siliņš catalogue: Zīlīte — Zīlīte: Attributed catalogue p338; word polysemy and1459 entry date explicitly scoped. Original early record not independently inspected; no… | 100 | 1 / 0 |  |
+| LV-SILINS-ZILVIJA-EBA7DB64 | Zilvija | 98 | 1 / 0 |  |
+| LV-SILINS-ZINA-4B0A53D1 | Siliņš catalogue: Zīna — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZINA-D0967235 | Siliņš catalogue: Zina — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZINAIDA-1821C6C5 | Siliņš catalogue: Zinaīda — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZINAIDA-B946E577 | Siliņš catalogue: Zinaida — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZINAIDIS-DCC05C59 | Siliņš catalogue: Zinaidis — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZINAIDS-D9052C9D | Siliņš catalogue: Zinaids — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZINIDA-3DED7F95 | Siliņš catalogue: Zinīda — Existing cache text/related-form discovery only; exact per-name outcome and next inspection are recorded in round100 notes. | 100 | 0 / 1 |  |
+| LV-SILINS-ZINTA-294CE965 | Siliņš catalogue: Zinta — Zinta: Attributed catalogue p339; stated lexical base, no newly invented whole-name translation. | 100 | 1 / 0 |  |
+| LV-SILINS-ZOJA-R97 | Zoja | 97 | 1 / 0 |  |
+| LV-SILINS-ZORZS-40D77282 | Siliņš catalogue: Žoržs — Žoržs: Attributed catalogue pp341,135; French form listed under Georgs. | 101 | 1 / 0 |  |
+| LV-SILINS-ZOZEFINA-16DEB43E | Žozefina | 98 | 0 / 1 |  |
+| LV-SILINS-ZOZEFS-0C749209 | Žozefs | 98 | 0 / 1 |  |
+| LV-SILINS-ZUBITE-69B66502 | Siliņš catalogue: Žubīte — Žubīte: Attributed catalogue p341; both dates retain possible scope. Bird-name formation, not a new whole-name sentence. | 100 | 1 / 0 |  |
 | LV-TEZAURS | (described in prose; see source directory) | 58 | 0 / 1 |  |
 | LV-VVC | State Language Centre, extended name-day list. | 13 | 0 / 5 |  |
 | LV-ZAUDETAS | Benedikts Kalnačs, National Encyclopaedia, *Zaudētas tiesības*, production and publication paragraphs. | 24 | 1 / 0 |  |
+| LV-ZVAIGZNE-GEILA22 | Cached primary source | 98 | 1 / 0 |  |
+| LV-ZVAIGZNE-GEILA22-PDF | Cached primary source | 98 | 1 / 0 | 11 |
 
 ## Other
 
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
 | LOCAL-ROUND7-LT-SURNAMES | round7-lt-surnames.pdf (cached PDF; see round notes) | 78 | 0 / 1 | 129 |
+| WEB-IZPETNIEKS-LV-EN-NAME-ELONA | Existing cached lead | 99 | 0 / 1 |  |
+| WEB-IZPETNIEKS-LV-EN-NAME-LAIM-C4-ABTE | Related Latvian catalogue entry | 98 | 0 / 1 |  |
+| WEB-IZPETNIEKS-LV-EN-NAME-LAIMA | Related Latvian catalogue entry | 98 | 0 / 1 |  |
+| WEB-IZPETNIEKS-LV-EN-NAME-LAIMI-C5-86A | Related Latvian catalogue entry | 98 | 0 / 1 |  |
+| WEB-IZPETNIEKS-LV-EN-NAME-LAIMUTE | Related Latvian catalogue entry | 98 | 0 / 1 |  |
+| WEB-IZPETNIEKS-LV-EN-NAME-MALDA | Related Latvian catalogue entry | 98 | 0 / 1 |  |
+| WEB-IZPETNIEKS-LV-EN-NAME-MALDIS | Related Latvian catalogue entry | 98 | 0 / 1 |  |
+| WEB-TEVU-DARZELIS-LT-VAIKU-VARDAI-GARSE | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| WEB-TEVU-DARZELIS-LT-VAIKU-VARDAI-INA | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| WEB-TEVU-DARZELIS-LT-VAIKU-VARDAI-INETA | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| WEB-TEVU-DARZELIS-LT-VAIKU-VARDAI-INEZA | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
+| WEB-TEVU-DARZELIS-LT-VAIKU-VARDAI-NOMEDA | Existing cached lead | 97, 99, 101 | 0 / 2 |  |
 
 ## Population data
 
@@ -309,13 +1469,15 @@ Round notes cite these hosts without an ID that the generator can attribute. Giv
 | lsm.lv | 12 |
 | lt.wikipedia.org | 10 |
 | lv.wikipedia.org | 9 |
+| (no host) | 8 |
 | personvarduatveide.lv | 8 |
-| emakeeleselts.ee | 7 |
 | arhiiv.eki.ee | 5 |
+| emakeeleselts.ee | 5 |
 | fi.wikipedia.org | 5 |
 | portalcris.vdu.lt | 5 |
 | sonaveeb.ee | 5 |
 | stacija.org | 5 |
+| archive.org | 4 |
 | etalpykla.lituanistika.lt | 4 |
 | filmas.lv | 4 |
 | oca.org | 4 |
@@ -338,5 +1500,3 @@ Round notes cite these hosts without an ID that the generator can attribute. Giv
 | tribunacionaleticoenfermeria.com | 2 |
 | turismo.ra.it | 2 |
 | uefa.com | 2 |
-| vardai.lt | 2 |
-| vardai.org | 2 |
