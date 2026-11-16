@@ -10,6 +10,8 @@ param(
 # No Windows scheduled task is installed by this script.
 $ErrorActionPreference = 'Stop'
 Push-Location (Split-Path -Parent $PSScriptRoot)
+$runStartedUtc = [DateTime]::UtcNow
+$failure = $null
 try {
     if (-not $Plan -and -not $NoPublish) {
         $publicationArguments = @('scripts/run-published-update.mjs', "--profile=$($Profile.ToLowerInvariant())")
@@ -35,4 +37,39 @@ try {
     & npm.cmd run build
     if ($LASTEXITCODE -ne 0) { throw 'Static build failed' }
     Write-Host 'Updated and built locally. Publication skipped.'
-} finally { Pop-Location }
+} catch {
+    $failure = $_.Exception.Message
+    throw
+} finally {
+    # Print after tests/build/publication, even if one of those steps failed.
+    try {
+        $summaryErrors = @()
+        if (-not $Plan -and (Test-Path 'artifacts/update-report.json')) {
+            $reportFile = Get-Item 'artifacts/update-report.json'
+            if ($reportFile.LastWriteTimeUtc -ge $runStartedUtc) {
+                try {
+                    $finalReport = Get-Content $reportFile.FullName -Raw | ConvertFrom-Json
+                    $summaryErrors += @($finalReport.errors)
+                } catch { $summaryErrors += "Could not read update report: $($_.Exception.Message)" }
+            }
+        }
+        if (-not $Plan -and -not $NoPublish -and (Test-Path 'artifacts/publication-report.json')) {
+            $publicationFile = Get-Item 'artifacts/publication-report.json'
+            if ($publicationFile.LastWriteTimeUtc -ge $runStartedUtc) {
+                try {
+                    $publicationReport = Get-Content $publicationFile.FullName -Raw | ConvertFrom-Json
+                    if ($publicationReport.error) { $summaryErrors += "Publication: $($publicationReport.error)" }
+                } catch { $summaryErrors += "Could not read publication report: $($_.Exception.Message)" }
+            }
+        }
+        if ($failure) { $summaryErrors += $failure }
+        $summaryErrors = @($summaryErrors | Where-Object { $_ } | Select-Object -Unique)
+        if ($summaryErrors.Count) {
+            Write-Host ''
+            Write-Host '=== UPDATE ERROR SUMMARY ===' -ForegroundColor Yellow
+            foreach ($message in $summaryErrors) { Write-Host "- $message" -ForegroundColor Yellow }
+            Write-Host 'Reports: artifacts/update-report.json; artifacts/publication-report.json (when publishing)'
+            Write-Host '=== END UPDATE ERROR SUMMARY ===' -ForegroundColor Yellow
+        }
+    } finally { Pop-Location }
+}

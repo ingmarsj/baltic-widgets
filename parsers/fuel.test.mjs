@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, readFile, rm } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import { normalize, parseCircle, parseVirsi, parseViada, parseLea, parseFuelest, geojson, run, addViadaCoordinates } from './fuel.mjs';
+import { normalize, parseCircle, expandCirclePrices, parseVirsi, parseViada, parseLea, parseFuelest, geojson, run, addViadaCoordinates } from './fuel.mjs';
 
 const now = '2026-11-05T07:00:00Z';
 const circle = `<p>Cenas spēkā no 04.11.2026.</p><table>
@@ -101,4 +101,54 @@ test('failed refresh keeps last good prices, history and marks source failure', 
     globalThis.fetch = originalFetch; process.exitCode = originalExitCode;
     await rm(folder, { recursive: true, force: true });
   }
+});
+
+const uniformCircle = `<p>Cenas spēkā no 16.11.2026.</p><table>
+<tr><td>95miles</td><td>1.764 EUR</td><td>Degvielas cena visos DUS ir vienāda</td></tr>
+<tr><td>98miles+</td><td>1.834 EUR</td><td>Degvielas cena visos DUS ir vienāda</td></tr>
+<tr><td>Dmiles</td><td>2.084 EUR</td><td>Degvielas cena visos DUS ir vienāda</td></tr>
+<tr><td>Dmiles+</td><td>2.214 EUR</td><td>Degvielas cena visos DUS ir vienāda</td></tr>
+<tr><td>miles+&nbsp;XTL</td><td>2.590 EUR</td><td>Eksporta iela 1C, Dubultu prospekts 42A</td></tr>
+<tr><td>Autogāze</td><td>1.118 EUR</td><td>Kārļa Ulmaņa gatve 117</td></tr></table>`;
+
+test('Circle K all-stations prices require directory fuel availability and retain address-specific LPG', () => {
+  const records=parseCircle(uniformCircle);
+  const directory=[
+    {country:'LV',brand:'Circle K',address:'A iela 1, Rīga',directory_id:'a',available_fuels:['95','diesel','diesel_premium']},
+    {country:'LV',brand:'Circle K',address:'B iela 2, Liepāja',directory_id:'b',available_fuels:['diesel']},
+    {country:'LV',brand:'Circle K',address:'C iela 3, Rīga',directory_id:'c',available_fuels:[]},
+  ];
+  const rows=normalize('circle',expandCirclePrices(records,directory),'2026-11-16T12:00:00Z');
+  assert.equal(rows.find(s=>s.directory_id==='a').prices['95'].value,1.764);
+  const b=rows.find(s=>s.directory_id==='b');
+  assert.equal(b.prices.diesel.value,2.084);assert.equal(b.prices['95'],undefined);
+  assert.deepEqual(rows.find(s=>s.directory_id==='c').prices,{});
+  assert.equal(rows.find(s=>s.address==='Kārļa Ulmaņa gatve 117, Rīga').prices.LPG.value,1.118);
+  assert.ok(rows.every(s=>!s.prices['98']&&!s.prices.HVO));
+  assert.throws(()=>expandCirclePrices(records,[]),/no stations/);
+  assert.throws(()=>parseCircle(uniformCircle.replaceAll('Degvielas cena visos DUS ir vienāda','New unknown statement')),/address list changed.*95miles/);
+});
+
+test('Circle K uniform collection loads a directory once, reuses cache, and preserves identities and history', async () => {
+  const folder=await mkdtemp(path.join(os.tmpdir(),'circle-uniform-'));
+  const originalFetch=globalThis.fetch;let directoryRequests=0;
+  const station={'/sites/{siteId}':{id:1,name:'Circle K A',status:'Active'},
+    '/sites/{siteId}/addresses':{PHYSICAL:{street:'A iela 1',city:'Rīga',country:'LV'}},
+    '/sites/{siteId}/fuels':[{name:'EU_MILES_95'},{name:'EU_MILES_DIESEL'},{name:'EU_MILESPLUS_DIESEL'}]};
+  const directory='<script data-drupal-selector="drupal-settings-json">'+JSON.stringify({ck_sim_search:{country_code:'lv',station_results:{a:station}}})+'</script>';
+  try {
+    globalThis.fetch=async url=>{
+      if(String(url).includes('station-search')){directoryRequests++;return new Response(directory);}
+      return new Response(uniformCircle.replace('16.11.2026',new Date().toISOString().slice(0,10).split('-').reverse().join('.')));
+    };
+    const first=await run(folder,['circle'],{setExitCode:false});
+    const second=await run(folder,['circle'],{setExitCode:false});
+    assert.deepEqual(first.errors,[]);assert.deepEqual(second.errors,[]);assert.equal(directoryRequests,1);
+    const a=first.data.find(s=>s.directory_id==='1'),b=second.data.find(s=>s.directory_id==='1');
+    assert.equal(a.id,b.id);assert.equal(a.directory_updated_at,b.directory_updated_at);
+    assert.equal(b.prices['95'].history.length,1);assert.equal(b.prices['95'].value,1.764);
+    globalThis.fetch=async()=>new Response(uniformCircle.replaceAll('Degvielas cena visos DUS ir vienāda','Unknown statement'));
+    const failed=await run(folder,['circle'],{setExitCode:false});
+    assert.equal(failed.errors.length,1);assert.deepEqual(failed.data,second.data);
+  } finally {globalThis.fetch=originalFetch;await rm(folder,{recursive:true,force:true});}
 });

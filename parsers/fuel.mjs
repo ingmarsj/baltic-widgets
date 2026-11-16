@@ -83,15 +83,36 @@ export function parseCircle(html) {
     const cells = $(row).find('td'); const label = clean(cells.eq(0).text());
     if (!fuels[label]) return;
     const address = clean(load((cells.eq(2).html() || '').replace(/<br\s*\/?\s*>/gi, ', ')).text());
+    // A network-wide statement is evidence, not a station address.
+    if (/^Degvielas cena visos DUS ir vienāda[.!]?$/iu.test(address)) {
+      out.push({country:'LV',brand:'Circle K',fuel:fuels[label],label,value:cells.eq(1).text(),day,scope:'all_stations'});
+      return;
+    }
     // XTL lists several cities without a city per address. Keep that group out of station data.
     if (label === 'miles+ XTL') return;
     if (!address) throw new Error('Circle K address missing');
     const addresses = address.split(/[,;]+/).map(clean).filter(a => a && !/^Rīga\.?$/i.test(a));
-    if (!addresses.length || addresses.some(a => !/\d/.test(a))) throw new Error('Circle K address list changed');
+    if (!addresses.length || addresses.some(a => !/\d/.test(a))) throw new Error(`Circle K address list changed (${label}: ${address.slice(0,160)})`);
     for (const stationAddress of addresses) out.push({ country: 'LV', brand: 'Circle K', address: `${stationAddress}, Rīga`, fuel: fuels[label], label, value: cells.eq(1).text(), day });
   });
   if (!out.some(r => r.fuel === '95') || !out.some(r => r.fuel === 'diesel')) throw new Error('Circle K table changed');
   return out;
+}
+
+// Only an explicit all-stations statement may be expanded across the directory.
+// Fuel availability is required; an address-only location receives no inferred fuel.
+export function expandCirclePrices(records,directory) {
+  const uniform=records.filter(r=>r.scope==='all_stations'&&r.fuel!=='98');
+  const merged=mergeDirectory(records.filter(r=>r.scope!=='all_stations'),directory);
+  for(const quote of uniform){
+    const eligible=directory.filter(s=>s.available_fuels?.includes(quote.fuel));
+    if(!eligible.length)throw Error(`Circle K directory has no stations for ${quote.label}`);
+    for(const station of eligible){
+      if(merged.some(r=>r.directory_id===station.directory_id&&r.fuel===quote.fuel))continue;
+      merged.push({...quote,...station,fuel:quote.fuel,value:quote.value,scope:'station'});
+    }
+  }
+  return merged;
 }
 
 export function parseVirsi(html) {
@@ -314,9 +335,14 @@ export async function run(output = 'artifacts/fuel-live', sourceList = Object.ke
         let records=Array.isArray(collected)?collected:collected.records;
         const previous = new Map(stations.filter(s => s.source === source).map(s => [s.id, s]));
         const hasDirectory=source==='circle'||!!directoryURLs[source]||!!extraURLs[source];
-        const directoryLive=hasDirectory&&records.some(s=>s.directory_id);
+        let directoryLive=hasDirectory&&records.some(s=>s.directory_id);
         const cached=new Map([...previous.values()].filter(s=>s.directory_id).map(s=>[s.directory_id,s]));
-        if(hasDirectory&&!directoryLive&&cached.size){
+        if(source==='circle'&&records.some(r=>r.scope==='all_stations')){
+          const directory=cached.size?[...cached.values()].map(s=>({id:s.id.replace(/^circle:/,''),country:s.country,brand:s.brand,name:s.name,address:s.address,
+            lat:s.coordinates?.latitude,lon:s.coordinates?.longitude,directory_id:s.directory_id,directory_url:s.directory_url,available_fuels:s.available_fuels||[]})):await collectDirectory(source);
+          directoryLive=!cached.size;
+          records=expandCirclePrices(records,directory);
+        }else if(hasDirectory&&!directoryLive&&cached.size){
           const directory=[...cached.values()].map(s=>({id:s.id,country:s.country,brand:s.brand,name:s.name,address:s.address,
             lat:s.coordinates?.latitude,lon:s.coordinates?.longitude,directory_id:s.directory_id,directory_url:s.directory_url,available_fuels:s.available_fuels||[]}));
           records=mergeDirectory(records,directory);
