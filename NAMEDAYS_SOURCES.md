@@ -3648,3 +3648,16 @@ Published `country_sources.property` distinguishes P19/P17 from P27 and retains 
 | PEOPLE-EE-VAINE-EST-2014 | [Former Viljandimaa result PDF URL](https://spordiliit.viljandimaa.ee/failid/2014/59.jooks-10%20km%20protokoll.pdf). | **Failed lead:** direct cache fetch returns HTML with no Heinar result. Search snippets are not the original PDF. Do not reuse as evidence; use PEOPLE-EE-VAINE-EST-TALLINN instead. |
 
 **Held:** the new Dionyzas Kaltenis obituary lead in [Mūsų girios, September 2022](https://musu-girios.lt/wp-content/uploads/2022/10/MG_2022-09.pdf) returns HTTP 404 to the cache fetch. Do not add him from the search excerpt. Generic name sites' Heinar Malsroos and Gilvilė artist claims remain unverified. Ainar genitives (Ainari) and Getautas surnames are not exact given-name matches. Cached national Wikipedia prefix searches and round 122 country checks were reused rather than restarted. Sources and negative results are recorded in working files and provenance only, never as widget links.
+
+## Round 169: exact local namesakes, 18 November
+
+| ID | Checked location | Supported claims and limits |
+| --- | --- | --- |
+| PEOPLE-EE-TOMBERG-EOK | Estonian Sports Register, [Estonian Olympic Committee membership history](https://www.spordiregister.ee/eokliikmed/?act=eok_fil), Ilo Tomberg row. Full HTML cached. | Exact **Ilo Tomberg**, badminton federation representative, 29 April 1997 – 21 November 2001. Supports a public sports administrator role; not an athlete classification or an etymology. Cached PEOPLE-WD-LOCAL119C-EE-P19-L1 gives P19/P17 birthplace Tallinn Q1770 separately from citizenship. |
+
+Failed: the ESBL [Ilo Tomberg URL](https://www.esbl.ee/biograafia/Ilo_Tomberg) could not be fetched; no claim is taken from it. Held: Ginvydas Vilūnas appears in the Lithuanian geologists association list and amateur race registrations, but no prominence biography was verified. Ginvydė results are automated name/personality profiles, not accepted biographies. The 18 November title-prefix searches were reused from the private cache and not repeated. Sources remain in working files and provenance, never as widget links.
+
+| ID | Checked location | Supported claims and limits |
+| --- | --- | --- |
+| PEOPLE-LT-GINVYDAS-GEO | Lithuanian Geologists Union, [geologists directory](https://www.lgeos.lt/wp/lietuvos-geologai/), Vilūnas Ginvydas entry; cached. | Exact professional-name listing only. Held: no sufficient prominence biography established. |
+| PEOPLE-LT-GINVYDAS-SPORT2020 | [Sport for All 2020 participant list](https://www.lbmaregistracija.lt/palanga/dalyviai/dalyviai-2020/), Ginvydas Vilūnas entries; cached. | Amateur event registration does not establish eligibility for the Famous people tab. No new person record accepted. |

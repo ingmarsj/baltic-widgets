@@ -1,0 +1,171 @@
+{
+  "round": 169,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.139",
+  "scope": "Targeted local exact namesake follow-up for all 18 under-five names on 18 November, across LV/LT/EE, after publishing the editorial cleanup to main.",
+  "source_ids": [
+    "PEOPLE-EE-TOMBERG-EOK",
+    "PEOPLE-WD-LOCAL119C-EE-P19-L1",
+    "PEOPLE-WD-ENTQ119-000",
+    "PEOPLE-LT-GINVYDAS-GEO",
+    "PEOPLE-LT-GINVYDAS-SPORT2020"
+  ],
+  "records": [],
+  "people": {
+    "accepted": [
+      {
+        "country": "ee",
+        "name": "Ilo",
+        "person": "Ilo Tomberg",
+        "id": "Q124295890",
+        "source_id": "PEOPLE-EE-TOMBERG-EOK",
+        "claim": "The Estonian Sports Register lists exact Ilo Tomberg as the badminton federation representative on the Estonian Olympic Committee from 29 April 1997 to 21 November 2001. Cached Wikidata P19/P17 row identifies birthplace Tallinn (Q1770); geographic country association, not inferred nationality. Sports administrator is mapped to public_figure, not athlete."
+      }
+    ],
+    "records": [
+      {
+        "country": "lv",
+        "name": "Aleksanders",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-ALEKSANDERS",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Aleksandris",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-ALEKSANDRIS",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Alesandrs",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-ALESANDRS",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Brīva",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-BRIVA-FCC3EFF",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Brīve",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-BRIVE-FCC3F03",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Dolita",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-DOLITA",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Dollija",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-DOLLIJA",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Doloresa",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-DOLORESA",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Laisve",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-LAISVE",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Latvis",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-LATVIS",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Zanders",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-ZANDERS",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lv",
+        "name": "Latvīte",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LV-LATVITE-37A4A0BE",
+        "detail": "Latvīte Medniece already displayed; no new biography established."
+      },
+      {
+        "country": "lt",
+        "name": "Ginvydas",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LT-GINVYDAS",
+        "detail": "New geologists association listing for Ginvydas Vilūnas and amateur race registrations identify a real bearer but do not establish sufficient prominence for this tab. Held."
+      },
+      {
+        "country": "lt",
+        "name": "Ginvydė",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LT-GINVYDE-3C7512FB",
+        "detail": "New results are automated name/personality pages; no institutional biography or public prominence verified."
+      },
+      {
+        "country": "lt",
+        "name": "Otas",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LT-OTAS",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "lt",
+        "name": "Otonas",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-LT-OTONAS",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "ee",
+        "name": "Ilu",
+        "outcome": "no_new_qualified_bearer",
+        "source_id": "PEOPLE-WIKI120-EE-ILU",
+        "detail": "Reused the completed cached exact-name title search and prior country/prominence checks. Foreign bearers, non-person pages and already displayed identities are not new local namesakes."
+      },
+      {
+        "country": "ee",
+        "name": "Ilo",
+        "outcome": "added",
+        "source_id": "PEOPLE-WIKI120-EE-ILO",
+        "detail": "Ilo Tomberg completes the fifth local exact bearer; opened Sports Register membership record and reused cached geographic evidence."
+      }
+    ]
+  },
+  "held": [
+    {
+      "name": "Ginvydas Vilūnas",
+      "sources": [
+        "https://www.lgeos.lt/wp/lietuvos-geologai/",
+        "https://www.lbmaregistracija.lt/palanga/dalyviai/dalyviai-2020/"
+      ],
+      "reason": "Association listing and amateur event registration are not a sufficient prominence biography; no namesake added."
+    }
+  ],
+  "failed_leads": [
+    {
+      "url": "https://www.esbl.ee/biograafia/Ilo_Tomberg",
+      "outcome": "Cache fetch failed. Do not retry automatically; primary EOK registry and cached geographic evidence support the accepted role and local association."
+    }
+  ],
+  "next": "Continue targeted namesake follow-up from 19 November in LV/LT/EE. Open gaps remain; completed broad title searches and Wikidata tails stay closed."
+}

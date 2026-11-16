@@ -9,8 +9,8 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | Measure | LV | LT | EE |
 | --- | ---: | ---: | ---: |
 | No local exact bearer | 4195 | 890 | 521 |
-| Fewer than five (includes zero) | 4901 | 1219 | 1013 |
-| At least five | 357 | 349 | 542 |
+| Fewer than five (includes zero) | 4901 | 1219 | 1012 |
+| At least five | 357 | 349 | 543 |
 
 ## First 60 queue entries
 
@@ -43,7 +43,6 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-18 | LT | Otas | 1 | 4 |
 | 11-18 | LT | Otonas | 2 | 3 |
 | 11-18 | EE | Ilu | 0 | 5 |
-| 11-18 | EE | Ilo | 4 | 1 |
 | 11-19 | LV | Alžbeta | 0 | 5 |
 | 11-19 | LV | Beta | 0 | 5 |
 | 11-19 | LV | Betsija | 0 | 5 |
@@ -76,5 +75,6 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-19 | EE | Eliise | 2 | 3 |
 | 11-19 | EE | Betti | 3 | 2 |
 | 11-19 | EE | Elis | 3 | 2 |
+| 11-19 | EE | Liisu | 4 | 1 |
 
 Namesakes are added above the existing people. Keep the five birthday celebrities below them, deduplicating the same person. Do not invent local bearers, equate related spellings, retry logged failed source runs, or count birthday people toward the local target.

@@ -1,6 +1,6 @@
 # Name-day work: start here
 
-This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 17 November 2026, after round 168 (reader-language cleanup across all calendars and five languages). Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
+This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 17 November 2026, after round 169 (reader-language cleanup published; 18 November namesake follow-up). Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
 
 ## Active priority: local famous exact namesakes
 
@@ -11,7 +11,7 @@ This is the maintained task entry point. Read it before continuing name-day work
 - [x] Separate geographic birthplace evidence (P19/P17) from citizenship evidence (P27). Do not infer nationality from spelling or treat related spelling forms as exact namesakes.
 - [x] Remove Today from the compact card header. Keep the Yesterday/Today/Tomorrow date controls in the dialog.
 
-Current local coverage: LV 1063 names, LT 678, EE 1034; at least five local bearers: LV 357, LT 349, EE 542. The generated queue is authoritative. Absence in the dataset is not proof that no bearer exists. Round 166 removes the separate attestation card and repeated related-name origin sentences, preserving distinct dated records. Historical round audits retain their original scope; use current generated queues for counts.
+Current local coverage: LV 1063 names, LT 678, EE 1034; at least five local bearers: LV 357, LT 349, EE 543. The generated queue is authoritative. Absence in the dataset is not proof that no bearer exists. Round 166 removes the separate attestation card and repeated related-name origin sentences, preserving distinct dated records. Historical round audits retain their original scope; use current generated queues for counts.
 
 Round 119 exhausted the Wikidata native-label route (LV citizenship at all sitelink counts plus single-sitelink citizenship/birthplace tails). Do not rerun those queries.
 
@@ -107,6 +107,13 @@ Per-day routine (run from the workspace root unless noted):
 - [x] Rebuilt complete display_history text for all countries; complex competing origins have explicit five-language rewrites.
 - User authorized publication to main on 17 November 2026, followed by continued local namesake research from 18 November.
 
+## Round 169: local namesakes, 18 November
+
+- [x] Examined all 18 under-five names across LV/LT/EE using cached completed title searches and targeted new institutional leads. Added Ilo Tomberg from the Estonian Sports Register; Ilo reaches five local exact bearers.
+- [x] Recorded held Ginvydas Vilūnas leads and rejected automated Ginvydė pages. No history hypotheses were promoted. Full outcomes: research/namedays/round169-notes.json.
+- Next namesake date: **19 November**, all three countries. Retain open gaps and negative results for earlier dates.
+- Editorial cleanup and previous display consolidation were pushed to main in ed20fa4; round 169 is the subsequent namesake batch.
+
 ## Where to get evidence and resume
 
 Always read [NAMEDAYS_SOURCES.md](NAMEDAYS_SOURCES.md), consult [NAMEDAYS_SOURCE_INDEX.md](NAMEDAYS_SOURCE_INDEX.md), and search the shared private cache before any new request. Read [NAMEDAYS_PEOPLE.md](NAMEDAYS_PEOPLE.md) for selection, claim limits and attribution. Keep source URLs in research/provenance, never in the widget interface.
@@ -166,7 +173,7 @@ Paths below are relative to this repository unless marked workspace-root:
 | Normalized private generator inputs | Workspace-root `var/namedays-research/famous-enrichment.json`, `local-enrichment117.json`, `local-enrichment118.json`, `local-enrichment119.json` | Already loaded by `scripts/generate-namedays.mjs`; extend carefully and preserve prior records. Do not rebuild an enrichment from only a new batch. |
 | Pantheon ranking and birthday reserve | `PEOPLE-PANTHEON2025`; workspace-root `var/namedays-research/pantheon-normalized.json`; published `data/namedays/people-birthdays.json` | Reuse ranking and eight birthday candidates per day. Birthday people do not fill the exact-local target. Preserve CC BY-SA attribution. |
 | Raw originals and searchable text | Workspace-root `var/namedays-sources/` | Source manifests retain complete query URLs and content hashes. Query the cache tool rather than downloading again. |
-| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 169 unless another session has already created it; inspect files first. |
+| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 170 unless another session has already created it; inspect files first. |
 
 The private `prepare-local118.mjs` and `select-local119.mjs` helpers use fixed pre-round snapshots (`people-before119/`, `people-before120/`). Reuse its output; do not blindly rerun it as a current queue. Private collectors are not part of the portable repository. A cache-free public rebuild must retain published people and country evidence.
 

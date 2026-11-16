@@ -17639,6 +17639,37 @@
     }
    ],
    "claim": "Official gazette row 16 (Zemgale) explicitly separates given names Uģis Higo from surname Glāzītis-Āboltiņš. CVK gives the same full name and 1973 birth year. The Latvian Rock Music Association interview of 12 January 2024 names Uģis Higo Glāzītis and documents his work on its rock radio. Higo is a documented second given name, not a nickname or a surname; only the under-five Higo profile is enriched."
+  },
+  {
+   "id": "Q124295890",
+   "name": "Ilo Tomberg",
+   "labels": {
+    "et": "Ilo Tomberg"
+   },
+   "aliases": [
+    "Ilo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "public_figure",
+   "round": 169,
+   "source": {
+    "url": "https://www.spordiregister.ee/eokliikmed/?act=eok_fil",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-TOMBERG-EOK"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "P19/P17",
+     "birthplace": "http://www.wikidata.org/entity/Q1770",
+     "url": "https://www.wikidata.org/wiki/Q124295890",
+     "source_id": "PEOPLE-WD-LOCAL119C-EE-P19-L1",
+     "license": "CC0"
+    }
+   ],
+   "claim": "The Estonian Sports Register lists exact Ilo Tomberg as the badminton federation representative on the Estonian Olympic Committee from 29 April 1997 to 21 November 2001. Cached Wikidata P19/P17 row identifies birthplace Tallinn (Q1770); geographic country association, not inferred nationality. Sports administrator is mapped to public_figure, not athlete."
   }
  ]
 }

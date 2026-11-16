@@ -1,0 +1,40 @@
+{
+  "round": 169,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.139",
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 0,
+      "calendar_memberships": 5259,
+      "facts_preserved": true,
+      "previous_people_preserved": true,
+      "five_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 0,
+      "calendar_memberships": 2253,
+      "facts_preserved": true,
+      "previous_people_preserved": true,
+      "five_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 1,
+      "calendar_memberships": 1560,
+      "facts_preserved": true,
+      "previous_people_preserved": true,
+      "five_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true
+    }
+  },
+  "validation": {
+    "tests": 165,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed: RU/EE, Tomorrow 18 November, Ilo displays five local exact namesakes including Ilo Tomberg, followed by five distinct birthday people."
+  }
+}
