@@ -17670,6 +17670,636 @@
     }
    ],
    "claim": "The Estonian Sports Register lists exact Ilo Tomberg as the badminton federation representative on the Estonian Olympic Committee from 29 April 1997 to 21 November 2001. Cached Wikidata P19/P17 row identifies birthplace Tallinn (Q1770); geographic country association, not inferred nationality. Sports administrator is mapped to public_figure, not athlete."
+  },
+  {
+   "id": "reviewed:betija-gulbe",
+   "name": "Betija Gulbe",
+   "labels": {
+    "lv": "Betija Gulbe"
+   },
+   "aliases": [
+    "Betija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "athlete",
+   "round": 170,
+   "source": {
+    "url": "https://curling.lv/player/betija-gulbe/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-BETIJA-GULBE-CURLING"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "sporting_representation",
+     "url": "https://curling.lv/izlase/",
+     "source_id": "PEOPLE-LV-CURLING-TEAMS-2026",
+     "claim": "Latvian Curling Association player biography spells Betija Gulbe exactly and records national mixed-team titles in 2022 and 2025. Its national-team page lists BETIJA GULBE in the Latvian women’s team for 2026/2027. No citizenship or birthplace inferred. The Court Administration page was a discovery lead; its championship chronology is not used."
+    }
+   ],
+   "claim": "Latvian Curling Association player biography spells Betija Gulbe exactly and records national mixed-team titles in 2022 and 2025. Its national-team page lists BETIJA GULBE in the Latvian women’s team for 2026/2027. No citizenship or birthplace inferred. The Court Administration page was a discovery lead; its championship chronology is not used."
+  },
+  {
+   "id": "reviewed:vigo-valdavs",
+   "name": "Vigo Valdavs",
+   "labels": {
+    "lv": "Vigo Valdavs"
+   },
+   "aliases": [
+    "Vigo"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "athlete",
+   "round": 170,
+   "source": {
+    "url": "https://livonia-rugby.lv/vesture/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VIGO-VALDAVS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "sporting_representation",
+     "url": "https://livonia-rugby.lv/vesture/",
+     "source_id": "PEOPLE-LV-VIGO-VALDAVS",
+     "claim": "RFC Livonia’s club history names Vigo Valdavs as its co-founder and explicitly a former Latvian national-team player. Sporting representation, not inferred citizenship."
+    }
+   ],
+   "claim": "RFC Livonia’s club history names Vigo Valdavs as its co-founder and explicitly a former Latvian national-team player. Sporting representation, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:pilvi-tammoja",
+   "name": "Pilvi Tammoja",
+   "labels": {
+    "et": "Pilvi Tammoja"
+   },
+   "aliases": [
+    "Pilvi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 170,
+   "source": {
+    "url": "https://huvi.tallinn.ee/sundmus/pilvi-tammoja-naitus-hobune-redel-ja-kuldsed-sussid?occurrence=285302",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-PILVI-TAMMOJA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "url": "https://huvi.tallinn.ee/sundmus/pilvi-tammoja-naitus-hobune-redel-ja-kuldsed-sussid?occurrence=285302",
+     "source_id": "PEOPLE-EE-PILVI-TAMMOJA",
+     "claim": "Tallinn City’s event page, supplied by the Tallinn Literary Centre, gives Pilvi Tammoja’s artist biography and solo exhibition at Kastellaanimaja gallery, 15 October–15 November 2026, and her Estonian Academy of Arts degrees. Country association rests on documented professional exhibition activity in Tallinn, not inferred nationality."
+    }
+   ],
+   "claim": "Tallinn City’s event page, supplied by the Tallinn Literary Centre, gives Pilvi Tammoja’s artist biography and solo exhibition at Kastellaanimaja gallery, 15 October–15 November 2026, and her Estonian Academy of Arts degrees. Country association rests on documented professional exhibition activity in Tallinn, not inferred nationality."
+  },
+  {
+   "id": "reviewed:kate-krolle",
+   "name": "Kate Krolle",
+   "labels": {
+    "lv": "Kate Krolle"
+   },
+   "aliases": [
+    "Kate"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 170,
+   "source": {
+    "url": "https://lcca.lv/en/survival-kit-8/artists/agnese-krivade---kate-krolle-en",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-KATE-KROLLE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://lcca.lv/en/survival-kit-8/artists/agnese-krivade---kate-krolle-en",
+     "source_id": "PEOPLE-LV-KATE-KROLLE",
+     "claim": "The Latvian Centre for Contemporary Art gives Kate Krolle’s biography, Latvia/Le Fresnoy education and repeated participation in Survival Kit, plus her second solo exhibition at Noass in 2016. Local artistic activity, not inferred citizenship."
+    }
+   ],
+   "claim": "The Latvian Centre for Contemporary Art gives Kate Krolle’s biography, Latvia/Le Fresnoy education and repeated participation in Survival Kit, plus her second solo exhibition at Noass in 2016. Local artistic activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:olita-gulbe-germane",
+   "name": "Olita Gulbe-Ģērmane",
+   "labels": {
+    "lv": "Olita Gulbe-Ģērmane"
+   },
+   "aliases": [
+    "Olita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 170,
+   "source": {
+    "url": "https://www.lapmezciems.lv/lapmezciema-pagasts/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LAPMEZCIEMS-ARTISTS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://www.lapmezciems.lv/lapmezciema-pagasts/",
+     "source_id": "PEOPLE-LV-LAPMEZCIEMS-ARTISTS",
+     "claim": "Lapmežciems local authority’s notable-people section identifies Olita Gulbe–Ģērmane (1953) as a painter and Latvian Artists Union member whose works are in Latvian museums. Spaces around the surname dash are typographic; no spelling variant of the given name is introduced."
+    }
+   ],
+   "claim": "Lapmežciems local authority’s notable-people section identifies Olita Gulbe–Ģērmane (1953) as a painter and Latvian Artists Union member whose works are in Latvian museums. Spaces around the surname dash are typographic; no spelling variant of the given name is introduced."
+  },
+  {
+   "id": "reviewed:andrievs-dzelzkalns",
+   "name": "Andrievs Dzelzkalns",
+   "labels": {
+    "lv": "Andrievs Dzelzkalns"
+   },
+   "aliases": [
+    "Andrievs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 170,
+   "source": {
+    "url": "https://www.literatura.lv/personas/andrievs-dzelzkalns",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ANDRIEVS-DZELZKALNS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://www.literatura.lv/personas/andrievs-dzelzkalns",
+     "source_id": "PEOPLE-LV-ANDRIEVS-DZELZKALNS",
+     "claim": "The Institute of Literature, Folklore and Art’s Literatura biography identifies exact Andrievs Dzelzkalns (1840–1926), Tirza-born teacher, public activist and playwright, author of Sētā un gaitā (performed 1909). Geographic birth and documented local work, not a modern citizenship claim."
+    }
+   ],
+   "claim": "The Institute of Literature, Folklore and Art’s Literatura biography identifies exact Andrievs Dzelzkalns (1840–1926), Tirza-born teacher, public activist and playwright, author of Sētā un gaitā (performed 1909). Geographic birth and documented local work, not a modern citizenship claim."
+  },
+  {
+   "id": "reviewed:aira-rautso",
+   "name": "Aira Rautso",
+   "labels": {
+    "et": "Aira Rautso"
+   },
+   "aliases": [
+    "Aira"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 170,
+   "source": {
+    "url": "https://ekabl.ee/id/rautsoaira",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-AIRA-RAUTSO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "url": "https://ekabl.ee/id/rautsoaira",
+     "source_id": "PEOPLE-EE-AIRA-RAUTSO",
+     "claim": "The EKABL art-history exhibition database lists exact Aira Rautso, five solo exhibitions and group exhibitions at Tallinn Art Hall and the Estonian Art Museum’s Kohtla-Järve branch. The 2022 Aira ja Mati Rautso show at Vabaduse gallery and 2025 Estonian women painting classics exhibition establish local professional activity. No citizenship inferred."
+    }
+   ],
+   "claim": "The EKABL art-history exhibition database lists exact Aira Rautso, five solo exhibitions and group exhibitions at Tallinn Art Hall and the Estonian Art Museum’s Kohtla-Järve branch. The 2022 Aira ja Mati Rautso show at Vabaduse gallery and 2025 Estonian women painting classics exhibition establish local professional activity. No citizenship inferred."
+  },
+  {
+   "id": "reviewed:sniedze-sproge",
+   "name": "Sniedze Sproģe",
+   "labels": {
+    "lv": "Sniedze Sproģe"
+   },
+   "aliases": [
+    "Sniedze"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 170,
+   "source": {
+    "url": "https://festivalslampa.lv/lv/dalibnieki/2695",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SNIEDZE-SPROGE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://festivalslampa.lv/lv/dalibnieki/2695",
+     "source_id": "PEOPLE-LV-SNIEDZE-SPROGE",
+     "claim": "LAMPA’s speaker biography names Sniedze Sproģe, head of the Getliņi regional waste-management centre, and her public municipal environmental-policy work and festival debates in 2019 and 2026. Public professional activity in Latvia, not a nationality inference."
+    }
+   ],
+   "claim": "LAMPA’s speaker biography names Sniedze Sproģe, head of the Getliņi regional waste-management centre, and her public municipal environmental-policy work and festival debates in 2019 and 2026. Public professional activity in Latvia, not a nationality inference."
+  },
+  {
+   "id": "Q12650369",
+   "name": "Barbora Umiastauskaitė",
+   "labels": {
+    "lt": "Barbora Umiastauskaitė"
+   },
+   "aliases": [
+    "Barbora"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "public_figure",
+   "round": 170,
+   "source": {
+    "url": "https://www.lituanistika.lt/content/19213",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-BARBORA-UMIASTAUSKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "url": "https://www.lituanistika.lt/content/19213",
+     "source_id": "PEOPLE-LT-BARBORA-UMIASTAUSKAITE",
+     "claim": "The Lituanistika research abstract for Rasa Račiūnaitė-Paužuolienė’s 2008 Tautosakos darbai article identifies Barbora Umiastauskaitė-Žagarietė (1628–1648) as the historical person at the centre of northern Lithuanian religious narratives and the Žagarė beatification inquiry. This supports a historically notable exact bearer and regional association; miracles and sainthood are not asserted as facts, and disputed family attribution is not resolved here."
+    }
+   ],
+   "claim": "The Lituanistika research abstract for Rasa Račiūnaitė-Paužuolienė’s 2008 Tautosakos darbai article identifies Barbora Umiastauskaitė-Žagarietė (1628–1648) as the historical person at the centre of northern Lithuanian religious narratives and the Žagarė beatification inquiry. This supports a historically notable exact bearer and regional association; miracles and sainthood are not asserted as facts, and disputed family attribution is not resolved here."
+  },
+  {
+   "id": "Q4515406",
+   "name": "Vsevolods Češihins",
+   "labels": {
+    "lv": "Vsevolods Češihins"
+   },
+   "aliases": [
+    "Vsevolods"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 170,
+   "source": {
+    "url": "https://www.literatura.lv/personas/vsevolods-cesihins",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VSEVOLODS-CESIHINS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://www.literatura.lv/personas/vsevolods-cesihins",
+     "source_id": "PEOPLE-LV-VSEVOLODS-CESIHINS",
+     "claim": "Literatura’s opened biography identifies exact Vsevolods Češihins (1865–1934), born in Riga, as a music critic, journalist, author and translator active in Riga until 1915. Geographic birthplace and documented activity, not an inferred Latvian citizenship."
+    }
+   ],
+   "claim": "Literatura’s opened biography identifies exact Vsevolods Češihins (1865–1934), born in Riga, as a music critic, journalist, author and translator active in Riga until 1915. Geographic birthplace and documented activity, not an inferred Latvian citizenship."
+  },
+  {
+   "id": "reviewed:sarma-muizniece-liepina",
+   "name": "Sarma Muižniece Liepiņa",
+   "labels": {
+    "lv": "Sarma Muižniece Liepiņa"
+   },
+   "aliases": [
+    "Sarma"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "poet",
+   "round": 170,
+   "source": {
+    "url": "https://www.lapamuzejs.lv/juris-rozitis-gundega-smite-un-sarma-muizniece-rakstnieku-celiena-26-janvari/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SARMA-MUIZNIECE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://www.lapamuzejs.lv/juris-rozitis-gundega-smite-un-sarma-muizniece-rakstnieku-celiena-26-janvari/",
+     "source_id": "PEOPLE-LV-SARMA-MUIZNIECE",
+     "claim": "The Latvians Abroad Museum’s own event announcement names US Latvian poet and museum board chair Sarma Muižniece Liepiņa as host and reader. Accepted through her documented leadership and literary activity for Latvia’s museum, not through a false Latvian birthplace or citizenship claim."
+    }
+   ],
+   "claim": "The Latvians Abroad Museum’s own event announcement names US Latvian poet and museum board chair Sarma Muižniece Liepiņa as host and reader. Accepted through her documented leadership and literary activity for Latvia’s museum, not through a false Latvian birthplace or citizenship claim."
+  },
+  {
+   "id": "reviewed:niklavs-sekacs",
+   "name": "Niklāvs Sekačs",
+   "labels": {
+    "lv": "Niklāvs Sekačs"
+   },
+   "aliases": [
+    "Niklāvs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "musician",
+   "round": 170,
+   "source": {
+    "url": "https://www.lsm.lv/raksts/kultura/muzika/niklavz-parstaves-latviju-primavera-sound-festivala-barselona.a79615/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-NIKLAVS-SEKACS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://www.lsm.lv/raksts/kultura/muzika/niklavz-parstaves-latviju-primavera-sound-festivala-barselona.a79615/",
+     "source_id": "PEOPLE-LV-NIKLAVS-SEKACS",
+     "claim": "Latvian Radio 5’s announcement carried by Latvian Public Media explicitly identifies producer NiklāvZ’s real name as Niklāvs Sekačs and his representation of Latvia at Primavera Sound. The given-name match is established by the explicit real-name statement; no nickname-only alias is used."
+    }
+   ],
+   "claim": "Latvian Radio 5’s announcement carried by Latvian Public Media explicitly identifies producer NiklāvZ’s real name as Niklāvs Sekačs and his representation of Latvia at Primavera Sound. The given-name match is established by the explicit real-name statement; no nickname-only alias is used."
+  },
+  {
+   "id": "reviewed:vakaris-didika",
+   "name": "Vakaris Didika",
+   "labels": {
+    "lt": "Vakaris Didika"
+   },
+   "aliases": [
+    "Vakaris"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "athlete",
+   "round": 170,
+   "source": {
+    "url": "https://jasiunasteam.lt/vakaris-didika-taline-iskovojo-wbc-baltijos-muay-thai-cempiono-dirza/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-VAKARIS-DIDIKA"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "url": "https://jasiunasteam.lt/vakaris-didika-taline-iskovojo-wbc-baltijos-muay-thai-cempiono-dirza/",
+     "source_id": "PEOPLE-LT-VAKARIS-DIDIKA",
+     "claim": "Jasiūnas Team’s own report identifies its fighter Vakaris Didika as Lithuanian and winner of the WBC Baltic Muay Thai title up to 66.7 kg against Henry Rohtla in Tallinn. Club representation and documented Lithuanian professional sporting activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Jasiūnas Team’s own report identifies its fighter Vakaris Didika as Lithuanian and winner of the WBC Baltic Muay Thai title up to 66.7 kg against Henry Rohtla in Tallinn. Club representation and documented Lithuanian professional sporting activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:aistis-zekevicius",
+   "name": "Aistis Žekevičius",
+   "labels": {
+    "lt": "Aistis Žekevičius"
+   },
+   "aliases": [
+    "Aistis"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "poet",
+   "round": 170,
+   "source": {
+    "url": "https://tvrc.lt/tarptautiniame-verteju-ir-rasytoju-centre-reziduoja-poetas-ir-vertejas-aistis-zekevicius/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-AISTIS-ZEKEVICIUS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "url": "https://tvrc.lt/tarptautiniame-verteju-ir-rasytoju-centre-reziduoja-poetas-ir-vertejas-aistis-zekevicius/",
+     "source_id": "PEOPLE-LT-AISTIS-ZEKEVICIUS",
+     "claim": "The International Writers and Translators Centre’s own 9 February 2024 residency announcement identifies exact Aistis Žekevičius as a poet and translator undertaking its Nida creative residency. Professional Lithuanian literary activity, not an inferred birthplace or citizenship."
+    }
+   ],
+   "claim": "The International Writers and Translators Centre’s own 9 February 2024 residency announcement identifies exact Aistis Žekevičius as a poet and translator undertaking its Nida creative residency. Professional Lithuanian literary activity, not an inferred birthplace or citizenship."
+  },
+  {
+   "id": "reviewed:adas-gecevicius",
+   "name": "Adas Gecevičius",
+   "labels": {
+    "lt": "Adas Gecevičius"
+   },
+   "aliases": [
+    "Adas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 170,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/dziazas/kompozitoriai-atlikejai/geceviciusadas/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ADAS-GECEVICIUS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "url": "https://www.mic.lt/lt/baze/dziazas/kompozitoriai-atlikejai/geceviciusadas/",
+     "source_id": "PEOPLE-LT-ADAS-GECEVICIUS",
+     "claim": "Music Information Centre Lithuania’s artist biography identifies Adas Gecevičius as a Lithuanian drummer, producer and composer, member of Sheep Got Waxed and Vilniaus Energija, with professional activity in Vilnius and representation of Lithuania at a Baltic drumming competition. No citizenship claim is inferred."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s artist biography identifies Adas Gecevičius as a Lithuanian drummer, producer and composer, member of Sheep Got Waxed and Vilniaus Energija, with professional activity in Vilnius and representation of Lithuania at a Baltic drumming competition. No citizenship claim is inferred."
+  },
+  {
+   "id": "reviewed:adas-burksaitis",
+   "name": "Adas Burkšaitis",
+   "labels": {
+    "lt": "Adas Burkšaitis"
+   },
+   "aliases": [
+    "Adas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "director",
+   "round": 170,
+   "source": {
+    "url": "https://filmshorts.lt/filmas/konsultacija/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ADAS-BURKSAITIS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "url": "https://filmshorts.lt/filmas/konsultacija/",
+     "source_id": "PEOPLE-LT-ADAS-BURKSAITIS",
+     "claim": "Vilnius Short Film Festival’s own Lithuanian national-competition film page lists Adas Burkšaitis as director of Konsultacija, gives Lithuania as production country and describes his theatre work and film-directing studies at the Lithuanian Academy of Music and Theatre. Local professional film activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Vilnius Short Film Festival’s own Lithuanian national-competition film page lists Adas Burkšaitis as director of Konsultacija, gives Lithuania as production country and describes his theatre work and film-directing studies at the Lithuanian Academy of Music and Theatre. Local professional film activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:ethel-utsmuts",
+   "name": "Ethel Ütsmüts",
+   "labels": {
+    "et": "Ethel Ütsmüts"
+   },
+   "aliases": [
+    "Ethel"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 170,
+   "source": {
+    "url": "https://www.artun.ee/en/the-winners-of-the-young-artist-young-designer-and-young-applied-artist-awards-announced/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ETHEL-UTSMUTS"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "url": "https://www.artun.ee/en/the-winners-of-the-young-artist-young-designer-and-young-applied-artist-awards-announced/",
+     "source_id": "PEOPLE-EE-ETHEL-UTSMUTS",
+     "claim": "The Estonian Academy of Arts’ 2024 award announcement names ceramics artist Ethel Ütsmüts as the bachelor-level Young Applied Artist Award winner for Ethel is God. The named work and award establish public artistic activity at an Estonian institution; no citizenship inferred."
+    }
+   ],
+   "claim": "The Estonian Academy of Arts’ 2024 award announcement names ceramics artist Ethel Ütsmüts as the bachelor-level Young Applied Artist Award winner for Ethel is God. The named work and award establish public artistic activity at an Estonian institution; no citizenship inferred."
+  },
+  {
+   "id": "reviewed:rahel-talts",
+   "name": "Rahel Talts",
+   "labels": {
+    "et": "Rahel Talts"
+   },
+   "aliases": [
+    "Rahel"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 170,
+   "source": {
+    "url": "https://www.jazz.ee/artist/rahel-talts/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-RAHEL-TALTS"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "url": "https://www.jazz.ee/artist/rahel-talts/",
+     "source_id": "PEOPLE-EE-RAHEL-TALTS",
+     "claim": "The Estonian Jazz Union’s artist biography identifies pianist, composer and bandleader Rahel Talts, her Tallinn music studies and work with Estonian bands Allianss and Allan Kaljaste Smooth Group. Documented Estonian professional activity; her Denmark residence is preserved in research and does not imply Danish or Estonian citizenship."
+    }
+   ],
+   "claim": "The Estonian Jazz Union’s artist biography identifies pianist, composer and bandleader Rahel Talts, her Tallinn music studies and work with Estonian bands Allianss and Allan Kaljaste Smooth Group. Documented Estonian professional activity; her Denmark residence is preserved in research and does not imply Danish or Estonian citizenship."
+  },
+  {
+   "id": "reviewed:rahel-otsa",
+   "name": "Rahel Otsa",
+   "labels": {
+    "et": "Rahel Otsa"
+   },
+   "aliases": [
+    "Rahel"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "actor",
+   "round": 170,
+   "source": {
+    "url": "https://teater.ee/uudised/rahel-otsa-saavutas-teise-koha-sveitsis-toimunud-improteatrivoistlusel/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-RAHEL-OTSA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "url": "https://teater.ee/uudised/rahel-otsa-saavutas-teise-koha-sveitsis-toimunud-improteatrivoistlusel/",
+     "source_id": "PEOPLE-EE-RAHEL-OTSA",
+     "claim": "The Estonian Theatre Agency’s own 2025 report names improv actor Rahel Otsa as Estonia’s representative and second-place finisher at a Maestra event in Switzerland and organizer of Estonia’s Tilt festival. Cultural representation and local professional work, not citizenship."
+    }
+   ],
+   "claim": "The Estonian Theatre Agency’s own 2025 report names improv actor Rahel Otsa as Estonia’s representative and second-place finisher at a Maestra event in Switzerland and organizer of Estonia’s Tilt festival. Cultural representation and local professional work, not citizenship."
+  },
+  {
+   "id": "reviewed:rahel-ollisaar",
+   "name": "Rahel Ollisaar",
+   "labels": {
+    "et": "Rahel Ollisaar"
+   },
+   "aliases": [
+    "Rahel"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 170,
+   "source": {
+    "url": "https://eeter.err.ee/1608769468/rahel-kirjutab-oma-lugusid-ise-voib-olla-kunagi-kirjutan-ka-eesti-keeles",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-RAHEL-OLLISAAR"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "url": "https://eeter.err.ee/1608769468/rahel-kirjutab-oma-lugusid-ise-voib-olla-kunagi-kirjutan-ka-eesti-keeles",
+     "source_id": "PEOPLE-EE-RAHEL-OLLISAAR",
+     "claim": "ERR’s own Terevisioon performance interview explicitly identifies singer-songwriter Rahel’s full name as Rahel Ollisaar and discusses her original music and work with Dawhy Not. Professional Estonian broadcasting/music activity, not inferred citizenship."
+    }
+   ],
+   "claim": "ERR’s own Terevisioon performance interview explicitly identifies singer-songwriter Rahel’s full name as Rahel Ollisaar and discusses her original music and work with Dawhy Not. Professional Estonian broadcasting/music activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:klinta-ivika-erdmane",
+   "name": "Klinta Ivika Erdmane",
+   "labels": {
+    "lv": "Klinta Ivika Erdmane"
+   },
+   "aliases": [
+    "Klinta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "musician",
+   "round": 170,
+   "source": {
+    "url": "https://vefkvartals.lv/events/dzivas-muzikas-vakars-erdmane-kronbergs-2/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-KLINTA-ERDMANE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "url": "https://vefkvartals.lv/events/dzivas-muzikas-vakars-erdmane-kronbergs-2/",
+     "source_id": "PEOPLE-LV-KLINTA-ERDMANE",
+     "claim": "VEF Kvartāls’ own concert announcement names singer Klinta Ivika Erdmane, her jazz education at Liepāja’s music/art school and her Erdmane Kronbergs performance in Riga on 7 August 2025. Documented professional musical activity in Latvia, not citizenship."
+    }
+   ],
+   "claim": "VEF Kvartāls’ own concert announcement names singer Klinta Ivika Erdmane, her jazz education at Liepāja’s music/art school and her Erdmane Kronbergs performance in Riga on 7 August 2025. Documented professional musical activity in Latvia, not citizenship."
   }
  ]
 }

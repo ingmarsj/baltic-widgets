@@ -17,7 +17,7 @@ Select-String -Path research/namedays/source-index.csv -Pattern "Heinar"
 
 A text hit is a discovery aid. Inspect the rendered original page before using it as evidence.
 
-**2407 source IDs**; 115 with a cached PDF. 546 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
+**2429 source IDs**; 115 with a cached PDF. 546 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
 
 ## Estonia
 
@@ -2387,16 +2387,38 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | ID | Resource | Rounds | Names | Cached PDF |
 | --- | --- | --- | ---: | ---: |
 | LOCAL-ROUND7-LT-SURNAMES | round7-lt-surnames.pdf (cached PDF; see round notes) | 78 | 0 / 1 | 129 |
+| PEOPLE-EE-AIRA-RAUTSO | EKABL exhibition database: Aira Rautso , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-EE-ETHEL-UTSMUTS | Estonian Academy of Arts: Ethel Utsmuts Young Applied Artist Award 2024 , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-EE-PILVI-TAMMOJA | Tallinn City: Pilvi Tammoja exhibition at Kastellaanimaja gallery , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-EE-RAHEL-OLLISAAR | ERR Terevisioon: interview with singer-songwriter Rahel Ollisaar , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-EE-RAHEL-OTSA | Estonian Theatre Agency: Rahel Otsa represents Estonia at Maestra , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-EE-RAHEL-TALTS | Estonian Jazz Union: Rahel Talts , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-EE-TOMBERG-EOK | Estonian Sports Register, Estonian Olympic Committee membership history, Ilo Tomberg row. Full HTML cached. | directory only | 0 / 0 |  |
 | PEOPLE-EE-VAINE-2016 | Estonian Athletics Association, national marathon report, 12 September 2016, headline and third paragraph; full HTML cached. | directory only | 0 / 0 |  |
 | PEOPLE-EE-VAINE-EST-2014 | Former Viljandimaa result PDF URL. | directory only | 0 / 0 |  |
 | PEOPLE-EE-VAINE-EST-TALLINN | Tallinn Marathon organizer, 2010–2019 men's EST ranking, PDF page 1, rows 4/5/10; original page image inspected. | directory only | 0 / 0 | 154 |
+| PEOPLE-LT-ADAS-BURKSAITIS | Vilnius Short Film Festival: Adas Burksaitis director biography , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LT-ADAS-GECEVICIUS | Music Information Centre Lithuania: Adas Gecevicius , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LT-AISTIS-ZEKEVICIUS | International Writers and Translators Centre: Aistis Zekevicius , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LT-BARBORA-UMIASTAUSKAITE | Lituanistika: religious stories and legends about Barbora Umiastauskaite-Zagariete , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-LT-GINVYDAS-GEO | Lithuanian Geologists Union, geologists directory, Vilūnas Ginvydas entry; cached. | directory only | 0 / 0 |  |
 | PEOPLE-LT-GINVYDAS-SPORT2020 | Sport for All 2020 participant list, Ginvydas Vilūnas entries; cached. | directory only | 0 / 0 |  |
+| PEOPLE-LT-VAKARIS-DIDIKA | Jasiunas Team: Vakaris Didika Baltic Muay Thai champion , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-ANDRIEVS-DZELZKALNS | Literatura LV: Andrievs Dzelzkalns , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-BETIJA-GULBE-CURLING | Latvian Curling Association: Betija Gulbe player biography , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-CURLING-TEAMS-2026 | Latvian Curling Association: national teams 2026-2027 , women’s national-team heading. | directory only | 0 / 0 |  |
 | PEOPLE-LV-HIGO-CVK-2026 | Central Election Commission, candidate biography, identity and occupation; HTML cached. | directory only | 0 / 0 |  |
 | PEOPLE-LV-HIGO-GAZETTE-2026 | Official gazette, 2026/176A.7, Zemgale row 16, given-name and surname columns. | directory only | 0 / 0 |  |
 | PEOPLE-LV-HIGO-LRMA-2024 | Latvian Rock Music Association, interview, 12 January 2024, title and interview answers about rock radio. | directory only | 0 / 0 |  |
 | PEOPLE-LV-HIGO-LSM-2026 | LSM 15th Saeima candidate list, exact candidate heading; cached. | directory only | 0 / 0 |  |
+| PEOPLE-LV-KATE-KROLLE | Latvian Centre for Contemporary Art: Kate Krolle , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-KLINTA-ERDMANE | VEF Kvartals: singer Klinta Ivika Erdmane , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-LAPMEZCIEMS-ARTISTS | Lapmezciems local authority: artists Olita Gulbe-Germane and Andrejs Germanis , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-NIKLAVS-SEKACS | Latvian Public Media and Radio 5: Niklavs Sekacs represents Latvia at Primavera Sound , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-SARMA-MUIZNIECE | Latvians Abroad Museum: poet and board chair Sarma Muizniece Liepina , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-SNIEDZE-SPROGE | LAMPA festival: Sniedze Sproge speaker biography , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-VIGO-VALDAVS | RFC Livonia: club history and Vigo Valdavs , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
+| PEOPLE-LV-VSEVOLODS-CESIHINS | Literatura LV: Vsevolods Cesihins , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-PANTHEON-DATASETS | Official downloads page, 2025 update. | directory only | 0 / 0 |  |
 | PEOPLE-PANTHEON-LICENSE | Data permissions. | directory only | 0 / 0 |  |
 | PEOPLE-PANTHEON-METHODS | API and methods, HPI explanation. | directory only | 0 / 0 |  |

@@ -9,8 +9,8 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | Measure | LV | LT | EE |
 | --- | ---: | ---: | ---: |
 | No local exact bearer | 4195 | 890 | 521 |
-| Fewer than five (includes zero) | 4901 | 1219 | 1012 |
-| At least five | 357 | 349 | 543 |
+| Fewer than five (includes zero) | 4901 | 1217 | 1011 |
+| At least five | 357 | 351 | 544 |
 
 ## First 60 queue entries
 
@@ -66,7 +66,7 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-19 | LV | Lize | 0 | 5 |
 | 11-19 | LV | Līze | 0 | 5 |
 | 11-19 | LV | Līziņa | 0 | 5 |
-| 11-19 | LV | Betija | 1 | 4 |
+| 11-19 | LV | Betija | 2 | 3 |
 | 11-19 | LT | Dainotas | 0 | 5 |
 | 11-19 | LT | Rimgaudė | 0 | 5 |
 | 11-19 | LT | Matilda | 2 | 3 |

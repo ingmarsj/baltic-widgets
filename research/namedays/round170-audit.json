@@ -1,0 +1,59 @@
+{
+  "round": 170,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.140",
+  "scope": {
+    "start": "11-19",
+    "end": "12-18",
+    "dates": 30,
+    "calendar_memberships": 726,
+    "under_five_profiles_before": 604,
+    "new_people": 21,
+    "changed_local_profiles": 18
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 10,
+      "profiles_with_local_bearers": 1063,
+      "profiles_with_at_least_five": 357,
+      "calendar_memberships": 5259,
+      "facts_and_final_histories_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 5,
+      "profiles_with_local_bearers": 678,
+      "profiles_with_at_least_five": 351,
+      "calendar_memberships": 2253,
+      "facts_and_final_histories_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 6,
+      "profiles_with_local_bearers": 1034,
+      "profiles_with_at_least_five": 544,
+      "calendar_memberships": 1560,
+      "facts_and_final_histories_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": 165,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed rebuilt-app People-tab checks for LV Betija (19 November), LT Adas (16 December), EE Rahel (17 December). Used an ignored dist-only date-clock fixture; production code has no date override. Confirmed new local names, localized roles, unchanged international tier and five birthday people; Rahel screenshot visually inspected."
+  }
+}
