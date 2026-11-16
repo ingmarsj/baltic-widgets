@@ -8,16 +8,16 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 
 | Measure | LV | LT | EE |
 | --- | ---: | ---: | ---: |
-| No local exact bearer | 4196 | 890 | 521 |
-| Fewer than five (includes zero) | 4901 | 1219 | 1014 |
-| At least five | 357 | 349 | 541 |
+| No local exact bearer | 4195 | 890 | 521 |
+| Fewer than five (includes zero) | 4901 | 1219 | 1013 |
+| At least five | 357 | 349 | 542 |
 
 ## First 60 queue entries
 
 | Calendar date | Country | Name | Local exact | Still needed |
 | --- | --- | --- | ---: | ---: |
-| 11-17 | LV | Higo | 0 | 5 |
 | 11-17 | LV | Ugo | 0 | 5 |
+| 11-17 | LV | Higo | 1 | 4 |
 | 11-17 | LV | Igo | 2 | 3 |
 | 11-17 | LV | Uga | 2 | 3 |
 | 11-17 | LT | Getautas | 0 | 5 |
@@ -26,7 +26,6 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-17 | LT | Grigalius | 3 | 2 |
 | 11-17 | EE | Ainari | 0 | 5 |
 | 11-17 | EE | Egil | 0 | 5 |
-| 11-17 | EE | Heinar | 4 | 1 |
 | 11-18 | LV | Aleksanders | 0 | 5 |
 | 11-18 | LV | Aleksandris | 0 | 5 |
 | 11-18 | LV | Alesandrs | 0 | 5 |
@@ -76,5 +75,6 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-19 | EE | Eliisabet | 1 | 4 |
 | 11-19 | EE | Eliise | 2 | 3 |
 | 11-19 | EE | Betti | 3 | 2 |
+| 11-19 | EE | Elis | 3 | 2 |
 
 Namesakes are added above the existing people. Keep the five birthday celebrities below them, deduplicating the same person. Do not invent local bearers, equate related spellings, retry logged failed source runs, or count birthday people toward the local target.

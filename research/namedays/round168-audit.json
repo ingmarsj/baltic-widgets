@@ -1,0 +1,29 @@
+{
+  "round": 168,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.138",
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "structured_facts_and_verification_status_preserved": true,
+      "prior_people_preserved": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "structured_facts_and_verification_status_preserved": true,
+      "prior_people_preserved": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "structured_facts_and_verification_status_preserved": true,
+      "prior_people_preserved": true
+    }
+  },
+  "validation": {
+    "tests": 165,
+    "failures": 0,
+    "final_targeted_reader_tests": 3,
+    "build": "passed",
+    "browser": "Passed: RU/LV, Tomorrow 18 November, Aleksandris shows exactly the one-sentence qualified hypothesis; related Aleksandrs history and its scoped dates remain."
+  }
+}

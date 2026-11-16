@@ -1,7 +1,7 @@
 import {openModal} from './modal.js';
 import {resolveLanguage,locales} from './i18n-core.js';
 import {calendarDate,calendarNames,validateCountryCalendar,fittingNameCount} from './namedays-core.js';
-import {text,describeName,roleLabel} from './namedays-content.js';
+import {text,describeName,historyBlocks,roleLabel} from './namedays-content.js';
 import {populationCopy,validatePopulation,POPULATION_METRICS} from './namedays-population.js';
 import {peopleForDay,validateBirthdays} from './namedays-people.js';
 
@@ -65,20 +65,11 @@ function renderContent(){
  if(!state.selected){content.append(element('p','',tr('empty')));return;}
  const profile=state.profiles?.[state.selected];
  if(!profile||profile.key!==state.selected||profile.country!==state.country||typeof profile.name!=='string'){content.append(element('p','',tr('error')));return;}
- let copies=copyCache.get(state.profiles);if(!copies){copies=new Map();copyCache.set(state.profiles,copies);}const copyKey=profile.key+':'+lang+':'+state.variant;let copy=copies.get(copyKey);if(!copy){copy=describeName(profile,lang,state.variant,state.profiles);copies.set(copyKey,copy);}
+ let copies=copyCache.get(state.profiles);if(!copies){copies=new Map();copyCache.set(state.profiles,copies);}const copyKey=profile.key+':'+lang+':'+state.variant;let copy=copies.get(copyKey);if(!copy&&!(state.tab==='history'&&profile.display_history?.[lang])){copy=describeName(profile,lang,state.variant,state.profiles);copies.set(copyKey,copy);}
  let panels=panelCache.get(state.profiles);if(!panels){panels=new Map();panelCache.set(state.profiles,panels);}const panelKey=profile.key+':'+lang+':'+state.tab;
  if(state.tab==='history'&&panels.has(panelKey)){content.replaceChildren(...panels.get(panelKey));return;}
  if(state.tab==='history'){
-  if(copy.history.length&&!copy.calendar_only){content.append(element('h3','',copy.unverified_hypothesis?copy.hypothesis_label:tr('documented')));for(const p of copy.history)content.append(element('p','',p));}
-  if(copy.attestation){
-   const record=element('div','nameday-attestation');
-   record.append(element('h3','',tr('recordedLabel')),element('strong','',copy.attestation.date),element('small','',tr('recordedNote',{form:copy.attestation.form})));
-   content.append(record);
-  }
-  if(copy.notice)content.append(element('p','nameday-research-note',copy.notice));
-  for(const related of copy.related_context||[]){
-   content.append(element('h3','',related.title));for(const paragraph of related.history)content.append(element('p','',paragraph));
-  }
+  for(const block of profile.display_history?.[lang]||historyBlocks(copy,lang))content.append(element(block.type==='heading'?'h3':'p','',block.text));
   panels.set(panelKey,[...content.childNodes]);
  }else if(state.tab==='people'){
   const populationText=populationCopy(state.population,profile.name,state.country,lang);

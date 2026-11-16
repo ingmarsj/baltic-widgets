@@ -1,6 +1,6 @@
 country,name,local_exact_count,needed_to_reach_five,next_calendar_date,calendar_distance,calendar_dates,known_local_ids,known_local_source_ids,next_step
-lv,Higo,0,5,11-17,0,11-17,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 lv,Ugo,0,5,11-17,0,11-17,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
+lv,Higo,1,4,11-17,0,11-17,reviewed:ugis-higo-glazitis-aboltins,PEOPLE-LV-HIGO-GAZETTE-2026;PEOPLE-LV-HIGO-CVK-2026,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 lv,Igo,2,3,11-17,0,11-17,Q15148980;Q16357925,PEOPLE-WD-CITIZENS-CACHE;PEOPLE-WD-LOCAL119C-LV-P19-L1,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 lv,Uga,2,3,11-17,0,11-17,Q7877565;Q20796869,PEOPLE-WD-CITIZENS-CACHE,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 lt,Getautas,0,5,11-17,0,11-17,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
@@ -9,7 +9,6 @@ lt,Dionyzas,1,4,11-17,0,09-10;10-09;11-17,Q124052874,PEOPLE-WIKIINTRO120-LT-R122
 lt,Grigalius,3,2,11-17,0,06-17;05-25;05-09;01-02;09-03;03-12;11-17,Q3919010;Q2992076;Q3917244,PEOPLE-WIKIINTRO120-LT-R122A;PEOPLE-WIKIINTRO120-LT-R122B,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 ee,Ainari,0,5,11-17,0,11-17,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 ee,Egil,0,5,11-17,0,11-17,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
-ee,Heinar,4,1,11-17,0,11-17,Q15619262;Q20528292;Q12363569;Q12363568,PEOPLE-WD-LOCAL117-EE;PEOPLE-WD-LOCAL119C-EE-P19-L1;PEOPLE-WIKIINTRO120-EE-R122A,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 lv,Aleksanders,0,5,11-18,1,11-18,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 lv,Aleksandris,0,5,11-18,1,11-18,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.
 lv,Alesandrs,0,5,11-18,1,11-18,,,Search saved native-label and biography evidence first; verify an exact spelling and local association; preserve all existing people and five birthday entries.

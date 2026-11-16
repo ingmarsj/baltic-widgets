@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {parseCalendar,buildProfile,namesakeIndex,validateProfile,evidenceIndex} from './namedays.mjs';
 import {calendarDate,calendarNames,validateCalendar,validateCountryCalendar,fittingNameCount} from '../public/namedays-core.js';
-import {describeName,LANGUAGES,WRITER_VERSION,text} from '../public/namedays-content.js';
+import {describeName,LANGUAGES,WRITER_VERSION,text,uniqueRelatedHistory,historyBlocks} from '../public/namedays-content.js';
 import {calendarEntry} from './nameday-reference.mjs';
 import {nameIdentity} from '../public/namedays-content.js';
 import {formatAttestation,attestationPeriod} from '../public/namedays-attestation.js';
@@ -154,9 +154,9 @@ test('yesterday/tomorrow use Riga civil dates across years, leap days and DST',(
  assert.equal(calendarDate(new Date('2026-03-28T23:30:00Z'),1),'2026-03-30');
  assert.equal(calendarDate(new Date('2026-10-24T22:30:00Z'),-1),'2026-10-24');
 });
-test('unverified names show a translated research notice instead of invented content',()=>{
+test('unverified names show concise translated uncertainty instead of invented content',()=>{
  const p=buildProfile('RareName','lv');assert.equal(p.research_status,'pending');
- for(const lang of LANGUAGES){const c=describeName(p,lang);assert.equal(c.kind,'unresearched');assert.deepEqual(c.history,[]);assert.equal(c.story,'');assert.ok(c.notice.length>20);assert.equal(new Set(c.wishes.humor).size,3);}
+ for(const lang of LANGUAGES){const c=describeName(p,lang);assert.equal(c.kind,'unresearched');assert.deepEqual(c.history,[]);assert.equal(c.story,'');assert.ok(c.notice.length>10);assert.equal(new Set(c.wishes.humor).size,3);}
 });
 test('dictionary evidence is reused across calendars while profile identities stay local',()=>{
  const research={entries:{Mari:{status:'checked',countries:{ee:{origins:['Hebrew'],related:['Maria'],first_recorded:null,source:{url:'https://en.wiktionary.org/wiki/Mari#Estonian'}}}}}};
@@ -168,7 +168,7 @@ test('diacritic variants share evidence and stories, preserving the attested for
  const research={entries:{Ziedrīna:{countries:{lv:{origins:['Ancient Greek'],related:['Ziedrīna','Alexandra'],first_recorded:'in 1872',source}}},Ziedrina:{status:'not_found',countries:{}}}};
  const a=buildProfile('Ziedrina','lv',research),b=buildProfile('Ziedrīna','lv',research);
  assert.equal(a.facts.first_recorded,'in 1872');assert.equal(a.facts.first_recorded_form,'Ziedrīna');assert.equal(a.facts.first_recorded_country,'lv');assert.deepEqual(a.facts.origins,b.facts.origins);assert.deepEqual(a.facts.related,['Alexandra']);assert.deepEqual(a.provenance,b.provenance);
- for(const lang of LANGUAGES){const c=describeName(a,lang);assert.match(c.attestation.date,/1872/);assert.equal(c.attestation.form,'Ziedrīna');assert.equal(c.story.replaceAll(a.name,'NAME'),describeName(b,lang).story.replaceAll(b.name,'NAME'));assert.ok(!c.history.join(' ').includes('1872'));}
+ for(const lang of LANGUAGES){const c=describeName(a,lang);assert.equal(c.attestation,undefined);assert.match(c.history.join(' '),/Ziedrīna.*1872/);assert.equal(c.story.replaceAll(a.name,'NAME'),describeName(b,lang).story.replaceAll(b.name,'NAME'));assert.ok(c.history.join(' ').includes('1872'));}
  assert.equal(buildProfile('Ziedrija','lv',research).facts.first_recorded,null);
  const older=buildProfile('Ziedrīna','lv',research);older.facts.first_recorded='in 1850';
  const index=evidenceIndex(research,[older]);assert.equal(buildProfile('Ziedrina','lt',research,new Map(),undefined,index).facts.first_recorded,'in 1850');
@@ -176,8 +176,8 @@ test('diacritic variants share evidence and stories, preserving the attested for
 test('shared evidence survives an offline rebuild without losing original date attribution',()=>{
  const previous=buildProfile('Jānis','lv');previous.facts={origins:['Hebrew'],related:['John'],first_recorded:'in the 16th century',first_recorded_form:'Jānis',first_recorded_country:'lv'};previous.provenance=[{url:'https://en.wiktionary.org/wiki/J%C4%81nis#Latvian'}];
  const p=buildProfile('Janis','ee',{},new Map(),undefined,evidenceIndex({},[previous]));
- assert.equal(p.facts.first_recorded_form,'Jānis');assert.equal(p.facts.first_recorded_country,'lv');assert.deepEqual(p.facts.origins,['Hebrew']);assert.equal(describeName(p).attestation.date,'16th century');
- assert.equal(describeName(buildProfile('RareName','lv')).attestation,null);
+ assert.equal(p.facts.first_recorded_form,'Jānis');assert.equal(p.facts.first_recorded_country,'lv');assert.deepEqual(p.facts.origins,['Hebrew']);assert.match(describeName(p).history.join(' '),/16th century/);
+ assert.equal(describeName(buildProfile('RareName','lv')).attestation,undefined);
 });
 test('official Lithuanian classifications do not become invented creation dates',()=>{
  const research={vlkk:{Armantas:{group:'Lietuviška kilmė',subgroup:'dvikamienis asmenvardis',source:{url:'https://data.gov.lt/datasets/2664/'}}}};
@@ -208,12 +208,38 @@ test('related-name context supplies real history without borrowing the other nam
  const all=JSON.parse(await readFile(new URL('../public/data/namedays/profiles-lv.json',import.meta.url),'utf8')).data;
  for(const lang of LANGUAGES){
   const nel=describeName(all['lv:Nelija'],lang,0,all),rain=describeName(all['lv:Rainars'],lang,0,all);
-  assert.ok(nel.related_context.some(c=>c.name==='Nellija'&&c.history.length>=2));assert.equal(nel.attestation,null);
-  assert.ok(rain.related_context.some(c=>c.name==='Rainers'&&c.history.join(' ').includes('heri')));assert.equal(rain.attestation,null);
+  assert.ok(nel.related_context.some(c=>c.name==='Nellija'&&c.history.length>=2));assert.equal(nel.attestation,undefined);
+  assert.ok(rain.related_context.some(c=>c.name==='Rainers'&&c.history.join(' ').includes('heri')));assert.equal(rain.attestation,undefined);
   const uncertain=describeName(all['lv:Nelita'],lang,0,all);assert.ok(uncertain.related_context.length);assert.ok(uncertain.related_context.every(c=>c.possible));
  }
  const a=buildProfile('RelatedA','lv'),b=buildProfile('RelatedB','lv');a.facts.related=['RelatedB'];b.facts.related=['RelatedA'];
  assert.deepEqual(describeName(a,'en',0,{[a.key]:a,[b.key]:b}).related_context,[]);
+});
+
+test('related origins already explained above are omitted in all five languages',async()=>{
+ const all=JSON.parse(await readFile(new URL('../public/data/namedays/profiles-lv.json',import.meta.url),'utf8')).data;
+ for(const lang of LANGUAGES){
+  const copy=describeName(all['lv:Uģis'],lang,0,all),hugo=copy.related_context.find(c=>c.name==='Hugo');
+  assert.ok(copy.history[0].includes('hugu'));
+  assert.equal(hugo.history.length,1);
+  assert.doesNotMatch(hugo.history.join(' '),/hugu/);
+  assert.match(hugo.history[0],/1767/);assert.match(hugo.history[0],/1871/);
+  assert.match(copy.history.join(' '),/1925/);assert.match(copy.history.join(' '),/1937/);
+ }
+ assert.deepEqual(uniqueRelatedHistory(['Hugo comes from Germanic hugu, mind and spirit.'],['Hugo comes from Germanic hugu, mind and spirit. A separate explanation remains.'],'Hugo','en'),['A separate explanation remains.']);
+ assert.deepEqual(uniqueRelatedHistory(['Recorded in 1871.'],['Hugo recorded in 1767.'],'Hugo','en'),['Hugo recorded in 1767.']);
+ assert.deepEqual(uniqueRelatedHistory(['Hugo may come from Germanic hugu.'],['Hugo comes from Germanic hugu.'],'Hugo','en'),['Hugo comes from Germanic hugu.']);
+ for(const lang of LANGUAGES){const afra=describeName(buildProfile('Afra','lv',{},new Map(),all['lv:Afra']),lang);assert.equal(afra.history.length,2,'spelled-out century and last/fourth quarter must not add a duplicate record');}
+});
+
+test('published histories store the complete final text, including labels and related facts',async()=>{
+ for(const country of ['lv','lt','ee']){
+  const doc=JSON.parse(await readFile(new URL(`../public/data/namedays/profiles-${country}.json`,import.meta.url),'utf8'));
+  for(const p of Object.values(doc.data).slice(0,8))for(const lang of LANGUAGES){
+   assert.deepEqual(p.display_history[lang],historyBlocks(describeName(p,lang,0,doc.data),lang));
+   assert.ok(p.display_history[lang].every(b=>['heading','paragraph'].includes(b.type)&&typeof b.text==='string'&&b.text.length));
+  }
+ }
 });
 test('literary histories have five complete translations, sources and no invented sound portraits',()=>{
  for(const name of ['Lāčplēsis','Spīdola','Laimdota','Rainis']){
@@ -221,7 +247,7 @@ test('literary histories have five complete translations, sources and no invente
   for(const lang of LANGUAGES){const c=describeName(p,lang);assert.equal(c.kind,'documented');assert.equal(c.reviewed_narrative,true);assert.equal(c.story,'');assert.equal(c.notice,'');assert.ok(c.history.length>=2);assert.ok(c.history.join(' ').length>250);}
  }
  const p=buildProfile('Lāčplēsis','lv');p.facts.first_recorded='1922. gads, Jelgava';
- for(const lang of LANGUAGES){const c=describeName(p,lang);assert.match(c.history.join(' '),/1888/);assert.match(c.history.join(' '),/1919/);assert.match(c.attestation.date,/1922/);assert.doesNotMatch(c.history.join(' '),/1922/);}
+ for(const lang of LANGUAGES){const c=describeName(p,lang);assert.match(c.history.join(' '),/1888/);assert.match(c.history.join(' '),/1919/);assert.equal(c.attestation,undefined);assert.match(c.history.join(' '),/1922/);}
  const p2=buildProfile('Rainis','lv',{},new Map([['Rainis',[{id:'Q348001',name:'Rainis',role:'poet',countries:['lv'],source:{url:'https://www.wikidata.org/wiki/Q348001'}}]]]));assert.equal(p2.people[0].match,'pseudonym');
 });
 test('Fedots and Teodors have independently sourced roots without fictional additions',()=>{

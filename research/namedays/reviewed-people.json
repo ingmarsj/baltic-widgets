@@ -17579,6 +17579,66 @@
     "source_id": "PEOPLE-WIKIINTRO120-EE-R128A"
    },
    "claim": "Born 1985 in Tartu; Estonian designer and lecturer."
+  },
+  {
+   "id": "reviewed:heinar-vaine",
+   "name": "Heinar Vaine",
+   "labels": {
+    "et": "Heinar Vaine"
+   },
+   "aliases": [
+    "Heinar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "athlete",
+   "round": 167,
+   "source": {
+    "url": "https://www.ekjl.ee/uudised/2016-maratonijooksu-eesti-meistriteks-tulid-heinar-vaine-vak-staier-ja-moonika-pilli-sk-jooksupartner/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-VAINE-2016"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "sporting_representation",
+     "source_id": "PEOPLE-EE-VAINE-EST-TALLINN",
+     "url": "https://www.jooks.ee/bw_client_files/jooks2020/public/img/File/Tulemused/Edetabel/TM2010-2019_42_Edetabel_M_EST.pdf#page=1",
+     "claim": "Organizer country column EST, exact given-name/surname columns HEINAR VAINE, born 1993; sporting country association, not a citizenship or birthplace claim."
+    }
+   ],
+   "claim": "The Estonian Athletics Association reports that Viljandi VAK Staier runner Heinar Vaine won his second Estonian marathon title on 11 September 2016 in 2:23:18. Organizer PDF page 1 independently lists HEINAR VAINE, 1993, EST, 2:23:18 on that date; page image inspected."
+  },
+  {
+   "id": "reviewed:ugis-higo-glazitis-aboltins",
+   "name": "Uģis Higo Glāzītis-Āboltiņš",
+   "labels": {
+    "lv": "Uģis Higo Glāzītis-Āboltiņš"
+   },
+   "aliases": [
+    "Higo"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 167,
+   "source": {
+    "url": "https://www.vestnesis.lv/op/2026/176A.7",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-HIGO-GAZETTE-2026"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-HIGO-CVK-2026",
+     "url": "https://dati.cvk.lv/SV2026/kandidati/91560-ugis-higo-glazitis-aboltins/",
+     "claim": "Latvian parliamentary candidate biography and Jelgava residence; local public activity, not an inferred birthplace or P27 assertion."
+    }
+   ],
+   "claim": "Official gazette row 16 (Zemgale) explicitly separates given names Uģis Higo from surname Glāzītis-Āboltiņš. CVK gives the same full name and 1973 birth year. The Latvian Rock Music Association interview of 12 January 2024 names Uģis Higo Glāzītis and documents his work on its rock radio. Higo is a documented second given name, not a nickname or a surname; only the under-five Higo profile is enriched."
   }
  ]
 }

@@ -1,0 +1,40 @@
+{
+  "round": 167,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.137",
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 1,
+      "calendar_memberships": 5259,
+      "facts_preserved": true,
+      "previous_people_preserved": true,
+      "five_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 0,
+      "calendar_memberships": 2253,
+      "facts_preserved": true,
+      "previous_people_preserved": true,
+      "five_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 1,
+      "calendar_memberships": 1560,
+      "facts_preserved": true,
+      "previous_people_preserved": true,
+      "five_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true
+    }
+  },
+  "validation": {
+    "tests": 162,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed: RU/LV Uģis reads the stored final history with 1937 and hugu once; Higo shows its new local bearer above five birthday celebrities; RU/EE Heinar shows five local bearers including Heinar Vaine above five birthday celebrities."
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "round": 167,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.137",
+  "scope": "Targeted local exact namesake follow-up for 17 November across LV/LT/EE, after round 166 display cleanup and documentation reconciliation. Also materializes the complete final History tab text requested during this batch.",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "source_ids": [
+    "PEOPLE-EE-VAINE-2016",
+    "PEOPLE-EE-VAINE-EST-TALLINN",
+    "PEOPLE-LV-HIGO-GAZETTE-2026",
+    "PEOPLE-LV-HIGO-CVK-2026",
+    "PEOPLE-LV-HIGO-LRMA-2024",
+    "PEOPLE-LV-HIGO-LSM-2026"
+  ],
+  "people": {
+    "accepted": [
+      {
+        "country": "ee",
+        "name": "Heinar",
+        "id": "reviewed:heinar-vaine",
+        "person": "Heinar Vaine",
+        "source_id": "PEOPLE-EE-VAINE-2016",
+        "claim": "The Estonian Athletics Association reports that Viljandi VAK Staier runner Heinar Vaine won his second Estonian marathon title on 11 September 2016 in 2:23:18. Organizer PDF page 1 independently lists HEINAR VAINE, 1993, EST, 2:23:18 on that date; page image inspected."
+      },
+      {
+        "country": "lv",
+        "name": "Higo",
+        "id": "reviewed:ugis-higo-glazitis-aboltins",
+        "person": "Uģis Higo Glāzītis-Āboltiņš",
+        "source_id": "PEOPLE-LV-HIGO-GAZETTE-2026",
+        "claim": "Official gazette row 16 (Zemgale) explicitly separates given names Uģis Higo from surname Glāzītis-Āboltiņš. CVK gives the same full name and 1973 birth year. The Latvian Rock Music Association interview of 12 January 2024 names Uģis Higo Glāzītis and documents his work on its rock radio. Higo is a documented second given name, not a nickname or a surname; only the under-five Higo profile is enriched."
+      }
+    ],
+    "records": [
+      {
+        "country": "lv",
+        "name": "Higo",
+        "calendar_date": "11-17",
+        "outcome": "accepted",
+        "note": "One exact local bearer added; official separate given-name/surname columns establish Higo as a second given name."
+      },
+      {
+        "country": "lv",
+        "name": "Igo",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Cached exact local bearers retained. Existing foreign footballers are not local; no fresh exact local biography found."
+      },
+      {
+        "country": "lv",
+        "name": "Uga",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Cached Uga Skulme and Uga Dumpis already present. New search returns those two; no third distinct local biography established."
+      },
+      {
+        "country": "lv",
+        "name": "Ugo",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Cached title results concern foreign people. No new local exact biography established."
+      },
+      {
+        "country": "lt",
+        "name": "Getautas",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Cached first-name query empty. New results use Getautas as a surname (e.g. Aleksandras Getautas), excluded."
+      },
+      {
+        "country": "lt",
+        "name": "Gilvilė",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Cached first-name query empty. A school staff list is routine employment, not a prominence biography; generic name-site supposed artist is not verified."
+      },
+      {
+        "country": "lt",
+        "name": "Dionyzas",
+        "calendar_date": "11-17",
+        "outcome": "held",
+        "note": "Dionyzas Varkalis already present. Dionyzas Kaltenis obituary is a new lead but original PDF returns HTTP 404; do not add from a search excerpt alone. Dionizas is not treated as exact Dionyzas."
+      },
+      {
+        "country": "lt",
+        "name": "Grigalius",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Reuse round 122 country checks and duplicate-name decisions; do not retry the same historical candidates or foreign popes."
+      },
+      {
+        "country": "ee",
+        "name": "Heinar",
+        "calendar_date": "11-17",
+        "outcome": "accepted",
+        "note": "Heinar Vaine adds a fifth exact local namesake. Sporting country association is explicit EST in organizer PDF; no inferred nationality."
+      },
+      {
+        "country": "ee",
+        "name": "Ainari",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Cached exact prefix empty. New hits are genitive forms of Ainar (Ruussaar, Toit); they are not exact Ainari given names."
+      },
+      {
+        "country": "ee",
+        "name": "Egil",
+        "calendar_date": "11-17",
+        "outcome": "no_new_bearer",
+        "note": "Cached candidates Hovland, Danielsen and Selvik are Norwegian, not local. No fresh Estonian biography established."
+      }
+    ]
+  },
+  "history_changes": "No origin hypothesis promoted. Attestation dates are part of the main history prose when not already represented; no separate presentation object/card. Each generated profile has display_history[language], an ordered final sequence of headings and paragraphs, including filtered related context and hypothesis labels. The UI renders this stored sequence directly; scripts/nameday-text.mjs prints it for review.",
+  "failed_leads": [
+    {
+      "url": "https://musu-girios.lt/wp-content/uploads/2022/10/MG_2022-09.pdf",
+      "outcome": "HTTP 404; Dionyzas Kaltenis held until original obituary can be checked."
+    },
+    {
+      "source_id": "PEOPLE-EE-VAINE-EST-2014",
+      "outcome": "Sports-association former PDF URL serves HTML without the claimed results; no evidence accepted. Replaced by organizer PDF PEOPLE-EE-VAINE-EST-TALLINN, page 1."
+    },
+    {
+      "name": "Heinar Malsroos",
+      "outcome": "Generic name sites give a supposed volleyball player; no authoritative biography established. Hold, do not copy."
+    },
+    {
+      "name": "Heinar Kull",
+      "outcome": "Club coaching biography and age-group results are leads; not added in this batch after the fifth stronger Heinar bearer was verified."
+    }
+  ],
+  "next": "Continue targeted namesake follow-up with 18 November in all three calendars. Remaining gaps on 17 November stay open; do not repeat cached Wikipedia or Wikidata runs. History verification remains a separate backlog.",
+  "records": [],
+  "validation": {
+    "tests": 162,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed: RU/LV Uģis reads the stored final history with 1937 and hugu once; Higo shows its new local bearer above five birthday celebrities; RU/EE Heinar shows five local bearers including Heinar Vaine above five birthday celebrities."
+  }
+}

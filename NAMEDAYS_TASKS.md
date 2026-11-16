@@ -1,6 +1,6 @@
 # Name-day work: start here
 
-This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 16 November 2026, after round 133. Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
+This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 17 November 2026, after round 168 (reader-language cleanup across all calendars and five languages). Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
 
 ## Active priority: local famous exact namesakes
 
@@ -11,11 +11,11 @@ This is the maintained task entry point. Read it before continuing name-day work
 - [x] Separate geographic birthplace evidence (P19/P17) from citizenship evidence (P27). Do not infer nationality from spelling or treat related spelling forms as exact namesakes.
 - [x] Remove Today from the compact card header. Keep the Yesterday/Today/Tomorrow date controls in the dialog.
 
-Current local coverage: LV 990 names, LT 612, EE 992; at least five local bearers: LV 312, LT 301, EE 499. The generated queue is authoritative for current counts after future changes. Absence in the dataset is not proof that no bearer exists. [Round 120 audit](research/namedays/round120-audit.json) checks all 8,677 profile identities, 9,368 calendar memberships and preservation of all displayed people and five birthday entries. Latest completed validation: 138 tests, static build and an LT browser check (Leopoldas, 15 November).
+Current local coverage: LV 1063 names, LT 678, EE 1034; at least five local bearers: LV 357, LT 349, EE 542. The generated queue is authoritative. Absence in the dataset is not proof that no bearer exists. Round 166 removes the separate attestation card and repeated related-name origin sentences, preserving distinct dated records. Historical round audits retain their original scope; use current generated queues for counts.
 
 Round 119 exhausted the Wikidata native-label route (LV citizenship at all sitelink counts plus single-sitelink citizenship/birthplace tails). Do not rerun those queries.
 
-## Current work: plain-language history pass (started 14 November 2026)
+## Completed: plain-language history pass (14–15 November 2026)
 
 The user asked to rewrite displayed histories without source names and caveats before continuing the people/history closure pass. Scope: reviewed histories only (not unresearched notices or hypotheses). Details and style rules: Planned work in [NAMEDAYS.md](NAMEDAYS.md).
 
@@ -76,15 +76,36 @@ The user asked to close each calendar day in turn, starting 14 November: for eve
 - [x] **Round 163 (user wording review):** no Russian, Ukrainian or Belarusian labels (East Slavic or Kyivan Rus wording plus the ultimate origin), early Soviet abbreviation names written as riddles, supplements for Olesja, Roksolana, Ruslana and Leho; Ruslans Turkic not Arabic; “дистрицт” fixed (`public/namedays-plain-r163.js`, `namedays-hypotheses-r163.js`, `namedays-hypotheses-supplements-r163.js`).
 - [x] **Round 164 (no empty names):** every calendar name now shows at least a labelled part: 105 supplements and 33 hypotheses for names that only had a date, a register record or a namesake (`public/namedays-hypotheses-supplements-r164.js`, `public/namedays-hypotheses-r164.js`; Rajandi 1966 body text for EE groups and variants). Left: malformed entries “Antonia Ande”, “Kullar Kullo”, “Snno” in `namedays.txt`.
 - [x] **Round 165 (17 November 2026):** malformed EE rows fixed in the parser (Antonia Ande → Antonia, Ande; Kullar Kullo → Kullar, Kullo; Snno → Sanno) with labelled hypotheses. **Hiding rule:** a Latvian calendar name with no bearer in `population-lv.json`, no reviewed history and no namesake is left out of the generated calendar and profiles (298 names on 17 November); it returns automatically at the next generation once a bearer appears. Writing a reviewed history or finding a namesake also brings it back. No calendar name is now without an origin part.
-- [ ] **Later supplement checks:** replace supplements with reviewed origin text when a source documents it (generate the build with `node var/namedays-research/makebuild.mjs N Month`; check LT comparison names with `lt2check.cjs`) (`var/namedays-research/thin151.mjs` lists candidates, data/build pattern `r151-data.mjs`, `build-r151.mjs`); about 430 reviewed histories have no origin wording and about 890 are only “X is a form of Y”; add labelled origin supplements in calendar order.
-- [ ] **Next:** replace hypotheses with reviewed histories as sources appear (Tõnisson calendars on DIGAR, other user-supplied books); fix the three malformed EE calendar entries. (`var/namedays-research/batch139.mjs FROM TO`, data file pattern `r139-data.mjs`, build pattern `build-r139.mjs`); skip names with a root history. continue in calendar order from 1 January (about 1,850 LV, 155 LT, 265 EE names), batch script workspace-root `var/namedays-research/batch136.mjs FROM TO`, writer `write-r136.mjs` as the template; skip names with a root history.
-- [ ] **Still open (round 136+):** about 2,116 LV, 205 LT and 306 EE calendar names without a reviewed history (plus names with a labelled hypothesis). The five PDFs supplied on 16 November were read in round 134 and gave no histories. Next for EE: Tõnisson calendars on DIGAR (Eesti Rahwa Kalender 1885 and later), the dialect-archive card file D1328 (not digitised), Rajandi body-text mentions; for LV the LPVV historical dictionary (browser only) and the Latvian Language Agency manuals for Nordic, Russian and Lithuanian names.
+- [ ] **Origin verification:** the annual supplement pass is complete (rounds 150–164). Replace labelled supplements with reviewed origin text only when exact-form evidence supports it; preserve the label while uncertain. The old thin-history estimates are historical batch inputs, not a new writing queue.
+- [ ] **History follow-up:** use the regenerated `NAMEDAYS_BACKLOG.md` date queue, beginning with the nearest upcoming date in LV/LT/EE. The annual research pass and hypothesis-writing pass are complete; do not restart them. The malformed EE rows were fixed in round 165.
+- [ ] **Current unverified histories:** LV 1,667; LT 201; EE 301 (17 November 2026 generated backlog). All have labelled hypotheses. Use the private cache first and pursue new, exact-form evidence; completed and failed source runs remain closed. Possible new source routes and their limits are in `NAMEDAYS_SOURCES.md`.
 
 Per-day routine (run from the workspace root unless noted):
 1. Status: from `github-public/`, `node ../var/namedays-research/day-status.mjs MM-DD` (history kind and local bearer count per name).
 2. People: `node var/namedays-research/wiki-prefix120.mjs lv|lt|ee NAME…` (four-second delay, cached), then `wiki-intro120.mjs` and `check-qids120.mjs` for candidates; add accepted people to `github-public/research/namedays/reviewed-people.json` (QID, exact spelling alias, country, role, source, claim). Wikidata people whose only gap is a role are picked up automatically after `node var/namedays-research/build-local119.mjs`.
 3. Histories: grep the cached core texts (LV-SILINS90, EE-RAJANDI66, EE-MAGISTE36, LT-SALYS83) for the exact form, then LV-PERIODIKA in the browser pane for rare LV spellings (method in NAMEDAYS_SOURCES.md). Visually check scans and dictionary pages. Write reviewed histories in a `public/namedays-history-r<round>-calendar.js` module (five languages) and record every examined name in the round notes.
 4. Snapshot `people-before<round>`, bump `WRITER_VERSION`, run `node scripts/generate-namedays.mjs`, the round audit (`var/namedays-research/audit-local<round>.mjs`), `npm test`, `npm run build`, `npm run backlog:namedays`, and a browser check.
+
+## Round 166: display cleanup and documentation
+
+- [x] Removed the separate old-record date card from the History tab. Structured attestation facts remain in profile data.
+- [x] Related-name sections omit origin sentences already present in the main history, in all five languages. Unique sentences and exact-name dated records remain. Empty related sections are omitted.
+- [x] Reconciled task, product and people documentation with generated coverage; retained historical round notes and evidence limits.
+- Next: local exact namesake research in calendar order from 17 November; use the generated people queue and previously saved negative results.
+
+## Round 167: final history text and namesakes
+
+- [x] Every published profile now contains 'display_history.lv|ru|en|lt|et': the full ordered text shown in the History tab, including headings, hypothesis labels and unique related-name facts. The UI reads it directly. Dates missing from the narrative are incorporated there; there is no separate attestation presentation object, card or card CSS.
+- [x] Inspect the exact published text without assembling modules: 'node scripts/nameday-text.mjs --name=Uģis --country=lv --lang=ru'.
+- [x] Targeted follow-up of all 11 under-five names on 17 November: added Heinar Vaine (Heinar reaches five local bearers) and Uģis Higo Glāzītis-Āboltiņš (Higo gets its first local bearer, documented second given name). See 'research/namedays/round167-notes.json' for accepted claims, country-association limits, held candidates and negative results.
+- Next namesake date: **18 November**, LV/LT/EE. Open gaps from 17 November remain; do not restart completed source queries. Historical verification remains a separate queue.
+
+## Round 168: reader-language cleanup
+
+- [x] Researcher instructions, source-handling warnings and repeated hypothesis disclaimers removed or rewritten across all five languages, including hypotheses, supplements and related context.
+- [x] Added NAMEDAYS_EDITORIAL_RULES.md with a full Aleksandris example. Genuine uncertainty, Hypothesis labels and research status remain; raw evidence notes and structured facts are unchanged.
+- [x] Rebuilt complete display_history text for all countries; complex competing origins have explicit five-language rewrites.
+- User authorized publication to main on 17 November 2026, followed by continued local namesake research from 18 November.
 
 ## Where to get evidence and resume
 
@@ -145,7 +166,7 @@ Paths below are relative to this repository unless marked workspace-root:
 | Normalized private generator inputs | Workspace-root `var/namedays-research/famous-enrichment.json`, `local-enrichment117.json`, `local-enrichment118.json`, `local-enrichment119.json` | Already loaded by `scripts/generate-namedays.mjs`; extend carefully and preserve prior records. Do not rebuild an enrichment from only a new batch. |
 | Pantheon ranking and birthday reserve | `PEOPLE-PANTHEON2025`; workspace-root `var/namedays-research/pantheon-normalized.json`; published `data/namedays/people-birthdays.json` | Reuse ranking and eight birthday candidates per day. Birthday people do not fill the exact-local target. Preserve CC BY-SA attribution. |
 | Raw originals and searchable text | Workspace-root `var/namedays-sources/` | Source manifests retain complete query URLs and content hashes. Query the cache tool rather than downloading again. |
-| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 166 unless another session has already created it; inspect files first. |
+| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 169 unless another session has already created it; inspect files first. |
 
 The private `prepare-local118.mjs` and `select-local119.mjs` helpers use fixed pre-round snapshots (`people-before119/`, `people-before120/`). Reuse its output; do not blindly rerun it as a current queue. Private collectors are not part of the portable repository. A cache-free public rebuild must retain published people and country evidence.
 

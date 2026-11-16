@@ -20,6 +20,8 @@ The module resolves data relative to itself, supporting repository subpaths and 
 
 ## Data and editorial policy
 
+All displayed histories, hypotheses, supplements and related sections follow [the reader-language rules](NAMEDAYS_EDITORIAL_RULES.md). Verification instructions and evidence-transfer cautions stay in research notes. Hypothesis labels and qualified wording retain genuine uncertainty.
+
 The user-supplied TSV has the columns `domain`, `d`, `m`, `v`, `id`. The parser validates dates, countries, names and identifiers, preserves source order, and removes repeated names within the same country/day. Multiple dates for the same name remain in the calendar. `ee` identifies the Estonian calendar; `et` identifies the Estonian text language.
 
 Generated files are in `public/data/namedays/`:
@@ -33,28 +35,30 @@ Generated files are in `public/data/namedays/`:
 
 Calendar and profile loaders validate the requested country. Language changes and the finance market selector never change the name-day country. No combined calendar is published. Historical linguistic evidence may be shared between explicitly matching forms; this never imports calendar dates, registry population counts or calendar-entry years from another country.
 
-Writer version 1.7.0 removed fictional spelling-based histories and retains original greetings only in Celebrate. Source-backed calendar membership gives every published profile a nonempty translated record, but is explicitly labeled as a calendar record when no historical explanation is available. It is not counted as researched etymology. Current editorial coverage is:
+Writer version 1.7.0 removed fictional spelling-based histories and retains original greetings only in Celebrate. Source-backed calendar membership gives every published profile a nonempty translated record, but is explicitly labeled as a calendar record when no historical explanation is available. It is not counted as researched etymology. Current editorial coverage (17 November 2026; generated queues are authoritative) is:
 
 | Editorial level | LV | LT | EE |
 | --- | ---: | ---: | ---: |
-| Reviewed narrative | 2,282 | 784 | 849 |
-| Short factual summary | 2,206 | 574 | 350 |
-| Earlier attestation only | 180 | 0 | 3 |
-| Historical research still needed | 888 | 210 | 351 |
-| Total profiles | 5,556 | 1,568 | 1,553 |
+| Reviewed narrative | 3,517 | 1,364 | 1,249 |
+| Short factual summary | 74 | 3 | 5 |
+| Earlier attestation only | 0 | 0 | 0 |
+| Historical research still needed | 1,667 | 201 | 301 |
+| Total profiles | 5,258 | 1,568 | 1,555 |
 | Fictional historical stories displayed | 0 | 0 | 0 |
 
-### Planned work
+The History tab shows dates within the narrative, without a separate old-record date card. Each published profile stores its complete final History tab in `display_history[language]`, an ordered list of heading/paragraph blocks. This includes hypothesis labels, notices and filtered related-name context; the UI renders that sequence directly. Research modules and structured facts are generation inputs, not fragments the History tab assembles at runtime. To inspect one exact published text, run `node scripts/nameday-text.mjs --name=Uģis --country=lv --lang=ru` after generation. Related-name sections omit repeated origin sentences already explained above, while retaining distinct facts and dated records for that exact form. This display filtering applies in all five languages; source facts and provenance remain intact.
 
-- **Plain-language cleanup of displayed histories (in progress since 14 November 2026, reviewed histories only).** The widget is popular reading, not scholarship: displayed history text names no sources or authors and drops methodological caveats, while facts, dates, places and genuine uncertainty stay. Research modules keep their original wording and provenance; only the display changes, through `public/namedays-plain.js`:
+### Completed work and remaining research
+
+- **Plain-language cleanup of displayed histories (completed 15 November 2026, reviewed histories only).** The widget is popular reading, not scholarship: displayed history text names no sources or authors and drops methodological caveats, while facts, dates, places and genuine uncertainty stay. Research modules keep their original wording and provenance; only the display changes, through `public/namedays-plain.js`:
   1. **Automatic rules for all reviewed histories.** Caveat sentences are recognised in the English paragraph and removed at the same sentence position in every language (or as the same trailing block when a translation joins sentences). Source formulas are rewritten per language, for example “Klāvs Siliņš’s dictionary (1990) explicitly refers Inārija to Ināra” → “Inārija is a form of the name Ināra”, “The dictionary gives the following historical record: Riga, 1932; calendar 1937” → “Recorded use: Riga, 1932. In the calendar since 1937.” This cut about 300,000 words; English paragraphs with a source name fell from about 5,300 to about 260 and with a caveat from about 3,400 to about 380 (after the full calendar pass) (detector counts include some false positives).
   2. **Hand rewrites in calendar order** in `public/namedays-plain-calendar.js`, all five languages per name, for the unique prose the rules cannot reach. All days of the year are done (completed 15 November 2026) (batches of up to ten days are kept in their own module, imported by `namedays-plain-calendar.js`). A hand rewrite wins only when all five languages are present.
-  - Not in scope by decision: template notices for unresearched names, unverified hypotheses (they keep their label and cautious wording) and the generic “date of the record, not of the name” note in the attestation box.
+  - Not in scope by decision: template notices for unresearched names, unverified hypotheses (they keep their label and cautious wording). The separate attestation box was removed in round 166; dates in the history prose remain.
   - **Style:** origin first, then related forms, then dated records and calendar entry, then one notable bearer or episode. Short sentences. Name a historical publication only as an event with its year (“the Lithuanian name calendar of 1964”), never an author or page. Keep real uncertainty in plain words (“probably”, “is not known”); do not explain what a date does not prove.
   - **Check:** `node ../var/namedays-research/plain-day.mjs MM-DD` (from `github-public/`) lists the day’s displayed reviewed histories that still mention sources or caveats; `parsers/namedays-plain.test.mjs` covers the rules.
 
 - **History reuse for LT and EE — done in round 129 (writer 1.9.107).** LT and EE names now reuse a verified history from a spelling variant in their own calendar or from the identical LV name, with a note; LT and EE never borrow from each other. See AGENTS.md for the exact rule.
-- **Famous people (expanded in round 118).** Local exact namesakes now cover 2,092 profiles, up from 1,879 in round 117. Namesakes are added above an independent five-person birthday list; every previous displayed celebrity is retained. Continue improving local exact-name coverage and real localized labels; birthday people do not imply that five namesakes were found. [Coverage, limitations and data attribution](NAMEDAYS_PEOPLE.md).
+- **Famous people:** local exact namesakes cover LV 1063, LT 678, EE 1034 profiles; at least five local bearers cover 357, 349, 542 respectively (17 November 2026). Continue the generated local namesake queue and improve supported localized labels. Birthday people remain a separate five-person tier. [Coverage, limitations and data attribution](NAMEDAYS_PEOPLE.md).
 - **Spelling-variant reuse:** LV names whose only variant history is a spelling note (for example Valerijs, Valentīns) still need their own research; they are listed in the backlog as before.
 
 ### Research order

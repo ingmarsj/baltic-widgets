@@ -1,0 +1,18 @@
+{
+  "round": 168,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.138",
+  "scope": "User-requested removal of researcher-facing language from all displayed histories and translations, triggered by Aleksandris. Publication to main explicitly authorized; continue namesake work afterward.",
+  "diagnosis": "Original hypothesis prose contained editorial/verification instructions in all five languages; not a translation-only defect.",
+  "rule": "NAMEDAYS_EDITORIAL_RULES.md",
+  "changes": [
+    "Recurring research directives and repeated meta disclaimers removed or rewritten in lv, ru, en, lt and et.",
+    "Explicit five-language rewrites for Nanda, Undis, Vigors, Gilvilė, Rimgaudė, Steigintas and Mantvinas preserve possible meanings and appropriate dates.",
+    "Translated Hypothesis headings and verification status remain unchanged. Raw research modules and provenance remain intact.",
+    "Final display_history rebuilt; a corpus-wide regression test rejects recurring procedural wording."
+  ],
+  "source_ids": [],
+  "records": [],
+  "new_etymological_claims": 0,
+  "next": "Round 169: targeted local exact namesake follow-up for 18 November, all three calendars; reuse cached results and negative leads."
+}

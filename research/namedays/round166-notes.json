@@ -1,0 +1,17 @@
+{
+  "round": 166,
+  "date": "2026-11-17",
+  "scope": "User-requested removal of redundant date card and repeated related-name origins, followed by reconciliation of current documentation.",
+  "writer_version": "namedays-1.9.136",
+  "changes": [
+    "The History tab no longer renders a separate attestation card. Structured attestation facts remain unchanged.",
+    "Related context omits origin sentences whose words already occur above, allowing the related-name token and punctuation to differ. Dated sentences and additional sentences remain; empty sections are omitted.",
+    "Explicit main hypotheses and labelled supplements do not suppress verified related-name explanations.",
+    "Updated NAMEDAYS_TASKS.md, NAMEDAYS.md and NAMEDAYS_PEOPLE.md using current generated coverage; annual writing passes and EE malformed-row corrections marked complete.",
+    "Fast-forwarded the shared codex/namedays-round4 branch to main to retain round 165."
+  ],
+  "sources": [],
+  "research_status": "No new origin or biographical claims in this round.",
+  "next": "Round 167: targeted local exact namesake pass for 17 November across LV, LT and EE; consult source directory/index and private cache, retaining previously closed searches.",
+  "records": []
+}

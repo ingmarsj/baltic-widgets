@@ -1,0 +1,29 @@
+{
+  "round": 166,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.136",
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "facts_preserved": true,
+      "people_preserved": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "facts_preserved": true,
+      "people_preserved": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "facts_preserved": true,
+      "people_preserved": true
+    }
+  },
+  "validation": {
+    "tests": 161,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed: RU/LV, 17 November, Uģis; no separate date card, no repeated Hugo origin, Hugo 1767/1871 and Uģis 1925/1937 retained.",
+    "languages": "Regression example checked in lv, ru, en, lt, et."
+  }
+}

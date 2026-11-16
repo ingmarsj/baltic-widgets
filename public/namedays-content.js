@@ -1,17 +1,17 @@
-import {formatAttestation} from './namedays-attestation.js';
+import {formatAttestation,attestationPeriod} from './namedays-attestation.js';
 import {reviewedHistory,reusedHistory} from './namedays-history.js';
 import {unverifiedHistory,HYPOTHESIS_LABELS} from './namedays-hypotheses.js';
 import {historySupplement} from './namedays-hypotheses-supplements.js';
 import {rootHistory,reviewedRoot} from './namedays-roots.js';
 import {plainHistory,plainHypothesis} from './namedays-plain.js';
 import {finalWording} from './namedays-plain-r163.js';
-export const WRITER_VERSION='namedays-1.9.135';
+import {readerParagraph} from './namedays-reader.js';
+import {readerOpening} from './namedays-reader-r168.js';
+export const WRITER_VERSION='namedays-1.9.138';
 export function nameIdentity(name){return name.normalize('NFD').replace(/(\p{Script=Latin})\p{M}+/gu,'$1').normalize('NFC').replace(/\.$/,'').toLowerCase();}
 export const LANGUAGES=['lv','ru','en','lt','et'];
 const bundles={
  "ru": {
-  "recordedLabel": "Имя в старых записях",
-  "recordedNote": "В найденной записи — {form}. Это дата записи, а не появления имени.",
   "title": "Именины",
   "yesterday": "Вчера",
   "today": "Сегодня",
@@ -58,8 +58,6 @@ const bundles={
   "bornOn": "Дата рождения: {date} {year}"
  },
  "en": {
-  "recordedLabel": "The name in earlier records",
-  "recordedNote": "In the record, the name is written {form}. This dates the record, not the creation of the name.",
   "title": "Name day",
   "yesterday": "Yesterday",
   "today": "Today",
@@ -106,8 +104,6 @@ const bundles={
   "bornOn": "Born: {date} {year}"
  },
  "lv": {
-  "recordedLabel": "Vārds senākos pierakstos",
-  "recordedNote": "Atrastajā pierakstā vārds rakstīts kā {form}. Tas ir ieraksta, nevis vārda rašanās datējums.",
   "title": "Vārda diena",
   "yesterday": "Vakar",
   "today": "Šodien",
@@ -154,8 +150,6 @@ const bundles={
   "bornOn": "Dzimšanas datums: {date} {year}"
  },
  "lt": {
-  "recordedLabel": "Vardas senuose užrašuose",
-  "recordedNote": "Rastame užraše vardas parašytas {form}. Tai įrašo, o ne vardo atsiradimo data.",
   "title": "Vardadienis",
   "yesterday": "Vakar",
   "today": "Šiandien",
@@ -202,8 +196,6 @@ const bundles={
   "bornOn": "Gimimo data: {date} {year}"
  },
  "et": {
-  "recordedLabel": "Nimi vanades kirjapanekutes",
-  "recordedNote": "Leitud kirjapanekus on nimekujuks {form}. See on ülestähenduse, mitte nime tekkimise aeg.",
   "title": "Nimepäev",
   "yesterday": "Eile",
   "today": "Täna",
@@ -683,8 +675,7 @@ export function describeName(profile,requested='en',variant=0,profiles=null){
  }
  const person=profile.people?.[0];
  if(person?.match==='exact'&&!special[profile.family])paragraphs.push(text(lang,'namesake',{person:person.labels?.[lang]||person.name,role:roleLabel(person.role,lang)}));
- let attestation=null;
- if(facts.first_recorded){const date=formatAttestation(facts.first_recorded,lang);if(date)attestation={date,form:facts.first_recorded_form||name};}
+ const recordedDate=facts.first_recorded?formatAttestation(facts.first_recorded,lang):null;
  const related=[...new Set([...(facts.related||[]),...(facts.source_forms||[]).map(f=>f.form)])].filter(n=>nameIdentity(n)!==nameIdentity(name)&&!paragraphs.join(' ').includes(n)).slice(0,3);
  if(related.length)paragraphs.push(text(lang,'related',{names:listFormat(lang).format(related)}));
  if(facts.possible_related?.length)paragraphs.push(text(lang,'possibleRelated',{names:listFormat(lang).format(facts.possible_related.slice(0,3))}));
@@ -703,9 +694,21 @@ export function describeName(profile,requested='en',variant=0,profiles=null){
  if(hypothesis){const kept=hypothesis.keep?history.slice():[];history.splice(0,history.length,...plainHypothesis(hypothesis.text)[lang].map(p=>fill(p,name)),...kept);}
  const supplement=!hypothesis&&reviewed?historySupplement(name,profile.country):null;
  if(supplement)history.push(...supplement[lang].map(p=>HYPOTHESIS_LABELS[lang]+': '+fill(p,name)));
- const kind=hypothesis?'unresearched':history.length||attestation?'documented':'unresearched',calendar_only=!history.length;
+ const kind=hypothesis?'unresearched':history.length||recordedDate?'documented':'unresearched',calendar_only=!history.length&&!recordedDate;
+ const englishHistory=reviewed&&(!hypothesis||hypothesis.keep)?(crossTrim?plain.en.slice(0,1):plain.en):[];
+ if(recordedDate&&!recordDateIncluded(history,facts.first_recorded,lang,englishHistory)){
+  const line={lv:'Vārda {form} datēts pieraksts: {date}.',ru:'Датированная запись имени {form}: {date}.',en:'Dated record of {form}: {date}.',lt:'Datuotas vardo {form} įrašas: {date}.',et:'Nime {form} dateeritud kirjapanek: {date}.'};
+  const recordedForm=(facts.first_recorded_form||name)+(facts.first_recorded_country&&facts.first_recorded_country!==profile.country?' ('+text(lang,facts.first_recorded_country)+')':'');
+  history.push(line[lang].replaceAll('{form}',recordedForm).replaceAll('{date}',recordedDate));
+ }
  if(!history.length&&facts.calendar_dates?.length){if(!dayFormats.has(lang))dayFormats.set(lang,new Intl.DateTimeFormat(localeForName(lang),{month:'long',day:'numeric',timeZone:'UTC'}));const df=dayFormats.get(lang),dates=facts.calendar_dates.map(day=>df.format(new Date('2000-'+day+'T12:00:00Z'))).join(', '),country=text(lang,profile.country);const line={lv:'Vārds {name} šajā {country} vārda dienu kalendārā ierakstīts datumā: {dates}.',ru:'Имя {name} указано в календаре именин страны {country} на даты: {dates}.',en:'The name {name} is listed in the {country} name-day calendar on: {dates}.',lt:'Vardas {name} šalies {country} vardadienių kalendoriuje įrašytas šiomis datomis: {dates}.',et:'Nimi {name} on riigi {country} nimepäevakalendris kuupäevadel: {dates}.'};history.push(line[lang].replaceAll('{name}',name).replaceAll('{country}',country).replaceAll('{dates}',dates));}
- const notice={lv:'Pārbaudītu vēsturisku ziņu par šo vārdu mums vēl nav.',ru:'Подтверждённой истории этого имени у нас пока нет.',en:'We do not yet have a verified history of this name.',lt:'Patvirtintos šio vardo istorijos kol kas neturime.',et:'Selle nime kohta ei ole meil veel kontrollitud ajaloolisi andmeid.'};
+ const notice={lv:'Vārda cilme nav skaidra.',ru:'Происхождение имени точно не установлено.',en:'The name’s origin is uncertain.',lt:'Vardo kilmė neaiški.',et:'Nime päritolu pole selge.'};
+ const opening=hypothesis?readerOpening(name,profile.country,lang):null;
+ if(opening)history[0]=opening;
+ const hadHistory=history.length>0;
+ const readable=history.map(p=>readerParagraph(finalWording(p,lang),lang)).filter(Boolean);
+ history.splice(0,history.length,...readable);
+ if(!history.length&&hadHistory)history.push(notice[lang]);
  const related_context=[];
  if(profiles){
   const seen=new Set([profile.key]),candidates=[...(facts.related||[]).map(name=>({name,possible:false})),...(facts.possible_related||[]).map(name=>({name,possible:true}))];
@@ -718,12 +721,45 @@ export function describeName(profile,requested='en',variant=0,profiles=null){
    if(!target||seen.has(target.key))continue;seen.add(target.key);
    const copy=describeName(target,lang,0,null);
    if(copy.unverified_hypothesis||!copy.history.length||(!review&&!root&&!target.family&&!target.facts?.origins?.length&&!target.facts?.etymons?.length))continue;
-   related_context.push({name:target.name,possible:candidate.possible,title:titles[lang][Number(candidate.possible)].replaceAll('{name}',target.name),history:copy.history});
+   const above=[...history.filter(p=>!p.includes(HYPOTHESIS_LABELS[lang]+':')),...related_context.flatMap(c=>c.history)];
+   const extra=hypothesis?copy.history:uniqueRelatedHistory(above,copy.history,target.name,lang);
+   if(!extra.length)continue;
+   related_context.push({name:target.name,possible:candidate.possible,title:titles[lang][Number(candidate.possible)].replaceAll('{name}',target.name),history:extra});
    if(related_context.length===2)break;
   }
  }
- for(let k=0;k<history.length;k++)history[k]=finalWording(history[k],lang);
- return{kind,history,calendar_only,attestation,story:'',notice:kind==='unresearched'?notice[lang]:'',reviewed_narrative:!hypothesis&&(!!reviewed||!!special[profile.family]),history_reused_from:reuse?{name:reuse.source,country:reuse.country}:null,unverified_hypothesis:!!hypothesis,hypothesis_label:hypothesis?HYPOTHESIS_LABELS[lang]:'',related_context,wishes:greetings};
+ return{kind,history,calendar_only,story:'',notice:kind==='unresearched'?notice[lang]:'',reviewed_narrative:!hypothesis&&(!!reviewed||!!special[profile.family]),history_reused_from:reuse?{name:reuse.source,country:reuse.country}:null,unverified_hypothesis:!!hypothesis,hypothesis_label:hypothesis?HYPOTHESIS_LABELS[lang]:'',related_context,wishes:greetings};
+}
+function recordDateIncluded(history,value,lang,englishHistory=[]){
+ const period=attestationPeriod(value),body=history.join(' ');
+ if(!period)return true;
+ if(period.kind==='year'&&!period.qualifier&&period.era==='ad')return new RegExp('(?<!\\d)'+period.year+'(?!\\d)').test(body);
+ const normalize=s=>s.toLocaleLowerCase(lang).replace(/[^\p{L}\p{N}]+/gu,' ').trim();
+ if(normalize(body).includes(normalize(formatAttestation(value,lang))))return true;
+ const ordinals=['first','second','third','fourth','fifth','sixth','seventh','eighth','ninth','tenth','eleventh','twelfth','thirteenth','fourteenth','fifteenth','sixteenth','seventeenth','eighteenth','nineteenth','twentieth','twenty-first'];
+ const temporal=s=>normalize(s).replace(/\blast quarter\b/g,'fourth quarter').replace(new RegExp('\\b('+ordinals.slice().reverse().join('|')+')(?= century)','g'),v=>String(ordinals.indexOf(v)+1)).replace(/\b(\d+)(?:st|nd|rd|th)\b/g,'$1').replace(/\b(?:of|the)\b/g,'').replace(/\s+/g,' ').trim();
+ return englishHistory.some(p=>temporal(p).includes(temporal(formatAttestation(value,'en'))));
+}
+// The sole final presentation model, also materialized in generated profiles.
+export function historyBlocks(copy,lang){
+ const blocks=[];
+ if(copy.history.length&&!copy.calendar_only){blocks.push({type:'heading',text:copy.unverified_hypothesis?copy.hypothesis_label:text(lang,'documented')});for(const p of copy.history)blocks.push({type:'paragraph',text:p});}
+ if(copy.notice&&!copy.unverified_hypothesis&&!copy.history.includes(copy.notice))blocks.push({type:'paragraph',text:copy.notice});
+ for(const related of copy.related_context||[]){blocks.push({type:'heading',text:related.title});for(const p of related.history)blocks.push({type:'paragraph',text:p});}
+ return blocks;
+}
+// Omit repeated origin sentences; dated records keep their exact-name scope.
+export function uniqueRelatedHistory(primary,related,name,lang){
+ const words=s=>s.normalize('NFC').toLocaleLowerCase(lang).match(/[\p{L}\p{N}]+/gu)||[];
+ const nameWords=new Set(words(name));
+ const normalize=s=>words(s).filter(w=>!nameWords.has(w));
+ const above=primary.map(p=>' '+normalize(p).join(' ')+' ');
+ const segmenter=new Intl.Segmenter(lang,{granularity:'sentence'});
+ return related.map(p=>[...segmenter.segment(p)].map(s=>s.segment).filter(s=>{
+  if(/\p{N}/u.test(s))return true;
+  const tokens=normalize(s);
+  return tokens.length<4||!above.some(p=>p.includes(' '+tokens.join(' ')+' '));
+ }).join('').trim()).filter(Boolean);
 }
 export const ROLE_LABELS={
  writer:['rakstnieks','писатель','writer','rašytojas','kirjanik'],poet:['dzejnieks','поэт','poet','poetas','luuletaja'],actor:['kino un teātra mākslinieks','актёр','actor','aktorius','näitleja'],musician:['mūziķis','музыкант','musician','muzikantas','muusik'],composer:['komponists','композитор','composer','kompozitorius','helilooja'],athlete:['sportists','спортсмен','athlete','sportininkas','sportlane'],scientist:['zinātnieks','учёный','scientist','mokslininkas','teadlane'],artist:['mākslinieks','художник','artist','menininkas','kunstnik'],director:['kinorežisors','кинорежиссёр','film director','kino režisierius','filmirežissöör'],astronaut:['astronauts','астронавт','astronaut','astronautas','astronaut'],educator:['pedagogs','педагог','educator','pedagogas','pedagoog'],public_figure:['sabiedriska personība','общественный деятель','public figure','visuomenės veikėjas','avaliku elu tegelane']

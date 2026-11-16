@@ -1,7 +1,7 @@
 import {readFile,mkdir,writeFile,rename,unlink,stat,cp} from 'node:fs/promises';
 import {parseCalendar,buildProfile,namesakeIndex,evidenceIndex,correctCalendarName,calendarNames} from '../parsers/namedays.mjs';
 import {validateCountryCalendar} from '../public/namedays-core.js';
-import {WRITER_VERSION,describeName,LANGUAGES} from '../public/namedays-content.js';
+import {WRITER_VERSION,describeName,historyBlocks,LANGUAGES} from '../public/namedays-content.js';
 const project=new URL('../',import.meta.url),target=new URL('public/data/namedays/',project);
 const allCountries=['lv','lt','ee'];
 const countryArg=process.argv.find(arg=>arg.startsWith('--country='))?.slice(10);
@@ -37,7 +37,7 @@ for(const country of ['lt','ee']){
  calendar.data.calendars[country]=doc.data.days;calendar.data.source_rows_by_country[country]=doc.data.source_rows;
 }
 const allowedPeopleNames=new Set(Object.values(calendar.data.calendars).flatMap(days=>Object.values(days).flat().map(x=>x.name)));
-const reviewedPeople=((await json(new URL('research/namedays/reviewed-people.json',project),{})).people||[]).map(({id,name,labels,aliases,countries,role,source})=>({id,name,labels,aliases,countries,role,source,prominence:1}));
+const reviewedPeople=((await json(new URL('research/namedays/reviewed-people.json',project),{})).people||[]).map(({id,name,labels,aliases,countries,role,source,country_sources})=>({id,name,labels,aliases,countries,role,source,...(country_sources?{country_sources}:{}),prominence:1}));
 // prominence 1 ranks hand-checked single-biography bearers with other one-sitelink people, below better-known namesakes.
 const people=namesakeIndex(entities,localRows,allowedPeopleNames,reviewedPeople);
 const HIDE_ZERO_BEARERS=new Set(['lv']);
@@ -62,8 +62,12 @@ for(const country of selectedCountries){
  validateCountryCalendar(countryCalendar);documents.push([new URL('calendar-'+country+'.json',target),countryCalendar]);
  documents.push([new URL('profiles-'+country+'.json',target),{schema_version:1,country,writer_version:WRITER_VERSION,updated_at:new Date().toISOString(),source:'Reviewed references; exact national-language Wiktionary entries; Wikidata, Wikipedia and Pantheon biographies',data:profiles}]);
  report.countries[country]={profiles:Object.keys(profiles).length,hidden_zero_bearers:hidden.size,documented:Object.values(profiles).filter(p=>p.family||p.facts.origins.length||p.facts.first_recorded||p.facts.registry_kind||p.facts.related.length||p.facts.possible_related.length||p.facts.etymons.length||p.facts.archival_variants?.length).length,with_namesakes:Object.values(profiles).filter(p=>p.people.length).length,with_attestation:Object.values(profiles).filter(p=>p.facts.first_recorded).length,with_word_meanings:Object.values(profiles).filter(p=>p.facts.root_key||p.facts.etymons.length).length,research_pending:Object.values(profiles).filter(p=>p.research_status==='pending').length};
- const copies=Object.values(profiles).map(p=>describeName(p,'en',0,profiles));
- report.countries[country].editorial={reviewed_narratives:copies.filter(c=>c.reviewed_narrative).length,factual_summaries:copies.filter(c=>!c.reviewed_narrative&&c.kind!=='unresearched'&&!c.calendar_only&&c.history.length).length,attestation_only:copies.filter(c=>c.calendar_only&&c.attestation).length,needs_research:copies.filter(c=>c.kind==='unresearched').length,unverified_hypotheses:copies.filter(c=>c.unverified_hypothesis).length,fictional_stories:copies.filter(c=>c.story).length,translated_languages:LANGUAGES};
+ const copies=Object.values(profiles).map(p=>{
+  let english;p.display_history={};
+  for(const lang of LANGUAGES){const copy=describeName(p,lang,0,profiles);p.display_history[lang]=historyBlocks(copy,lang);if(lang==='en')english=copy;}
+  return english;
+ });
+ report.countries[country].editorial={reviewed_narratives:copies.filter(c=>c.reviewed_narrative).length,factual_summaries:copies.filter(c=>!c.reviewed_narrative&&c.kind!=='unresearched'&&!c.calendar_only&&c.history.length).length,attestation_only:0,needs_research:copies.filter(c=>c.kind==='unresearched').length,unverified_hypotheses:copies.filter(c=>c.unverified_hypothesis).length,fictional_stories:copies.filter(c=>c.story).length,translated_languages:LANGUAGES};
  report.countries[country].editorial.with_related_context=copies.filter(c=>c.related_context.length).length;
  report.countries[country].editorial.with_calendar_entry=Object.values(profiles).filter(p=>p.facts.calendar_entry).length;
 }
