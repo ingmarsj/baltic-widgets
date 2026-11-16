@@ -1,0 +1,559 @@
+{
+  "round": 71,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-04: researched all 20 unfinished LV/LT/EE profiles before advancing. 8 histories written; 12 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Ilvita",
+      "spellings": [
+        "Ilvita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ilvita"
+      ],
+      "facts_used": "Catalogue p. 162 offers Ilva or unclear fnd. (?) and records 1969. Decode the original abbreviation and find an explicit derivation before choosing one origin.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 162 offers Ilva or unclear fnd. (?) and records 1969. Decode the original abbreviation and find an explicit derivation before choosing one origin.",
+      "next_steps": "Catalogue p. 162 offers Ilva or unclear fnd. (?) and records 1969. Decode the original abbreviation and find an explicit derivation before choosing one origin."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Amina",
+      "spellings": [
+        "Amina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-KRAUS13",
+        "LV-ALL93",
+        "LV-IDENTITY25",
+        "LV-LILE24",
+        "LV-LVA-NORDIC03"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Amina",
+        "https://api.pageplace.de/preview/DT0400.9783110314052_A20903989/preview-9783110314052_A20903989.pdf",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/",
+        "https://helda.helsinki.fi/server/api/core/bitstreams/fd84c3d3-6e27-4933-a25a-0fa177849054/content",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Two different Arabic names share the Latin spelling: safe/protected versus faithful. No exact Latvian transmission or dated origin episode established; scholarly cache mentions are spelling-use evidence. Find original-script correspondence for the Latvian form.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Two different Arabic names share the Latin spelling: safe/protected versus faithful. No exact Latvian transmission or dated origin episode established; scholarly cache mentions are spelling-use evidence. Find original-script correspondence for the Latvian form.",
+      "next_steps": "Two different Arabic names share the Latin spelling: safe/protected versus faithful. No exact Latvian transmission or dated origin episode established; scholarly cache mentions are spelling-use evidence. Find original-script correspondence for the Latvian form."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Amīna",
+      "spellings": [
+        "Amīna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-NORDIC03"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Am%C4%ABna",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Norwegian Amina → Amīna is a rendering correspondence, but the catalogue leaves competing Arabic bases unresolved. Find an explicit name-specific script/etymology bridge and dated Latvian use rather than choosing the Arabic name from the macron.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Norwegian Amina → Amīna is a rendering correspondence, but the catalogue leaves competing Arabic bases unresolved. Find an explicit name-specific script/etymology bridge and dated Latvian use rather than choosing the Arabic name from the macron.",
+      "next_steps": "Norwegian Amina → Amīna is a rendering correspondence, but the catalogue leaves competing Arabic bases unresolved. Find an explicit name-specific script/etymology bridge and dated Latvian use rather than choosing the Arabic name from the macron."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Amirans",
+      "spellings": [
+        "Amirans"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Amirans"
+      ],
+      "facts_used": "Catalogue lists long-ā Amirāns, not Amirans, and questions an Amir connection. Seek an exact short-a name entry and distinguish Georgian Amiran from Arabic Amir before asserting origin.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue lists long-ā Amirāns, not Amirans, and questions an Amir connection. Seek an exact short-a name entry and distinguish Georgian Amiran from Arabic Amir before asserting origin.",
+      "next_steps": "Catalogue lists long-ā Amirāns, not Amirans, and questions an Amir connection. Seek an exact short-a name entry and distinguish Georgian Amiran from Arabic Amir before asserting origin."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Amirs",
+      "spellings": [
+        "Amirs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Amirs",
+        "https://www.izpetnieks.lv/en/name/Amirans"
+      ],
+      "facts_used": "Catalogue compares Arabic Amir (leader/prince) and a separate Hebrew Amir (treetop). Exact Latin letters alone do not select a transmission route. Seek a documented Latvian correspondence with source script and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue compares Arabic Amir (leader/prince) and a separate Hebrew Amir (treetop). Exact Latin letters alone do not select a transmission route. Seek a documented Latvian correspondence with source script and dated use.",
+      "next_steps": "Catalogue compares Arabic Amir (leader/prince) and a separate Hebrew Amir (treetop). Exact Latin letters alone do not select a transmission route. Seek a documented Latvian correspondence with source script and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Blāzma",
+      "spellings": [
+        "Blāzma"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bl%C4%81zma"
+      ],
+      "facts_used": "The catalogue explains Blāzma through Latvian blāzma «glow». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Riga, 1940; calendar 1889 (dictionary page 84). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 84. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Ilveta",
+      "spellings": [
+        "Ilveta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ilveta"
+      ],
+      "facts_used": "No exact catalogue origin or private-cache hit. Seek an exact dictionary entry and dated bearer rather than extending Ilvita by spelling resemblance.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact catalogue origin or private-cache hit. Seek an exact dictionary entry and dated bearer rather than extending Ilvita by spelling resemblance.",
+      "next_steps": "No exact catalogue origin or private-cache hit. Seek an exact dictionary entry and dated bearer rather than extending Ilvita by spelling resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Ilvis",
+      "spellings": [
+        "Ilvis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ilvis"
+      ],
+      "facts_used": "Catalogue p. 162 tentatively links Ilvars, itself tentatively linked to Ilgvars; Limbaži district 1969 is not proof of the chain. Inspect original entries and an independent exact derivation before assigning ilgi/varēt.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 162 tentatively links Ilvars, itself tentatively linked to Ilgvars; Limbaži district 1969 is not proof of the chain. Inspect original entries and an independent exact derivation before assigning ilgi/varēt.",
+      "next_steps": "Catalogue p. 162 tentatively links Ilvars, itself tentatively linked to Ilgvars; Limbaži district 1969 is not proof of the chain. Inspect original entries and an independent exact derivation before assigning ilgi/varēt."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lv",
+      "name": "Spodrīte",
+      "spellings": [
+        "Spodrīte"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Spodr%C4%ABte"
+      ],
+      "facts_used": "The catalogue explains Spodrīte through Spodra: Latvian spodrs «bright, clean, shining». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1922; calendar 1892 (dictionary page 296). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 296. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Andželika",
+      "spellings": [
+        "Andželika"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Exact cache hits concern Estonian Andželika, not a Lithuanian spelling bridge. Seek a Lithuanian dictionary correspondence to Angelica/Angelika and an exact dated Lithuanian bearer; do not import Estonian naming counts.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact cache hits concern Estonian Andželika, not a Lithuanian spelling bridge. Seek a Lithuanian dictionary correspondence to Angelica/Angelika and an exact dated Lithuanian bearer; do not import Estonian naming counts.",
+      "next_steps": "Exact cache hits concern Estonian Andželika, not a Lithuanian spelling bridge. Seek a Lithuanian dictionary correspondence to Angelica/Angelika and an exact dated Lithuanian bearer; do not import Estonian naming counts."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Anželika",
+      "spellings": [
+        "Anželika"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-KALLASMAA17",
+        "LT-MGM-RARE"
+      ],
+      "sources": [
+        "https://www.justdigi.ee/media/210/download",
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas"
+      ],
+      "facts_used": "Genealogy compiler and Estonian scholar-name hits do not prove Lithuanian etymology. Seek an exact Lithuanian spelling correspondence and dated given-name record; preserve missing d separately.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Genealogy compiler and Estonian scholar-name hits do not prove Lithuanian etymology. Seek an exact Lithuanian spelling correspondence and dated given-name record; preserve missing d separately.",
+      "next_steps": "Genealogy compiler and Estonian scholar-name hits do not prove Lithuanian etymology. Seek an exact Lithuanian spelling correspondence and dated given-name record; preserve missing d separately."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Arimantas",
+      "spellings": [
+        "Arimantas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys PDF 215 / printed 200 marks PN; historical 1964 calendar PDF 301 gives Arimantas (Arys), 4 January. Exact and accent-insensitive searches found no explicit component analysis in the cached scholarly studies. Do not substitute Armantas or Arminas. Seek a full exact-form derivation.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Salys PDF 215 / printed 200 marks PN; historical 1964 calendar PDF 301 gives Arimantas (Arys), 4 January. Exact and accent-insensitive searches found no explicit component analysis in the cached scholarly studies. Do not substitute Armantas or Arminas. Seek a full exact-form derivation.",
+      "next_steps": "Salys PDF 215 / printed 200 marks PN; historical 1964 calendar PDF 301 gives Arimantas (Arys), 4 January. Exact and accent-insensitive searches found no explicit component analysis in the cached scholarly studies. Do not substitute Armantas or Arminas. Seek a full exact-form derivation."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Arimantė",
+      "spellings": [
+        "Arimantė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "No exact or accent-insensitive cached analysis. Find an exact feminine bridge to Arimantas and dated use; do not remove i to borrow Armantė's analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact or accent-insensitive cached analysis. Find an exact feminine bridge to Arimantas and dated use; do not remove i to borrow Armantė's analysis.",
+      "next_steps": "No exact or accent-insensitive cached analysis. Find an exact feminine bridge to Arimantas and dated use; do not remove i to borrow Armantė's analysis."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Arminas",
+      "spellings": [
+        "Arminas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS10",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Pakerys includes Arminas among Lithuanian compounds with Ar-, associated with ar, “also”. Salys connects Min- with minti and minėti, thinking or mentioning. This analysis concerns a given name, not every surname Arminas. The exact given name is discussed in Pakerys’s 2010 linguistic study. That publication documents the form and its accentuation. A surname entry or a famous surname bearer does not supply the first birth registration of this given name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Senn–Salys PDF 215 marks Arminas as FN (surname), not PN. The accepted given-name record is Pakerys's 2010 male given-name study; no surname bearer's dates are transferred. Checked location: Pakerys PDF 3 / printed 90; Salys PDF 292 / printed 277. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Arminė",
+      "spellings": [
+        "Arminė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-PAKERYS11"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf"
+      ],
+      "facts_used": "Pakerys PDF 9 / printed 98 explicitly contrasts Armina (33) and Arminė (0) in guide-derived usage data. This documents a spelling comparison, not a separate attestation or explicit masculine derivation. Seek an exact origin statement and actual dated given-name use; do not report 0 as a current official bearer count.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Pakerys PDF 9 / printed 98 explicitly contrasts Armina (33) and Arminė (0) in guide-derived usage data. This documents a spelling comparison, not a separate attestation or explicit masculine derivation. Seek an exact origin statement and actual dated given-name use; do not report 0 as a current official bearer count.",
+      "next_steps": "Pakerys PDF 9 / printed 98 explicitly contrasts Armina (33) and Arminė (0) in guide-derived usage data. This documents a spelling comparison, not a separate attestation or explicit masculine derivation. Seek an exact origin statement and actual dated given-name use; do not report 0 as a current official bearer count."
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Benas",
+      "spellings": [
+        "Benas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-BENEDIKTAS",
+        "INT-BTN-BENEDICT"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/benediktas",
+        "https://www.behindthename.com/name/benedict"
+      ],
+      "facts_used": "The Senn–Salys dictionary explicitly identifies Benas as a short form of Benediktas. It therefore belongs to the Benedictus family, associated with Latin “blessed”, rather than being assigned an origin from its first syllable alone. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salys PDF 218 / printed 203. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Benediktas",
+      "spellings": [
+        "Benediktas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-BENEDIKTAS",
+        "INT-BTN-BENEDICT"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/benediktas",
+        "https://www.behindthename.com/name/benedict"
+      ],
+      "facts_used": "Benediktas is paired with Benedikt in the Lithuanian–German dictionary. Its international family comes from Latin Benedictus, “blessed”, related to benedico, “to speak well of, commend”. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salys PDF 218 / printed 203. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Titas",
+      "spellings": [
+        "Titas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-TITAS",
+        "INT-BTN-TITUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/titas",
+        "https://www.behindthename.com/name/titus"
+      ],
+      "facts_used": "Titas is the Lithuanian form of Titus, explicitly paired with it in the dictionary. The deeper meaning of the Roman name Titus is uncertain. A confident translation such as “honour” would go beyond the evidence. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salys PDF 272 / printed 257; historical calendar PDF 302 / printed 287. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Benedikta",
+      "spellings": [
+        "Benedikta"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-BENEDICT"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/benedict"
+      ],
+      "facts_used": "Benedikta is recorded as a feminine personal name, with German Benedikta as its counterpart. It is the feminine member of the Benedictus name family, whose Latin base is associated with being blessed. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salys PDF 218 / printed 203; historical calendar PDF 309 / printed 294. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-04",
+      "date": "2026-11-12",
+      "calendar_date": "01-04",
+      "country": "lt",
+      "name": "Hermas",
+      "spellings": [
+        "Hermas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "The Lithuanian calendar explicitly uses Hermas as a short form in two different families: Hermenegildas and Hermelas. Those full-name relationships are documented; they do not establish one origin for every modern Hermas. The historical 1964 calendar prints Hermenegildas (Hermas, Gildas) on 13 May and Hermelas (Hermas) on 3 July. These entries show how calendar editors presented short names at that time; neither is a first birth record.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "These are two explicit calendar short-form relationships. The Estonian dictionary's Hermes analysis does not settle all Lithuanian Hermas bearers. Checked location: Historical calendar PDF 306 / printed 291 and PDF 311 / printed 296. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

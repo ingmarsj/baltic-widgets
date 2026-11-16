@@ -1,0 +1,4409 @@
+{
+ "round": 141,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.119",
+ "scope": "Labelled hypotheses for March calendar names without a local source.",
+ "method": "As round 139 (build-r142.mjs = helpers of write-r136.mjs + preamble and O of r139-data.mjs + r142-data.mjs). Names with a root history, a reviewed history or an existing hypothesis were skipped; Names with a documented phonetic-formation note were also skipped. Wording follows the 16 November rules (no sources, no Russian attribution).",
+ "records": [
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-01",
+   "country": "lv",
+   "name": "Eldars",
+   "spellings": [
+    "Eldars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eldars is probably a form of Eldar, a name widespread in the Caucasus and Central Asia whose origin is explained in different ways. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-01",
+   "country": "lv",
+   "name": "Eldijs",
+   "spellings": [
+    "Eldijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eldijs may be a newer name formed for its sound; compare Eldars and Aldis. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-01",
+   "country": "lv",
+   "name": "Ilgvalds",
+   "spellings": [
+    "Ilgvalds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ilgvalds is probably a form of Ilgvars. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-01",
+   "country": "lv",
+   "name": "Ilgvards",
+   "spellings": [
+    "Ilgvards"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ilgvards is probably a form of Ilgvars. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-01",
+   "country": "lv",
+   "name": "Ilgvaris",
+   "spellings": [
+    "Ilgvaris"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ilgvaris is probably a form of Ilgvars. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-01",
+   "country": "lv",
+   "name": "Ivāra",
+   "spellings": [
+    "Ivāra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ivāra is probably a feminine form of Ivars. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lv",
+   "name": "Emeralds",
+   "spellings": [
+    "Emeralds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Emeralds may be linked with English emerald. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lv",
+   "name": "Lailita",
+   "spellings": [
+    "Lailita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lailita may be a newer name formed for its sound; compare Laila and Lolita. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lv",
+   "name": "Lovisa",
+   "spellings": [
+    "Lovisa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lovisa is probably the Swedish form of Louise. Luīze is usually explained from Germanic hlūd + wīg, “famous + battle”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lv",
+   "name": "Luisa",
+   "spellings": [
+    "Luisa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Luisa is probably a form of Luīze. Luīze is usually explained from Germanic hlūd + wīg, “famous + battle”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lv",
+   "name": "Luise",
+   "spellings": [
+    "Luise"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Luise is probably a form of Luīze. Luīze is usually explained from Germanic hlūd + wīg, “famous + battle”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lv",
+   "name": "Luiza",
+   "spellings": [
+    "Luiza"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Luiza is probably a form of Luīze. Luīze is usually explained from Germanic hlūd + wīg, “famous + battle”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lv",
+   "name": "Luīza",
+   "spellings": [
+    "Luīza"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Luīza is probably a form of Luīze. Luīze is usually explained from Germanic hlūd + wīg, “famous + battle”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-03",
+   "country": "lv",
+   "name": "Riglinda",
+   "spellings": [
+    "Riglinda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Riglinda may be a newer name formed for its sound; compare Rinalda and Linda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Alisija",
+   "spellings": [
+    "Alisija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alisija is probably a form of Alīcija. Alīcija is usually explained from Germanic adal + heit, “noble + kind”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Alīsija",
+   "spellings": [
+    "Alīsija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alīsija is probably a form of Alīcija. Alīcija is usually explained from Germanic adal + heit, “noble + kind”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Alisters",
+   "spellings": [
+    "Alisters"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alisters is probably a form of Scots Alistair, the Gaelic form of Alexander. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Alsis",
+   "spellings": [
+    "Alsis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alsis may be a newer name formed for its sound; compare Alise and Aldis. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Einija",
+   "spellings": [
+    "Einija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Einija may be a newer name formed for its sound; compare Enija and Ainija. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Elīsija",
+   "spellings": [
+    "Elīsija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Elīsija may be a newer name formed for its sound; compare Elīza and Alīsija. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Enārs",
+   "spellings": [
+    "Enārs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Enārs may be modelled on names such as Gunārs and Ivars, with the opening En-. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Enia",
+   "spellings": [
+    "Enia"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Enia may be a newer name formed for its sound; compare Enija and Ena. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Enīda",
+   "spellings": [
+    "Enīda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Enīda is probably a form of Welsh Enid. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Enijs",
+   "spellings": [
+    "Enijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Enijs may be a newer name formed for its sound; compare Enija and Enārs. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Enika",
+   "spellings": [
+    "Enika"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Enika may be a newer name formed for its sound; compare Enija and Anika. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Ennata",
+   "spellings": [
+    "Ennata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ennata may be a newer name formed for its sound; compare Enija and Renāta. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Ennija",
+   "spellings": [
+    "Ennija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ennija is probably a form of Änni (Anna). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Ensija",
+   "spellings": [
+    "Ensija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ensija may be a newer name formed for its sound; compare Enija and Ensa. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Enta",
+   "spellings": [
+    "Enta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Enta may be a newer name formed for its sound; compare Ena and Inta. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "lv",
+   "name": "Enzo",
+   "spellings": [
+    "Enzo"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Enzo is probably the Italian name Enzo, linked with Heinz (Henry). Henrijs is usually explained from Germanic heim + rīhhi, “home + ruler”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-05",
+   "country": "lv",
+   "name": "Austrīte",
+   "spellings": [
+    "Austrīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Austrīte is probably a diminutive of Austra with the ending -īte. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-06",
+   "country": "lv",
+   "name": "Godfrīds",
+   "spellings": [
+    "Godfrīds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Godfrīds is probably a form of Gotfrīds. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-06",
+   "country": "lv",
+   "name": "Gotlība",
+   "spellings": [
+    "Gotlība"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gotlība may be a feminine of German Gottlieb (Gott, “God”, and lieb, “dear”). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-07",
+   "country": "lv",
+   "name": "Erīda",
+   "spellings": [
+    "Erīda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Erīda may be a newer name formed for its sound; compare Ērika and Irīda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-07",
+   "country": "lv",
+   "name": "Erims",
+   "spellings": [
+    "Erims"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Erims may be a newer name formed for its sound; compare Ērihs and Erlands. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-07",
+   "country": "lv",
+   "name": "Helmīra",
+   "spellings": [
+    "Helmīra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helmīra may be a newer blend of Helma and Elmīra. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-08",
+   "country": "lv",
+   "name": "Dagita",
+   "spellings": [
+    "Dagita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dagita may be a newer name formed for its sound; compare Dagnija and Agita. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-08",
+   "country": "lv",
+   "name": "Magrita",
+   "spellings": [
+    "Magrita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Magrita is probably a form of Margrieta (Margareta). Margareta is usually explained from Greek margaritēs, “pearl”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-09",
+   "country": "lv",
+   "name": "Ivalds",
+   "spellings": [
+    "Ivalds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ivalds may be modelled on names such as Arvalds and Ēvalds, with the opening Iv-. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-09",
+   "country": "lv",
+   "name": "Filemona",
+   "spellings": [
+    "Filemona"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Filemona is probably a feminine form of Filemons. Filemons is usually explained from Greek philēmōn, “loving”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-09",
+   "country": "lv",
+   "name": "Filimonija",
+   "spellings": [
+    "Filimonija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Filimonija is probably a feminine form of Filemons. Filemons is usually explained from Greek philēmōn, “loving”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-09",
+   "country": "lv",
+   "name": "Pilimona",
+   "spellings": [
+    "Pilimona"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Pilimona is probably a form of Filemona. Filemons is usually explained from Greek philēmōn, “loving”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-09",
+   "country": "lv",
+   "name": "Filiomena",
+   "spellings": [
+    "Filiomena"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Filiomena is probably a form of Filomena. Filomena is usually explained from Greek phileomenos, “beloved”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-09",
+   "country": "lv",
+   "name": "Filomeja",
+   "spellings": [
+    "Filomeja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Filomeja is probably a form of Filomena. Filomena is usually explained from Greek phileomenos, “beloved”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-09",
+   "country": "lv",
+   "name": "Filumena",
+   "spellings": [
+    "Filumena"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Filumena is probably a form of Filomena. Filomena is usually explained from Greek phileomenos, “beloved”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Laimrita",
+   "spellings": [
+    "Laimrita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Laimrita may be a Latvian compound with laima, “luck”, like Laimrota. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Lilana",
+   "spellings": [
+    "Lilana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lilana is probably a form of Liliāna. Liliāna is usually explained from Latin lilium, “lily”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Lilianna",
+   "spellings": [
+    "Lilianna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lilianna is probably a form of Liliāna. Liliāna is usually explained from Latin lilium, “lily”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Liljana",
+   "spellings": [
+    "Liljana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Liljana is probably a form of Liliāna. Liliāna is usually explained from Latin lilium, “lily”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Lili",
+   "spellings": [
+    "Lili"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lili is probably a short form of names such as Liliāna and Elizabete. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Lilu",
+   "spellings": [
+    "Lilu"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lilu is probably a form of Lili. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Lilinda",
+   "spellings": [
+    "Lilinda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lilinda may be a newer blend of Lilija and Linda. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-10",
+   "country": "lv",
+   "name": "Lilioza",
+   "spellings": [
+    "Lilioza"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lilioza is probably a form of Lilija. Liliāna is usually explained from Latin lilium, “lily”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-11",
+   "country": "lv",
+   "name": "Abita",
+   "spellings": [
+    "Abita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Abita is a rare name of unclear origin; no secure parallel could be found. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-11",
+   "country": "lv",
+   "name": "Agika",
+   "spellings": [
+    "Agika"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agika is a rare name of unclear origin; no secure parallel could be found. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-11",
+   "country": "lv",
+   "name": "Aģis",
+   "spellings": [
+    "Aģis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aģis may be a newer name formed for its sound; compare Agis and Aigis. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-11",
+   "country": "lv",
+   "name": "Esams",
+   "spellings": [
+    "Esams"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Esams is a rare name of unclear origin; no secure parallel could be found. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-11",
+   "country": "lv",
+   "name": "Esēnija",
+   "spellings": [
+    "Esēnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Esēnija is probably a form of Spanish and Latin American Yesenia. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-11",
+   "country": "lv",
+   "name": "Jesēnija",
+   "spellings": [
+    "Jesēnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jesēnija is probably a form of Spanish and Latin American Yesenia. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Aivika",
+   "spellings": [
+    "Aivika"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aivika may be a newer name formed for its sound; compare Aiva and Anika. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Aivils",
+   "spellings": [
+    "Aivils"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aivils may be a newer name formed for its sound; compare Aivars and Vilis. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Ajita",
+   "spellings": [
+    "Ajita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ajita may be a newer name formed for its sound; compare Agita and Aija. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Ešlija",
+   "spellings": [
+    "Ešlija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ešlija is probably a form of English Ashley, from a place name with ash, “ash tree”, and leah, “meadow”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Etelvīne",
+   "spellings": [
+    "Etelvīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Etelvīne may be linked with Germanic Ethelwine (æþel, “noble”, and wine, “friend”). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Etere",
+   "spellings": [
+    "Etere"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Etere is probably a form of Eteri. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Eteri",
+   "spellings": [
+    "Eteri"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eteri is a Georgian name known from the folk poem and opera Abesalom and Eteri. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Etīna",
+   "spellings": [
+    "Etīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Etīna may be a newer name formed for its sound; compare Etere and Tīna. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Etnija",
+   "spellings": [
+    "Etnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Etnija may be a newer name formed for its sound; compare Etīna and Enija. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lv",
+   "name": "Etjēns",
+   "spellings": [
+    "Etjēns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Etjēns is probably a form of French Étienne (Stephen). Stefans is usually explained from Greek stephanos, “wreath, crown”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "lv",
+   "name": "Baldūrs",
+   "spellings": [
+    "Baldūrs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Baldūrs is probably a form of the name of the Norse god Baldr (Baldur). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "lv",
+   "name": "Ernijs",
+   "spellings": [
+    "Ernijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ernijs is probably a pet form of Ernests. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "lv",
+   "name": "Ernsts",
+   "spellings": [
+    "Ernsts"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ernsts is usually explained from Germanic ernust, “seriousness, resolve”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "lv",
+   "name": "Euzebijs",
+   "spellings": [
+    "Euzebijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Euzebijs is usually explained from Greek eusebēs, “pious”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "lv",
+   "name": "Nesters",
+   "spellings": [
+    "Nesters"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Nesters is probably a form of Nestors. Nestor is a hero of Greek mythology, the wise king of Pylos. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-15",
+   "country": "lv",
+   "name": "Fabijans",
+   "spellings": [
+    "Fabijans"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Fabijans is probably a form of Fabiāns. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-15",
+   "country": "lv",
+   "name": "Fabijāns",
+   "spellings": [
+    "Fabijāns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Fabijāns is probably a form of Fabiāns. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-15",
+   "country": "lv",
+   "name": "Imula",
+   "spellings": [
+    "Imula"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Imula is a rare name of unclear origin; no secure parallel could be found. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-15",
+   "country": "lv",
+   "name": "Inelda",
+   "spellings": [
+    "Inelda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Inelda may be a newer name formed for its sound; compare Ineta and Nelda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-16",
+   "country": "lv",
+   "name": "Guntris",
+   "spellings": [
+    "Guntris"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Guntris may be a newer name formed for its sound; compare Guntra and Guntis. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-16",
+   "country": "lv",
+   "name": "Gunts",
+   "spellings": [
+    "Gunts"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gunts is probably a short form of names such as Guntis and Gunārs. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-16",
+   "country": "lv",
+   "name": "Gutars",
+   "spellings": [
+    "Gutars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gutars may be a newer name formed for its sound; compare Guntars and Gustavs. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "lv",
+   "name": "Ferijs",
+   "spellings": [
+    "Ferijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ferijs may be a newer name formed for its sound; compare Ferdinands and Gerijs. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "lv",
+   "name": "Gerarda",
+   "spellings": [
+    "Gerarda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gerarda is probably a feminine form of Gerards. Gerards is usually explained from Germanic gēr + hart, “spear + hardy”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "lv",
+   "name": "Gerards",
+   "spellings": [
+    "Gerards"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gerards is usually explained from Germanic gēr + hart, “spear + hardy”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "lv",
+   "name": "Trūta",
+   "spellings": [
+    "Trūta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Trūta is probably a form of Trūde (Ģertrūde). Ģertrūde is usually explained from Germanic gēr + trūt, “spear + strong”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-18",
+   "country": "lv",
+   "name": "Adelaine",
+   "spellings": [
+    "Adelaine"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adelaine is probably a form of Adelīna. Adele is usually explained from Germanic adal, “noble”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-18",
+   "country": "lv",
+   "name": "Adelina",
+   "spellings": [
+    "Adelina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adele is usually explained from Germanic adal, “noble”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-18",
+   "country": "lv",
+   "name": "Adeļina",
+   "spellings": [
+    "Adeļina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adeļina is probably a form of Adelina. Adele is usually explained from Germanic adal, “noble”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-18",
+   "country": "lv",
+   "name": "Ilanda",
+   "spellings": [
+    "Ilanda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ilanda may be a newer name formed for its sound; compare Ilona and Jolanda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-18",
+   "country": "lv",
+   "name": "Iliana",
+   "spellings": [
+    "Iliana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Iliana may be a newer name formed for its sound; compare Ilāna and Liāna. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-18",
+   "country": "lv",
+   "name": "Ilonda",
+   "spellings": [
+    "Ilonda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ilonda may be a newer name formed for its sound; compare Ilona and Jolanda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-18",
+   "country": "lv",
+   "name": "Ilija",
+   "spellings": [
+    "Ilija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ilija is probably a form of the name of the prophet Elijah (Hebrew Ēlīyāhū, “Yahweh is my God”). This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jazepata",
+   "spellings": [
+    "Jazepata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jazepata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jazupata",
+   "spellings": [
+    "Jazupata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jazupata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jezufata",
+   "spellings": [
+    "Jezufata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jezufata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jezupata",
+   "spellings": [
+    "Jezupata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jezupata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jezupate",
+   "spellings": [
+    "Jezupate"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jezupate is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jozefata",
+   "spellings": [
+    "Jozefata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jozefata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzefata",
+   "spellings": [
+    "Juzefata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzefata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzefate",
+   "spellings": [
+    "Juzefate"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzefate is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzepata",
+   "spellings": [
+    "Juzepata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzepata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzepate",
+   "spellings": [
+    "Juzepate"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzepate is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzufata",
+   "spellings": [
+    "Juzufata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzufata is probably a form of Jozafata. Jozafats is usually explained from Hebrew Yəhōšāfāṭ, “Yahweh has judged”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jozefina",
+   "spellings": [
+    "Jozefina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jozefina is probably a feminine form of Jozefs (Jāzeps). Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jozefine",
+   "spellings": [
+    "Jozefine"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jozefine is probably a feminine form of Jozefs (Jāzeps). Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzefina",
+   "spellings": [
+    "Juzefina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzefina is probably a form of Jozefīna. Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzefīna",
+   "spellings": [
+    "Juzefīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzefīna is probably a form of Jozefīna. Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzefine",
+   "spellings": [
+    "Juzefine"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzefine is probably a form of Jozefīna. Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Žozefina",
+   "spellings": [
+    "Žozefina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žozefina is probably a form of Jozefīna (franču Joséphine). Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Jozs",
+   "spellings": [
+    "Jozs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jozs is probably a short form of names such as Jozefs and Juozas. Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Juzefs",
+   "spellings": [
+    "Juzefs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Juzefs is probably a form of Jozefs (Jāzeps). Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-19",
+   "country": "lv",
+   "name": "Žozefs",
+   "spellings": [
+    "Žozefs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žozefs is probably a form of Jāzeps (franču Joseph). Jāzeps is usually explained from Hebrew Yōsēf, “he will add”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-20",
+   "country": "lv",
+   "name": "Madrija",
+   "spellings": [
+    "Madrija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Madrija may be a newer name formed for its sound; compare Madara and Marija. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-21",
+   "country": "lv",
+   "name": "Unigunde",
+   "spellings": [
+    "Unigunde"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Unigunde may be a newer name formed for its sound; compare Kunigunde and Ingunde. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-21",
+   "country": "lv",
+   "name": "Unigunda",
+   "spellings": [
+    "Unigunda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Unigunda is probably a form of Unigunde. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-21",
+   "country": "lv",
+   "name": "Unija",
+   "spellings": [
+    "Unija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Unija may be a newer name formed for its sound; compare Unigunde and Ūna. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-21",
+   "country": "lv",
+   "name": "Abigeila",
+   "spellings": [
+    "Abigeila"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Abigeila is probably a form of Abigaila. Abigaila is usually explained from Hebrew Avigayil, “my father is joy”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-21",
+   "country": "lv",
+   "name": "Gelārijs",
+   "spellings": [
+    "Gelārijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gelārijs is probably a form of Hilārijs. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-21",
+   "country": "lv",
+   "name": "Kunegunda",
+   "spellings": [
+    "Kunegunda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kunegunda is probably a form of Kunigunda. Kunigunda is usually explained from Germanic kunni + gund, “kin + battle”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-22",
+   "country": "lv",
+   "name": "Dziedra",
+   "spellings": [
+    "Dziedra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dziedra may be a form of Dzidra (Latvian dzidrs, “clear”); a link with dziedāt, “to sing”, is also possible. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-22",
+   "country": "lv",
+   "name": "Damijs",
+   "spellings": [
+    "Damijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Damijs is probably a pet form of Damians. Damians is usually explained from Greek damazein, “to tame”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-22",
+   "country": "lv",
+   "name": "Damirs",
+   "spellings": [
+    "Damirs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Damirs is probably a form of Damir, a name found among South Slavs and Tatars whose origin is explained in different ways. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-22",
+   "country": "lv",
+   "name": "Tamārs",
+   "spellings": [
+    "Tamārs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tamārs may be a masculine counterpart of Tamāra. Tamāra is usually explained from Hebrew tāmār, “date palm”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Džana",
+   "spellings": [
+    "Džana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Džana may be a newer name formed for its sound; compare Džanete and Jana. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Džanete",
+   "spellings": [
+    "Džanete"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Džanete is probably a form of Žanete (franču Jeannette). Žanna is usually explained from Hebrew Yōḥānān, “God is gracious”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Dženete",
+   "spellings": [
+    "Dženete"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dženete is probably a form of Žanete (angļu Janet). Žanna is usually explained from Hebrew Yōḥānān, “God is gracious”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Džinita",
+   "spellings": [
+    "Džinita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Džinita may be a newer name formed for its sound; compare Džineta and Žanete. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Janete",
+   "spellings": [
+    "Janete"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Janete is probably a form of Žanete. Žanna is usually explained from Hebrew Yōḥānān, “God is gracious”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Dženifera",
+   "spellings": [
+    "Dženifera"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dženifera is probably a form of Jennifer. Jennifer comes from Welsh Gwenhwyfar, “fair, smooth”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Džesika",
+   "spellings": [
+    "Džesika"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Džesika is probably a form of Jessica. Jessica spread as a name from Shakespeare’s The Merchant of Venice and is linked with the biblical Iscah. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Žana",
+   "spellings": [
+    "Žana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žana is probably a form of Žanna. Žanna is usually explained from Hebrew Yōḥānān, “God is gracious”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Žaneta",
+   "spellings": [
+    "Žaneta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žaneta is probably a form of Žanete. Žanna is usually explained from Hebrew Yōḥānān, “God is gracious”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Žanija",
+   "spellings": [
+    "Žanija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žanija is probably a form of Žanna. Žanna is usually explained from Hebrew Yōḥānān, “God is gracious”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lv",
+   "name": "Žanneta",
+   "spellings": [
+    "Žanneta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žanneta is probably a form of Žanete. Žanna is usually explained from Hebrew Yōḥānān, “God is gracious”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Kazimirs",
+   "spellings": [
+    "Kazimirs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kazimirs is usually explained from Slavic kaziti + mirŭ, “to destroy + peace”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Kazemirs",
+   "spellings": [
+    "Kazemirs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kazemirs is probably a form of Kazimirs. Kazimirs is usually explained from Slavic kaziti + mirŭ, “to destroy + peace”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Kazimerina",
+   "spellings": [
+    "Kazimerina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kazimerina is probably a feminine form of Kazimirs. Kazimirs is usually explained from Slavic kaziti + mirŭ, “to destroy + peace”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Kazimirina",
+   "spellings": [
+    "Kazimirina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kazimirina is probably a feminine form of Kazimirs. Kazimirs is usually explained from Slavic kaziti + mirŭ, “to destroy + peace”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Kazmerina",
+   "spellings": [
+    "Kazmerina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kazmerina is probably a feminine form of Kazimirs. Kazimirs is usually explained from Slavic kaziti + mirŭ, “to destroy + peace”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Kazmirina",
+   "spellings": [
+    "Kazmirina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kazmirina is probably a feminine form of Kazimirs. Kazimirs is usually explained from Slavic kaziti + mirŭ, “to destroy + peace”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Džeraldīne",
+   "spellings": [
+    "Džeraldīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Džeraldīne is probably a feminine form of Džeralds. Džeralds is usually explained from Germanic gēr + walt, “spear + rule”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Geraldina",
+   "spellings": [
+    "Geraldina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Geraldina is probably a feminine form of Džeralds (Geralds). Džeralds is usually explained from Germanic gēr + walt, “spear + rule”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Džerijs",
+   "spellings": [
+    "Džerijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Džerijs is probably English Jerry or Gerry, a pet form of Gerald or Jeremiah. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Garlībs",
+   "spellings": [
+    "Garlībs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Garlībs is probably a form of German Garlieb; in Latvia it is known through the writer Garlieb Merkel. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Sidars",
+   "spellings": [
+    "Sidars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sidars is probably a form of Izidors. Izidors is usually explained from Greek Isidōros, “gift of Isis”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Sidors",
+   "spellings": [
+    "Sidors"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sidors is probably a form of Izidors. Izidors is usually explained from Greek Isidōros, “gift of Isis”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lv",
+   "name": "Zidra",
+   "spellings": [
+    "Zidra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Zidra may be a newer name formed for its sound; compare Dzidra and Zigrīda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "lv",
+   "name": "Māre",
+   "spellings": [
+    "Māre"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Māre is probably a form of Marija or Margareta. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "lv",
+   "name": "Mārieta",
+   "spellings": [
+    "Mārieta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mārieta is probably a form of Marija or Margareta. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "lv",
+   "name": "Marijeta",
+   "spellings": [
+    "Marijeta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Marijeta is probably a form of Marija. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "lv",
+   "name": "Marjeta",
+   "spellings": [
+    "Marjeta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Marjeta is probably a form of Margareta. Margareta is usually explained from Greek margaritēs, “pearl”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-26",
+   "country": "lv",
+   "name": "Eugenija",
+   "spellings": [
+    "Eugenija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eugenija is probably a feminine form of Eugēnijs. Eugēnijs is usually explained from Greek eugenēs, “noble, well-born”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-26",
+   "country": "lv",
+   "name": "Eugēnija",
+   "spellings": [
+    "Eugēnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eugēnija is probably a feminine form of Eugēnijs. Eugēnijs is usually explained from Greek eugenēs, “noble, well-born”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-26",
+   "country": "lv",
+   "name": "Euģenija",
+   "spellings": [
+    "Euģenija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Euģenija is probably a feminine form of Eugēnijs. Eugēnijs is usually explained from Greek eugenēs, “noble, well-born”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-26",
+   "country": "lv",
+   "name": "Euģēnija",
+   "spellings": [
+    "Euģēnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Euģēnija is probably a feminine form of Eugēnijs. Eugēnijs is usually explained from Greek eugenēs, “noble, well-born”. This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-26",
+   "country": "lv",
+   "name": "Žene",
+   "spellings": [
+    "Žene"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žene may be a newer name formed for its sound; compare Žanna and Eugēnija. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lv",
+   "name": "Genefa",
+   "spellings": [
+    "Genefa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Genefa is probably a form of Genovefa. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lv",
+   "name": "Genita",
+   "spellings": [
+    "Genita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Genita may be a newer name formed for its sound; compare Gita and Genovefa. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lv",
+   "name": "Gentra",
+   "spellings": [
+    "Gentra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gentra may be a newer name formed for its sound; compare Gunta and Gentrīda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lv",
+   "name": "Gerita",
+   "spellings": [
+    "Gerita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gerita may be a newer name formed for its sound; compare Gerda and Rita. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lv",
+   "name": "Sauļus",
+   "spellings": [
+    "Sauļus"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sauļus is probably a form of Lithuanian Saulius, linked with Lithuanian saulė, “sun”, or the biblical Saul. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lv",
+   "name": "Tālrids",
+   "spellings": [
+    "Tālrids"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tālrids may be formed like Tālrīts, from Latvian tāls, “far”, and rīts, “morning”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lv",
+   "name": "Tālrita",
+   "spellings": [
+    "Tālrita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tālrita may be formed like Tālrīts, from Latvian tāls, “far”, and rīts, “morning”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-28",
+   "country": "lv",
+   "name": "Ginita",
+   "spellings": [
+    "Ginita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ginita may be a newer name formed for its sound; compare Gints and Agita. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-28",
+   "country": "lv",
+   "name": "Gintija",
+   "spellings": [
+    "Gintija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gintija may be a newer name formed for its sound; compare Gints and Ginta. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-29",
+   "country": "lv",
+   "name": "Aldons",
+   "spellings": [
+    "Aldons"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aldons may be a masculine counterpart of Aldona. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-30",
+   "country": "lv",
+   "name": "Igmārs",
+   "spellings": [
+    "Igmārs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Igmārs may be related to Ilgmārs or Ingmārs. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-30",
+   "country": "lv",
+   "name": "Ignars",
+   "spellings": [
+    "Ignars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ignars may be a newer name formed for its sound; compare Ignāts and Gunārs. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-30",
+   "country": "lv",
+   "name": "Nanete",
+   "spellings": [
+    "Nanete"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Nanete is probably French Nanette, a pet form of Anna. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-30",
+   "country": "lv",
+   "name": "Nena",
+   "spellings": [
+    "Nena"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Nena is probably a short form of names such as Nellija and Anna. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-31",
+   "country": "lv",
+   "name": "Gidons",
+   "spellings": [
+    "Gidons"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gidons is probably a form of the biblical Gideon (Hebrew, “hewer”). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-31",
+   "country": "lv",
+   "name": "Gvida",
+   "spellings": [
+    "Gvida"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gvida is probably a feminine form of Gvido. Gvido is usually explained from Germanic witu, “wood, forest”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-31",
+   "country": "lv",
+   "name": "Gvidis",
+   "spellings": [
+    "Gvidis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gvidis is probably a form of Gvido. Gvido is usually explained from Germanic witu, “wood, forest”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-31",
+   "country": "lv",
+   "name": "Gvidālija",
+   "spellings": [
+    "Gvidālija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gvidālija may be a newer name formed for its sound; compare Gvida and Vitālija. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-31",
+   "country": "lv",
+   "name": "Gvineta",
+   "spellings": [
+    "Gvineta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gvineta may be a newer name formed for its sound; compare Gvida and Žaneta. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lt",
+   "name": "Dautara",
+   "spellings": [
+    "Dautara"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dautara may be a newer name formed for its sound; compare Dautartas and Daumantė. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "lt",
+   "name": "Simplicijus",
+   "spellings": [
+    "Simplicijus"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Simplicijus is usually explained from Latin simplex, “simple”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-07",
+   "country": "lt",
+   "name": "Galmantė",
+   "spellings": [
+    "Galmantė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Galmantė looks like a Baltic two-stem name with the stems Gal- and -mant-, also known from names such as Galvydas and Daumantas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-08",
+   "country": "lt",
+   "name": "Gaydvilė",
+   "spellings": [
+    "Gaydvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gaydvilė may be a newer name formed for its sound; compare Gaudvilė and Gedvilė. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lt",
+   "name": "Teofanas",
+   "spellings": [
+    "Teofanas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Teofanas is usually explained from Greek theophaneia, “appearance of God”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "lt",
+   "name": "Fajina",
+   "spellings": [
+    "Fajina"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Fajina is a rare name of unclear origin; no secure parallel could be found. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-16",
+   "country": "lt",
+   "name": "Norvaldė",
+   "spellings": [
+    "Norvaldė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Norvaldė looks like a Baltic two-stem name with the stems Nor- and -vald-, also known from names such as Norvydas and Visvaldas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "lt",
+   "name": "Gentvila",
+   "spellings": [
+    "Gentvila"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gentvila looks like a Baltic two-stem name with the stems Gent- and -vil-, also known from names such as Gentautas and Gedvilas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "lt",
+   "name": "Varūna",
+   "spellings": [
+    "Varūna"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Varūna may echo the Vedic god Varuna or be a newer Lithuanian formation. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-22",
+   "country": "lt",
+   "name": "Gedgaudė",
+   "spellings": [
+    "Gedgaudė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gedgaudė looks like a Baltic two-stem name with the stems Ged- and -gaud-, also known from names such as Gediminas and Rimgaudas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-23",
+   "country": "lt",
+   "name": "Gatigintas",
+   "spellings": [
+    "Gatigintas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gatigintas may be a newer name formed for its sound; compare Gintautas and Gatis. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lt",
+   "name": "Ganvilė",
+   "spellings": [
+    "Ganvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ganvilė looks like a Baltic two-stem name with the stems Gan- and -vil-, also known from names such as Gantautas and Gedvilas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-24",
+   "country": "lt",
+   "name": "Sigutis",
+   "spellings": [
+    "Sigutis"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sigutis is probably a diminutive of Sigitas with -utis. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "lt",
+   "name": "Barmantas",
+   "spellings": [
+    "Barmantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Barmantas looks like a Baltic two-stem name with the stems Bar- and -mant-, also known from names such as Barvydas and Daumantas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "lt",
+   "name": "Alkmenas",
+   "spellings": [
+    "Alkmenas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alkmenas may be linked with Greek Alcmene, mother of Heracles. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-31",
+   "country": "lt",
+   "name": "Josmilas",
+   "spellings": [
+    "Josmilas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Josmilas is a rare name of unclear origin; no secure parallel could be found. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "ee",
+   "name": "Virvi",
+   "spellings": [
+    "Virvi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Virvi is probably a form of Virve. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-02",
+   "country": "ee",
+   "name": "Virma",
+   "spellings": [
+    "Virma"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Virma may be a newer name formed for its sound; compare Virve and Irma. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-03",
+   "country": "ee",
+   "name": "Egle",
+   "spellings": [
+    "Egle"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Egle is probably a form of Lithuanian Eglė (eglė, “spruce”). This is a hypothesis: only the general origin of the name is known, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-03",
+   "country": "ee",
+   "name": "Haili",
+   "spellings": [
+    "Haili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Haili may be a newer name formed for its sound; compare Heili and Haldi. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-03",
+   "country": "ee",
+   "name": "Helliki",
+   "spellings": [
+    "Helliki"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helliki may be a newer name formed for its sound; compare Helle and Heliki. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-04",
+   "country": "ee",
+   "name": "Almar",
+   "spellings": [
+    "Almar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Almar may be a newer name formed for its sound; compare Valmar and Alma. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-08",
+   "country": "ee",
+   "name": "Viilo",
+   "spellings": [
+    "Viilo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Viilo may be a newer name formed for its sound; compare Villo and Viljo. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-12",
+   "country": "ee",
+   "name": "Reio",
+   "spellings": [
+    "Reio"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Reio may be linked with Reigo and Gregor. Gregors is usually explained from Greek grēgorein, “to be watchful”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "ee",
+   "name": "Ernits",
+   "spellings": [
+    "Ernits"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ernits is probably a form of Ernst. Ernsts is usually explained from Germanic ernust, “seriousness, resolve”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "ee",
+   "name": "Erni",
+   "spellings": [
+    "Erni"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Erni is probably a form of Ernst. Ernsts is usually explained from Germanic ernust, “seriousness, resolve”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-13",
+   "country": "ee",
+   "name": "Erno",
+   "spellings": [
+    "Erno"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Erno is probably a form of Ernst. Ernsts is usually explained from Germanic ernust, “seriousness, resolve”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-14",
+   "country": "ee",
+   "name": "Malde",
+   "spellings": [
+    "Malde"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Malde is probably a short form of names such as Magdalena and Mathilde. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-16",
+   "country": "ee",
+   "name": "Herbi",
+   "spellings": [
+    "Herbi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Herbi is probably a pet form of Herbert. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-16",
+   "country": "ee",
+   "name": "Heero",
+   "spellings": [
+    "Heero"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Heero may be a newer name formed for its sound; compare Hero and Heino. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "ee",
+   "name": "Kärdi",
+   "spellings": [
+    "Kärdi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kärdi may be linked with Kärt, a short form of Gertrud or Gerhard. Ģertrūde is usually explained from Germanic gēr + trūt, “spear + strong”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "ee",
+   "name": "Kerli",
+   "spellings": [
+    "Kerli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kerli may be linked with Kertu (Gertrud). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-17",
+   "country": "ee",
+   "name": "Truude",
+   "spellings": [
+    "Truude"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Truude is probably a form of Trude (Gertrud). Ģertrūde is usually explained from Germanic gēr + trūt, “spear + strong”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-20",
+   "country": "ee",
+   "name": "Malvi",
+   "spellings": [
+    "Malvi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Malvi is probably a form of Malviine (Malvīne). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-21",
+   "country": "ee",
+   "name": "Külvo",
+   "spellings": [
+    "Külvo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Külvo may be linked with the Estonian word külv, “sowing”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Comparison with a common word (general vocabulary).",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "ee",
+   "name": "Marjo",
+   "spellings": [
+    "Marjo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Marjo is probably a form of Maria (somu Marjo). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "ee",
+   "name": "Marili",
+   "spellings": [
+    "Marili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Marili may be a newer blend of Mari and Lii. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-25",
+   "country": "ee",
+   "name": "Manni",
+   "spellings": [
+    "Manni"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Manni is probably a short form of names such as Hermann and Manfred. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-26",
+   "country": "ee",
+   "name": "Imant",
+   "spellings": [
+    "Imant"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Imant is probably a form of Latvian Imants. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "ee",
+   "name": "Leia",
+   "spellings": [
+    "Leia"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Leia is probably a form of Lea. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-27",
+   "country": "ee",
+   "name": "Laide",
+   "spellings": [
+    "Laide"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Laide is probably a short form of names such as Adelaide and Adelheid. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-29",
+   "country": "ee",
+   "name": "Joakim",
+   "spellings": [
+    "Joakim"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Joahims is usually explained from Hebrew Yəhōyāqīm, “Yahweh raises up”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-29",
+   "country": "ee",
+   "name": "Kimmo",
+   "spellings": [
+    "Kimmo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kimmo is a Finnish name usually taken as a short form of Joakim. Joahims is usually explained from Hebrew Yəhōyāqīm, “Yahweh raises up”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-30",
+   "country": "ee",
+   "name": "Sibülle",
+   "spellings": [
+    "Sibülle"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sibülle is probably a form of Sibylle. Sibilla is usually explained from Greek sibylla, “prophetess”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16-mar",
+   "date": "2026-11-16",
+   "calendar_date": "03-31",
+   "country": "ee",
+   "name": "Irmi",
+   "spellings": [
+    "Irmi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Irmi is probably a pet form of Irma. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; base-name origin as usually explained in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a source documents the name."
+  }
+ ]
+}

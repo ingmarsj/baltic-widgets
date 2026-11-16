@@ -70,19 +70,19 @@ export const historiesEstonianR47={
     "text": {
       "lv": [
         "Raili: Vārds pieder Rahel/Rachel saimei no senebreju rachel, «aita, aitu māte». Tas ir konkrēts dzīvnieka apzīmējums vēsturiskajā vārda pamatā. Tas nav no līdzīgas skaņas izdomāts mūsdienu nesēja rakstura apraksts.",
-        "Mēgistes 1929. gada vārdu saraksta 18. lappusē ir Raili ar norādi uz somu kalendāru. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 18. lappusē ir Raili ar norādi uz somu kalendāru. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Raili: Имя относится к семье Rahel/Rachel от древнееврейского rachel «овца». В исторической основе стоит конкретное название животного. Это не выдуманное по созвучию описание характера современного носителя.",
-        "На странице 18 списка имён Мягисте 1929 года приведено Raili со ссылкой на финский календарь. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 18 списка имён 1929 года приведено Raili со ссылкой на финский календарь. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Raili: The name belongs to the Rahel/Rachel family from Hebrew rachel, ewe. A specific animal word stands behind the historical name. This is not a description of a modern bearer’s character invented from similar sounds.",
-        "Page 18 of Mägiste’s 1929 name list gives Raili with a Finnish-calendar reference. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 18 of the 1929 name list gives Raili with a Finnish-calendar reference. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Raili: Vardas priklauso Rahel/Rachel šeimai iš hebrajų rachel „avis“. Istoriniame pamate yra konkretus gyvūno pavadinimas. Tai nėra pagal panašų skambesį išgalvotas dabartinio turėtojo būdo aprašymas.",
-        "Mägiste 1929 metų vardų sąrašo 18 puslapyje pateikiamas Raili su nuoroda į suomių kalendorių. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 18 puslapyje pateikiamas Raili su nuoroda į suomių kalendorių. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Raili: Nimi kuulub Raheli/Racheli perre heebrea sõnast rachel, utt. Ajaloolise nime taga on konkreetne loomanimetus. See ei ole sarnaste häälikute põhjal välja mõeldud tänapäevase kandja iseloomukirjeldus.",

@@ -1,0 +1,57 @@
+{
+  "calendar_records_covered": 265,
+  "existing_reviewed_preserved": 30,
+  "records": 235,
+  "distinct_identities": 235,
+  "reviewed": 84,
+  "translations": 420,
+  "paragraphs": 840,
+  "open": 151,
+  "summary": [
+    {
+      "country": "lv",
+      "examined": 155,
+      "new_histories": 45,
+      "calendar_unchanged": true,
+      "unrelated_profile_changes": 0,
+      "previous_round_preserved": true
+    },
+    {
+      "country": "lt",
+      "examined": 39,
+      "new_histories": 19,
+      "calendar_unchanged": true,
+      "unrelated_profile_changes": 0,
+      "previous_round_preserved": true
+    },
+    {
+      "country": "ee",
+      "examined": 41,
+      "new_histories": 20,
+      "calendar_unchanged": true,
+      "unrelated_profile_changes": 0,
+      "previous_round_preserved": true
+    }
+  ],
+  "validation": {
+    "nameday_tests": {
+      "command": "npm run test:namedays",
+      "passed": 40,
+      "failed": 0
+    },
+    "full_tests": {
+      "command": "npm test",
+      "passed": 129,
+      "failed": 0
+    },
+    "static_build": {
+      "command": "npm run build",
+      "status": "passed"
+    },
+    "whitespace_check": {
+      "command": "git diff --check",
+      "status": "passed"
+    },
+    "note": "The 40 name-day tests are included in the 129-test full suite. No publication or push was performed."
+  }
+}

@@ -1,0 +1,537 @@
+{
+  "round": 73,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-06: researched all 20 unfinished LV/LT/EE profiles before advancing. 9 histories written; 11 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Spulga",
+      "spellings": [
+        "Spulga"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Spulga"
+      ],
+      "facts_used": "The catalogue explains Spulga through Latvian spulgot «to shimmer». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1879 (dictionary page 296). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 296. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Arnita",
+      "spellings": [
+        "Arnita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arnita"
+      ],
+      "facts_used": "Catalogue p. 69 offers only a possible Arnis/Arnold family connection. Madona district 1969/calendar 1969 dates do not verify that route. Seek an explicit exact feminine formation statement.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 69 offers only a possible Arnis/Arnold family connection. Madona district 1969/calendar 1969 dates do not verify that route. Seek an explicit exact feminine formation statement.",
+      "next_steps": "Catalogue p. 69 offers only a possible Arnis/Arnold family connection. Madona district 1969/calendar 1969 dates do not verify that route. Seek an explicit exact feminine formation statement."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Arams",
+      "spellings": [
+        "Arams"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-ARM09",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arams",
+        "https://www.personvarduatveide.lv/uploads/sources/56/pdf/Armenu_ipasvardu_atveide_latviesu_valoda_2009.pdf"
+      ],
+      "facts_used": "Salmiņa’s Armenian-name manual gives the exact correspondence Aram / Արամ → Arams. It also records the Armenian gloss cildenums, “nobleness”. This identifies an Armenian rendering context, rather than a different name sharing the Latin spelling Aram. The exact row appears in the 2009 manual on printed page 102. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salmiņa 2009 PDF/printed 102: Arams / Արամ / Aram, arm. cildenums. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Aranta",
+      "spellings": [
+        "Aranta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aranta"
+      ],
+      "facts_used": "No exact origin found in catalogue or cache. Seek an exact onomastic analysis and dated use without inferring a blend.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin found in catalogue or cache. Seek an exact onomastic analysis and dated use without inferring a blend.",
+      "next_steps": "No exact origin found in catalogue or cache. Seek an exact onomastic analysis and dated use without inferring a blend."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Arfa",
+      "spellings": [
+        "Arfa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arfa"
+      ],
+      "facts_used": "The catalogue explains Arfa through Latvian arfa «harp». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Alūksne, 1928 (dictionary page 65). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 65. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Arnīda",
+      "spellings": [
+        "Arnīda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arn%C4%ABda"
+      ],
+      "facts_used": "Possible Arnis-family comparison and 1929 record do not verify the exact derivation. Seek an independent exact-form bridge.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Possible Arnis-family comparison and 1929 record do not verify the exact derivation. Seek an independent exact-form bridge.",
+      "next_steps": "Possible Arnis-family comparison and 1929 record do not verify the exact derivation. Seek an independent exact-form bridge."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Arnija",
+      "spellings": [
+        "Arnija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arnija"
+      ],
+      "facts_used": "No exact scholarly origin or dated historical episode found. Seek an exact name entry, distinguishing Arnis and Arnita.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact scholarly origin or dated historical episode found. Seek an exact name entry, distinguishing Arnis and Arnita.",
+      "next_steps": "No exact scholarly origin or dated historical episode found. Seek an exact name entry, distinguishing Arnis and Arnita."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lv",
+      "name": "Arnika",
+      "spellings": [
+        "Arnika"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arnika"
+      ],
+      "facts_used": "A plant-name arnica comparison does not yet prove the personal-name formation or a dated use. Seek exact evidence for both.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "A plant-name arnica comparison does not yet prove the personal-name formation or a dated use. Seek exact evidence for both.",
+      "next_steps": "A plant-name arnica comparison does not yet prove the personal-name formation or a dated use. Seek exact evidence for both."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lt",
+      "name": "Arūnas",
+      "spellings": [
+        "Arūnas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf"
+      ],
+      "facts_used": "Exact PN in Senn–Salys PDF 215 / printed 200 and calendar Arūnas (Aras), PDF 301 / printed 286. No exact derivation is established; do not infer eagle or Sanskrit dawn from resemblance. Seek an explicit Lithuanian formation analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact PN in Senn–Salys PDF 215 / printed 200 and calendar Arūnas (Aras), PDF 301 / printed 286. No exact derivation is established; do not infer eagle or Sanskrit dawn from resemblance. Seek an explicit Lithuanian formation analysis.",
+      "next_steps": "Exact PN in Senn–Salys PDF 215 / printed 200 and calendar Arūnas (Aras), PDF 301 / printed 286. No exact derivation is established; do not infer eagle or Sanskrit dawn from resemblance. Seek an explicit Lithuanian formation analysis."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lt",
+      "name": "Arūnė",
+      "spellings": [
+        "Arūnė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Dictionary PDF 215 / printed 200 establishes the exact feminine personal name but not its origin. Salys PDF 633 is a place name, not a first given-name bearer. Seek an explicit feminine derivation and dated given-name episode.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Dictionary PDF 215 / printed 200 establishes the exact feminine personal name but not its origin. Salys PDF 633 is a place name, not a first given-name bearer. Seek an explicit feminine derivation and dated given-name episode.",
+      "next_steps": "Dictionary PDF 215 / printed 200 establishes the exact feminine personal name but not its origin. Salys PDF 633 is a place name, not a first given-name bearer. Seek an explicit feminine derivation and dated given-name episode."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lt",
+      "name": "Baltazaras",
+      "spellings": [
+        "Baltazaras"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-BALTHAZAR"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/balthazar"
+      ],
+      "facts_used": "The dictionary pairs Baltazaras with Balthasar, a variant in the Balthazar/Belshazzar family. Balthazar is traditionally one of the Magi’s names; that personal name belongs to later tradition, rather than the Gospel’s account of their visit. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 217 / printed 202: Balthasar; calendar PDF 301 / printed 286. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lt",
+      "name": "Melchioras",
+      "spellings": [
+        "Melchioras"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-MGM-RARE",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "1964 calendar PDF 301 / printed 286 supplies exact Melchioras (Merkelis), while the proper-name dictionary uses Melchijoras/Melkijoras. Exact BTN page is user-submitted only. Seek an explicit scholarly bridge from exact Melchioras to the Hebrew/international family; do not silently merge spellings.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "1964 calendar PDF 301 / printed 286 supplies exact Melchioras (Merkelis), while the proper-name dictionary uses Melchijoras/Melkijoras. Exact BTN page is user-submitted only. Seek an explicit scholarly bridge from exact Melchioras to the Hebrew/international family; do not silently merge spellings.",
+      "next_steps": "1964 calendar PDF 301 / printed 286 supplies exact Melchioras (Merkelis), while the proper-name dictionary uses Melchijoras/Melkijoras. Exact BTN page is user-submitted only. Seek an explicit scholarly bridge from exact Melchioras to the Hebrew/international family; do not silently merge spellings."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lt",
+      "name": "Merkelis",
+      "spellings": [
+        "Merkelis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-VLE-MERKELIS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.vle.lt/straipsnis/merkelis-giedraitis/"
+      ],
+      "facts_used": "Salys’s historical calendar explicitly gives Merkelis as a short form of Melchioras. This is a documented Lithuanian full-name relationship; it does not depend on interpreting the letters of Merkelis as separate Lithuanian words. A historical bearer was Merkelis Giedraitis, born about 1536, bishop of Samogitia from 1576. He financed Daukša’s Lithuanian Postilė of 1599. The 1964 calendar later prints Melchioras (Merkelis) on 6 January; it is not the name’s first use.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Calendar PDF 301 / printed 286: Melchioras (Merkelis); VLE opening biography and Daukša paragraph. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lt",
+      "name": "Arenas",
+      "spellings": [
+        "Arenas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "No exact personal-name etymology verified. Common-word/place-name hits do not supply a given-name bridge. Seek a scholarly entry and dated exact bearer.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact personal-name etymology verified. Common-word/place-name hits do not supply a given-name bridge. Seek a scholarly entry and dated exact bearer.",
+      "next_steps": "No exact personal-name etymology verified. Common-word/place-name hits do not supply a given-name bridge. Seek a scholarly entry and dated exact bearer."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "lt",
+      "name": "Arene",
+      "spellings": [
+        "Arene"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-EISEN-TOLL"
+      ],
+      "sources": [
+        "https://www.etera.ee/api/oai2/download/9493.pdf"
+      ],
+      "facts_used": "No exact Lithuanian personal-name derivation found. Do not replace this spelling with Arenė or use an Estonian common-word hit. Seek exact form and history.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact Lithuanian personal-name derivation found. Do not replace this spelling with Arenė or use an Estonian common-word hit. Seek exact form and history.",
+      "next_steps": "No exact Lithuanian personal-name derivation found. Do not replace this spelling with Arenė or use an Estonian common-word hit. Seek exact form and history."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "ee",
+      "name": "Aabel",
+      "spellings": [
+        "Aabel"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi directs Aabel to Abel and Hebrew Hevel. He calls the original meaning uncertain, distinguishing later explanations involving breath, vapour and transience. The popular claim that Aabel is simply a short form of Abraham is not his analysis. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 11–12 / printed 13–14. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "ee",
+      "name": "Aabi",
+      "spellings": [
+        "Aabi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "No exact independent derivation found in dictionary/cache. Seek an exact full-name correspondence and dated use; do not transfer Aabo/Aapo/Aap evidence.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact independent derivation found in dictionary/cache. Seek an exact full-name correspondence and dated use; do not transfer Aabo/Aapo/Aap evidence.",
+      "next_steps": "No exact independent derivation found in dictionary/cache. Seek an exact full-name correspondence and dated use; do not transfer Aabo/Aapo/Aap evidence."
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "ee",
+      "name": "Aabo",
+      "spellings": [
+        "Aabo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Aabo has more than one documented full-name connection. Mägiste compares Aabo/Aabu with Aabram and Aabel; Rajandi instead favours Abraham and Fabian for this short-name group. The sources do not select one universal origin for every bearer. Aabo is already printed in Mägiste’s 1929 list. Rajandi’s 1966 dictionary later preserves the competing analyses. These dated treatments show the short name’s scholarly history without pretending that an earlier full name dates every local Aabo.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 11–12 / printed 13–14; Mägiste PDF 23 / printed 21. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "ee",
+      "name": "Aapo",
+      "spellings": [
+        "Aapo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi explicitly identifies Aapo as a Finnish short form of Abraham and equates it with Aabo in the index. This supplies a full-name and borrowing-language relationship, without selecting a disputed literal translation of Abraham. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 12 / printed 14; index PDF 189 / printed 191. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-06",
+      "date": "2026-11-12",
+      "calendar_date": "01-06",
+      "country": "ee",
+      "name": "Aap",
+      "spellings": [
+        "Aap"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi places Aap with short names which he connects more readily to Abraham and Fabian. His separate Aape → Abel reference concerns another spelling. Aap’s history therefore preserves alternatives rather than inheriting Aape’s origin automatically. The index of his 1966 book gives Aap with the locator Trt 62, a Tartu record of 1962. That is a dated record for the exact short spelling. It is not a claim that the name was created in that year or that every bearer chose the same full-name association.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 12 / printed 14; index PDF 189 / printed 191, Trt 62. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

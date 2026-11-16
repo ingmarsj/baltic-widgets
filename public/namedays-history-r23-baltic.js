@@ -184,15 +184,15 @@ export const historiesEstonianR23={
     "text": {
       "lv": [
         "Leemet ir latīņu Clemens igauņu pielāgojums. Šo saikni tieši norāda gan igauņu valodas šķirklis, gan Mārjas Kallasmas pētījums. Latīņu clemens nozīmē «maigs, žēlsirdīgs». Tādēļ vārda līdzība ar vietējiem Lemb- vārdiem pati par sevi nedod citu pierādītu sakni.",
-        "Mēgistes 1929. gada krājuma vīriešu sarakstā tieši Leemet salīdzināts ar Clemet, Clement un Kleement. Arī pašvaldības laikraksts «Leole» 2005. gada novembrī Leemet un Leemo saista ar Clemens. Šie drukātie piemēri dokumentē vārdu saimi, nevis kāda bērna pirmo reģistrāciju."
+        "1929. gada krājuma vīriešu sarakstā tieši Leemet salīdzināts ar Clemet, Clement un Kleement. Arī pašvaldības laikraksts «Leole» 2005. gada novembrī Leemet un Leemo saista ar Clemens. Šie drukātie piemēri dokumentē vārdu saimi, nevis kāda bērna pirmo reģistrāciju."
       ],
       "ru": [
         "Leemet — эстонское освоение латинского Clemens. Связь прямо указывают и эстонская словарная статья, и исследование Марьи Калласмаа. Латинское clemens означает «мягкий, милосердный». Сходство с местными именами на Lemb- само по себе не даёт другой доказанной основы.",
-        "В мужском списке собрания Мягисте 1929 года точное Leemet сопоставлено с Clemet, Clement и Kleement. Муниципальная газета «Leole» в ноябре 2005 года тоже связывает Leemet и Leemo с Clemens. Это печатные свидетельства семьи имён, а не первая регистрация какого-либо ребёнка."
+        "В мужском списке собрания 1929 года точное Leemet сопоставлено с Clemet, Clement и Kleement. Муниципальная газета «Leole» в ноябре 2005 года тоже связывает Leemet и Leemo с Clemens. Это печатные свидетельства семьи имён, а не первая регистрация какого-либо ребёнка."
       ],
       "en": [
         "Leemet is an Estonian adaptation of Latin Clemens, explicitly identified in both the Estonian dictionary entry and Marja Kallasmaa’s study. Latin clemens means gentle or merciful. Resemblance to local Lemb- names therefore does not itself establish a different root.",
-        "Mägiste’s 1929 masculine list directly compares Leemet with Clemet, Clement and Kleement. The municipal newspaper Leole also connects Leemet and Leemo with Clemens in November 2005. These printed examples document the name family rather than any child’s first registration."
+        "the 1929 masculine list directly compares Leemet with Clemet, Clement and Kleement. The municipal newspaper Leole also connects Leemet and Leemo with Clemens in November 2005. These printed examples document the name family rather than any child’s first registration."
       ],
       "lt": [
         "Leemet yra estiškas lotynų Clemens adaptavimas. Ryšį tiesiogiai nurodo ir estų žodyno straipsnis, ir Marja Kallasmaa tyrimas. Lotynų clemens reiškia „švelnus, gailestingas“. Panašumas į vietinius Lemb- vardus savaime neįrodo kitos šaknies.",

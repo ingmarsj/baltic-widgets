@@ -152,19 +152,19 @@ export const historiesEstonianR45={
     "text": {
       "lv": [
         "Kulla: Igauņu vārdu saista ar kuld, «zelts», un īpašības apzīmējumu «zeltains». Mēgiste dod salīdzinājumu ar kuld, bet vēlākā vietējā sleja skaidro vārdu kā «zeltains». Tā ir dokumentēta vietējā leksiskā saikne.",
-        "Mēgistes 1929. gada vārdu saraksta 15. lappusē ir Kulla ar salīdzinājumu ar kuld. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 15. lappusē ir Kulla ar salīdzinājumu ar kuld. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Kulla: Эстонское имя связано с kuld «золото» и определением «золотой». Мягисте даёт сопоставление с kuld, а более поздняя местная колонка объясняет имя как «золотой». Эта местная лексическая связь документирована.",
-        "На странице 15 списка имён Мягисте 1929 года приведено Kulla с сопоставлением с kuld. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 15 списка имён 1929 года приведено Kulla с сопоставлением с kuld. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Kulla: The Estonian name is connected with kuld, gold, and the description golden. Mägiste compares it with kuld, while the later local column explains it as golden. This local lexical connection is documented.",
-        "Page 15 of Mägiste’s 1929 name list gives Kulla with a comparison to kuld. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 15 of the 1929 name list gives Kulla with a comparison to kuld. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Kulla: Estų vardas siejamas su kuld „auksas“ ir apibūdinimu „auksinis“. Mägiste pateikia palyginimą su kuld, o vėlesnė vietinė skiltis aiškina vardą kaip „auksinis“. Šis vietinis leksinis ryšys dokumentuotas.",
-        "Mägiste 1929 metų vardų sąrašo 15 puslapyje pateikiamas Kulla su palyginimu su kuld. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 15 puslapyje pateikiamas Kulla su palyginimu su kuld. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Kulla: Eesti nimi seostub sõnaga kuld ja omadusekirjeldusega kuldne. Mägiste võrdleb nime sõnaga kuld, hilisem kohalik nimeveerg seletab seda kujul kuldne. See kohalik sõnaseos on dokumenteeritud.",

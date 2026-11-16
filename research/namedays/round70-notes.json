@@ -1,0 +1,598 @@
+{
+  "round": 70,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-03: researched all 21 unfinished LV/LT/EE profiles before advancing. 14 histories written including one exact-form recheck for 1 January; 8 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Miervaldis",
+      "spellings": [
+        "Miervaldis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Miervaldis"
+      ],
+      "facts_used": "The catalogue explains Miervaldis through Latvian miers «peace» + valdīt «to rule». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1874 (dictionary page 238). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The catalogue's possible thirteenth-century comparison is not accepted as a securely attested exact modern spelling. Checked location: Siliņš catalogue, dictionary p. 238. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Miervalda",
+      "spellings": [
+        "Miervalda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-ALL93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Miervalda",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/"
+      ],
+      "facts_used": "Catalogue says exact form lacks a direct etymological basis and only links Miervaldis. Seek an explicit feminine correspondence and dated exact use; do not transfer the masculine calendar or medieval comparison.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue says exact form lacks a direct etymological basis and only links Miervaldis. Seek an explicit feminine correspondence and dated exact use; do not transfer the masculine calendar or medieval comparison.",
+      "next_steps": "Catalogue says exact form lacks a direct etymological basis and only links Miervaldis. Seek an explicit feminine correspondence and dated exact use; do not transfer the masculine calendar or medieval comparison."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Ringolds",
+      "spellings": [
+        "Ringolds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ringolds"
+      ],
+      "facts_used": "The catalogue explains Ringolds through Reinholds: Old High German ragin «counsel» + waltan «to rule». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1873; calendar 1895 (dictionary page 274). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 274. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Ambrozijs",
+      "spellings": [
+        "Ambrozijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ambrozijs"
+      ],
+      "facts_used": "The catalogue explains Ambrozijs through Greek ambrosios «immortal». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a possible historical detail: calendar 1767 (dictionary page 54). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Calendar 1767 remains possible; the catalogue's food-of-the-gods noun discussion is not turned into a different derivation. Checked location: Siliņš catalogue, dictionary p. 54. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Ammonārija",
+      "spellings": [
+        "Ammonārija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ammon%C4%81rija"
+      ],
+      "facts_used": "Catalogue and private cache have no exact origin. Seek an exact dictionary entry, distinguishing Ammonaria and Ammunārija, and a dated Latvian record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue and private cache have no exact origin. Seek an exact dictionary entry, distinguishing Ammonaria and Ammunārija, and a dated Latvian record.",
+      "next_steps": "Catalogue and private cache have no exact origin. Seek an exact dictionary entry, distinguishing Ammonaria and Ammunārija, and a dated Latvian record."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Ammunārija",
+      "spellings": [
+        "Ammunārija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ammun%C4%81rija"
+      ],
+      "facts_used": "Catalogue and private cache have no exact origin. Seek an exact full-form correspondence rather than merging the different o/u spellings; establish a dated Latvian use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue and private cache have no exact origin. Seek an exact full-form correspondence rather than merging the different o/u spellings; establish a dated Latvian use.",
+      "next_steps": "Catalogue and private cache have no exact origin. Seek an exact full-form correspondence rather than merging the different o/u spellings; establish a dated Latvian use."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Mežvaldis",
+      "spellings": [
+        "Mežvaldis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Me%C5%BEvaldis"
+      ],
+      "facts_used": "The catalogue explains Mežvaldis through Latvian mežs «forest» + valdīt «to rule». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a possible historical detail: third quarter of the twentieth century (dictionary page 238). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 238. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Mieriņš",
+      "spellings": [
+        "Mieriņš"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Mieri%C5%86%C5%A1"
+      ],
+      "facts_used": "The catalogue explains Mieriņš through Latvian miers «peace». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1782 (dictionary page 238). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The separate possible 1900 attestation is not asserted as a secure first use. Checked location: Siliņš catalogue, dictionary p. 238. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Miermīlis",
+      "spellings": [
+        "Miermīlis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Mierm%C4%ABlis"
+      ],
+      "facts_used": "The catalogue explains Miermīlis through Latvian miers «peace» + mīlēt «to love». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1908 (dictionary page 238). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The possible 1925 bearer record is not promoted to a secure first use. Checked location: Siliņš catalogue, dictionary p. 238. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Miernesis",
+      "spellings": [
+        "Miernesis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Miernesis"
+      ],
+      "facts_used": "The catalogue explains Miernesis through Latvian miers «peace» + nest «to carry». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1879 (dictionary page 238). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The possible 1922 attestation is not treated as the name's creation. Checked location: Siliņš catalogue, dictionary p. 238. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Miervalds",
+      "spellings": [
+        "Miervalds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Miervalds"
+      ],
+      "facts_used": "Catalogue gives only Miervaldis see-also and no exact form. Find an explicit missing-i correspondence and dated use; do not borrow Miervaldis dates.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue gives only Miervaldis see-also and no exact form. Find an explicit missing-i correspondence and dated use; do not borrow Miervaldis dates.",
+      "next_steps": "Catalogue gives only Miervaldis see-also and no exact form. Find an explicit missing-i correspondence and dated use; do not borrow Miervaldis dates."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Ringla",
+      "spellings": [
+        "Ringla"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ringla"
+      ],
+      "facts_used": "No exact onomastic evidence in catalogue or cache. Seek an exact Latvian name entry and dated bearer; do not infer from Ringolds or German ring.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact onomastic evidence in catalogue or cache. Seek an exact Latvian name entry and dated bearer; do not infer from Ringolds or German ring.",
+      "next_steps": "No exact onomastic evidence in catalogue or cache. Seek an exact Latvian name entry and dated bearer; do not infer from Ringolds or German ring."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Ringo",
+      "spellings": [
+        "Ringo"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-LEOLE05",
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ringo",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_11_november.pdf",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Catalogue gives no origin; Estonian newspaper hits are unrelated to a Latvian etymology. Seek an exact Latvian name-family bridge and historical episode, distinguishing the international stage name.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue gives no origin; Estonian newspaper hits are unrelated to a Latvian etymology. Seek an exact Latvian name-family bridge and historical episode, distinguishing the international stage name.",
+      "next_steps": "Catalogue gives no origin; Estonian newspaper hits are unrelated to a Latvian etymology. Seek an exact Latvian name-family bridge and historical episode, distinguishing the international stage name."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lv",
+      "name": "Rinolds",
+      "spellings": [
+        "Rinolds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Rinolds"
+      ],
+      "facts_used": "The catalogue explains Rinolds through Reinholds: Old High German ragin «counsel» + waltan «to rule». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Kuldīga, second quarter of the twentieth century (dictionary page 275). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 275. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lt",
+      "name": "Vida",
+      "spellings": [
+        "Vida"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05",
+        "INT-BTN-VIDAS",
+        "LT-SALYS83",
+        "LV-LVA-EN06",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_11_november.pdf",
+        "https://www.behindthename.com/name/vidas",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "Curated Vidas entry identifies Vida as its feminine form, while Salys PDF 284 classifies Vida with common-word formations. Exact etymological route is not selected. Attempted VLE vida-kelertiene page returned 404 and supplied no bearer evidence. Seek an exact Lithuanian analysis and independent dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Curated Vidas entry identifies Vida as its feminine form, while Salys PDF 284 classifies Vida with common-word formations. Exact etymological route is not selected. Attempted VLE vida-kelertiene page returned 404 and supplied no bearer evidence. Seek an exact Lithuanian analysis and independent dated use.",
+      "next_steps": "Curated Vidas entry identifies Vida as its feminine form, while Salys PDF 284 classifies Vida with common-word formations. Exact etymological route is not selected. Attempted VLE vida-kelertiene page returned 404 and supplied no bearer evidence. Seek an exact Lithuanian analysis and independent dated use."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lt",
+      "name": "Viltautas",
+      "spellings": [
+        "Viltautas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys places Viltautas among Lithuanian two-stem names: Vil- is linked to viltis, “hope”, and Taut- to tauta, “people, nation”. These are element meanings, rather than a fixed translation of the whole name. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 278 / printed 263; PDF 296 / printed 281; PDF 298 / printed 283; calendar PDF 301 / printed 286. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "lt",
+      "name": "Vyda",
+      "spellings": [
+        "Vyda"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys’s calendar records Vyda both independently and as a short form of Vydgaila. The explicit short-name relationship is one documented context; it does not establish a single full name behind every Vyda or identify it with Vida. In the historical 1964 calendar, the independent Vyda is on 3 January; Vydgaila (Vyda) is on 10 February. Both contexts matter when reading the name’s history. They do not change the date in the present calendar.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 301 / printed 286, PDF 302 / printed 287. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "ee",
+      "name": "Gerhard",
+      "spellings": [
+        "Gerhard"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi analyses Gerhard through the old German words for “spear” and “strong”. The name belongs to a wider family that also produced short names; the full form and the short forms have separate histories of use. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 64–65 / printed 66–67. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "ee",
+      "name": "Gert",
+      "spellings": [
+        "Gert"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi lists masculine Gert as a short form of Gerhard, whose older elements mean “spear” and “strong”. He also records feminine Gert in a different naming context. The two uses should not be assigned the same history or statistics. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 64–65 / printed 66–67. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "ee",
+      "name": "Keerdo",
+      "spellings": [
+        "Keerdo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 64 / printed 66 includes Keerdo among Gerhard-family forms now mainly occurring as surnames, rarely as masculine names. No independently dated exact given-name bearer is provided. Find an exact given-name episode; do not transfer Kert's 1564 record or surname evidence.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi PDF 64 / printed 66 includes Keerdo among Gerhard-family forms now mainly occurring as surnames, rarely as masculine names. No independently dated exact given-name bearer is provided. Find an exact given-name episode; do not transfer Kert's 1564 record or surname evidence.",
+      "next_steps": "Rajandi PDF 64 / printed 66 includes Keerdo among Gerhard-family forms now mainly occurring as surnames, rarely as masculine names. No independently dated exact given-name bearer is provided. Find an exact given-name episode; do not transfer Kert's 1564 record or surname evidence."
+    },
+    {
+      "batch": "calendar-2027-01-03",
+      "date": "2026-11-12",
+      "calendar_date": "01-03",
+      "country": "ee",
+      "name": "Kert",
+      "spellings": [
+        "Kert"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi discusses masculine Kert within the Gerhard short-name family. He also distinguishes an older feminine calendar use connected with Gertrud. The same spelling can therefore belong to different full-name traditions. He cites masculine Kert in Järvamaa in 1564. The old feminine calendar context instead belongs to Gertrud’s day on 17 March. His 1966 book preserves both, rather than using one dated example as proof for every occurrence of Kert.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 64–65 / printed 66–67. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lt",
+      "name": "Arvaidė",
+      "spellings": [
+        "Arvaidė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS11",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Pakerys explicitly compares the feminine Arvaidė with Arvaidas. Salys links Ar- with ar, “also”, and the Vaid-/Vyd- group with seeing. The feminine correspondence is documented, without making a literal sentence from the elements. The exact spelling appears in the 2011 study of feminine names alongside Arvaida and Arvaidà. This dates a scholarly record of Arvaidė itself. Calendar dates and early records attached to the masculine Arvaidas are separate evidence.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "An accented original-page reading supplies the exact feminine bridge missing in round 68; the original exact-spelling text search missed its accent marks. No masculine calendar/first-use date is transferred. Checked location: Pakerys PDF 8 / printed 97; Salys PDF 285 / printed 270, PDF 297 / printed 282, PDF 298 / printed 283. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": "",
+      "recheck_of_round": 68
+    }
+  ]
+}

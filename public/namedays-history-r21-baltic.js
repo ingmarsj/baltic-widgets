@@ -125,15 +125,15 @@ export const historiesEstonianR21={
     "text": {
       "lv": [
         "Pilvi igauņu valodas šķirklis to skaidro no pilv, «mākonis». Tas ir dabas tēlā balstīts sievietes personvārds. Tāds pats rakstījums sastopams arī somu valodā, taču katras valodas lietojuma vēsture jāaplūko atsevišķi.",
-        "Mēgistes 1929. gada igauņu vārdu krājuma sieviešu sarakstā jau iespiests tieši Pilvi. Šī datētā liecība ir agrāka par dažkārt somu vārdam doto 20. gadsimta vidus raksturojumu. Tā apliecina igauņu formas klātbūtni 1929. gada izdevumā, nenosakot tās pašu pirmo lietojumu."
+        "1929. gada igauņu vārdu krājuma sieviešu sarakstā jau iespiests tieši Pilvi. Šī datētā liecība ir agrāka par dažkārt somu vārdam doto 20. gadsimta vidus raksturojumu. Tā apliecina igauņu formas klātbūtni 1929. gada izdevumā, nenosakot tās pašu pirmo lietojumu."
       ],
       "ru": [
         "Эстонская словарная статья Pilvi объясняет его через pilv «облако». Это женское личное имя с природным образом в основе. Такое же написание встречается в финском языке, однако историю употребления в каждом языке следует рассматривать отдельно.",
-        "В женском списке эстонского собрания имён Мягисте 1929 года уже напечатано именно Pilvi. Это свидетельство раньше характеристики середины XX века, которую иногда дают финскому имени. Оно подтверждает эстонскую форму в издании 1929 года, не устанавливая её самое первое употребление."
+        "В женском списке эстонского собрания имён 1929 года уже напечатано именно Pilvi. Это свидетельство раньше характеристики середины XX века, которую иногда дают финскому имени. Оно подтверждает эстонскую форму в издании 1929 года, не устанавливая её самое первое употребление."
       ],
       "en": [
         "The Estonian dictionary entry derives Pilvi from pilv, cloud. It is a feminine personal name based on an image from nature. The same spelling also occurs in Finnish, but each language’s usage history needs to be considered separately.",
-        "Mägiste’s 1929 collection of Estonian names already prints exact Pilvi in its feminine list. This dated record precedes the mid-twentieth-century description sometimes given for the Finnish name. It establishes the Estonian form’s presence in the 1929 book without dating its very first use."
+        "the 1929 collection of Estonian names already prints exact Pilvi in its feminine list. This dated record precedes the mid-twentieth-century description sometimes given for the Finnish name. It establishes the Estonian form’s presence in the 1929 book without dating its very first use."
       ],
       "lt": [
         "Estų kalbos žodyno straipsnis Pilvi aiškina iš pilv „debesis“. Tai gamtos vaizdiniu paremtas moteriškas asmenvardis. Tokia pati rašyba pasitaiko ir suomių kalboje, tačiau kiekvienos kalbos vartojimo istoriją reikia nagrinėti atskirai.",
@@ -154,15 +154,15 @@ export const historiesEstonianR21={
     "text": {
       "lv": [
         "Pilve igauņu valodas šķirklī dots kā sievietes personvārds no pilv, «mākonis», līdzās saistītajam Pilvi. Tātad dabas tēla skaidrojums attiecas tieši uz šo igauņu vārdu. To nav nepieciešams pamatot ar līdzīgi rakstītu uzvārdu vai nejaušu sakritību citā valodā.",
-        "Šīs vārdu saimes vēsturei konkrētu atskaites punktu dod Mēgistes 1929. gada krājums: tur sieviešu sarakstā ir saistītais Pilvi. Tas ir radniecīgās formas piemērs, nevis šeit pārbaudīts Pilve ieraksts. Abu rakstību nošķiršana ļauj saglabāt vēsturiskās liecības precīzo robežu."
+        "Šīs vārdu saimes vēsturei konkrētu atskaites punktu dod 1929. gada krājums: tur sieviešu sarakstā ir saistītais Pilvi. Tas ir radniecīgās formas piemērs, nevis šeit pārbaudīts Pilve ieraksts. Abu rakstību nošķiršana ļauj saglabāt vēsturiskās liecības precīzo robežu."
       ],
       "ru": [
         "Эстонская статья Pilve определяет его как женское личное имя от pilv «облако», рядом с родственным Pilvi. Поэтому природный образ относится именно к этому эстонскому имени. Для объяснения не требуется привлекать похожую фамилию или случайное совпадение в другом языке.",
-        "Конкретную веху истории этой семьи даёт собрание Мягисте 1929 года: в женском списке там есть родственное Pilvi. Это пример связанной формы, а не проверенная здесь запись Pilve. Различение написаний позволяет сохранить точные границы исторического свидетельства."
+        "Конкретную веху истории этой семьи даёт собрание 1929 года: в женском списке там есть родственное Pilvi. Это пример связанной формы, а не проверенная здесь запись Pilve. Различение написаний позволяет сохранить точные границы исторического свидетельства."
       ],
       "en": [
         "The Estonian Pilve entry identifies a feminine personal name from pilv, cloud, alongside related Pilvi. The nature-based explanation thus applies to this exact Estonian name. It does not require a similarly written surname or an accidental resemblance in another language.",
-        "Mägiste’s 1929 collection gives this family a concrete historical reference: its feminine list includes related Pilvi. This is an example of the related form, not a Pilve record verified here. Keeping the spellings distinct preserves the historical evidence’s exact scope."
+        "the 1929 collection gives this family a concrete historical reference: its feminine list includes related Pilvi. This is an example of the related form, not a Pilve record verified here. Keeping the spellings distinct preserves the historical evidence’s exact scope."
       ],
       "lt": [
         "Estų kalbos Pilve straipsnyje jis pateiktas kaip moteriškas asmenvardis iš pilv „debesis“, greta giminingo Pilvi. Taigi gamtos vaizdinio aiškinimas skirtas būtent šiam estiškam vardui. Jo nereikia grįsti panašiai rašoma pavarde ar atsitiktiniu kitos kalbos sutapimu.",

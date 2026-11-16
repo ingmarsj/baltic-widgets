@@ -1,0 +1,454 @@
+{
+  "round": 135,
+  "date": "2026-11-16",
+  "writer_version": "namedays-1.9.112",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 1056,
+      "local_profiles_after": 1062,
+      "local_exact_links_added": 34,
+      "new_exact_person_profile_links": 38,
+      "with_exact_namesakes": 1792,
+      "with_five_local": 357,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": [
+        {
+          "name": "Karīna",
+          "before": 3,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q97441437",
+              "name": "Karīna Helmane-Soročenkova"
+            },
+            {
+              "id": "Q16359682",
+              "name": "Karīna Korna"
+            },
+            {
+              "id": "Q42269316",
+              "name": "Karīna Tatarinova"
+            }
+          ]
+        },
+        {
+          "name": "Karina",
+          "before": 3,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q58371517",
+              "name": "Karina Sprūde"
+            },
+            {
+              "id": "Q97441437",
+              "name": "Karīna Helmane-Soročenkova"
+            },
+            {
+              "id": "Q42269416",
+              "name": "Karina Lučiņina"
+            }
+          ]
+        },
+        {
+          "name": "Karinē",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q130245626",
+              "name": "Karinē Paronjanca"
+            }
+          ]
+        },
+        {
+          "name": "Lūkass",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q116009688",
+              "name": "Lūkass Vapne"
+            },
+            {
+              "id": "Q116206586",
+              "name": "Lūkass Krasts"
+            }
+          ]
+        },
+        {
+          "name": "Severīns",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q138535345",
+              "name": "Severīns Aleksandrs Jensens"
+            }
+          ]
+        },
+        {
+          "name": "Renāte",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q7313858",
+              "name": "Renāte Lāce"
+            },
+            {
+              "id": "Q19957761",
+              "name": "Renāte Fedotova"
+            },
+            {
+              "id": "Q140508137",
+              "name": "Renāte Pupele"
+            }
+          ]
+        },
+        {
+          "name": "Beatrise",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q115162079",
+              "name": "Beatrise Zeltiņa"
+            },
+            {
+              "id": "Q97230208",
+              "name": "Beatrise Zaķe"
+            }
+          ]
+        },
+        {
+          "name": "Lilita",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q4332234",
+              "name": "Lilita Ozoliņa"
+            },
+            {
+              "id": "Q2082542",
+              "name": "Lilita Bērziņa"
+            },
+            {
+              "id": "Q20566441",
+              "name": "Lilita Zatlere"
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 672,
+      "local_profiles_after": 678,
+      "local_exact_links_added": 12,
+      "new_exact_person_profile_links": 13,
+      "with_exact_namesakes": 728,
+      "with_five_local": 349,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": [
+        {
+          "name": "Modesta",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q13869459",
+              "name": "Modesta Vžesniauskaitė"
+            },
+            {
+              "id": "Q98150247",
+              "name": "Modesta Justė Morauskaitė"
+            },
+            {
+              "id": "Q130993706",
+              "name": "Modesta Petrauskaitė"
+            }
+          ]
+        },
+        {
+          "name": "Kristinas",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q2976539",
+              "name": "Kristinas Astikas"
+            }
+          ]
+        },
+        {
+          "name": "Zacharijas",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q16477358",
+              "name": "Zacharijas Blotnas"
+            }
+          ]
+        },
+        {
+          "name": "Darija",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q140898086",
+              "name": "Darija Mikuckytė"
+            }
+          ]
+        },
+        {
+          "name": "Krizantas",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q12661466",
+              "name": "Krizantas Juknevičius"
+            }
+          ]
+        },
+        {
+          "name": "Gotautė",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q20503328",
+              "name": "Gotautė Kalmatavičiūtė"
+            }
+          ]
+        },
+        {
+          "name": "Uršulė",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q16474615",
+              "name": "Uršulė Čapienė"
+            },
+            {
+              "id": "Q86003477",
+              "name": "Uršulė Tamošiūnaitė"
+            }
+          ]
+        },
+        {
+          "name": "Hubertas",
+          "before": 1,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q12656528",
+              "name": "Hubertas Grušnys"
+            },
+            {
+              "id": "Q4093760",
+              "name": "Hubertas Borisa"
+            },
+            {
+              "id": "Q12656526",
+              "name": "Hubertas Smilgys"
+            }
+          ]
+        }
+      ]
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 1029,
+      "local_profiles_after": 1033,
+      "local_exact_links_added": 14,
+      "new_exact_person_profile_links": 14,
+      "with_exact_namesakes": 1110,
+      "with_five_local": 541,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": [
+        {
+          "name": "Nele",
+          "before": 2,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q57543177",
+              "name": "Nele Põldver"
+            },
+            {
+              "id": "Q138265892",
+              "name": "Nele Esna"
+            },
+            {
+              "id": "Q12370948",
+              "name": "Nele Ingerpuu"
+            }
+          ]
+        },
+        {
+          "name": "Teodor",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q3736167",
+              "name": "Teodor Lippmaa"
+            },
+            {
+              "id": "Q7701066",
+              "name": "Teodor Ussisoo"
+            },
+            {
+              "id": "Q12376737",
+              "name": "Teodor Kalberg"
+            }
+          ]
+        },
+        {
+          "name": "Mardi",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q17447320",
+              "name": "Mardi Valgemäe"
+            }
+          ]
+        },
+        {
+          "name": "Luukas",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q110776776",
+              "name": "Luukas Kristjan Ilves"
+            }
+          ]
+        },
+        {
+          "name": "Lui",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q16405865",
+              "name": "Lui Olesk"
+            },
+            {
+              "id": "Q16406613",
+              "name": "Lui Jaanson"
+            },
+            {
+              "id": "Q65258293",
+              "name": "Lui Lätt"
+            }
+          ]
+        },
+        {
+          "name": "Stella",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q29053731",
+              "name": "Stella Ernesaks"
+            },
+            {
+              "id": "Q12375348",
+              "name": "Stella Kalkun"
+            },
+            {
+              "id": "Q16406487",
+              "name": "Stella Pahapill"
+            }
+          ]
+        },
+        {
+          "name": "Leevi",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q12368421",
+              "name": "Leevi Häng"
+            },
+            {
+              "id": "Q124152246",
+              "name": "Leevi Mölder"
+            },
+            {
+              "id": "Q29419915",
+              "name": "Leevi Reinaru"
+            }
+          ]
+        },
+        {
+          "name": "Eili",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q16408457",
+              "name": "Eili Sild"
+            },
+            {
+              "id": "Q125247368",
+              "name": "Eili Neuhaus"
+            },
+            {
+              "id": "Q124306343",
+              "name": "Eili Soon"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "reused_lithuanian_citizenship_rows": 5263,
+    "reused_estonian_citizenship_rows": 9035,
+    "new_birthplace_rows": {
+      "lv": 4389,
+      "lt": 5850,
+      "ee": 7594
+    },
+    "eligible_birthplace_rows": {
+      "lv": 1133,
+      "lt": 783,
+      "ee": 963
+    },
+    "local_query": "P31 human, birthplace P19 / country P17, native label, at least two Wikipedia sitelinks; LIMIT 20000 not reached. Select native first names with fewer than five local exact bearers in the pre-round snapshot."
+  },
+  "validation": {
+    "unit_tests": 145,
+    "static_build": "passed",
+    "browser": "Passed in the page module context after a cache-bypassing reload (writer 1.9.112): EE Regiina, Tereese, Tuudur and Helle show the round 135 Rajandi histories.",
+    "history_facts": "Person facts unchanged in all 8677 profiles; reviewed histories added through the round 135 history module",
+    "display": "All 9368 memberships preserve every previously displayed person and show five distinct birthday people below exact namesakes."
+  }
+}

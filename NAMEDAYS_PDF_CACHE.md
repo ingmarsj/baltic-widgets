@@ -1,5 +1,7 @@
 # Reusable name-history PDF index
 
+The same private cache also accepts HTML, structured JSON and bzip2-compressed CSV archives through `fetch`. JSON is retained verbatim and indexed as formatted searchable text; API error objects are rejected. Compressed CSV originals are retained, extracted once with `bzip2` on PATH, and indexed in groups of 500 lines. These search-page numbers are not PDF pages or CSV record numbers (quoted fields may span lines). For structured data, record exact IDs and column names rather than interpreting search-page numbers as source pagination. Round 116 uses this path for Pantheon and Wikidata; originals and extracted bulk data remain private.
+
 Read [NAMEDAYS_SOURCES.md](NAMEDAYS_SOURCES.md) first. Reuse a registered PDF before downloading or extracting it again. The cache is a private research aid; the public repository contains the tool and provenance, not books, scans or extracted full text.
 
 ## Index once
@@ -11,7 +13,7 @@ node scripts/nameday-source-cache.mjs index --id LT-SALYS83 --file ../var/nameda
 node scripts/nameday-source-cache.mjs search --id LT-SALYS83 --query Mantvinas --word true
 ```
 
-The index lives in `../var/namedays-sources/`, outside the portable repository. Each source ID has a manifest with its URL, title, SHA-256, parser version and PDF page count. Content-addressed objects retain the original PDF, UTF-8 text and NFC-normalized page JSON. Matching file bytes and parser version reuse the existing extraction even if the original filename changes or another source ID points to it. Changed bytes create a new object; old objects remain available. The tool does not fetch URLs. Download only publicly accessible materials that may be consulted; indexing grants no republication rights.
+The index lives in `../var/namedays-sources/`, outside the portable repository. Each source ID has a manifest with its URL, title, SHA-256, parser version and PDF page count. Content-addressed objects retain the original PDF, UTF-8 text and NFC-normalized page JSON. Matching file bytes and parser version reuse the existing extraction even if the original filename changes or another source ID points to it. Changed bytes create a new object; old objects remain available. The index command registers a local original; fetch downloads and registers a new URL or reuses a cached URL. Consult only publicly accessible materials; indexing grants no republication rights.
 
 Search preserves diacritics and searches case-insensitively. `--word true` excludes matches embedded in other words; omit it for discovery of inflections or OCR fragments. Search results give **one-based PDF pages**, not printed pages. An empty result is not proof of absence: extraction may lose accents, insert spaces or mistake glyphs. The tool rejects empty extraction.
 
@@ -63,3 +65,142 @@ The 12 November–25 December verification recheck (rounds 56–61) added **EE-R
 ## Save every new source automatically
 
 `node scripts/nameday-source-cache.mjs fetch --url URL [--id ID --title TITLE]` downloads a PDF or web page once, stores the original and its text under a content hash and registers it; a URL that is already cached (ignoring the `#page` fragment) is reused without a download. HTML pages are stored as one searchable page with their fetch date; challenge pages and errors are not cached. Without `--id`, the source gets an automatic `WEB-<host-path>` ID; promote productive sources to a stable directory ID. In Claude Code, the project hook `.claude/settings.json` (outside this repository, in the parent workspace) runs `scripts/nameday-fetch-hook.mjs` after every WebFetch, so pages opened during research are cached without a manual step; each attempt, including failures, is appended to `../var/namedays-sources/fetch-log.jsonl`. Other agents should call `fetch` themselves.
+
+
+## 26 December–1 January: URL reuse and exact spelling
+
+Rounds 62–68 reuse the registered originals and text for Salys, Pakerys, Mägiste, Rajandi and the English/Nordic rendering manuals. New HTML pages were saved with fetch. One reusable 16-page PDF was added: **LT-SINKEVICIUTE12**, Sinkevičiūtė’s study of names given in 2007–2010, *Kalbos kultūra* 84, pp. 214–229; no exact Gaja result was found and the publication year is left unverified. See the source directory for all visually checked PDF/printed locators and failed leads.
+
+For a cached URL, fetch --url URL --id STABLE-ID --title TITLE now registers the requested stable ID against the existing content object without downloading or extracting again. The old alias remains usable. An ID already assigned to a different URL causes an error before a request or write. Do not build IDs solely by removing Baltic diacritics: different spellings can collapse to the same ASCII string. Use a URL hash suffix or another explicitly distinct stable ID. Originals and extracted text stay private and content-addressed.
+
+The public index includes source IDs documented in the shared directory or round notes; unregistered working-page IDs stay in the private catalogue. HTML contributes searchable text but never to the cached-PDF page count. The private catalogue explicitly labels HTML versus PDF. A cache hit is a discovery aid, and aliases to one object are not independent corroborating sources.
+
+
+## 2–10 January: Armenian manual and accent/OCR checks
+
+Rounds 69–77 added one reusable original: **LV-LVA-ARM09**, Valda Salmiņa, *Armēņu īpašvārdu atveide latviešu valodā* (Riga, 2009), **192 PDF pages**. Original title/imprint at PDF 1–2 and the exact Arams/Արամ/Aram row at PDF/printed 102 were checked. It was fetched through the shared cache, indexed once, and remains outside the public repository. Existing Salys, Pakerys, Sinkevičiūtė, Rajandi, Mägiste and rendering manuals were reused without re-downloading.
+
+Diacritic-insensitive private discovery recovered Arvaidė in Pakerys’s accented 2011 text; the accepted spelling was then confirmed in the original PDF 8 / printed 97. Exact public spellings were not normalized to remove accents. Conversely, the extracted Talve on Mägiste AES PDF 26 visually reads **Valve**. The false hit is recorded in the directory and round 77, so it will not be researched again as new evidence. Search hits in surnames, place names, recommendations and birth registers retain those distinct scopes. Every new HTML reference and rejected submission page is also cached once and documented by stable ID.
+
+
+## 11–15 January: registered original and table/OCR distinctions
+
+Rounds78–82 reused registered originals and their extracted text. The existing private twelve-page r6-source-44 PDF was registered as **LT-MACIEJAUSKIENE04**, Vitalija Maciejauskienė, *Dar kartą apie lietuvių vardus*, *Kalbos kultūra77* (2004), pp84–95, with its repository URL. The content hash matched the already indexed object, so no download or re-extraction occurred. Productive original locations are PDF4/printed87 and PDF7/printed90.
+
+A linked **LV-LVKJ73** candidate fetched through the shared tool yielded no text; no accepted indexed-source manifest was created. Keep its original private for targeted visual/OCR work and reuse the saved failure information rather than fetching again. The Armenian2009 manual and English/Russian/Nordic manuals already in the cache supplied the exact accepted rows without new PDF downloads.
+
+Two important checks: Russian OCR missed Анисья→Aņisja on PDF76/printed183, while the original clearly confirms it. Conversely, the Swedish Felicia row on PDF204/printed327 prints Felīsia/*Felīsija; its asterisk cannot be discarded when evaluating the target spelling. The common word salvi in Rajandi PDF22 is not the name Salvi. All accepted locators and rejected contexts are recorded in the shared source directory and numeric round notes. New web originals, including negative botanical/submission/language-only leads, are cached once under stable IDs.
+
+## 26 January–4 February: round 93 reuse
+
+Round 93 reused the registered Salys, Rajandi, Mägiste, Pakerys, Maciejauskienė and English-rendering PDFs; no new PDF download was needed. Original pages were rendered privately to check diacritics, column alignment, grammatical labels and source spellings. New catalogue pages were fetched through the shared source-cache command, and productive pages received stable `LV-SILINS-<NAME>` cache IDs without downloading their originals again. The new Vytenis biography and the rejected botanical homonym were cached separately.
+
+Critical distinctions include Salys PDF 302 / printed 287 **Rimantas (Rimas)** rather than the OCR's Eimantas, Mägiste AES PDF 44 / printed 38 **Melete (1255)** rather than a modern Meelit first-attestation claim, and Rajandi PDF 209 / printed 211 **Meeland** in the left column rather than a false Michael relationship from the right column. The bracketed Armiida on Rajandi PDF 28 is pronunciation, not an independently documented written variant. Exact pages, outcomes and remaining gaps are recorded in `research/namedays/round93-notes.json` and the shared source directory. Raw originals, page images and extracted text remain private.
+
+## 5–14 February: round 94 reuse
+
+Round 94 reused the registered PDF originals and rendered the accepted pages privately; no new PDF download was needed. The theatre encyclopedia page and the negative Richie/Rick queries were cached with stable IDs. Productive Latvian catalogue URLs received stable LV-SILINS IDs by reusing the already cached originals. Exact searches were supplemented by accent-insensitive discovery for missed OCR forms such as Joviltas, Elvyra, Lijana, Lilijana and Ugnė; the original page, not the folded text, determines accepted spelling. Iko’s declension was checked against Mägiste’s introductory key, and Salys as a given name was distinguished from surname hits. The 1964 calendar’s Mantiminas is not silently substituted for Mantminas. Source details and failed leads are recorded in the shared directory and round 94 notes; all raw files remain private.
+
+## 15–24 February: round 95 reuse
+
+Round 95 reused registered cached originals and exact per-name searches, with accent-insensitive discovery checked against page images. Every new Latvian catalogue page was fetched through the shared cache CLI; productive URLs were assigned stable LV-SILINS IDs without downloading an already cached URL twice. No new PDF download was needed. The Eivinas/Elvinas OCR trap was rejected after inspecting the original; dated uses retain their exact spelling and regional or cohort scope. Source locations and failed leads are recorded in the shared directory and round 95 notes. Raw archives, extracted text and page images remain private.
+
+## 25 February reuse (round 96)
+
+No new PDF was downloaded or extracted. Original page images were inspected from LT-SALYS83 (PDF 116 / printed 101; PDF 303 / printed 288) and EE-RAJANDI66 (PDF 8 / printed 9; PDF 158 / printed 160; PDF 165 / printed 167). New catalogue HTML pages were cached privately with stable LV-SILINS IDs; these are attributed transcriptions, not inspection of the printed dictionary. Exact spellings and qualified dates retain their source scope.
+
+## 26 February–6 March reuse (round 97)
+
+No PDF was downloaded or extracted again. Reused original page images: LT-SALYS83 PDF 235/printed220, 303/288, 315/300, 233/218 and 304/289; EE-RAJANDI66 PDF 75/77, 28/30, 179/181, 222/224, 46/48 and 104/106; EE-MAGISTE29-AES PDF19/13 and21/15. Exact Gùstis and Novilas were recovered from the original despite failed unaccented text queries. Catalogue HTML pages were fetched or reused by URL through the shared cache tool; their private snapshots are not part of the public repository. The Lrytas fetch failure is recorded in the source directory and fetch log.
+
+## 7–21 March reuse and one new publisher preview (round 98)
+
+Registered originals were reused without downloading or extracting them again. Original page images were inspected from LT-SALYS83 PDF27/printed12,148/133,149/134,303/288,304/289,306/291,316/301,317/302,318/303,319/304; LT-PAKERYS11 PDF1/printed90; EE-RAJANDI66 PDF17/19,45/47,56/58,64/66,66/68,67/69,87/89,88/90,95/97,125/127,127/129,148/150,173/175,205/207,220/222; LV-ALL93 PDF5,7,8 (matching printed pages). Exact text-layer searches were supplemented by accent-insensitive discovery; acceptance still depends on the original page.
+
+One new eleven-page publisher preview was cached once as **LV-ZVAIGZNE-GEILA22-PDF** (SHA-256 aaee97709199e4ff5de5b467687e2b4c1cb99c32e2c6caae10dbb00cae3335c4). PDF2 was visually inspected for the Geila Bosa / Gayle Boss correspondence and Latvian 2022 edition date. Raw PDF, extracted text and images remain in the private cache. New HTML primary sources and exact catalogue entries use stable directory IDs; all downloads went through the cache CLI. See NAMEDAYS_SOURCES.md and research/namedays/round98-notes.json for source URLs, exact locations and rejected leads.
+
+## 22 March–5 April reuse and one primary volume (round 99)
+
+One new 186-page PDF was downloaded and extracted once: **LV-PLESUMA-BALODE13**, Valodas prakse8/2013, SHA-256 83326b7a744e8a9d11a62dcd29e83188bd1d44f3217a08365bb5bfb988a7141f. The first private alias ending12 was corrected to13 by cache reuse; it did not trigger another download or extraction. Original PDF3 establishes2013; PDF57/printed55 verifies authors/title; PDF63/61 establishes the corpus period and1 January2012 cutoff; PDF64/62 verifies Glauda; PDF75/73 distinguishes feminine Geda from the qualified Gēda proposal; PDF82/80 has exact Grācija. Raw volume, extracted text and page images stay private.
+
+Reused and visually checked originals: LT-SALYS83 PDF304/printed289,305/290,308/293,314/299,316/301,284/269; EE-RAJANDI66 PDF19/21,190/192,114/116,121/123,122/124,123/125,103/105,104/106,202/204,27/29,28/30,76/78,82/84,52/54,53/55,70/72,71/73,167/169,23/25; EE-MAGISTE29-AES PDF17/11,21/15,29/23,28/22. Salys PDF27/12 was also inspected as a discovery check but does not itself list Ginas in the short-name examples; the accepted Ginas relationship comes from the exact calendar entry. No recurring PDF was downloaded or extracted again. New HTML pages use cache fetch and stable source IDs. See NAMEDAYS_SOURCES.md and research/namedays/round99-notes.json for exact limits and failed leads.
+
+## 6–20 April cached reuse (round 100)
+
+No new PDF was acquired. Reused original pages are listed with PDF/printed pagination in the round100 section of [NAMEDAYS_SOURCES.md](NAMEDAYS_SOURCES.md); individual evidence and discovery limits are in [round100 notes](research/namedays/round100-notes.json). Existing PDFs were neither downloaded nor extracted again. Exact Latvian catalogue pages use the cache fetch command and stable IDs.
+
+The new **LV-LU-NAMEVARIATION** bitstream lead returned a short HTML security/CAPTCHA page, not a PDF. The response is cached once (SHA-256 1542adb0bdcd99ff0f20e98625e6703440773b76f3fe3e1ffa992b074ae27005); the intended study’s author, date and contents remain uninspected. It supplies no substantive evidence. No retry or access-control bypass was attempted. Raw originals, extracted text and page images remain private.
+
+Additional original pages visually inspected for round100: LV-PLESUMA-BALODE13 PDF62/printed60,63/61,64/62,65/63 and73/71; EE-RAJANDI66 PDF168/printed170. The primary2013 study supplies exact Orhideja, Floransa and Floriāns formation evidence with its historical register cutoff.
+
+## 21 April–5 May new acquisitions (round 101)
+
+New originals were cached once with `nameday-source-cache.mjs fetch` and are searchable: EE-OMAKEEL-2011-2-03 (10 pp.), EE-HUSSAR-2014-SLIDES (34 pp.), EE-ESELTS-NIMEDE-NIMEL-2026 (415 pp.), EE-REZOLD1869 (10 pp., Fraktur; text layer unusable, inspect page images), LT-VU-ELABA-115477061 (22 pp.), LT-VU-ELABA-231782682 (19 pp.), LT-PASAULIOLIETUVIS-RETI-VARDAI (8 pp.), LT-VU-ELABA-20206206 (10 pp.), LT-KUZAVINIS-KALBOTYRA-X (14 pp.), LT-VU-ELABA-4017487 (8 pp.) and EE-OMAKEEL-2016-2-14 (9 pp.). Reused originals (Salys, Rajandi) were not downloaded again. Page images were rendered with PyMuPDF because `pdftoppm` is not on the PATH of every shell; images remain private in `var/namedays-research/round101/`.
+
+## 6–10 May (round 102)
+
+No new PDF was acquired. Page images were rendered privately in var/namedays-research/round102/.
+
+## 11–15 May (round 103)
+
+No new PDF was acquired. Page images of LV-SILINS90 and LT-SALYS83 were rendered privately in var/namedays-research/round103/.
+
+## 16–25 May (round 104)
+
+No new PDF was acquired.
+
+## 26 May–4 June (round 105)
+
+No new PDF was acquired.
+
+## 5–14 June (round 106)
+
+No new PDF was acquired.
+
+## 15–24 June (round 107)
+
+No new PDF was acquired.
+
+## 25 June–4 July (round 108)
+
+No new PDF was acquired. Salys 1983 PDF310 was rendered privately for a visual transcription of the 1964 calendar list (30 June–18 July).
+
+## 5–14 July (round 109)
+
+No new PDF was acquired.
+
+## 15–24 July (round 110)
+
+No new PDF was acquired. Salys 1983 PDF311 was rendered privately for a visual transcription of the 1964 calendar list (19 July–4 August).
+
+## 25 July–3 August (round 111)
+
+No new PDF was acquired.
+
+
+### Calendar pass (round 112)
+
+The 4 August–2 September pass reuses existing cached originals and adds private page renders/enlargements in ../var/namedays-research/round112/. No book, raw download, page image or private downloader is copied into this repository. Exact original-page locations and claim limits are recorded in [round 112 notes](research/namedays/round112-notes.json). Siliņš printed = PDF − 3; Salys printed = PDF − 15; Rajandi printed = PDF + 2; the inspected Mägiste 1929/1936 pages use printed = PDF − 6.
+
+The LPVV Everts article is cached as JSON under LV-LPVV-258; its cache page 1 denotes a complete article, not a printed PDF page. Search it through the existing source-cache command before fetching anything again.
+
+
+### Calendar pass (round113)
+
+The 3 September–2 October pass reuses cached originals and page images. Private page renders, exact search sidecars, decision manifests and before-state snapshots are under ../var/namedays-research/round113/. Nothing from that private directory is copied to the public repository. No new book or web page was downloaded.
+
+Exact printed/PDF locations and claim limits are recorded in [round113 notes](research/namedays/round113-notes.json). Page offsets: Siliņš printed = PDF −3; Salys = PDF −15; Rajandi = PDF +2; inspected Mägiste 1929/1936 pages = PDF −6. Search results remain discovery leads until the original image is checked. The existing cache contains the raw LU person-name API archive and private downloader; they remain private.
+
+
+### Calendar pass (round114)
+
+The 3 October–1 November pass reuses cached originals and existing page images. Exact search sidecars, decisions, original-page renders and before-state snapshots remain private under ../var/namedays-research/round114/. No new book or page was downloaded. The LU API raw archive and downloader also remain outside the portable public repository.
+
+Per-profile page numbers and claim limits are recorded in [round114 notes](research/namedays/round114-notes.json). Offsets: Siliņš printed = PDF −3; Salys = PDF −15; Rajandi = PDF +2; inspected Mägiste 1929/1936 = PDF −6. Text searches and OCR/index matches are discovery leads, not original-image verification.
+
+
+### Calendar pass (round115)
+
+The final 2–11 November batch reuses cached originals and existing private page images. No new source was downloaded. Exact searches, decisions and before-state snapshots remain under ../var/namedays-research/round115/; the enlarged original Otomars/Otomārs check is private too. The LU downloader and raw API archive remain outside the public repository.
+
+The first annual pass now covers all 366 calendar dates including 29 February. See [round115 notes](research/namedays/round115-notes.json) for exact evidence locations and [annual audit](research/namedays/annual-pass1-audit.json) for date/membership accounting. A completed pass leaves unresolved histories in the verification backlog. Page offsets remain Siliņš −3, Salys −15, Rajandi +2, inspected Mägiste 1929/1936 −6.

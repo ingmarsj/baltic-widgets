@@ -125,19 +125,19 @@ export const historiesEstonianR43={
     "text": {
       "lv": [
         "Loviise: Šī forma pieder Louise/Louis saimei. Tās ģermāņu pamatā ir hlud jeb hlut, «slavens», un wig, «cīņa». Igauņu valodā pilnās un īsās formas ienākušas arī ar vācu un zviedru starpniecību, nevis tikai saglabājušas vienu nemainīgu rakstību.",
-        "Mēgistes 1929. gada vārdu saraksta 15. lappusē ir Loviise kā Lavis pilnā forma; tā atkārtojas arī pie Loovi. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 15. lappusē ir Loviise kā Lavis pilnā forma; tā atkārtojas arī pie Loovi. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Loviise: Эта форма относится к семье Louise/Louis. В её германской основе соединены hlud или hlut «славный» и wig «битва». В эстонский полные и краткие формы входили также через немецкий и шведский, меняя своё написание.",
-        "На странице 15 списка имён Мягисте 1929 года приведено Loviise как полная форма Lavis; она повторяется и при Loovi. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 15 списка имён 1929 года приведено Loviise как полная форма Lavis; она повторяется и при Loovi. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Loviise: This form belongs to the Louise/Louis family. Its Germanic base combines hlud or hlut, famous, with wig, battle. Estonian full and short forms also came through German and Swedish, changing their spelling along the way.",
-        "Page 15 of Mägiste’s 1929 name list gives Loviise as the full form of Lavis; it also recurs under Loovi. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 15 of the 1929 name list gives Loviise as the full form of Lavis; it also recurs under Loovi. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Loviise: Ši forma priklauso Louise/Louis šeimai. Germaniškame pamate jungiami hlud arba hlut „garsus“ ir wig „kova“. Estų pilnosios bei trumposios formos atėjo ir per vokiečių bei švedų kalbas, pakeliui keisdamos rašybą.",
-        "Mägiste 1929 metų vardų sąrašo 15 puslapyje pateikiamas Loviise kaip pilnoji Lavis forma; ji kartojama ir prie Loovi. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 15 puslapyje pateikiamas Loviise kaip pilnoji Lavis forma; ji kartojama ir prie Loovi. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Loviise: See kuju kuulub Louise’i/Louis’ perre. Germaani aluses liituvad hlud ehk hlut, kuulus, ja wig, võitlus. Eesti täis- ja lühikujud on tulnud ka saksa ja rootsi keele kaudu, muutes teel kirjapilti.",
@@ -185,19 +185,19 @@ export const historiesEstonianR43={
     "text": {
       "lv": [
         "Viise: Šī forma pieder Louise/Louis saimei. Tās ģermāņu pamatā ir hlud jeb hlut, «slavens», un wig, «cīņa». Igauņu valodā pilnās un īsās formas ienākušas arī ar vācu un zviedru starpniecību, nevis tikai saglabājušas vienu nemainīgu rakstību.",
-        "Mēgistes 1929. gada vārdu saraksta 20. lappusē ir Viise ar norādi uz Loviisa un dialekta formu. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 20. lappusē ir Viise ar norādi uz Loviisa un dialekta formu. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Viise: Эта форма относится к семье Louise/Louis. В её германской основе соединены hlud или hlut «славный» и wig «битва». В эстонский полные и краткие формы входили также через немецкий и шведский, меняя своё написание.",
-        "На странице 20 списка имён Мягисте 1929 года приведено Viise со ссылкой на Loviisa и диалектную форму. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 20 списка имён 1929 года приведено Viise со ссылкой на Loviisa и диалектную форму. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Viise: This form belongs to the Louise/Louis family. Its Germanic base combines hlud or hlut, famous, with wig, battle. Estonian full and short forms also came through German and Swedish, changing their spelling along the way.",
-        "Page 20 of Mägiste’s 1929 name list gives Viise with a link to Loviisa and a dialectal label. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 20 of the 1929 name list gives Viise with a link to Loviisa and a dialectal label. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Viise: Ši forma priklauso Louise/Louis šeimai. Germaniškame pamate jungiami hlud arba hlut „garsus“ ir wig „kova“. Estų pilnosios bei trumposios formos atėjo ir per vokiečių bei švedų kalbas, pakeliui keisdamos rašybą.",
-        "Mägiste 1929 metų vardų sąrašo 20 puslapyje pateikiamas Viise su nuoroda į Loviisa ir tarmės žyma. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 20 puslapyje pateikiamas Viise su nuoroda į Loviisa ir tarmės žyma. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Viise: See kuju kuulub Louise’i/Louis’ perre. Germaani aluses liituvad hlud ehk hlut, kuulus, ja wig, võitlus. Eesti täis- ja lühikujud on tulnud ka saksa ja rootsi keele kaudu, muutes teel kirjapilti.",

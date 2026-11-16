@@ -1,0 +1,3869 @@
+{
+ "round": 130,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.108",
+ "scope": "Working through the local leads queue (open-leads129.json) for names still without a history after the calendar loop.",
+ "source_ids": [
+  "LV-LVA-EN06",
+  "LV-LVA-UA23",
+  "LT-SALYS83",
+  "EE-MAGISTE36"
+ ],
+ "method": {
+  "lv": "Latvian Language Agency rendering manuals: English (2006) rows where the open Latvian name is the recommended rendering, and Ukrainian (2023) rows for East Slavic names only; each row checked on the page image. Names such as Karolina or Tereza that merely have a Ukrainian rendering were not given a Ukrainian origin.",
+  "lt": "1964 Lithuanian name calendar in Salys 1983 (PDF 300–319), parsed with month tracking and checked on the page images; OCR errors corrected (Hiacinta short forms Jacinta, Cinta; Veliuona short form Velė) and doubtful rows dropped (Eimantas = misread Rimantas; Teodozija and Guoda with conflicting days). Same wording as the earlier calendar-history rounds.",
+  "ee": "Mägiste 1936 list: exact headwords with their status label (tarv., kstl., ür., ür.-kstl., krk., sm., Wied.), checked on the page images. Rows with only a comparison (vrd.) or a questioned label were not used; Ilma/Ilme (actually Hilma/Häilme) and Maivi (not found) dropped.",
+  "hypotheses": "Names that already show an explicit unverified hypothesis keep it: the new fact is recorded here for the next hypothesis review instead of overriding a fuller hypothesis with a shorter attestation. This also applies retroactively to round 129."
+ },
+ "held_for_hypothesis_review": {
+  "round129": {
+   "lv": [
+    "Andrians",
+    "Gunefa",
+    "Igo",
+    "Iverta",
+    "Janeka",
+    "Jonita",
+    "Jugita",
+    "Manefa",
+    "Tots",
+    "Velita",
+    "Vigda",
+    "Vigeta",
+    "Vigija",
+    "Vigita",
+    "Vigurds",
+    "Vinija",
+    "Vinta",
+    "Vintra",
+    "Vints",
+    "Vintārs",
+    "Voicehs",
+    "Zanza",
+    "Zezostrs",
+    "Zigda",
+    "Zira",
+    "Zēra"
+   ],
+   "lt": [
+    "Adas",
+    "Nina",
+    "Fortunatas",
+    "Odilija",
+    "Otilija"
+   ],
+   "ee": [
+    "Andro",
+    "Raidu",
+    "Raiko",
+    "Raid",
+    "Ele",
+    "Kelli",
+    "Tamur",
+    "Osmar"
+   ]
+  },
+  "round130": {
+   "lv": [],
+   "lt": [
+    "Gilvilė",
+    "Girenė",
+    "Norgaudas",
+    "Mantvinas",
+    "Daugardas",
+    "Guntilda",
+    "Ilma",
+    "Kintvilė",
+    "Vygaudas",
+    "Veliuona",
+    "Austė",
+    "Juozapotas"
+   ],
+   "ee": [
+    "Helmur",
+    "Aire",
+    "Hele",
+    "Hengo",
+    "Tammo"
+   ]
+  }
+ },
+ "records": [
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Kevins",
+   "spellings": [
+    "Kevins"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Kevin → Kevins",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Kims",
+   "spellings": [
+    "Kims"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Kim → Kims",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Kristjans",
+   "spellings": [
+    "Kristjans"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Christian → Kristjans",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Lorenss",
+   "spellings": [
+    "Lorenss"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Laurence → Lorenss",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Solomons",
+   "spellings": [
+    "Solomons"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Solomon → Solomons",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Rorijs",
+   "spellings": [
+    "Rorijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Rory → Rorijs",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Sidnijs",
+   "spellings": [
+    "Sidnijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Sidney → Sidnijs",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Stenlijs",
+   "spellings": [
+    "Stenlijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Stanley → Stenlijs",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Viviena",
+   "spellings": [
+    "Viviena"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Vivienne → Viviena",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Noels",
+   "spellings": [
+    "Noels"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Noel → Noels",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Merilina",
+   "spellings": [
+    "Merilina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Marilyn → Merilina",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Linna",
+   "spellings": [
+    "Linna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Lynn → Linna",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Elvins",
+   "spellings": [
+    "Elvins"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-EN06"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+   ],
+   "facts_used": "English Alvin → Elvins",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Ivanna",
+   "spellings": [
+    "Ivanna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Іванна → Ivanna",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Olesja",
+   "spellings": [
+    "Olesja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Олеся → Olesja",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Roksolana",
+   "spellings": [
+    "Roksolana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Роксолана → Roksolana",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Solomija",
+   "spellings": [
+    "Solomija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Соломія → Solomija",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Jaroslava",
+   "spellings": [
+    "Jaroslava"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Ярослава → Jaroslava",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Miroslava",
+   "spellings": [
+    "Miroslava"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Мирослава → Miroslava",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Borislavs",
+   "spellings": [
+    "Borislavs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Борислав → Borislavs",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Mihailina",
+   "spellings": [
+    "Mihailina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Михайлина → Mihailina",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Vitalina",
+   "spellings": [
+    "Vitalina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Віталіна → Vitalina",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Nazarijs",
+   "spellings": [
+    "Nazarijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Назарій → Nazarijs",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Stepanija",
+   "spellings": [
+    "Stepanija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Степанія → Stepanija",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Halina",
+   "spellings": [
+    "Halina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-LVA-UA23"
+   ],
+   "sources": [
+    "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+   ],
+   "facts_used": "Ukrainian Галина → Halina",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Eularija",
+   "spellings": [
+    "Eularija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 10.12 (Eula), PDF 318",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Fabijolė",
+   "spellings": [
+    "Fabijolė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 27.12 (Faba), PDF 319",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gedvinė",
+   "spellings": [
+    "Gedvinė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 27.12 (Gedva), PDF 319",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gaja",
+   "spellings": [
+    "Gaja"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 29.12, PDF 319",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gedgantas",
+   "spellings": [
+    "Gedgantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 31.12 (Gedas), PDF 319",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Fulgentas",
+   "spellings": [
+    "Fulgentas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 1.1 (Fulgas, Pulgis), PDF 300",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gailutė",
+   "spellings": [
+    "Gailutė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 2.1 (Gaila), PDF 300",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Arimantas",
+   "spellings": [
+    "Arimantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 4.1 (Arys), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Telesforas",
+   "spellings": [
+    "Telesforas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 5.1 (Telas), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Arūnas",
+   "spellings": [
+    "Arūnas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 6.1 (Aras), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Raudvilė",
+   "spellings": [
+    "Raudvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 7.1 (Rauda), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gintė",
+   "spellings": [
+    "Gintė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 8.1, PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vilnė",
+   "spellings": [
+    "Vilnė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 11.1, PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Dargaudas",
+   "spellings": [
+    "Dargaudas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 13.1 (Dargas), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Auksė",
+   "spellings": [
+    "Auksė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 14.1, PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Leonilė",
+   "spellings": [
+    "Leonilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 17.1 (Leona, Leonė), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vilda",
+   "spellings": [
+    "Vilda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 17.1, PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Liberta",
+   "spellings": [
+    "Liberta"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 18.1 (Liba), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Kanutas",
+   "spellings": [
+    "Kanutas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 19.1 (Kanas), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Raivedys",
+   "spellings": [
+    "Raivedys"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 19.1 (Raivys), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gailigedas",
+   "spellings": [
+    "Gailigedas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 23.1 (Gailys), PDF 301",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Jogundas",
+   "spellings": [
+    "Jogundas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 27.1 (Jogys), PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Natalis",
+   "spellings": [
+    "Natalis"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 27.1 (Natas), PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Banguolė",
+   "spellings": [
+    "Banguolė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 30.1 (Banga), PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Hiacinta",
+   "spellings": [
+    "Hiacinta"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 30.1 (Jacinta, Cinta), PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Rytys",
+   "spellings": [
+    "Rytys"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 2.2, PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vandenė",
+   "spellings": [
+    "Vandenė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 2.2 (Vandė), PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Arvilė",
+   "spellings": [
+    "Arvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 4.2 (Arva), PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Algė",
+   "spellings": [
+    "Algė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 9.2, PDF 302",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Viltė",
+   "spellings": [
+    "Viltė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 17.2, PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gendrė",
+   "spellings": [
+    "Gendrė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 18.2, PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Nida",
+   "spellings": [
+    "Nida"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 19.2, PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Aidas",
+   "spellings": [
+    "Aidas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 11.4, PDF 305",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Žemyna",
+   "spellings": [
+    "Žemyna"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 21.2, PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Elvinas",
+   "spellings": [
+    "Elvinas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 22.2 (Elvys), PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Romana",
+   "spellings": [
+    "Romana"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 23.2 (Roma), PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Demetrija",
+   "spellings": [
+    "Demetrija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 21.6 (Dema), PDF 309",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Goda",
+   "spellings": [
+    "Goda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 24.2, PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Uosis",
+   "spellings": [
+    "Uosis"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 3.3, PDF 304",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Daina",
+   "spellings": [
+    "Daina"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 8.8, PDF 312",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Giedrė",
+   "spellings": [
+    "Giedrė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 5.3, PDF 304",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Laima",
+   "spellings": [
+    "Laima"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 10.8, PDF 312",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Kernius",
+   "spellings": [
+    "Kernius"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 29.3, PDF 305",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gina",
+   "spellings": [
+    "Gina"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 24.5, PDF 308",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gema",
+   "spellings": [
+    "Gema"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 20.6, PDF 309",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vilnius",
+   "spellings": [
+    "Vilnius"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 15.4, PDF 306",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Morkus",
+   "spellings": [
+    "Morkus"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 25.4, PDF 306",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Virgaudas",
+   "spellings": [
+    "Virgaudas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 24.2 (Virgas), PDF 303",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Meilė",
+   "spellings": [
+    "Meilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 2.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Neris",
+   "spellings": [
+    "Neris"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 5.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gintaras",
+   "spellings": [
+    "Gintaras"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 14.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Audrė",
+   "spellings": [
+    "Audrė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 8.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Putinas",
+   "spellings": [
+    "Putinas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 10.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Milda",
+   "spellings": [
+    "Milda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 14.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Tauras",
+   "spellings": [
+    "Tauras"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 6.6, PDF 308",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Taura",
+   "spellings": [
+    "Taura"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 19.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Teobaldas",
+   "spellings": [
+    "Teobaldas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 21.5 (Tebas), PDF 308",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gertautas",
+   "spellings": [
+    "Gertautas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 23.5 (Gertas), PDF 308",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Bedas",
+   "spellings": [
+    "Bedas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 27.5, PDF 308",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Ąžuolas",
+   "spellings": [
+    "Ąžuolas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 2.6, PDF 308",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Deimena",
+   "spellings": [
+    "Deimena"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 12.10 (Deima), PDF 315",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Mėta",
+   "spellings": [
+    "Mėta"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 6.6, PDF 308",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Aluona",
+   "spellings": [
+    "Aluona"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 11.6, PDF 309",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Digna",
+   "spellings": [
+    "Digna"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 14.6, PDF 309",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Jūra",
+   "spellings": [
+    "Jūra"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 16.6, PDF 309",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Daugantas",
+   "spellings": [
+    "Daugantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 26.7 (Daugas), PDF 311",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Arnulfas",
+   "spellings": [
+    "Arnulfas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 31.10 (Arnas), PDF 316",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vaida",
+   "spellings": [
+    "Vaida"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 23.6, PDF 309",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vydas",
+   "spellings": [
+    "Vydas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 14.7, PDF 310",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vaiga",
+   "spellings": [
+    "Vaiga"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 13.3, PDF 304",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Dargvilė",
+   "spellings": [
+    "Dargvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 10.9 (Darga), PDF 313",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Tautvaldas",
+   "spellings": [
+    "Tautvaldas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 11.12 (Valdas), PDF 318",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Oktavijonas",
+   "spellings": [
+    "Oktavijonas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 22.3 (Oktas), PDF 304",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Rugilė",
+   "spellings": [
+    "Rugilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 15.10 (Gilė), PDF 315",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Rokas",
+   "spellings": [
+    "Rokas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 16.8, PDF 312",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Beržas",
+   "spellings": [
+    "Beržas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 4.5, PDF 307",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Mirga",
+   "spellings": [
+    "Mirga"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 3.9, PDF 313",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Ramutė",
+   "spellings": [
+    "Ramutė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 23.10 (Rama), PDF 316",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Salvijus",
+   "spellings": [
+    "Salvijus"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 26.6 (Salvas), PDF 309",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gytė",
+   "spellings": [
+    "Gytė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 17.10, PDF 315",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Helga",
+   "spellings": [
+    "Helga"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 11.9, PDF 313",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Fausta",
+   "spellings": [
+    "Fausta"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 20.9, PDF 314",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Mąstautas",
+   "spellings": [
+    "Mąstautas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 4.10 (Mąstys), PDF 315",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gilda",
+   "spellings": [
+    "Gilda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 5.10, PDF 315",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Daugas",
+   "spellings": [
+    "Daugas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 8.10, PDF 315",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Demetras",
+   "spellings": [
+    "Demetras"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 22.12 (Demys), PDF 319",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Germanas",
+   "spellings": [
+    "Germanas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 7.3 (Germas), PDF 304",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Kvirinas",
+   "spellings": [
+    "Kvirinas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 30.3 (Kviras), PDF 305",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gantas",
+   "spellings": [
+    "Gantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 12.10, PDF 315",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Rudolfas",
+   "spellings": [
+    "Rudolfas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 27.7 (Rudas), PDF 311",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Gaudrimas",
+   "spellings": [
+    "Gaudrimas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-SALYS83"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+   ],
+   "facts_used": "1964 calendar 28.10 (Gaudas), PDF 316",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Keerdo",
+   "spellings": [
+    "Keerdo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label krk",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Tõnno",
+   "spellings": [
+    "Tõnno"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Lauli",
+   "spellings": [
+    "Lauli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Leegi",
+   "spellings": [
+    "Leegi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Aavo",
+   "spellings": [
+    "Aavo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Hela",
+   "spellings": [
+    "Hela"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Helin",
+   "spellings": [
+    "Helin"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Virme",
+   "spellings": [
+    "Virme"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Laili",
+   "spellings": [
+    "Laili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Viilup",
+   "spellings": [
+    "Viilup"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label Wied",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Vilbo",
+   "spellings": [
+    "Vilbo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Lepo",
+   "spellings": [
+    "Lepo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Heldi",
+   "spellings": [
+    "Heldi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Aigar",
+   "spellings": [
+    "Aigar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label sm",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Immo",
+   "spellings": [
+    "Immo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label ür",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Enel",
+   "spellings": [
+    "Enel"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Olvi",
+   "spellings": [
+    "Olvi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Aalike",
+   "spellings": [
+    "Aalike"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label ür.-kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Orvi",
+   "spellings": [
+    "Orvi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Loomet",
+   "spellings": [
+    "Loomet"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Ainu",
+   "spellings": [
+    "Ainu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Taido",
+   "spellings": [
+    "Taido"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Hellar",
+   "spellings": [
+    "Hellar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Viire",
+   "spellings": [
+    "Viire"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Mesike",
+   "spellings": [
+    "Mesike"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Lauro",
+   "spellings": [
+    "Lauro"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label krk",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Õnne",
+   "spellings": [
+    "Õnne"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Agur",
+   "spellings": [
+    "Agur"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Linnar",
+   "spellings": [
+    "Linnar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Kaur",
+   "spellings": [
+    "Kaur"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label ür",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Atso",
+   "spellings": [
+    "Atso"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label ür",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Võso",
+   "spellings": [
+    "Võso"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Simmo",
+   "spellings": [
+    "Simmo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label krk",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Hinge",
+   "spellings": [
+    "Hinge"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label tarv",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Elev",
+   "spellings": [
+    "Elev"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE36"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "Mägiste 1936 label kstl",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  }
+ ],
+ "next": "Remaining leads: LV transcription manuals for Nordic, Russian and Lithuanian (OCR-heavy), LV-BALODIS08, LV-PLESUMA-BALODE12/13; LT-ZINKEVICIUS77 (index pages), LT-LPZ, LT-BUGA-RR1; EE-MAGISTE29-AES (1929 list). Hypothesis review for the held names."
+}

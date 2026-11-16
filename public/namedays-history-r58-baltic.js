@@ -277,15 +277,15 @@ export const historiesEstonianR58={
     ],
     "text": {
       "lv": [
-        "Ando: Hildegardes Mustas rakstā par apustuļu vārdiem kā igauņu kristīgajiem vārdiem Andi, Ando un Andu minēti starp Andreas mīlināmajām formām, kas kļuvušas par patstāvīgiem vārdiem. Mēgistes 1929. gada sarakstā Ando minēts pārī ar Andu, bet 2005. gada igauņu vārdu sleja Ando apvieno ar Andreas, Andres un Andrus. Wiktionary piebilst, ka ietekme varējusi būt arī Antonius, tāpēc šī otrā iespēja paliek atklāta.",
+        "Ando: Hildegardes Mustas rakstā par apustuļu vārdiem kā igauņu kristīgajiem vārdiem Andi, Ando un Andu minēti starp Andreas mīlināmajām formām, kas kļuvušas par patstāvīgiem vārdiem. 1929. gada sarakstā Ando minēts pārī ar Andu, bet 2005. gada igauņu vārdu sleja Ando apvieno ar Andreas, Andres un Andrus. Wiktionary piebilst, ka ietekme varējusi būt arī Antonius, tāpēc šī otrā iespēja paliek atklāta.",
         "Mustas raksts publicēts žurnālā Names 1962. gadā, 260.–264. lappusē, un tas dokumentē Ando kā nostiprinājušos igauņu formu. Tas datē vārda zinātnisku aprakstu. Tas nav vārda pirmais lietojums vai pirmais nesējs."
       ],
       "ru": [
-        "Ando: В статье Хильдегард Муст об именах апостолов как эстонских христианских именах Andi, Ando и Andu названы среди уменьшительных форм Andreas, ставших самостоятельными именами. В списке Мягисте 1929 года Ando приведено в паре с Andu, а эстонская колонка имён 2005 года объединяет Ando с Andreas, Andres и Andrus. Wiktionary добавляет, что свой вклад могло внести и Antonius, поэтому эта второстепенная возможность остаётся открытой.",
+        "Ando: В статье Хильдегард Муст об именах апостолов как эстонских христианских именах Andi, Ando и Andu названы среди уменьшительных форм Andreas, ставших самостоятельными именами. В списке 1929 года Ando приведено в паре с Andu, а эстонская колонка имён 2005 года объединяет Ando с Andreas, Andres и Andrus. Wiktionary добавляет, что свой вклад могло внести и Antonius, поэтому эта второстепенная возможность остаётся открытой.",
         "Статья Муст опубликована в журнале Names в 1962 году, на страницах 260–264, и документирует Ando как устоявшуюся эстонскую форму. Это датирует научное описание имени. Это не первое употребление и не первый носитель."
       ],
       "en": [
-        "Ando: Hildegard Must’s article on the apostles’ names as Estonian Christian names lists Andi, Ando and Andu among pet forms of Andreas that became independent names. Mägiste’s 1929 list pairs Ando with Andu, and a 2005 Estonian name column groups Ando with Andreas, Andres and Andrus. Wiktionary adds that Antonius may also have contributed, so that secondary possibility remains open.",
+        "Ando: Hildegard Must’s article on the apostles’ names as Estonian Christian names lists Andi, Ando and Andu among pet forms of Andreas that became independent names. the 1929 list pairs Ando with Andu, and a 2005 Estonian name column groups Ando with Andreas, Andres and Andrus. Wiktionary adds that Antonius may also have contributed, so that secondary possibility remains open.",
         "Must’s article was published in the journal Names in 1962, pages 260–264, and documents Ando as an established Estonian form. This dates a scholarly description of the name. It is not its first use or first bearer."
       ],
       "lt": [
@@ -306,7 +306,7 @@ export const historiesEstonianR58={
     ],
     "text": {
       "lv": [
-        "Airi: Jūliusa Mēgistes 1929. gada igauņu valodai piemērotu personvārdu sarakstā Airi atzīmēts kā somu vārds. Behind the Name somu Airi skaidro ar airut — «ziņnesis, vēstnesis» un norāda, ka to varējuši ietekmēt arī vietvārdi ar tādu pašu sākumu. 2005. gada igauņu vietējā vārdu slejā ceļš uzskatīts par neskaidru, tāpēc saikne ar somu valodu ir dokumentētais skaidrojums, nevis drošs fakts par katru nesēju.",
+        "Airi: Jūliusa 1929. gada igauņu valodai piemērotu personvārdu sarakstā Airi atzīmēts kā somu vārds. Behind the Name somu Airi skaidro ar airut — «ziņnesis, vēstnesis» un norāda, ka to varējuši ietekmēt arī vietvārdi ar tādu pašu sākumu. 2005. gada igauņu vietējā vārdu slejā ceļš uzskatīts par neskaidru, tāpēc saikne ar somu valodu ir dokumentētais skaidrojums, nevis drošs fakts par katru nesēju.",
         "Mēgistes saraksts, kas 1929. gadā izdots Tartu, iespiestajā 11. lappusē min Airi starp sieviešu vārdiem. Tā ir datēta formas liecība igauņu vārdu literatūrā. Tas nav pirmais vārda nesējs Igaunijā vai laiks, kad vārds sāka lietot."
       ],
       "ru": [
@@ -314,7 +314,7 @@ export const historiesEstonianR58={
         "Список Мягисте, изданный в Тарту в 1929 году, на печатной странице 11 приводит Airi среди женских имён. Это датированная запись формы в эстонской ономастической литературе. Это не первый эстонский носитель и не время, когда имя вошло в употребление."
       ],
       "en": [
-        "Airi: Julius Mägiste’s 1929 list of Estonian-suited personal names marks Airi as a Finnish name. Behind the Name explains Finnish Airi through airut, messenger or herald, and notes that place names beginning with the same sounds may also have influenced it. A 2005 Estonian local name column considered the route unclear, so the Finnish link is the documented explanation rather than a certainty for every bearer.",
+        "Airi: Julius the 1929 list of Estonian-suited personal names marks Airi as a Finnish name. Behind the Name explains Finnish Airi through airut, messenger or herald, and notes that place names beginning with the same sounds may also have influenced it. A 2005 Estonian local name column considered the route unclear, so the Finnish link is the documented explanation rather than a certainty for every bearer.",
         "Mägiste’s list, published in Tartu in 1929, gives Airi among women’s names on printed page 11. This is a dated record of the form in Estonian name literature. It is not the first Estonian bearer or the date the name entered use."
       ],
       "lt": [
@@ -336,7 +336,7 @@ export const historiesEstonianR58={
     ],
     "text": {
       "lv": [
-        "Aira: Jūliusa Mēgistes 1929. gada igauņu valodai piemērotu personvārdu sarakstā Aira atzīmēts kā somu vārds. Behind the Name Airu uzskata par somu vārda Airi variantu, ko skaidro ar airut — «ziņnesis, vēstnesis», iespējams, ar vietvārdu ietekmi. 2005. gada igauņu vietējā vārdu slejā ceļš uzskatīts par neskaidru, tāpēc saikne ar somu valodu ir dokumentētais skaidrojums, nevis drošs fakts par katru nesēju.",
+        "Aira: Jūliusa 1929. gada igauņu valodai piemērotu personvārdu sarakstā Aira atzīmēts kā somu vārds. Behind the Name Airu uzskata par somu vārda Airi variantu, ko skaidro ar airut — «ziņnesis, vēstnesis», iespējams, ar vietvārdu ietekmi. 2005. gada igauņu vietējā vārdu slejā ceļš uzskatīts par neskaidru, tāpēc saikne ar somu valodu ir dokumentētais skaidrojums, nevis drošs fakts par katru nesēju.",
         "Mēgistes saraksts, kas 1929. gadā izdots Tartu, iespiestajā 11. lappusē min Airu starp sieviešu vārdiem. Tā ir datēta formas liecība igauņu vārdu literatūrā. Tas nav pirmais vārda nesējs Igaunijā vai laiks, kad vārds sāka lietot."
       ],
       "ru": [
@@ -344,7 +344,7 @@ export const historiesEstonianR58={
         "Список Мягисте, изданный в Тарту в 1929 году, на печатной странице 11 приводит Aira среди женских имён. Это датированная запись формы в эстонской ономастической литературе. Это не первый эстонский носитель и не время, когда имя вошло в употребление."
       ],
       "en": [
-        "Aira: Julius Mägiste’s 1929 list of Estonian-suited personal names marks Aira as a Finnish name. Behind the Name treats Aira as a variant of Finnish Airi, which it explains through airut, messenger or herald, possibly with influence from place names. A 2005 Estonian local name column considered the route unclear, so the Finnish link is the documented explanation rather than a certainty for every bearer.",
+        "Aira: Julius the 1929 list of Estonian-suited personal names marks Aira as a Finnish name. Behind the Name treats Aira as a variant of Finnish Airi, which it explains through airut, messenger or herald, possibly with influence from place names. A 2005 Estonian local name column considered the route unclear, so the Finnish link is the documented explanation rather than a certainty for every bearer.",
         "Mägiste’s list, published in Tartu in 1929, gives Aira among women’s names on printed page 11. This is a dated record of the form in Estonian name literature. It is not the first Estonian bearer or the date the name entered use."
       ],
       "lt": [

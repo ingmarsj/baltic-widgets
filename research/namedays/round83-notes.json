@@ -1,0 +1,327 @@
+{
+  "round": 83,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-16: researched all 12 unfinished LV/LT/EE profiles before advancing. 4 histories written; 8 remain open (written/researched: LV 2/7, LT 1/4, EE 1/1). No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lv",
+      "name": "Lida",
+      "spellings": [
+        "Lida"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Lida",
+        "https://www.izpetnieks.lv/en/name/Lidija"
+      ],
+      "facts_used": "The catalogue explains Lida through Lidija: Greek Lydia «Lydian woman, inhabitant of Lydia», a region of Asia Minor. These are the source words used in the explanation; they describe the name’s formation, not a trait shared by everyone bearing it. The Siliņš catalogue records a historical detail for this exact form: 1884; calendar 1889 (dictionary page 214). This dates an attributed record of use and calendar inclusion. It does not mean that the name was created then, and the separate dates for Lidija are not transferred to Lida.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue (izpetnieks.lv, cached LV-SILINS-LIDA-R83), dictionary p. 214. The 1884 record carries the catalogue source abbreviation “Lkp”, not expanded or independently inspected; it is not called the first use. Lidija’s separate 1881 Rūjiena / 1899 calendar dates were not transferred.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lv",
+      "name": "Avija",
+      "spellings": [
+        "Avija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Avija"
+      ],
+      "facts_used": "Catalogue page (cached LV-SILINS-AVIJA-R83) states origin not established; no dictionary page, date or rendering-manual row found in cached LV-LVA manuals.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page (cached LV-SILINS-AVIJA-R83) states origin not established; no dictionary page, date or rendering-manual row found in cached LV-LVA manuals.",
+      "next_steps": "Search the Language Agency database (personvarduatveide.lv search) and LV-ALL93/LV-LILE24 for an exact Avija entry or explanation; do not derive it from Avīva, Ava or Vija by resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lv",
+      "name": "Avita",
+      "spellings": [
+        "Avita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Avita"
+      ],
+      "facts_used": "Siliņš p. 75 (cached LV-SILINS-AVITA-R83) only tentatively compares Vita with a question mark or calls it a phonetic formation without meaning; recorded 1975. The origin is explicitly uncertain, so no reviewed history was written.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Siliņš p. 75 (cached LV-SILINS-AVITA-R83) only tentatively compares Vita with a question mark or calls it a phonetic formation without meaning; recorded 1975. The origin is explicitly uncertain, so no reviewed history was written.",
+      "next_steps": "Seek an onomastic statement settling Avita’s formation (e.g. the new Latvian given-name dictionary announced in LV-ALL93) before writing; keep the 1975 record attached to Avita only."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lv",
+      "name": "Āvo",
+      "spellings": [
+        "Āvo"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%80vo",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Siliņš p. 76 (cached LV-SILINS-AVO-R83) only possibly connects Āvo with Estonian Avo; the Avo entry question-marks an artificial formation. Rajandi PDF 30 / printed 32 discusses Estonian Avo as an “artificial” (Mägiste) name, but that is Estonian Avo, not the long-vowel Latvian spelling Āvo; no dated Latvian record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Siliņš p. 76 (cached LV-SILINS-AVO-R83) only possibly connects Āvo with Estonian Avo; the Avo entry question-marks an artificial formation. Rajandi PDF 30 / printed 32 discusses Estonian Avo as an “artificial” (Mägiste) name, but that is Estonian Avo, not the long-vowel Latvian spelling Āvo; no dated Latvian record.",
+      "next_steps": "Find an explicit source treating Latvian Āvo (long Ā) and a dated Latvian use; do not transfer Estonian Avo history to Āvo."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lv",
+      "name": "Gordejs",
+      "spellings": [
+        "Gordejs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-RU93",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.izpetnieks.lv/en/name/Gordejs"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact Russian correspondence Гордей → Gordejs. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; the older Siliņš dictionary has no entry for this exact form, so no meaning is asserted here. The exact row appears in the 1993 manual on printed page 197. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and explanations given for other names beginning Gord- are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked LV-LVA-RU93 PDF p. 90 / printed p. 197, row Гордей → Gordejs (patronymic Гордеевич; Latvian genitive Gordeja). Siliņš catalogue (cached LV-SILINS-GORDEJS-R83, p. 140) has no exact entry; Gordija/Gordiāna explanations not transferred. No Latvian first-use date established.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lv",
+      "name": "Līda",
+      "spellings": [
+        "Līda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/L%C4%ABda"
+      ],
+      "facts_used": "Catalogue page (cached LV-SILINS-LIIDA-R83, p. 214, see-also Lidija) states origin not securely established; long-ī spelling not found in rendering manuals or dictionaries. Lida/Lidija history not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page (cached LV-SILINS-LIIDA-R83, p. 214, see-also Lidija) states origin not securely established; long-ī spelling not found in rendering manuals or dictionaries. Lida/Lidija history not transferred.",
+      "next_steps": "Seek an exact source for long-vowel Līda (Language Agency database, LV-ALL93) and a dated use; do not equate it with Lida without an explicit statement."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lv",
+      "name": "Lidita",
+      "spellings": [
+        "Lidita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Lidita"
+      ],
+      "facts_used": "Catalogue page (cached LV-SILINS-LIDITA-R83, p. 214, see-also Lidija) states origin not established; 0 registered bearers shown. No dated record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page (cached LV-SILINS-LIDITA-R83, p. 214, see-also Lidija) states origin not established; 0 registered bearers shown. No dated record.",
+      "next_steps": "Seek an exact dictionary or rendering entry; the see-also link to Lidija is not a documented derivation."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lt",
+      "name": "Marcelis",
+      "spellings": [
+        "Marcelis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/marcellus"
+      ],
+      "facts_used": "The Senn–Salys dictionary gives Marcelis as a personal name corresponding to Latin Marcellus and also as a short form of Marcelinas and Marcelijonas. Behind the Name explains Marcellus as a Roman cognomen, originally a diminutive of Marcus, borne by two popes. Salys’s Lithuanian calendar for 1964, reprinted in 1983, prints Marcelis (Marcys) on 16 January, the same day as the present calendar. This is a dated calendar use of the exact name and its short form; it does not identify the first Lithuanian bearer.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked LT-SALYS83 PDF p. 249 / printed p. 234 (Marcėlis, accented headword; 1. PN Marcellus, 2. KF of Marcelinas and Marcelijonas; Marcis (dial.) = Marcėlis) and PDF p. 301 / printed p. 286 (16 January: Marcelis (Marcys)). INT-BTN Marcellus cached as INT-BTN-MARCELLUS. Calendar date coincides with the project calendar.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lt",
+      "name": "Norgailas",
+      "spellings": [
+        "Norgailas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact form not found. LT-SALYS83 PDF p. 38 (English summary) cites Norgaila, Norgėla and Norgilas as two-stem names with nor- (noras “wish”, norėti) and gail- (gailėti etc.); PDF 309 gives Norgaila (Nora) on 27 January in the 1964 calendar. Neither is the exact spelling Norgailas.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact form not found. LT-SALYS83 PDF p. 38 (English summary) cites Norgaila, Norgėla and Norgilas as two-stem names with nor- (noras “wish”, norėti) and gail- (gailėti etc.); PDF 309 gives Norgaila (Nora) on 27 January in the 1964 calendar. Neither is the exact spelling Norgailas.",
+      "next_steps": "Open vardai.vlkk.lt manually for Norgailas and seek an exact dictionary entry; only then reuse Salys’s element analysis with explicit attribution."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lt",
+      "name": "Norgailė",
+      "spellings": [
+        "Norgailė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact feminine form not found; only masculine Norgaila (Salys PDF 38, 309) and surname variants (LOCAL-ROUND7-LT-SURNAMES p. 31: Norgaila, Norgėla, Norgilas). Not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact feminine form not found; only masculine Norgaila (Salys PDF 38, 309) and surname variants (LOCAL-ROUND7-LT-SURNAMES p. 31: Norgaila, Norgėla, Norgilas). Not transferred.",
+      "next_steps": "Check vardai.vlkk.lt manually and Lithuanian name-day calendars for an exact Norgailė entry and formation statement."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "lt",
+      "name": "Norgailis",
+      "spellings": [
+        "Norgailis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact form not found in LT-SALYS83 or the cached surname study; related Norgaila / Norgilas only.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact form not found in LT-SALYS83 or the cached surname study; related Norgaila / Norgilas only.",
+      "next_steps": "Check vardai.vlkk.lt manually; seek an exact entry before using the nor- + gail- analysis."
+    },
+    {
+      "batch": "calendar-2027-01-16",
+      "date": "2026-11-12",
+      "calendar_date": "01-16",
+      "country": "ee",
+      "name": "Ilmo",
+      "spellings": [
+        "Ilmo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-MAGISTE29-AES"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Julius Mägiste lists Ilmo as a Finnish name taken from the University of Helsinki almanac for 1929, and compares it with the Estonian word ilm, “weather; world”. The comparison is his; it does not give the name a fixed literal meaning. His collection of Estonian-style personal names was published in Tartu in 1929 (printed page 28). This dates a published recommendation and a documented Finnish source; it does not identify the first Estonian child named Ilmo.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked EE-MAGISTE29-AES PDF p. 34 / printed p. 28: “Ilmo (sm. Alm., vrd. ilm -a)”; abbreviation key PDF p. 15: Alm. = Almanakka vuodeksi 1929, Helsingin Yliopisto; sm. = Finnish. EE-RAJANDI66 PDF 202 / printed 204 supplementary list has “Ilmo 35/40”, but the source abbreviation 35/40 was not resolved, so no dated birth record is claimed.",
+      "next_steps": ""
+    }
+  ]
+}

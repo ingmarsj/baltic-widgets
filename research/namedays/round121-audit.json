@@ -1,0 +1,91 @@
+{
+  "round": 121,
+  "date": "2026-11-15",
+  "writer_version": "namedays-1.9.99",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 991,
+      "local_profiles_after": 992,
+      "local_exact_links_added": 1,
+      "new_exact_person_profile_links": 1,
+      "with_exact_namesakes": 1731,
+      "with_five_local": 313,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": [
+        {
+          "name": "Jefims",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q48945174",
+              "name": "Jefims Grodzinskis"
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 612,
+      "local_profiles_after": 612,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 671,
+      "with_five_local": 301,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": []
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 992,
+      "local_profiles_after": 992,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 1081,
+      "with_five_local": 499,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": []
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "reused_lithuanian_citizenship_rows": 5263,
+    "reused_estonian_citizenship_rows": 9035,
+    "new_birthplace_rows": {
+      "lv": 4389,
+      "lt": 5850,
+      "ee": 7594
+    },
+    "eligible_birthplace_rows": {
+      "lv": 1132,
+      "lt": 783,
+      "ee": 963
+    },
+    "local_query": "P31 human, birthplace P19 / country P17, native label, at least two Wikipedia sitelinks; LIMIT 20000 not reached. Select native first names with fewer than five local exact bearers in the pre-round snapshot."
+  },
+  "validation": {
+    "unit_tests": 144,
+    "static_build": "passed",
+    "browser": "Passed: LV dialog for 16 November (Tomorrow) shows Jefims Grodzinskis as a local namesake above the birthday people, and Landijs shows the new reviewed history without a hypothesis label.",
+    "history_facts": "All 8677 profiles unchanged",
+    "display": "All 9368 memberships preserve every previously displayed person and show five distinct birthday people below exact namesakes."
+  }
+}

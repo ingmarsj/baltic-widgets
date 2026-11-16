@@ -1,0 +1,82 @@
+{
+  "round": 97,
+  "calendar_dates": [
+    "02-26",
+    "02-27",
+    "02-28",
+    "02-29",
+    "03-01",
+    "03-02",
+    "03-03",
+    "03-04",
+    "03-05",
+    "03-06"
+  ],
+  "calendar_records_covered": 235,
+  "existing_reviewed_preserved": 32,
+  "unfinished_records_examined": 203,
+  "new_reviewed_histories": 60,
+  "translations": 300,
+  "paragraphs": 600,
+  "open": 143,
+  "summary": [
+    {
+      "country": "lv",
+      "calendar_records": 140,
+      "existing_reviewed_preserved": 8,
+      "unfinished_examined": 132,
+      "new_histories": 37,
+      "calendar_unchanged": true,
+      "unrelated_content_changes": 0,
+      "unrelated_profiles_with_provenance_updates": 6,
+      "inherited_source_records_retyped": 2,
+      "prior_profile_histories_preserved": 5519
+    },
+    {
+      "country": "lt",
+      "calendar_records": 57,
+      "existing_reviewed_preserved": 18,
+      "unfinished_examined": 39,
+      "new_histories": 16,
+      "calendar_unchanged": true,
+      "unrelated_content_changes": 0,
+      "unrelated_profiles_with_provenance_updates": 0,
+      "inherited_source_records_retyped": 0,
+      "prior_profile_histories_preserved": 1552
+    },
+    {
+      "country": "ee",
+      "calendar_records": 38,
+      "existing_reviewed_preserved": 6,
+      "unfinished_examined": 32,
+      "new_histories": 7,
+      "calendar_unchanged": true,
+      "unrelated_content_changes": 0,
+      "unrelated_profiles_with_provenance_updates": 0,
+      "inherited_source_records_retyped": 0,
+      "prior_profile_histories_preserved": 1546
+    }
+  ],
+  "validation": {
+    "full_tests": {
+      "command": "npm test",
+      "passed": 129,
+      "failed": 0
+    },
+    "static_build": {
+      "command": "npm run build",
+      "status": "passed"
+    },
+    "whitespace_check": {
+      "command": "git diff --check",
+      "status": "passed"
+    },
+    "research_audit": {
+      "status": "passed",
+      "all_dates_and_profiles_accounted_for": true,
+      "existing_five_language_histories_preserved": true,
+      "new_text_has_no_source_urls": true
+    }
+  },
+  "note": "The offline generator updates inherited provenance on some unrelated profiles while preserving every existing source URL. Two LV inherited source records (Aurelijs/Elvina) are retyped by URL deduplication when their accented counterparts gain histories; no facts or rendered histories are transferred, and both remain unverified in the backlog. No other unrelated profile fields or rendered histories change. Leonardas retains the existing reviewed Leonard family narrative and is not counted as a new addition. No push or publication performed."
+}

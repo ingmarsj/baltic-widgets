@@ -1,3 +1,16 @@
+import {hypothesesR163} from './namedays-hypotheses-r163.js';
+import {hypothesesR149} from './namedays-hypotheses-r149.js';
+import {hypothesesR148} from './namedays-hypotheses-r148.js';
+import {hypothesesR147} from './namedays-hypotheses-r147.js';
+import {hypothesesR146} from './namedays-hypotheses-r146.js';
+import {hypothesesR145} from './namedays-hypotheses-r145.js';
+import {hypothesesR144} from './namedays-hypotheses-r144.js';
+import {hypothesesR143} from './namedays-hypotheses-r143.js';
+import {hypothesesR142} from './namedays-hypotheses-r142.js';
+import {hypothesesR141} from './namedays-hypotheses-r141.js';
+import {hypothesesR139} from './namedays-hypotheses-r139.js';
+import {hypothesesR136} from './namedays-hypotheses-r136.js';
+import {hypothesisRecordsR132,resolvedHypothesesR132} from './namedays-hypotheses-r132.js';
 import {hypothesesLatvianR61,hypothesesLithuanianR61,hypothesesEstonianR61} from './namedays-hypotheses-r61.js';
 import {hypothesesLatvianR60,hypothesesLithuanianR60,hypothesesEstonianR60} from './namedays-hypotheses-r60.js';
 import {hypothesesLatvianR59,hypothesesLithuanianR59,hypothesesEstonianR59} from './namedays-hypotheses-r59.js';
@@ -84,5 +97,25 @@ const juozapotasRecord=[
  'Kirjapilt Juozapotas ise on dokumenteeritud: 1964. aasta Tikiu Dievą nimekalender annab selle koos lühivormidega Juozas ja Potas. Loend avaldati uuesti Salyse kirjutistes 1983. aastal. Seal on 14. november, selles kalendris aga 12. november. Erinevus ei tõesta nime etümoloogiat.'
 ];
 for(const [i,l] of langs.entries())entries.lt.Juozapotas.text[l].push(juozapotasRecord[i]);
+// Round 132: checked records for the exact form are added as a separate paragraph (entries are copied first,
+// because some hypothesis objects are shared between names); hypotheses answered by a source are removed.
+for(const [country,map] of Object.entries(hypothesisRecordsR132))for(const [name,extra] of Object.entries(map)){
+ const e=entries[country]?.[name];if(!e)continue;
+ entries[country][name]={...e,sources:[...e.sources,extra.source],text:Object.fromEntries(langs.map((l,i)=>[l,[...e.text[l],extra.text[i]]]))};
+}
+for(const [country,names] of Object.entries(resolvedHypothesesR132))for(const name of names)delete entries[country][name];
+// Round 136: qualified hypotheses for names without a local source (user decision, 16 November 2026).
+for(const [country,map] of Object.entries(hypothesesR136))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR139))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR141))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR142))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR143))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR144))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR145))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR146))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR147))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR148))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR149))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR163))for(const [name,e] of Object.entries(map))entries[country][name]=e;
 export const HYPOTHESIS_LABELS={lv:'Pieņēmums',ru:'Предположение',en:'Hypothesis',lt:'Prielaida',et:'Oletus'};
 export function unverifiedHistory(name,country){return entries[country]?.[name.normalize('NFC').replace(/\.$/,'')]||null;}

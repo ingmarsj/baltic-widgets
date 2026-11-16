@@ -1,0 +1,113 @@
+{
+ "round": 119,
+ "date": "2026-11-14",
+ "writer_version": "namedays-1.9.77",
+ "scope": "Continue local exact namesakes below five: native-label LV citizenship at all sitelink counts and single-sitelink citizenship/birthplace tails for LV, LT and EE. Preserve full existing display and five birthday entries.",
+ "source_directory": "NAMEDAYS_SOURCES.md",
+ "source_ids": [
+  "PEOPLE-WD-LOCAL119C-LV-P27-L2",
+  "PEOPLE-WD-LOCAL119C-LV-P27-L1",
+  "PEOPLE-WD-LOCAL119C-LV-P19-L1",
+  "PEOPLE-WD-LOCAL119C-LT-P27-L1",
+  "PEOPLE-WD-LOCAL119C-LT-P19-L1",
+  "PEOPLE-WD-LOCAL119C-EE-P27-L1",
+  "PEOPLE-WD-LOCAL119C-EE-P19-L1",
+  "PEOPLE-WD-ENT119-000..014",
+  "PEOPLE-WD-ENTQ119-*",
+  "PEOPLE-WD-OCCQ119-*"
+ ],
+ "records": [],
+ "source_outcomes": [
+  {
+   "source_id": "PEOPLE-WD-LOCAL119C-LV-P27-L2",
+   "status": "cached_productive",
+   "rows": 4464,
+   "claim": "First native-label LV citizenship query with two or more sitelinks."
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119C-LV-P27-L1",
+   "status": "cached_productive",
+   "rows": 2971
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119C-LV-P19-L1",
+   "status": "cached_productive",
+   "rows": 2094
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119C-LT-P27-L1",
+   "status": "cached_productive",
+   "rows": 4104
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119C-LT-P19-L1",
+   "status": "cached_productive",
+   "rows": 4494
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119C-EE-P27-L1",
+   "status": "cached_productive",
+   "rows": 12606
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119C-EE-P19-L1",
+   "status": "cached_productive",
+   "rows": 7862
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119-LV-P27",
+   "status": "failed_no_retry",
+   "claim": "Combined query with GROUP_CONCAT occupations returned HTTP 502."
+  },
+  {
+   "source_id": "PEOPLE-WD-LOCAL119B-LV-P27",
+   "status": "failed_no_retry",
+   "claim": "Unbanded query with English description returned truncated JSON."
+  },
+  {
+   "source_id": "PEOPLE-WD-ENT119-015",
+   "status": "failed_no_retry",
+   "claim": "wbgetentities HTTP 429 after 15 cached batches (750 IDs); remaining 3,474 IDs used SPARQL VALUES chunks."
+  }
+ ],
+ "verification": "Exact first token of a native label must equal a calendar spelling with fewer than five local bearers in the pre-round snapshot. Role comes from the English description, else from the first P106 occupation label that maps to an existing widget role; 1,003 candidate rows without a mappable role are excluded.",
+ "outcome": {
+  "local_profiles_before": {
+   "lv": 807,
+   "lt": 506,
+   "ee": 779
+  },
+  "local_profiles_after": {
+   "lv": 987,
+   "lt": 611,
+   "ee": 980
+  },
+  "local_person_profile_links_added": {
+   "lv": 754,
+   "lt": 594,
+   "ee": 1257
+  },
+  "profiles_with_five_local_after": {
+   "lv": 310,
+   "lt": 299,
+   "ee": 492
+  },
+  "additional_profiles_reaching_five_local": 340,
+  "total_display_range": [
+   5,
+   25
+  ],
+  "calendar_memberships_preserving_all_previous_people": 9368,
+  "reviewed_name_histories_added": 0
+ },
+ "claim_limits": [
+  "A single Wikipedia sitelink indicates a published encyclopedia biography, usually in the national language; it is a weaker prominence signal than the earlier two-sitelink threshold, and such people rank below better-known local bearers.",
+  "Birthplace P19/P17 remains geographic evidence, distinct from citizenship P27.",
+  "Native labels support exact spelling, not a legal given name. No transliteration or related form is added.",
+  "Occupation-based roles use Wikidata P106 labels only; no role is inferred from names or descriptions in other languages."
+ ],
+ "failed_leads": "Three failures above are recorded and not retried. Earlier birthday and label collection failures remain closed.",
+ "private_material": "Query originals, candidates (round119-candidates.json), entity details and local-enrichment119.json stay under var outside github-public.",
+ "validation": "138 tests, static build, all 8677 fact-preservation checks, all 9368 full-display preservation checks, five birthday-tier people per membership and an LV browser check (Fridrihs, 14 November).",
+ "next_step": "Remaining gaps (LV 4569, LT 957, EE 573 without local bearer) are mostly names without any Wikidata/Wikipedia native-label bearer. Next: targeted institutional biographies (literatura.lv, LNB, VLE, ESBL/ETBL, sport federations) for upcoming calendar days, recorded as reviewed people; or LV labels for P27 people whose native label is missing."
+}

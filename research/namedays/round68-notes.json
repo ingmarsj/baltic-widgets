@@ -1,0 +1,615 @@
+{
+  "round": 68,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-01: examined all 23 unfinished country profiles in LV, LT and EE calendar order; 11 histories written, 12 remain open. No new provisional origin is displayed. Existing summaries are not promoted where the exact-form bridge remains uncertain.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Laimnesis",
+      "spellings": [
+        "Laimnesis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Laimnesis"
+      ],
+      "facts_used": "Laimnesis combines Latvian laime, ‘happiness, good fortune’, and nest, ‘to carry’; the dictionary interprets it as bringing good fortune. The Siliņš catalogue records the following historical detail: Riga, 1937; calendar 1910. The cited dictionary location is page 206. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 206. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Solvita",
+      "spellings": [
+        "Solvita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solvita"
+      ],
+      "facts_used": "The dictionary explains Solvita through Latin sol, ‘sun’, and vita, ‘life’. These are the two elements; a poetic combined interpretation is not a separate ancient Latin name meaning. The Siliņš catalogue records the following historical detail: 1926; calendar 1956. The cited dictionary location is page 295. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 295. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Solvija",
+      "spellings": [
+        "Solvija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solvija"
+      ],
+      "facts_used": "Catalogue p. 295 gives both Salvija and Solveiga, without choosing a base; dated use 1962 does not resolve it. Inspect the full entry and an independent etymology before giving a literal meaning.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 295 gives both Salvija and Solveiga, without choosing a base; dated use 1962 does not resolve it. Inspect the full entry and an independent etymology before giving a literal meaning.",
+      "next_steps": "Catalogue p. 295 gives both Salvija and Solveiga, without choosing a base; dated use 1962 does not resolve it. Inspect the full entry and an independent etymology before giving a literal meaning."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Afra",
+      "spellings": [
+        "Afra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Afra"
+      ],
+      "facts_used": "Catalogue p. 41 question-marks Latin āfra ‘African woman’; unrelated Arabic homonym does not prove Latvian borrowing. Ārlava fourth-quarter nineteenth-century and calendar 1901 remain qualified. Seek an exact Latvian route or original printed analysis.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 41 question-marks Latin āfra ‘African woman’; unrelated Arabic homonym does not prove Latvian borrowing. Ārlava fourth-quarter nineteenth-century and calendar 1901 remain qualified. Seek an exact Latvian route or original printed analysis.",
+      "next_steps": "Catalogue p. 41 question-marks Latin āfra ‘African woman’; unrelated Arabic homonym does not prove Latvian borrowing. Ārlava fourth-quarter nineteenth-century and calendar 1901 remain qualified. Seek an exact Latvian route or original printed analysis."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Afrodīte",
+      "spellings": [
+        "Afrodīte"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Afrod%C4%ABte"
+      ],
+      "facts_used": "Afrodīte is borrowed from the Greek divine name Aphrodite. Its deeper origin is uncertain: the familiar ‘born from sea foam’ explanation is a folk etymology, not a securely established translation. The Siliņš catalogue records the following historical detail: 1922. The cited dictionary location is page 41. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 41. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Agunda",
+      "spellings": [
+        "Agunda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Agunda"
+      ],
+      "facts_used": "Catalogue p. 44 proposes Adelgunde but explicitly says origin unknown; Kuldīga 1971 is not a spelling bridge. Seek an exact scholarly derivation rather than importing adal/gund.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 44 proposes Adelgunde but explicitly says origin unknown; Kuldīga 1971 is not a spelling bridge. Seek an exact scholarly derivation rather than importing adal/gund.",
+      "next_steps": "Catalogue p. 44 proposes Adelgunde but explicitly says origin unknown; Kuldīga 1971 is not a spelling bridge. Seek an exact scholarly derivation rather than importing adal/gund."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Agurs",
+      "spellings": [
+        "Agurs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Agurs"
+      ],
+      "facts_used": "Catalogue proposes biblical Āgūrs with competing Hebrew gather/hired-man explanations; no exact dated Latvian route was established. Its linked study must be identified and original exact Bible spellings inspected. Do not choose one root or silently merge vowel lengths.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue proposes biblical Āgūrs with competing Hebrew gather/hired-man explanations; no exact dated Latvian route was established. Its linked study must be identified and original exact Bible spellings inspected. Do not choose one root or silently merge vowel lengths.",
+      "next_steps": "Catalogue proposes biblical Āgūrs with competing Hebrew gather/hired-man explanations; no exact dated Latvian route was established. Its linked study must be identified and original exact Bible spellings inspected. Do not choose one root or silently merge vowel lengths."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Januārija",
+      "spellings": [
+        "Januārija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Janu%C4%81rija"
+      ],
+      "facts_used": "The dictionary lists Januārija as the feminine counterpart of Januārijs and connects that family to Latin Januarius and the Roman divine name Janus. The Siliņš catalogue records the following historical detail: Dagda, 1943; calendar 1937. The cited dictionary location is page 175. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Catalogue's description of Janus as a sun/light god is omitted; only the explicit name-family link is used. Checked location: 175. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Laimstars",
+      "spellings": [
+        "Laimstars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Laimstars"
+      ],
+      "facts_used": "Fetched exact Laimstars URL serves an origin paragraph beginning Laimstara, with Riga 1938/calendar 1910. This spelling mismatch prevents transferring those dates or laime+stars to the masculine name. Inspect Siliņš p. 206 directly and find exact masculine attestation.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Fetched exact Laimstars URL serves an origin paragraph beginning Laimstara, with Riga 1938/calendar 1910. This spelling mismatch prevents transferring those dates or laime+stars to the masculine name. Inspect Siliņš p. 206 directly and find exact masculine attestation.",
+      "next_steps": "Fetched exact Laimstars URL serves an origin paragraph beginning Laimstara, with Riga 1938/calendar 1910. This spelling mismatch prevents transferring those dates or laime+stars to the masculine name. Inspect Siliņš p. 206 directly and find exact masculine attestation."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Soleda",
+      "spellings": [
+        "Soleda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Soleda"
+      ],
+      "facts_used": "Catalogue cites a French baby-name page for Spanish solitude but explicitly says no direct shortening link to Soledad has been confirmed. Seek a primary Spanish or Latvian onomastic bridge and dated exact use.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue cites a French baby-name page for Spanish solitude but explicitly says no direct shortening link to Soledad has been confirmed. Seek a primary Spanish or Latvian onomastic bridge and dated exact use.",
+      "next_steps": "Catalogue cites a French baby-name page for Spanish solitude but explicitly says no direct shortening link to Soledad has been confirmed. Seek a primary Spanish or Latvian onomastic bridge and dated exact use."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Solita",
+      "spellings": [
+        "Solita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solita"
+      ],
+      "facts_used": "Catalogue gives no English origin explanation; cache contains no exact origin. Seek a printed onomastic entry and dated bearer, keeping it distinct from Solvita and Soledad.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue gives no English origin explanation; cache contains no exact origin. Seek a printed onomastic entry and dated bearer, keeping it distinct from Solvita and Soledad.",
+      "next_steps": "Catalogue gives no English origin explanation; cache contains no exact origin. Seek a printed onomastic entry and dated bearer, keeping it distinct from Solvita and Soledad."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lv",
+      "name": "Solveta",
+      "spellings": [
+        "Solveta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Solveta"
+      ],
+      "facts_used": "Catalogue says exact form absent; resemblance to Solvija is not evidence. Seek exact name entry and dated use; do not copy Solvita's Latin compound.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue says exact form absent; resemblance to Solvija is not evidence. Seek exact name entry and dated use; do not copy Solvita's Latin compound.",
+      "next_steps": "Catalogue says exact form absent; resemblance to Solvija is not evidence. Seek exact name entry and dated use; do not copy Solvita's Latin compound."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lt",
+      "name": "Arvaidas",
+      "spellings": [
+        "Arvaidas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys lists Arvaidas among Prussian two-stem personal names. He connects Ar- with ar, “also, too”, and sends Vaid- to Vyd-, which he associates with išvysti, “to see”. These are the author’s element comparisons, not a fixed phrase that describes a modern bearer. The 1964 Yla–Salys calendar explicitly places Arvaidas (Arvas) on 1 January; it was reprinted in Salys’s collected writings in 1983. This documents the modern calendar form and its proposed short form. It does not prove uninterrupted use since Prussian times or identify the first Lithuanian child with the name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 285 / printed 270, PDF 297 / printed 282, PDF 298 / printed 283, calendar PDF 300 / printed 285. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lt",
+      "name": "Arvaidė",
+      "spellings": [
+        "Arvaidė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "No exact cache hit. Arvaida guide and popular news suggest relationship to Arvaidas but no inspected scholarly exact feminine bridge. Seek exact -ė entry and dated use, preserving the Prussian scope of Salys's masculine list.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "No exact cache hit. Arvaida guide and popular news suggest relationship to Arvaidas but no inspected scholarly exact feminine bridge. Seek exact -ė entry and dated use, preserving the Prussian scope of Salys's masculine list.",
+      "next_steps": "No exact cache hit. Arvaida guide and popular news suggest relationship to Arvaidas but no inspected scholarly exact feminine bridge. Seek exact -ė entry and dated use, preserving the Prussian scope of Salys's masculine list."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lt",
+      "name": "Eufrozija",
+      "spellings": [
+        "Eufrozija"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-MGM-RARE"
+      ],
+      "sources": [
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas"
+      ],
+      "facts_used": "Mūsų Giminės Medis lists Eufrozija with Eufrozya, Vydžiai 1826, but no inspected original register image/locator supports normalization. Compiler's Greek good-mood gloss is not a scholarly derivation. Verify the archival entry and a Lithuanian dictionary bridge; no first-use date accepted.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Mūsų Giminės Medis lists Eufrozija with Eufrozya, Vydžiai 1826, but no inspected original register image/locator supports normalization. Compiler's Greek good-mood gloss is not a scholarly derivation. Verify the archival entry and a Lithuanian dictionary bridge; no first-use date accepted.",
+      "next_steps": "Mūsų Giminės Medis lists Eufrozija with Eufrozya, Vydžiai 1826, but no inspected original register image/locator supports normalization. Compiler's Greek good-mood gloss is not a scholarly derivation. Verify the archival entry and a Lithuanian dictionary bridge; no first-use date accepted."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lt",
+      "name": "Eufrozina",
+      "spellings": [
+        "Eufrozina"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-MGM-RARE",
+        "INT-BTN-EUFROZINA"
+      ],
+      "sources": [
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas",
+        "https://www.behindthename.com/name/eufrozina"
+      ],
+      "facts_used": "BTN exact Eufrozina entry is explicitly Hungarian, not Lithuanian. Genealogy page groups Eufrizina/Euphrosina/Eufrozyna/Евфрозина under Eufrosinė and refers to Eufrozina under Frozina; no exact Lithuanian origin chain established. Seek original register images and an exact Lithuanian dictionary entry before transferring Hungarian Euphrosyne analysis.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "BTN exact Eufrozina entry is explicitly Hungarian, not Lithuanian. Genealogy page groups Eufrizina/Euphrosina/Eufrozyna/Евфрозина under Eufrosinė and refers to Eufrozina under Frozina; no exact Lithuanian origin chain established. Seek original register images and an exact Lithuanian dictionary entry before transferring Hungarian Euphrosyne analysis.",
+      "next_steps": "BTN exact Eufrozina entry is explicitly Hungarian, not Lithuanian. Genealogy page groups Eufrizina/Euphrosina/Eufrozyna/Евфрозина under Eufrosinė and refers to Eufrozina under Frozina; no exact Lithuanian origin chain established. Seek original register images and an exact Lithuanian dictionary entry before transferring Hungarian Euphrosyne analysis."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lt",
+      "name": "Mečislovas",
+      "spellings": [
+        "Mečislovas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-MECISLOVAS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/mec18islovas"
+      ],
+      "facts_used": "The Senn–Salys dictionary explicitly identifies Mečys as a short form of Mečislovas. The curated Mečislovas entry gives the Lithuanian correspondence to Polish Mieczysław. These direct links explain the full and short forms without deriving Mečys from an unrelated similar word. Salys reports that Mečislovas was still included in the 1933 Kaunas calendar. Separately, the 1968 dictionary records Mečislovas and its short form Mečys. The 1933 calendar detail belongs to the full form; it is not presented as an independently checked 1933 entry for Mečys.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 43 / printed 28; PDF 250 / printed 235. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "lt",
+      "name": "Mečys",
+      "spellings": [
+        "Mečys"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-MECISLOVAS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/mec18islovas"
+      ],
+      "facts_used": "The Senn–Salys dictionary explicitly identifies Mečys as a short form of Mečislovas. The curated Mečislovas entry gives the Lithuanian correspondence to Polish Mieczysław. These direct links explain the full and short forms without deriving Mečys from an unrelated similar word. Salys reports that Mečislovas was still included in the 1933 Kaunas calendar. Separately, the 1968 dictionary records Mečislovas and its short form Mečys. The 1933 calendar detail belongs to the full form; it is not presented as an independently checked 1933 entry for Mečys.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: Salys PDF 250 / printed 235; PDF 43 / printed 28. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "ee",
+      "name": "Algo",
+      "spellings": [
+        "Algo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "EE-MAGISTE29",
+        "EE-MAGISTE29-AES",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 20 / printed 22 calls Algo an artificial adaptation of documented older similar names, citing a 1936 list, and offers Algot/Algaut or Finnish alku/Algus as alternative bases. Mägiste has Algo (PN 153 Alke). No unique root accepted. Inspect the 1936 original and resolve the alternatives; do not promote Leole's simplified explanation.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Rajandi PDF 20 / printed 22 calls Algo an artificial adaptation of documented older similar names, citing a 1936 list, and offers Algot/Algaut or Finnish alku/Algus as alternative bases. Mägiste has Algo (PN 153 Alke). No unique root accepted. Inspect the 1936 original and resolve the alternatives; do not promote Leole's simplified explanation.",
+      "next_steps": "Rajandi PDF 20 / printed 22 calls Algo an artificial adaptation of documented older similar names, citing a 1936 list, and offers Algot/Algaut or Finnish alku/Algus as alternative bases. Mägiste has Algo (PN 153 Alke). No unique root accepted. Inspect the 1936 original and resolve the alternatives; do not promote Leole's simplified explanation."
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "ee",
+      "name": "Alo",
+      "spellings": [
+        "Alo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi gives Alo (~ Alu) as an old Livonian personal name and also as a short form of Aleksander. These are two documented contexts for the same spelling. The entry does not make the Livonian name’s unknown lexical meaning identical to the Greek explanation of Aleksander. His 1966 book cites Henry’s Livonian Chronicle, I:4, for the old name and reports occasional naming of boys as Alo as late as 1962. He also notes a feminine literary Alo in K. J. Peterson’s pastoral. These episodes concern different periods and uses, not one continuous family history.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 21 / printed 23. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "ee",
+      "name": "Esmo",
+      "spellings": [
+        "Esmo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi describes Esmo and Esmu as proposed masculine parallels to Esme, associated in meaning with “first, firstborn”. His reference is to a name recommendation by Mägiste. The comparison concerns the proposed meaning and is not a claim of borrowing from the unrelated French name Esmé. This account was printed in Raamat nimedest in 1966, and the name index explicitly directs Esmo and Esmu to Esme. It documents how an Estonian lexicographer classified the proposal. It gives neither the proposal’s original year nor a first registration of a child named Esmo.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 56 / printed 58. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "ee",
+      "name": "Uno",
+      "spellings": [
+        "Uno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Uno and Uuno together and explains them through Latin “one, single, only”. His article records an Estonian name-family analysis. The two spellings remain separate calendar names even where the dictionary discusses their linguistic background together. In the 1966 lexicon, the Uno/Uuno group is described as a favourite of the 1920s and frequent in the patronymics of the birth registers then being studied. That observation concerns an earlier generation and a grouped entry. It is not a current count for either spelling or an exact first-use year.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 167 / printed 169. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-01",
+      "date": "2026-11-12",
+      "calendar_date": "01-01",
+      "country": "ee",
+      "name": "Uuno",
+      "spellings": [
+        "Uuno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Uno and Uuno together and explains them through Latin “one, single, only”. His article records an Estonian name-family analysis. The two spellings remain separate calendar names even where the dictionary discusses their linguistic background together. In the 1966 lexicon, the Uno/Uuno group is described as a favourite of the 1920s and frequent in the patronymics of the birth registers then being studied. That observation concerns an earlier generation and a grouped entry. It is not a current count for either spelling or an exact first-use year.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 167 / printed 169. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    }
+  ]
+}

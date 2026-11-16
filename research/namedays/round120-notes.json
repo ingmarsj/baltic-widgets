@@ -1,0 +1,352 @@
+{
+ "round": 120,
+ "date": "2026-11-14",
+ "writer_version": "namedays-1.9.78",
+ "scope": "Calendar-order closure pass from 14 November: local exact namesakes and open name histories for 14–15 November in LV, LT and EE.",
+ "source_directory": "NAMEDAYS_SOURCES.md",
+ "source_ids": [
+  "PEOPLE-WIKI120-*",
+  "PEOPLE-WIKIINTRO120-LV-LEOPOLDS",
+  "PEOPLE-WIKIINTRO120-LT-LEOPOLDAS",
+  "PEOPLE-WD-CHECK120-LEOPOLD",
+  "LV-PERIODIKA-NRA-1997-05-22",
+  "LV-PERIODIKA-RSB-1874-09-19",
+  "LV-SILINS90",
+  "EE-MAGISTE36",
+  "EE-RAJANDI66"
+ ],
+ "records": [
+  {
+   "batch": "calendar-closure-2026-11-15",
+   "date": "2026-11-14",
+   "calendar_date": "11-15",
+   "country": "lv",
+   "name": "Undalgs",
+   "spellings": [
+    "Undalgs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-PERIODIKA-NRA-1997-05-22"
+   ],
+   "sources": [
+    "https://periodika.lv/periodika2-viewer/?lang=fr#panel:pa|issue:609238|article:DIVL471"
+   ],
+   "facts_used": "Neatkarīgā Rīta Avīze No. 118, 22 May 1997, Aiva Kanepone, “Daudz laimes Zauram, Rudjardam, Tāllidai, Metaksijai un parējiem!!!”: a Salaspils bearer received the name, slightly changed by his parents, from the name of Viesalgi village in the Kuldīga area; a younger namesake’s mother took it from a television programme. Text read in the reader; images are library-access only.",
+   "reason": "Exact-spelling dated source on the name’s formation.",
+   "uncertainties": "Single bearer’s account; the exact parental alteration is not described. The bearer is not named in the widget.",
+   "next_steps": ""
+  },
+  {
+   "batch": "calendar-closure-2026-11-14",
+   "date": "2026-11-14",
+   "calendar_date": "11-14",
+   "country": "lv",
+   "name": "Vincentina",
+   "spellings": [
+    "Vincentina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-PERIODIKA-RSB-1874-09-19",
+    "LV-SILINS90"
+   ],
+   "sources": [
+    "https://periodika.lv/periodika2-viewer/?lang=fr#panel:pa|issue:744827|article:DIVL78",
+    "https://www.izpetnieks.lv/en/name/Vincent%C4%ABna"
+   ],
+   "facts_used": "Rigasche Stadtblätter No. 38, 19 Sep 1874, “Aus den Kirchengemeinden”, Aufgeboten, Petri- u. Dom-K.: “Kath. Vincentina Gembitzky” (scan visually checked). LV-SILINS90: Vincentīn/a, -e feminine of Vincentins (Rēzekne 1877); Vincentins → Vincentijs; Vincentijs < Latin vincens.",
+   "reason": "Exact unaccented spelling attested in a dated record; the dictionary family is stated separately without assigning its dates to this spelling.",
+   "uncertainties": "German-language list; the record documents use of the spelling, not a separate origin. Vincentīna’s 1877 date is not transferred.",
+   "next_steps": ""
+  },
+  {
+   "batch": "calendar-closure-2026-11-14",
+   "date": "2026-11-14",
+   "calendar_date": "11-14",
+   "country": "lv",
+   "name": "Vikars",
+   "spellings": [
+    "Vikars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90",
+    "LV-PERIODIKA"
+   ],
+   "sources": [
+    "https://www.izpetnieks.lv/en/name/Vikars"
+   ],
+   "facts_used": "",
+   "hypothesis": "Latin vicarius",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "LV-SILINS90 PDF 328 / printed 325 visually checked: exact “Vikars, lat. vicārius ‘vietnieks, palīgs’ (?); Z Bauskas r. 1975 DzN 0,5”; the OCR macron belongs to Latin vicārius, not the name. The question mark is the author’s. LV-PERIODIKA “Vikars”: only the noun vikārs (vicar) and an English surname; no given-name use.",
+   "next_steps": "Only a second scholarly explanation could close this; LV-LAVI onomastic articles remain the last lead. Do not retry PERIODIKA or Siliņš."
+  },
+  {
+   "batch": "calendar-closure-2026-11-14",
+   "date": "2026-11-14",
+   "calendar_date": "11-14",
+   "country": "lv",
+   "name": "Fridriha",
+   "spellings": [
+    "Fridriha"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90"
+   ],
+   "sources": [
+    "https://www.izpetnieks.lv/en/name/Fridriha"
+   ],
+   "facts_used": "",
+   "hypothesis": "Friderika",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "LV-SILINS90 text has Friderika and Fridrihs only, no feminine Fridriha. PERIODIKA not searched: the masculine genitive homograph makes OCR hits unusable.",
+   "next_steps": "Needs a registry-based or scholarly exact entry (LV-LAVI); newspaper search is not a usable route."
+  },
+  {
+   "batch": "calendar-closure-2026-11-14",
+   "date": "2026-11-14",
+   "calendar_date": "11-14",
+   "country": "ee",
+   "name": "Alve",
+   "spellings": [
+    "Alve"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-MAGISTE36",
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "",
+   "hypothesis": "Alviine/Alvi",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "EE-MAGISTE36 full text checked: Talvi, Valve, Valvi, Valvo but no Alve. Rajandi already negative. et.wikipedia has no Alve bearer.",
+   "next_steps": "No remaining cached Estonian name source mentions Alve; leave open unless a new Estonian onomastic source appears."
+  },
+  {
+   "batch": "calendar-closure-2026-11-15",
+   "date": "2026-11-14",
+   "calendar_date": "11-15",
+   "country": "lv",
+   "name": "Leopoldina",
+   "spellings": [
+    "Leopoldina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90",
+    "EE-RAJANDI66",
+    "LV-PERIODIKA"
+   ],
+   "sources": [
+    "https://www.izpetnieks.lv/en/name/Leopoldina"
+   ],
+   "facts_used": "",
+   "hypothesis": "Leopolds",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "LV-SILINS90 has only Leopoldīne (Riga 1883) → Leopolds. EE-RAJANDI66: *Leopolda ~ Leopoldine as Estonian feminine names from Leopold (not this spelling). PERIODIKA “Leopoldina”: 307 hits dominated by the Leopoldina academy and Leopoldine; no usable given-name record.",
+   "next_steps": "A dated exact Latvian Leopoldina record (registry or church book) would be needed."
+  },
+  {
+   "batch": "calendar-closure-2026-11-15",
+   "date": "2026-11-14",
+   "calendar_date": "11-15",
+   "country": "lv",
+   "name": "Undija",
+   "spellings": [
+    "Undija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90",
+    "LV-PERIODIKA"
+   ],
+   "sources": [],
+   "facts_used": "",
+   "hypothesis": "Unda",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "LV-SILINS90 has no Undija. PERIODIKA “Undija”: only OCR fragments (Indija, Burgundija).",
+   "next_steps": "No further source; leave open."
+  },
+  {
+   "batch": "calendar-closure-2026-11-15",
+   "date": "2026-11-14",
+   "calendar_date": "11-15",
+   "country": "lv",
+   "name": "Undita",
+   "spellings": [
+    "Undita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90",
+    "LV-PERIODIKA"
+   ],
+   "sources": [],
+   "facts_used": "",
+   "hypothesis": "Unda",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "LV-SILINS90 has no Undita. PERIODIKA “Undita”: only the surname Undits and OCR fragments.",
+   "next_steps": "No further source; leave open."
+  },
+  {
+   "batch": "calendar-closure-2026-11-15",
+   "date": "2026-11-14",
+   "calendar_date": "11-15",
+   "country": "lv",
+   "name": "Undina",
+   "spellings": [
+    "Undina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90"
+   ],
+   "sources": [],
+   "facts_used": "",
+   "hypothesis": "Undīna",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "LV-SILINS90 only Undīn/a, -e (Latin unda, Riga 1922); no short-i form.",
+   "next_steps": "A dated exact short-i record would be needed."
+  },
+  {
+   "batch": "calendar-closure-2026-11-15",
+   "date": "2026-11-14",
+   "calendar_date": "11-15",
+   "country": "lv",
+   "name": "Undis",
+   "spellings": [
+    "Undis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90"
+   ],
+   "sources": [],
+   "facts_used": "",
+   "hypothesis": "Unda",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "LV-SILINS90 has no masculine Undis.",
+   "next_steps": "No further source; leave open."
+  },
+  {
+   "batch": "calendar-closure-2026-11-15",
+   "date": "2026-11-14",
+   "calendar_date": "11-15",
+   "country": "ee",
+   "name": "Vaigi",
+   "spellings": [
+    "Vaigi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-MAGISTE36",
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://www.digar.ee/id/nlib-digar:334837"
+   ],
+   "facts_used": "",
+   "hypothesis": "Vaike/Vaige",
+   "reason": "Round 120 closure pass found no exact-form bridge; the item stays open.",
+   "uncertainties": "EE-MAGISTE36 full text: Vaiga kstl., Vaige kstl., Vaike kstl., Vaiki tarv., Vaigu kstl. — no Vaigi. This closes the Mägiste 1936 lead.",
+   "next_steps": "Seppo 1994 is the last named lead and is not cached."
+  }
+ ],
+ "people": {
+  "reviewed_people_file": "research/namedays/reviewed-people.json",
+  "added": [
+   "Gotfridas Ektis",
+   "Leopolds Blaus",
+   "Leopolds Vanags",
+   "Ilze Indrāne (Undīne Jātniece)",
+   "Leopoldas Dymša",
+   "Leopoldas Petras Andrijauskas",
+   "Leopoldas Kumpikas",
+   "Leopoldas Rozga",
+   "Leopoldas Šileikis"
+  ],
+  "new_role": "educator (teacher/pedagogue descriptions that previously mapped to no role; checked after all existing roles, so no existing role changes)",
+  "negative": "National Wikipedia title-prefix searches found no local bearer for LV Frederika, Friderika, Frideriks, Fridriha, Vicenta, Vicents, Vikars, Vincens, Vincenta, Vincentina, Vincentīna, Vincentīne, Leopoldina, Unda, Undīna (only a pen-name entry), LT Ramantas, Saulenė, Vaidilas, Žadvydė, EE Alve, Vaige, Vaiki, Vaigi. Web searches for Latgalian and literary bearers were unproductive. Excluded on purpose: Gotfridas Ostermejeris (Lithuania Minor, outside present-day Lithuania), Alviine Rohtla (centenarian) and Alviine Pedriks (curiosity entertainer)."
+ },
+ "failed_leads": "lv.wikipedia prefix requests returned HTTP 429 after ten names; the remainder succeeded with a four-second delay. Wiktionary has no Vincentina page; Behind the Name Vincentina is user-submitted and unused.",
+ "outcome": {
+  "local_profiles_after": {
+   "lv": 990,
+   "lt": 612,
+   "ee": 992
+  },
+  "profiles_with_five_local_after": {
+   "lv": 312,
+   "lt": 301,
+   "ee": 499
+  },
+  "reviewed_histories_added": 2,
+  "open_histories_14_15_nov": {
+   "lv": [
+    "Fridriha",
+    "Vikars",
+    "Leopoldina",
+    "Undija",
+    "Undina",
+    "Undis",
+    "Undita"
+   ],
+   "ee": [
+    "Alve",
+    "Vaigi"
+   ]
+  }
+ },
+ "validation": "138 tests, static build, round 120 audit (all facts and displayed people preserved, five birthday people per membership) and LT browser check (Leopoldas, 15 November: nine local namesakes above international and birthday tiers).",
+ "next_step": "Continue the closure pass with 16 November."
+}

@@ -1,0 +1,361 @@
+{
+  "round": 81,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-14: researched all 13 unfinished LV/LT/EE profiles before advancing. 7 histories written; 6 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Roberta",
+      "spellings": [
+        "Roberta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Roberta"
+      ],
+      "facts_used": "The catalogue explains Roberta through Roberts: Old High German hruod «fame» + beraht «bright». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: calendar 1966 (dictionary page 276). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 276. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Raits",
+      "spellings": [
+        "Raits"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-ALL93",
+        "LV-LILE24",
+        "LV-LVA-EN06"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Raits",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Catalogue has Raitis, not exact Raits. English manual PDF 160 is a surname section (Wright), not an origin statement about the Latvian given name. Scholarly occurrences do not supply formation; seek exact given-name analysis and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue has Raitis, not exact Raits. English manual PDF 160 is a surname section (Wright), not an origin statement about the Latvian given name. Scholarly occurrences do not supply formation; seek exact given-name analysis and date.",
+      "next_steps": "Catalogue has Raitis, not exact Raits. English manual PDF 160 is a surname section (Wright), not an origin statement about the Latvian given name. Scholarly occurrences do not supply formation; seek exact given-name analysis and date."
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Robērs",
+      "spellings": [
+        "Robērs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Rob%C4%93rs"
+      ],
+      "facts_used": "Exact spelling absent from the catalogue. Seek a French Robert → Robērs given-name correspondence and dated use; do not infer it from a French pronunciation alone.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact spelling absent from the catalogue. Seek a French Robert → Robērs given-name correspondence and dated use; do not infer it from a French pronunciation alone.",
+      "next_steps": "Exact spelling absent from the catalogue. Seek a French Robert → Robērs given-name correspondence and dated use; do not infer it from a French pronunciation alone."
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Robertīne",
+      "spellings": [
+        "Robertīne"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Robert%C4%ABne"
+      ],
+      "facts_used": "The catalogue explains Robertīne through Roberts: Old High German hruod «fame» + beraht «bright». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1929 (dictionary page 276). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 276. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Roberto",
+      "spellings": [
+        "Roberto"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-MUSE46"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Roberto",
+        "https://maa.missouri.edu/sites/default/files/file-uploads/2021-11/muse.vol_.46.pdf"
+      ],
+      "facts_used": "The catalogue does not verify the exact Latvian form. International Roberto occurrences in unrelated sources do not establish Latvian adoption. Seek an exact Latvian source-language bridge and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "The catalogue does not verify the exact Latvian form. International Roberto occurrences in unrelated sources do not establish Latvian adoption. Seek an exact Latvian source-language bridge and date.",
+      "next_steps": "The catalogue does not verify the exact Latvian form. International Roberto occurrences in unrelated sources do not establish Latvian adoption. Seek an exact Latvian source-language bridge and date."
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Robija",
+      "spellings": [
+        "Robija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Robija"
+      ],
+      "facts_used": "Catalogue lacks exact Robija; Robijs is not an automatically feminine formation. Seek explicit feminine correspondence and dated given-name use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue lacks exact Robija; Robijs is not an automatically feminine formation. Seek explicit feminine correspondence and dated given-name use.",
+      "next_steps": "Catalogue lacks exact Robija; Robijs is not an automatically feminine formation. Seek explicit feminine correspondence and dated given-name use."
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Robijs",
+      "spellings": [
+        "Robijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Robijs"
+      ],
+      "facts_used": "The catalogue explains Robijs through Roberts: Old High German hruod «fame» + beraht «bright». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1968 (dictionary page 276). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 276. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Robina",
+      "spellings": [
+        "Robina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Robina"
+      ],
+      "facts_used": "The catalogue explains Robina through Roberts: Old High German hruod «fame» + beraht «bright». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Balvi, 1979 (dictionary page 276). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 276. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lv",
+      "name": "Robins",
+      "spellings": [
+        "Robins"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Robins",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Robin (Robert) → Robins. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 84. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 81 / printed 84, Robin explicitly diminutive of Robert → Robins. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lt",
+      "name": "Auksė",
+      "spellings": [
+        "Auksė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN-AUKSE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/aukse20"
+      ],
+      "facts_used": "Salys PDF 216 / printed 201 marks PN, PDF 284 / printed 269 classes it among newer common-word formations, and 1964 calendar PDF 301 / printed 286 records January 14. The precise auksas/gold derivation still lacks an exact scholarly statement in checked material. BTN Auksė has user submissions only; do not promote it. Seek original name dictionary entry.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Salys PDF 216 / printed 201 marks PN, PDF 284 / printed 269 classes it among newer common-word formations, and 1964 calendar PDF 301 / printed 286 records January 14. The precise auksas/gold derivation still lacks an exact scholarly statement in checked material. BTN Auksė has user submissions only; do not promote it. Seek original name dictionary entry.",
+      "next_steps": "Salys PDF 216 / printed 201 marks PN, PDF 284 / printed 269 classes it among newer common-word formations, and 1964 calendar PDF 301 / printed 286 records January 14. The precise auksas/gold derivation still lacks an exact scholarly statement in checked material. BTN Auksė has user submissions only; do not promote it. Seek original name dictionary entry."
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lt",
+      "name": "Hilarijus",
+      "spellings": [
+        "Hilarijus"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "The dictionary pairs Hilarijus with Hilarius and explicitly identifies Hilaras as its short form. Rajandi explains the older Greek–Latin family through “cheerful, joyful”. The exact full/short relationship keeps Hilarijus separate from similarly spelled unverified forms. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salys PDF 234 / printed 219, Hilarijus = Hilarius and Hilaras as short form; Rajandi PDF 77 / printed 79, cheerful family. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "lt",
+      "name": "Teodozijus",
+      "spellings": [
+        "Teodozijus"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact z spelling not found; Senn–Salys PDF 271 / printed 256 has Teodosijus with s. Seek an authoritative exact correspondence before transferring Theodosius roots or dates.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact z spelling not found; Senn–Salys PDF 271 / printed 256 has Teodosijus with s. Seek an authoritative exact correspondence before transferring Theodosius roots or dates.",
+      "next_steps": "Exact z spelling not found; Senn–Salys PDF 271 / printed 256 has Teodosijus with s. Seek an authoritative exact correspondence before transferring Theodosius roots or dates."
+    },
+    {
+      "batch": "calendar-2027-01-14",
+      "date": "2026-11-12",
+      "calendar_date": "01-14",
+      "country": "ee",
+      "name": "Feliks",
+      "spellings": [
+        "Feliks"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Feliks with Feeliks and Felix and explains the family from Latin felix, “happy, fruitful”. The Estonian spellings belong to a documented international family; their shared meaning does not describe every bearer’s life or temperament. He cites Weliks in the Estonian calendar of 1772 on 14 January, preserving that older spelling. His 1966 dictionary also records the modern variants. The old calendar date is evidence for a related historical form, not an exact modern-spelling birth record.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The 1772 form is Weliks, not exact Feliks; historical 1963 count is shared family scope, not current exact-form statistics. Checked location: PDF 60 / printed 62, Fe(e)liks~Felix; old Weliks calendar 1772; 1963 six namings in grouped entry. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

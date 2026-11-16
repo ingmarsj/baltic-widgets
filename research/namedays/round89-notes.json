@@ -1,0 +1,519 @@
+{
+  "round": 89,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-22: researched all 19 unfinished LV/LT/EE profiles before advancing (LV 7/13, LT 3/5, EE 1/1 written). 11 histories written; 8 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Austris",
+      "spellings": [
+        "Austris"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Austris"
+      ],
+      "facts_used": "The catalogue explains Austris through Austra: Latvian austra «dawn». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1905; calendar 1879 (dictionary page 75). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The catalogue’s folklore remark about Austra is not used; the 1905 record is not a first birth registration. Checked location: Siliņš catalogue, dictionary p. 75. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Bendžamins",
+      "spellings": [
+        "Bendžamins"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "INT-BTN-BENJAMIN",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bend%C5%BEamins",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.behindthename.com/name/benjamin"
+      ],
+      "facts_used": "The 2006 English rendering manual renders Benjamin as Ben(d)žamins, with the d in brackets, or as Benjamins; the bracketed form covers the spelling Bendžamins. The source name Benjamin is Hebrew Binyamin, explained as “son of the right hand” or “son of the south”. This documents a spelling route, not every bearer’s naming choice. The exact row appears in the 2006 manual on printed page 64. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Bracketed optional d is the documented spelling bridge; Benjāmiņš dates are not transferred. Checked location: Ahero PDF 61 / printed 64: Benjamin → Ben(d)žamins², Benjamins¹, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Beneventa",
+      "spellings": [
+        "Beneventa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Beneventa"
+      ],
+      "facts_used": "The catalogue explains Beneventa through Latin bene «well» + venīre «to come». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Dagda, Latgale, 1930 (dictionary page 80). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Benoventa does not inherit this record or formation. Checked location: Siliņš catalogue, dictionary p. 80. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benija",
+      "spellings": [
+        "Benija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benija"
+      ],
+      "facts_used": "Catalogue has no origin; no exact feminine Benija row in cached rendering manuals. Seek an exact rendering or onomastic entry and dated use; do not derive it from Benijs or Benjamin by resemblance.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue has no origin; no exact feminine Benija row in cached rendering manuals. Seek an exact rendering or onomastic entry and dated use; do not derive it from Benijs or Benjamin by resemblance.",
+      "next_steps": "Catalogue has no origin; no exact feminine Benija row in cached rendering manuals. Seek an exact rendering or onomastic entry and dated use; do not derive it from Benijs or Benjamin by resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benijs",
+      "spellings": [
+        "Benijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benijs",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Bennie, Benny → Benijs. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 64. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The manual marks Bennie/Benny as a diminutive of Benjamin; the catalogue’s Benedict alternative is not selected or denied. Checked location: PDF 61 / printed 64, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benjamina",
+      "spellings": [
+        "Benjamina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-ARM09"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benjamina"
+      ],
+      "facts_used": "Only hit (Armenian manual PDF 63) is a place name Benjamina ← Beniamin, not a given-name row. Seek an exact feminine given-name rendering and dated use; do not transfer Benjamin or Benjāmiņš evidence.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only hit (Armenian manual PDF 63) is a place name Benjamina ← Beniamin, not a given-name row. Seek an exact feminine given-name rendering and dated use; do not transfer Benjamin or Benjāmiņš evidence.",
+      "next_steps": "Only hit (Armenian manual PDF 63) is a place name Benjamina ← Beniamin, not a given-name row. Seek an exact feminine given-name rendering and dated use; do not transfer Benjamin or Benjāmiņš evidence."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benjamins",
+      "spellings": [
+        "Benjamins"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benjamins",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Benjamin → Benjamins. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 64. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Also Benjamin → Benjamins in LV-LVA-NORDIC03 PDF 111/197 (not used in text). Checked location: PDF 61 / printed 64, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benjamiņš",
+      "spellings": [
+        "Benjamiņš"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benjami%C5%86%C5%A1"
+      ],
+      "facts_used": "Catalogue: origin not established, only a possible variant of Benjāmiņš. Seek an explicit short-a/ņ correspondence and dated record; do not inherit Benjāmiņš 1769/1767.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: origin not established, only a possible variant of Benjāmiņš. Seek an explicit short-a/ņ correspondence and dated record; do not inherit Benjāmiņš 1769/1767.",
+      "next_steps": "Catalogue: origin not established, only a possible variant of Benjāmiņš. Seek an explicit short-a/ņ correspondence and dated record; do not inherit Benjāmiņš 1769/1767."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benjāmiņš",
+      "spellings": [
+        "Benjāmiņš"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benj%C4%81mi%C5%86%C5%A1"
+      ],
+      "facts_used": "The catalogue explains Benjāmiņš through Hebrew Binyāmīn «son of the right hand; beloved son». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1769 (place not stated in the source); calendar 1767 (dictionary page 80). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Short-a Benjamiņš and Benjamins do not inherit the 1769/1767 dates. Checked location: Siliņš catalogue, dictionary p. 80. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benno",
+      "spellings": [
+        "Benno"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benno",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Catalogue offers competing Benedikts/Bernhards routes (Riga 1909 is use only). Rajandi PDF 35 adds Estonian bero/Bernhard/Benjamin contexts, which are not Latvian evidence. Seek an exact Latvian origin analysis selecting or explicitly preserving alternatives.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue offers competing Benedikts/Bernhards routes (Riga 1909 is use only). Rajandi PDF 35 adds Estonian bero/Bernhard/Benjamin contexts, which are not Latvian evidence. Seek an exact Latvian origin analysis selecting or explicitly preserving alternatives.",
+      "next_steps": "Catalogue offers competing Benedikts/Bernhards routes (Riga 1909 is use only). Rajandi PDF 35 adds Estonian bero/Bernhard/Benjamin contexts, which are not Latvian evidence. Seek an exact Latvian origin analysis selecting or explicitly preserving alternatives."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Beno",
+      "spellings": [
+        "Beno"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Beno"
+      ],
+      "facts_used": "Catalogue: possible spelling variant of Benno, which itself is unresolved; shared Riga 1909 record. Seek explicit single-n bridge and independent dated record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: possible spelling variant of Benno, which itself is unresolved; shared Riga 1909 record. Seek explicit single-n bridge and independent dated record.",
+      "next_steps": "Catalogue: possible spelling variant of Benno, which itself is unresolved; shared Riga 1909 record. Seek explicit single-n bridge and independent dated record."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Benoventa",
+      "spellings": [
+        "Benoventa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Benoventa"
+      ],
+      "facts_used": "Catalogue: origin not established, possibly altered Beneventa. Seek an exact form bridge and dated use; Beneventa’s Latin formation and Dagda 1930 record are not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: origin not established, possibly altered Beneventa. Seek an exact form bridge and dated use; Beneventa’s Latin formation and Dagda 1930 record are not transferred.",
+      "next_steps": "Catalogue: origin not established, possibly altered Beneventa. Seek an exact form bridge and dated use; Beneventa’s Latin formation and Dagda 1930 record are not transferred."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lv",
+      "name": "Bens",
+      "spellings": [
+        "Bens"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bens",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Ben → Bens. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 64. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The manual marks Ben as a diminutive of Benjamin; the catalogue’s alternative Hebrew ben comparison and its Riga 1965 record are not used. Checked location: PDF 61 / printed 64, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lt",
+      "name": "Anastazas",
+      "spellings": [
+        "Anastazas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN-ANASTASIUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/anastasius"
+      ],
+      "facts_used": "The Senn–Salys Lithuanian–German dictionary marks Anastazas as a short form of Anastazijus, the Lithuanian form of Latin Anastasius. Anastasius is the Latinized Greek Anastasios, “resurrection”, from anastasis, composed of ana “up” and stasis “standing”. Antanas Salys’s 1964 name calendar, reprinted in his collected writings in 1983, lists Anastazas on 22 January with the short forms Anastas and Nastas. This dates a published calendar entry; it does not identify the first Lithuanian bearer or the time the name was formed.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "No first Lithuanian bearer claimed. Checked location: Senn–Salys dictionary PDF 213 / printed 198 (Anastazas KF von Anastazijus; Anastazijus PN Anastasius); 1964 calendar PDF 301 / printed 286, 22 January; curated BTN Anastasius opening. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lt",
+      "name": "Aušrius",
+      "spellings": [
+        "Aušrius"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact form absent: Senn–Salys PDF 216 has Aušrys, Aušrinis, Aušrė, Aušra but not Aušrius. Seek an exact Lithuanian dictionary/VLKK entry and dated use; do not equate it with Aušrys.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact form absent: Senn–Salys PDF 216 has Aušrys, Aušrinis, Aušrė, Aušra but not Aušrius. Seek an exact Lithuanian dictionary/VLKK entry and dated use; do not equate it with Aušrys.",
+      "next_steps": "Exact form absent: Senn–Salys PDF 216 has Aušrys, Aušrinis, Aušrė, Aušra but not Aušrius. Seek an exact Lithuanian dictionary/VLKK entry and dated use; do not equate it with Aušrys."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lt",
+      "name": "Džiugas",
+      "spellings": [
+        "Džiugas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "In a 1933 article on Lithuanian names, reprinted in his collected writings, Antanas Salys argued that personal names preserved in old documents could again serve as given names. He listed Džiugas among the single-stem examples. The checked passage gives no lexical meaning, so none is asserted here. Salys’s 1964 name calendar places Džiugas on 9 May, not on 22 January as in this project’s calendar. The difference is kept as a documented calendar discrepancy; neither date marks the creation of the name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "No lexical meaning (e.g. džiugus) is asserted: not stated in checked passage. Calendar date discrepancy (9 May vs project 22 January) preserved. Checked location: Salys “Mūsų lietuviškieji vardai” (Gimtoji Kalba 1933) PDF 282, single-stem examples; 1964 calendar PDF 307 / printed 292, 9 May. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lt",
+      "name": "Skaistė",
+      "spellings": [
+        "Skaistė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact form absent: Senn–Salys PDF 266 has Skaistutė, Skaistutis, Skaistuolis only. Seek an exact skaistus-derived feminine entry (e.g. vardai.vlkk.lt manually) and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact form absent: Senn–Salys PDF 266 has Skaistutė, Skaistutis, Skaistuolis only. Seek an exact skaistus-derived feminine entry (e.g. vardai.vlkk.lt manually) and dated use.",
+      "next_steps": "Exact form absent: Senn–Salys PDF 266 has Skaistutė, Skaistutis, Skaistuolis only. Seek an exact skaistus-derived feminine entry (e.g. vardai.vlkk.lt manually) and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "lt",
+      "name": "Vincentas",
+      "spellings": [
+        "Vincentas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN-VINCENT"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/vincent"
+      ],
+      "facts_used": "The Senn–Salys dictionary marks Vincentas as a personal name corresponding to German Vinzenz and lists Vincas as its short form. The family goes back to the Roman cognomen Vincentius, derived from Latin vinco, “to conquer”. Antanas Salys’s 1964 calendar places Vincentas (Vincas) on 22 January. In an article on Lithuanian surnames, Salys notes that sixteenth-century court records written in Ruthenian often used Vencko for Vincentas. Such chancery forms entered everyday speech and, through patronymics, later produced surnames such as Venckus. This is a documented historical name form, not the first use of Vincentas.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The sixteenth-century form is Salys’s general statement about court records, not an independently inspected archive or first bearer. Checked location: Dictionary PDF 278 / printed 263 (Vincentas PN Vinzenz; Vincas KF); calendar PDF 301 / printed 286; Mūsų pavardės PDF 36 / printed 21 (16th-century Ruthenian court acts Vencko = Vincentas); curated BTN Vincent opening. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-22",
+      "date": "2026-11-12",
+      "calendar_date": "01-22",
+      "country": "ee",
+      "name": "Luuli",
+      "spellings": [
+        "Luuli"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Edgar Rajandi discusses Luuli within the history of Luule, which he calls an original Estonian feminine name. He notes that when Luule was first proposed, the word luule did not yet have its present meaning, “poetry”; that modern sense should therefore not be read back as the name’s original meaning. According to Rajandi, Mats Tõnisson’s almanacs of 1896–1903 promoted the form Luuli, and O. Kallas proposed Luule anew in 1910; the first Luules were entered in birth registers in 1910/1911. These dates concern documented calendar proposals, not the first Estonian bearer of Luuli.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "EE-MAGISTE29 PDF 18 OCR hit is actually Lüüli (= Lüüdia), not Luuli; rejected. Leole’s luuletaja explanation is not adopted. Checked location: Rajandi PDF 112 / printed 114, Luule entry continuing to PDF 113 / printed 115; index PDF 208 / printed 210 *Luuli Nm 55, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

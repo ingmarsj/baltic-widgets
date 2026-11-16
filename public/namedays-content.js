@@ -1,8 +1,11 @@
 import {formatAttestation} from './namedays-attestation.js';
-import {reviewedHistory} from './namedays-history.js';
+import {reviewedHistory,reusedHistory} from './namedays-history.js';
 import {unverifiedHistory,HYPOTHESIS_LABELS} from './namedays-hypotheses.js';
+import {historySupplement} from './namedays-hypotheses-supplements.js';
 import {rootHistory,reviewedRoot} from './namedays-roots.js';
-export const WRITER_VERSION='namedays-1.9.45';
+import {plainHistory,plainHypothesis} from './namedays-plain.js';
+import {finalWording} from './namedays-plain-r163.js';
+export const WRITER_VERSION='namedays-1.9.133';
 export function nameIdentity(name){return name.normalize('NFD').replace(/(\p{Script=Latin})\p{M}+/gu,'$1').normalize('NFC').replace(/\.$/,'').toLowerCase();}
 export const LANGUAGES=['lv','ru','en','lt','et'];
 const bundles={
@@ -14,7 +17,7 @@ const bundles={
   "today": "Сегодня",
   "tomorrow": "Завтра",
   "history": "История",
-  "people": "Тёзки",
+  "people": "Знаменитые люди",
   "wish": "Поздравить",
   "serious": "От души",
   "humor": "С юмором",
@@ -33,10 +36,10 @@ const bundles={
   "documented": "История имени",
   "origin": "У имени {name} {origins} корни.",
   "related": "Это имя также связывают с именами {names}.",
-  "local": "Тёзка из вашего календаря",
-  "international": "Международный тёзка",
+  "local": "Местные тёзки",
+  "international": "Международные тёзки",
   "variant": "Родственная форма имени",
-  "noPeople": "Известных тёзок мы пока не нашли.",
+  "noPeople": "Проверенных биографий для этого имени и дня пока нет.",
   "copy": "Скопировать",
   "copied": "Скопировано",
   "copyError": "Выдели и скопируй текст поздравления.",
@@ -50,6 +53,9 @@ const bundles={
   "wordRoots": "В его основе — {words}.",
   "possibleRelated": "Имя может быть связано с {names}.",
   "archivalVariant": "В одном архивном описании один и тот же человек назван {name} и {names}."
+,
+  "birthdayPeople": "Родились в этот день",
+  "bornOn": "Дата рождения: {date} {year}"
  },
  "en": {
   "recordedLabel": "The name in earlier records",
@@ -59,7 +65,7 @@ const bundles={
   "today": "Today",
   "tomorrow": "Tomorrow",
   "history": "History",
-  "people": "Namesakes",
+  "people": "Famous people",
   "wish": "Celebrate",
   "serious": "Heartfelt",
   "humor": "Funny",
@@ -78,10 +84,10 @@ const bundles={
   "documented": "The name’s history",
   "origin": "{name} has {origins} roots.",
   "related": "The name is also linked with {names}.",
-  "local": "A namesake from this country",
-  "international": "International namesake",
+  "local": "Local namesakes",
+  "international": "International namesakes",
   "variant": "A related form of the name",
-  "noPeople": "We haven’t found any famous namesakes yet.",
+  "noPeople": "No verified biographies for this name and date yet.",
   "copy": "Copy",
   "copied": "Copied",
   "copyError": "Select and copy the greeting text.",
@@ -95,6 +101,9 @@ const bundles={
   "wordRoots": "Its roots include {words}.",
   "possibleRelated": "The name may be connected with {names}.",
   "archivalVariant": "One archive description uses both {name} and {names} for the same person."
+,
+  "birthdayPeople": "Born on this day",
+  "bornOn": "Born: {date} {year}"
  },
  "lv": {
   "recordedLabel": "Vārds senākos pierakstos",
@@ -104,7 +113,7 @@ const bundles={
   "today": "Šodien",
   "tomorrow": "Rīt",
   "history": "Vēsture",
-  "people": "Vārdabrāļi",
+  "people": "Slaveni cilvēki",
   "wish": "Apsveikt",
   "serious": "No sirds",
   "humor": "Ar humoru",
@@ -123,10 +132,10 @@ const bundles={
   "documented": "Vārda vēsture",
   "origin": "Vārdam {name} ir {origins} saknes.",
   "related": "Šo vārdu saista arī ar vārdiem {names}.",
-  "local": "Vārdabrālis no šīs valsts",
-  "international": "Starptautisks vārdabrālis",
+  "local": "Vietējie vārdabrāļi",
+  "international": "Starptautiskie vārdabrāļi",
   "variant": "Radniecīga vārda forma",
-  "noPeople": "Slavenus vārdabrāļus vēl neesam atraduši.",
+  "noPeople": "Šim vārdam un datumam pārbaudītu biogrāfiju vēl nav.",
   "copy": "Kopēt",
   "copied": "Nokopēts",
   "copyError": "Iezīmē un nokopē apsveikuma tekstu.",
@@ -140,6 +149,9 @@ const bundles={
   "wordRoots": "Tā pamatā ir {words}.",
   "possibleRelated": "Vārds var būt saistīts ar {names}.",
   "archivalVariant": "Vienā arhīva aprakstā viens un tas pats cilvēks minēts kā {name} un {names}."
+,
+  "birthdayPeople": "Dzimuši šajā dienā",
+  "bornOn": "Dzimšanas datums: {date} {year}"
  },
  "lt": {
   "recordedLabel": "Vardas senuose užrašuose",
@@ -149,7 +161,7 @@ const bundles={
   "today": "Šiandien",
   "tomorrow": "Rytoj",
   "history": "Istorija",
-  "people": "Bendravardžiai",
+  "people": "Žymūs žmonės",
   "wish": "Pasveikinti",
   "serious": "Nuoširdžiai",
   "humor": "Su humoru",
@@ -168,10 +180,10 @@ const bundles={
   "documented": "Vardo istorija",
   "origin": "Vardas {name} turi {origins} šaknis.",
   "related": "Šis vardas taip pat siejamas su vardais {names}.",
-  "local": "Šios šalies bendravardis",
-  "international": "Tarptautinis bendravardis",
+  "local": "Vietiniai bendravardžiai",
+  "international": "Tarptautiniai bendravardžiai",
   "variant": "Gimininga vardo forma",
-  "noPeople": "Garsių bendravardžių dar neradome.",
+  "noPeople": "Šiam vardui ir datai patikrintų biografijų dar nėra.",
   "copy": "Kopijuoti",
   "copied": "Nukopijuota",
   "copyError": "Pažymėk ir nukopijuok sveikinimo tekstą.",
@@ -185,6 +197,9 @@ const bundles={
   "wordRoots": "Vardo šaknys — {words}.",
   "possibleRelated": "Vardas gali sietis su {names}.",
   "archivalVariant": "Viename archyvo apraše tas pats žmogus įvardytas kaip {name} ir {names}."
+,
+  "birthdayPeople": "Gimę šią dieną",
+  "bornOn": "Gimimo data: {date} {year}"
  },
  "et": {
   "recordedLabel": "Nimi vanades kirjapanekutes",
@@ -194,7 +209,7 @@ const bundles={
   "today": "Täna",
   "tomorrow": "Homme",
   "history": "Lugu",
-  "people": "Nimekaimud",
+  "people": "Kuulsad inimesed",
   "wish": "Õnnitle",
   "serious": "Südamest",
   "humor": "Huumoriga",
@@ -213,10 +228,10 @@ const bundles={
   "documented": "Nime ajalugu",
   "origin": "Nimel {name} on {origins} juured.",
   "related": "Seda nime seostatakse ka nimedega {names}.",
-  "local": "Selle riigi nimekaim",
-  "international": "Rahvusvaheline nimekaim",
+  "local": "Kohalikud nimekaimud",
+  "international": "Rahvusvahelised nimekaimud",
   "variant": "Nime sugulasvorm",
-  "noPeople": "Me pole veel kuulsaid nimekaime leidnud.",
+  "noPeople": "Selle nime ja kuupäeva kohta pole veel kontrollitud elulugusid.",
   "copy": "Kopeeri",
   "copied": "Kopeeritud",
   "copyError": "Vali õnnitluse tekst ja kopeeri see.",
@@ -230,6 +245,9 @@ const bundles={
   "wordRoots": "Selle taga on {words}.",
   "possibleRelated": "Nimi võib olla seotud nimedega {names}.",
   "archivalVariant": "Ühes arhiivikirjelduses kasutatakse sama inimese kohta kujusid {name} ja {names}."
+,
+  "birthdayPeople": "Sündinud sel päeval",
+  "bornOn": "Sünniaeg: {date} {year}"
  }
 };
 export function text(lang,key,values={}){return(bundles[lang]?.[key]??bundles.en[key]??key).replace(/\{(\w+)\}/g,(m,k)=>values[k]??m);}
@@ -648,10 +666,11 @@ const familyHumor={
 const listFormats=new Map(),dayFormats=new Map();
 const listFormat=lang=>{if(!listFormats.has(lang))listFormats.set(lang,new Intl.ListFormat(lang,{style:"long",type:"conjunction"}));return listFormats.get(lang);};
 const localeForName=lang=>({lv:'lv-LV',ru:'ru-RU',en:'en-GB',lt:'lt-LT',et:'et-EE'}[lang]);
+const REUSE_NOTES={"lv":{"lv":"Vārds {name} sakrīt ar Latvijā lietoto vārdu {source}.","ru":"Имя {name} совпадает с латышским именем {source}.","en":"{name} matches the Latvian name {source}.","lt":"{name} sutampa su Latvijoje vartojamu vardu {source}.","et":"{name} kattub Lätis kasutatava nimega {source}."},"variant":{"lv":"{name} ir vārda {source} rakstības variants.","ru":"{name} — вариант написания имени {source}.","en":"{name} is a spelling variant of {source}.","lt":"{name} – vardo {source} rašybos variantas.","et":"{name} on nime {source} kirjaviisi variant."},"lt":{"lv":"Vārds {name} sakrīt ar Lietuvā lietoto vārdu {source}.","ru":"Имя {name} совпадает с литовским именем {source}.","en":"{name} matches the Lithuanian name {source}.","lt":"{name} sutampa su Lietuvoje vartojamu vardu {source}.","et":"{name} kattub Leedus kasutatava nimega {source}."},"ee":{"lv":"Vārds {name} sakrīt ar Igaunijā lietoto vārdu {source}.","ru":"Имя {name} совпадает с эстонским именем {source}.","en":"{name} matches the Estonian name {source}.","lt":"{name} sutampa su Estijoje vartojamu vardu {source}.","et":"{name} kattub Eestis kasutatava nimega {source}."}};
 export function describeName(profile,requested='en',variant=0,profiles=null){
  const lang=LANGUAGES.includes(requested)?requested:'en',i=LANGUAGES.indexOf(lang),seed=hash(nameIdentity(profile.name)),name=profile.name;
  const facts=profile.facts||{},paragraphs=[];
- const reviewed=reviewedHistory(name,profile.country);
+ const own=reviewedHistory(name,profile.country),reuse=own||unverifiedHistory(name,profile.country)?null:reusedHistory(name,profile.country),reviewed=own||reuse?.history||null;
  const hypothesis=reviewed?null:unverifiedHistory(name,profile.country);
  const root=rootHistory(facts.root_key,name,lang);
  if(special[profile.family])paragraphs.push(fill(special[profile.family][lang],name));
@@ -659,7 +678,7 @@ export function describeName(profile,requested='en',variant=0,profiles=null){
  else{
   if(facts.origins?.length)paragraphs.push(text(lang,'origin',{name,origins:listFormat(lang).format(facts.origins.map(o=>traditions[o]?.[i]||o))}));
   if(facts.etymons?.length){const words=facts.etymons.slice(0,3).map(w=>'«'+w.term+'» («'+w.gloss[lang]+'»)');paragraphs.push(text(lang,'wordRoots',{words:listFormat(lang).format(words)}));}
-  if(facts.formation==='phonetic'){const note={lv:'Vārdnīcā {name} raksturots kā fonētisks darinājums: tā izveidē galvenais ir skanējums, un konkrēts pamatvārds nav norādīts.',ru:'В словаре {name} отмечено как фонетическое образование: имя создано по звучанию, а конкретное слово-основа не указано.',en:'The dictionary classifies {name} as a phonetic formation: it was formed for its sound, without a specified underlying word.',lt:'Žodyne {name} apibūdinamas kaip fonetinis darinys: vardas sudarytas pagal skambesį, nenurodant konkretaus pamatinio žodžio.',et:'Sõnastik liigitab nime {name} häälikulise moodustisena: nimi on loodud kõla järgi, konkreetset alussõna nimetamata.'};paragraphs.push(fill(note[lang],name));}
+  if(facts.formation==='phonetic'){const note={lv:'{name} ir fonētisks darinājums: tā izveidē galvenais ir skanējums, un konkrēts pamatvārds nav norādīts.',ru:'{name} — фонетическое образование: имя создано по звучанию, а конкретное слово-основа не указано.',en:'{name} is a phonetic formation: it was formed for its sound, without a specified underlying word.',lt:'{name} – fonetinis darinys: vardas sudarytas pagal skambesį, nenurodant konkretaus pamatinio žodžio.',et:'{name} on häälikuline moodustis: nimi on loodud kõla järgi, konkreetset alussõna nimetamata.'};paragraphs.push(fill(note[lang],name));}
   if(facts.registry_kind&&registryKinds[facts.registry_kind])paragraphs.push(fill(registryKinds[facts.registry_kind][i],name));
  }
  const person=profile.people?.[0];
@@ -673,12 +692,17 @@ export function describeName(profile,requested='en',variant=0,profiles=null){
  const wishIndex=(seed+variant)>>>0;
  const greetings=Object.fromEntries(['serious','humor'].map(mood=>[mood,Array.from({length:3},(_,n)=>fill(wishes[lang][mood][(wishIndex+n)%wishes[lang][mood].length],name))]));
  if(familyHumor[profile.family])greetings.humor[0]=fill(familyHumor[profile.family][lang],name);
- const history=reviewed?reviewed.text[lang].map(p=>fill(p,name)):paragraphs.length?[paragraphs.join(' ')]:[];
+ const reuseNote=reuse?REUSE_NOTES[reuse.country===profile.country?'variant':reuse.country][lang].replaceAll('{name}',name).replaceAll('{source}',reuse.source):'';
+ const plain=reviewed?plainHistory(reuse?reuse.source:name,reuse?reuse.country:profile.country,reviewed):null;
+ const crossTrim=reuse&&profile.country!=='lv'&&reuse.country!==profile.country;
+ const history=reviewed?(crossTrim?plain[lang].slice(0,1):plain[lang]).map((p,n)=>(n===0&&reuseNote?reuseNote+' ':'')+fill(p,reuse?reuse.source:name)):paragraphs.length?[paragraphs.join(' ')]:[];
  if(facts.calendar_entry&&reviewed?.calendar_entry_year!==facts.calendar_entry.year){
-  const calendarNote={lv:'Personvārdu vārdnīcā norādīts, ka {name} kalendārā iekļauts {year}. gadā.',ru:'В словаре личных имён отмечено, что {name} включено в календарь в {year} году.',en:'The given-name dictionary records {name} as entering the calendar in {year}.',lt:'Asmenvardžių žodyne nurodyta, kad {name} į kalendorių įtrauktas {year} metais.',et:'Isikunimesõnastiku järgi lisati {name} kalendrisse {year}. aastal.'};
-  const entry=facts.calendar_entry;const entryNote={lv:'Saistītajā vārdnīcas šķirklī {name} norādīts kalendāra gads {year}; atsevišķo formu datējums nav precizēts.',ru:'В общей словарной статье {name} указана календарная дата {year}; раздельная датировка написаний не уточнена.',en:'The shared dictionary entry {name} gives the calendar year {year}; it does not date each spelling separately.',lt:'Bendrame žodyno straipsnyje {name} nurodyti kalendoriaus metai {year}; atskirų rašybos formų datos nepatikslintos.',et:'Ühine sõnastikuartikkel {name} annab kalendriaastaks {year}; eri kirjapilte pole eraldi dateeritud.'};history.push((entry.scope==='reference_entry'?entryNote[lang]:calendarNote[lang]).replaceAll('{name}',entry.scope==='reference_entry'?entry.form:name).replaceAll('{year}',String(entry.year)));
+  const calendarNote={lv:'{name} kalendārā iekļauts {year}. gadā.',ru:'{name} включено в календарь в {year} году.',en:'{name} entered the calendar in {year}.',lt:'{name} į kalendorių įtrauktas {year} metais.',et:'{name} lisati kalendrisse {year}. aastal.'};
+  const entry=facts.calendar_entry;const entryNote={lv:'Vārdu grupa {name} kalendārā ir kopš {year}. gada.',ru:'Группа имён {name} — в календаре с {year} года.',en:'The name group {name} has been in the calendar since {year}.',lt:'Vardų grupė {name} kalendoriuje yra nuo {year} metų.',et:'Nimerühm {name} on kalendris alates {year}. aastast.'};history.push((entry.scope==='reference_entry'?entryNote[lang]:calendarNote[lang]).replaceAll('{name}',entry.scope==='reference_entry'?entry.form:name).replaceAll('{year}',String(entry.year)));
  }
- if(hypothesis)history.splice(0,history.length,...hypothesis.text[lang].map(p=>fill(p,name)));
+ if(hypothesis){const kept=hypothesis.keep?history.slice():[];history.splice(0,history.length,...plainHypothesis(hypothesis.text)[lang].map(p=>fill(p,name)),...kept);}
+ const supplement=!hypothesis&&reviewed?historySupplement(name,profile.country):null;
+ if(supplement)history.push(...supplement[lang].map(p=>HYPOTHESIS_LABELS[lang]+': '+fill(p,name)));
  const kind=hypothesis?'unresearched':history.length||attestation?'documented':'unresearched',calendar_only=!history.length;
  if(!history.length&&facts.calendar_dates?.length){if(!dayFormats.has(lang))dayFormats.set(lang,new Intl.DateTimeFormat(localeForName(lang),{month:'long',day:'numeric',timeZone:'UTC'}));const df=dayFormats.get(lang),dates=facts.calendar_dates.map(day=>df.format(new Date('2000-'+day+'T12:00:00Z'))).join(', '),country=text(lang,profile.country);const line={lv:'Vārds {name} šajā {country} vārda dienu kalendārā ierakstīts datumā: {dates}.',ru:'Имя {name} указано в календаре именин страны {country} на даты: {dates}.',en:'The name {name} is listed in the {country} name-day calendar on: {dates}.',lt:'Vardas {name} šalies {country} vardadienių kalendoriuje įrašytas šiomis datomis: {dates}.',et:'Nimi {name} on riigi {country} nimepäevakalendris kuupäevadel: {dates}.'};history.push(line[lang].replaceAll('{name}',name).replaceAll('{country}',country).replaceAll('{dates}',dates));}
  const notice={lv:'Pārbaudītu vēsturisku ziņu par šo vārdu mums vēl nav.',ru:'Подтверждённой истории этого имени у нас пока нет.',en:'We do not yet have a verified history of this name.',lt:'Patvirtintos šio vardo istorijos kol kas neturime.',et:'Selle nime kohta ei ole meil veel kontrollitud ajaloolisi andmeid.'};
@@ -698,9 +722,10 @@ export function describeName(profile,requested='en',variant=0,profiles=null){
    if(related_context.length===2)break;
   }
  }
- return{kind,history,calendar_only,attestation,story:'',notice:kind==='unresearched'?notice[lang]:'',reviewed_narrative:!hypothesis&&(!!reviewed||!!special[profile.family]),unverified_hypothesis:!!hypothesis,hypothesis_label:hypothesis?HYPOTHESIS_LABELS[lang]:'',related_context,wishes:greetings};
+ for(let k=0;k<history.length;k++)history[k]=finalWording(history[k],lang);
+ return{kind,history,calendar_only,attestation,story:'',notice:kind==='unresearched'?notice[lang]:'',reviewed_narrative:!hypothesis&&(!!reviewed||!!special[profile.family]),history_reused_from:reuse?{name:reuse.source,country:reuse.country}:null,unverified_hypothesis:!!hypothesis,hypothesis_label:hypothesis?HYPOTHESIS_LABELS[lang]:'',related_context,wishes:greetings};
 }
 export const ROLE_LABELS={
- writer:['rakstnieks','писатель','writer','rašytojas','kirjanik'],poet:['dzejnieks','поэт','poet','poetas','luuletaja'],actor:['kino un teātra mākslinieks','актёр','actor','aktorius','näitleja'],musician:['mūziķis','музыкант','musician','muzikantas','muusik'],composer:['komponists','композитор','composer','kompozitorius','helilooja'],athlete:['sportists','спортсмен','athlete','sportininkas','sportlane'],scientist:['zinātnieks','учёный','scientist','mokslininkas','teadlane'],artist:['mākslinieks','художник','artist','menininkas','kunstnik'],director:['kinorežisors','кинорежиссёр','film director','kino režisierius','filmirežissöör'],astronaut:['astronauts','астронавт','astronaut','astronautas','astronaut'],public_figure:['sabiedriska personība','общественный деятель','public figure','visuomenės veikėjas','avaliku elu tegelane']
+ writer:['rakstnieks','писатель','writer','rašytojas','kirjanik'],poet:['dzejnieks','поэт','poet','poetas','luuletaja'],actor:['kino un teātra mākslinieks','актёр','actor','aktorius','näitleja'],musician:['mūziķis','музыкант','musician','muzikantas','muusik'],composer:['komponists','композитор','composer','kompozitorius','helilooja'],athlete:['sportists','спортсмен','athlete','sportininkas','sportlane'],scientist:['zinātnieks','учёный','scientist','mokslininkas','teadlane'],artist:['mākslinieks','художник','artist','menininkas','kunstnik'],director:['kinorežisors','кинорежиссёр','film director','kino režisierius','filmirežissöör'],astronaut:['astronauts','астронавт','astronaut','astronautas','astronaut'],educator:['pedagogs','педагог','educator','pedagogas','pedagoog'],public_figure:['sabiedriska personība','общественный деятель','public figure','visuomenės veikėjas','avaliku elu tegelane']
 };
 export function roleLabel(role,lang){return ROLE_LABELS[role]?.[LANGUAGES.indexOf(lang)]||ROLE_LABELS.public_figure[LANGUAGES.indexOf(lang)]||role;}

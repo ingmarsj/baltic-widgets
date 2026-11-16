@@ -1,0 +1,1199 @@
+{
+ "round": 136,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.113",
+ "scope": "Labelled hypotheses for calendar names without a local source, 16 November – 31 December (first batch under the user decision of 16 November 2026).",
+ "decision": "User, 16 November 2026: where no local source can be found, a qualified hypothesis (“probably a form of …”, “may come from …”) is acceptable instead of an exact study. As before, no sources are shown in the interface.",
+ "method": "Open names (no reviewed history, no hypothesis, no reviewed root history) from var/namedays-research/month-status136.json. Each proposal is a form comparison, a comparison with a Latvian common word, a stem comparison (LT two-stem names) or, where nothing fits, a sound-based note. Base-name origins are stated as the usual explanation. Every text ends with an explicit hypothesis sentence and is shown under the Hypothesis label; already documented facts stay below it (keep:true). Names that show a reviewed root history (Daniēla, Dāniela, Daniils, Daņiils, Daņila) were left unchanged.",
+ "measurement": "Source-type sizing in workspace-root var/namedays-research/measure136-summary.json (Wikidata used for counting only).",
+ "skipped": [
+  "lv:Daniēla",
+  "lv:Dāniela",
+  "lv:Daniils",
+  "lv:Daņiils",
+  "lv:Daņila"
+ ],
+ "records": [
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-16",
+   "country": "lv",
+   "name": "Ganda",
+   "spellings": [
+    "Ganda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ganda may be a newer name formed for its sound; compare Gunda and Linda. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base word found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-20",
+   "country": "lv",
+   "name": "Vigelijs",
+   "spellings": [
+    "Vigelijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vigelijs is probably a form of Vigilijs. Latin Vigilius is usually explained from vigil, “watchful, awake”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-21",
+   "country": "lv",
+   "name": "Andars",
+   "spellings": [
+    "Andars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Andars is probably a form of Scandinavian Anders or Latvian Andris. Andreas comes from Greek, “manly, brave”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-21",
+   "country": "lv",
+   "name": "Andejs",
+   "spellings": [
+    "Andejs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Andejs is probably a form of Andrejs. Andreas comes from Greek, “manly, brave”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-21",
+   "country": "lv",
+   "name": "Vigra",
+   "spellings": [
+    "Vigra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vigra may be a newer name formed for its sound; compare Vija and Vigelijs. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base word found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-22",
+   "country": "lv",
+   "name": "Aldris",
+   "spellings": [
+    "Aldris"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aldris is probably a form of Aldis. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-22",
+   "country": "lv",
+   "name": "Aldijs",
+   "spellings": [
+    "Aldijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aldijs is probably a form of Aldis. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-24",
+   "country": "lv",
+   "name": "Vīna",
+   "spellings": [
+    "Vīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vīna may be a short form of names ending in -vīna or -vīne, such as Alvīne and Edvīne. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-24",
+   "country": "lv",
+   "name": "Vīne",
+   "spellings": [
+    "Vīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vīne may be a short form of names ending in -vīne, such as Alvīne and Edvīne. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-24",
+   "country": "lv",
+   "name": "Vinārs",
+   "spellings": [
+    "Vinārs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vinārs may be modelled on names such as Gunārs and Valdemārs, with the opening Vin-. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-24",
+   "country": "lv",
+   "name": "Viners",
+   "spellings": [
+    "Viners"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Viners may be a newer name formed for its sound; compare Vinārs and Valters. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base word found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-27",
+   "country": "lv",
+   "name": "Vinolds",
+   "spellings": [
+    "Vinolds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vinolds may be modelled on names such as Arnolds and Reinholds, with the opening Vin-. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-28",
+   "country": "lv",
+   "name": "Olis",
+   "spellings": [
+    "Olis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Olis may be a short form of names such as Olafs, Olģerts or Olivers. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-28",
+   "country": "lv",
+   "name": "Ritija",
+   "spellings": [
+    "Ritija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ritija is probably a form of Rita. Rita is usually a short form of Margarita, Greek “pearl”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-28",
+   "country": "lv",
+   "name": "Vitija",
+   "spellings": [
+    "Vitija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vitija is probably a form of Vita or Vitālija. Vita is linked with Latin vita, “life”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-02",
+   "country": "lv",
+   "name": "Sniga",
+   "spellings": [
+    "Sniga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sniga may come from the Latvian verb snigt, “to snow”: sniga means “it was snowing”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Comparison with a Latvian common word (general vocabulary).",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-08",
+   "country": "lv",
+   "name": "Ginārs",
+   "spellings": [
+    "Ginārs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ginārs is probably a form of Gunārs. Gunārs is a form of Scandinavian Gunnar (Old Norse gunnr “battle” and herr “army”). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-08",
+   "country": "lv",
+   "name": "Gunijs",
+   "spellings": [
+    "Gunijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gunijs is probably a form of Gunis or Gunārs. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-09",
+   "country": "lv",
+   "name": "Sārtīte",
+   "spellings": [
+    "Sārtīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sārtīte may be formed from the Latvian word sārts, “rosy, ruddy, with the diminutive ending -īte”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Comparison with a Latvian common word (general vocabulary).",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-11",
+   "country": "lv",
+   "name": "Vivaldis",
+   "spellings": [
+    "Vivaldis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vivaldis may be modelled on names such as Arvaldis or Ivaldis; an association with the composer Vivaldi is also possible. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-12",
+   "country": "lv",
+   "name": "Igila",
+   "spellings": [
+    "Igila"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Igila may be a newer name formed for its sound; compare Inga and Ilga. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base word found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-12",
+   "country": "lv",
+   "name": "Iverts",
+   "spellings": [
+    "Iverts"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Iverts may echo Evert, a Low German and Scandinavian form of Eberhard, or be formed like Ivars. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-15",
+   "country": "lv",
+   "name": "Hanelita",
+   "spellings": [
+    "Hanelita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hanelita may be a newer blend of Hanna (Hane) and Elita. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-16",
+   "country": "lv",
+   "name": "Alvīnija",
+   "spellings": [
+    "Alvīnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alvīnija is probably a form of Alvīne. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-16",
+   "country": "lv",
+   "name": "Zolija",
+   "spellings": [
+    "Zolija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Zolija may be connected with Zoja (Greek “life”) or be a name formed for its sound. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base word found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-17",
+   "country": "lv",
+   "name": "Borģīne",
+   "spellings": [
+    "Borģīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Borģīne may be a Latvian rendering of a Germanic name in Borg- or Burg- (“protection”), like Scandinavian Borghild. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-18",
+   "country": "lv",
+   "name": "Kristars",
+   "spellings": [
+    "Kristars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kristars may be formed from Krists or Kristaps with the ending -ārs, as in Gunārs and Ivars. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-19",
+   "country": "lv",
+   "name": "Alereins",
+   "spellings": [
+    "Alereins"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alereins may be a newer name formed for its sound; compare Alens and Reinis. No clear base word is evident. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "No base word found; sound-based comparison only.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-20",
+   "country": "lv",
+   "name": "Artija",
+   "spellings": [
+    "Artija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Artija may be a feminine of Arts or Artis, usually short forms of Artūrs. Arthur is an old Celtic name whose origin is not securely established. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-26",
+   "country": "lv",
+   "name": "Dainavīte",
+   "spellings": [
+    "Dainavīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dainavīte may come from Latvian daina, “folk song”, with a diminutive ending, possibly via the regional name Dainava; a close name is Dainuvīte. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Comparison with a Latvian common word (general vocabulary).",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-26",
+   "country": "lv",
+   "name": "Megana",
+   "spellings": [
+    "Megana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Megana is probably a form of Megan. Megan is a Welsh pet form of Margaret, from Greek “pearl”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-28",
+   "country": "lv",
+   "name": "Irvita",
+   "spellings": [
+    "Irvita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Irvita may be a newer blend of the opening Ir- (as in Irma, Irēna) and the name Vita. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-28",
+   "country": "lv",
+   "name": "Inge",
+   "spellings": [
+    "Inge"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Inge is a Scandinavian and German short form of names beginning with Ing-, such as Ingeborg and Ingrid, linked with the Germanic god Ing. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-28",
+   "country": "lv",
+   "name": "Irvalds",
+   "spellings": [
+    "Irvalds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Irvalds may be modelled on names such as Arvalds and Ivalds, with the opening Ir-. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-28",
+   "country": "lv",
+   "name": "Irvings",
+   "spellings": [
+    "Irvings"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Irvings is probably a form of English and Scottish Irving, originally a surname taken from a place name. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lv",
+   "name": "Solveiga",
+   "spellings": [
+    "Solveiga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Solveiga is probably a form of Solveig. Solveig is usually explained from Old Norse sól, “sun”, and veig, “strength”. This is a hypothesis: the source known to us gives only the general origin of the name, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lv",
+   "name": "Solvega",
+   "spellings": [
+    "Solvega"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Solvega is probably a form of Solveiga. Solveig is usually explained from Old Norse sól, “sun”, and veig, “strength”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lv",
+   "name": "Solvēga",
+   "spellings": [
+    "Solvēga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Solvēga is probably a form of Solveiga. Solveig is usually explained from Old Norse sól, “sun”, and veig, “strength”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lv",
+   "name": "Ilgona",
+   "spellings": [
+    "Ilgona"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ilgona is probably a feminine of Ilgonis; both may be linked with Latvian ilgs, “long”, or ilgas, “longing”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Comparison with a Latvian common word (general vocabulary).",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lv",
+   "name": "Invalds",
+   "spellings": [
+    "Invalds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Invalds may be modelled on names such as Ingvalds and Arvalds, with the opening In-. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lv",
+   "name": "Invars",
+   "spellings": [
+    "Invars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Invars is probably a form of Ingvars. Ingvars is a form of Scandinavian Ingvar (the god’s name Ing and herr, “army”). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lv",
+   "name": "Inveiga",
+   "spellings": [
+    "Inveiga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Inveiga may be modelled on Solveiga, with the opening In- (as in Inga, Ingvars). This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Pattern comparison with names of the same ending.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-30",
+   "country": "lv",
+   "name": "Daniella",
+   "spellings": [
+    "Daniella"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Daniella is probably a form of Daniela. Daniel is Hebrew, “God is my judge”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-30",
+   "country": "lv",
+   "name": "Daņils",
+   "spellings": [
+    "Daņils"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Daņils is probably a form of Daniels. Daniel is Hebrew, “God is my judge”. This is a hypothesis: the source known to us gives only the general origin of the name, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-30",
+   "country": "lv",
+   "name": "Dato",
+   "spellings": [
+    "Dato"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dato is probably a Georgian short form of Davit. David is Hebrew, usually explained as “beloved”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-30",
+   "country": "lv",
+   "name": "Deniels",
+   "spellings": [
+    "Deniels"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Deniels is probably a form of Daniels following the English pronunciation. Daniel is Hebrew, “God is my judge”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-30",
+   "country": "lv",
+   "name": "Dēvids",
+   "spellings": [
+    "Dēvids"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dēvids is probably a form of Dāvids following the English pronunciation of David. David is Hebrew, usually explained as “beloved”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-31",
+   "country": "lv",
+   "name": "Kalve",
+   "spellings": [
+    "Kalve"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kalve may be linked with Latvian kalve, “smithy”; a close name is Kalvis, “smith”. This is a hypothesis: the source known to us gives only the general origin of the name, not its immediate source.",
+   "basis": "Comparison with a Latvian common word (general vocabulary).",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-20",
+   "country": "lt",
+   "name": "Vaidvitė",
+   "spellings": [
+    "Vaidvitė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vaidvitė looks like a Baltic two-stem name with the stems Vaid- and -vit-, also known from names such as Vaidotas and Vytautas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-23",
+   "country": "lt",
+   "name": "Vitbutas",
+   "spellings": [
+    "Vitbutas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vitbutas looks like a Baltic two-stem name with the stems Vit- and -butas, also known from names such as Vytautas and Tautbutas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "lt",
+   "name": "Gentvainas",
+   "spellings": [
+    "Gentvainas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gentvainas looks like a Baltic two-stem name with the stems Gent- and -vainas, also known from names such as Gentvilas and Daugvainas. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Stem comparison with other Lithuanian two-stem names.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-28",
+   "country": "lt",
+   "name": "Irvita",
+   "spellings": [
+    "Irvita"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Irvita in Lithuania may come from Latvian usage, where the same name occurs; it may be a blend of the opening Ir- and the name Vita. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "11-17",
+   "country": "ee",
+   "name": "Ainari",
+   "spellings": [
+    "Ainari"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ainari is probably a form of Ainar (Einar). Einar is usually explained from Old Norse ein, “one, alone”, and herr, “warrior, army”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-26",
+   "country": "ee",
+   "name": "Tehvan",
+   "spellings": [
+    "Tehvan"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tehvan is probably an old Estonian folk form of Stephen (Steffen). Stephen goes back to Greek Stephanos, “wreath, crown”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-27",
+   "country": "ee",
+   "name": "Sulve",
+   "spellings": [
+    "Sulve"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sulve may correspond to Finnish Sulvi, which comes from Scandinavian Solveig. Solveig is usually explained from Old Norse sól, “sun”, and veig, “strength”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "ee",
+   "name": "Merili",
+   "spellings": [
+    "Merili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Merili may be a newer name joining Meri (Estonian “sea”, also a short form of Maria) with the ending -li; an English model (Merrily) is also possible. This is a hypothesis: the source known to us gives only the general origin of the name, not its immediate source.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-29",
+   "country": "ee",
+   "name": "Mirle",
+   "spellings": [
+    "Mirle"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mirle is probably a variant of Merle. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-31",
+   "country": "ee",
+   "name": "Silvar",
+   "spellings": [
+    "Silvar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Silvar is probably a form of Silver (Silvester). Silvester comes from Latin silva, “forest”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  },
+  {
+   "batch": "hypotheses-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "12-31",
+   "country": "ee",
+   "name": "Silvo",
+   "spellings": [
+    "Silvo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Silvo is probably a short form of Silvester or Silvius. Silvester comes from Latin silva, “forest”. This is a hypothesis: we have not found a documented explanation of this name’s origin.",
+   "basis": "Form comparison with an international or neighbouring name; the base-name origin is the usual explanation in general onomastic reference works.",
+   "next_step": "Replace with a reviewed history when a local dictionary or name calendar documents the name."
+  }
+ ],
+ "next": "Continue in calendar order from 1 January with the same method; replace hypotheses whenever a local source documents a name."
+}

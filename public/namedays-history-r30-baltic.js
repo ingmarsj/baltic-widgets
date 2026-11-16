@@ -69,15 +69,15 @@ export const historiesEstonianR30={
       ],
       "ru": [
         "Andre: Имя относится к семье Andreas/Andrejs с греческой основой andreios «мужественный» от anēr «мужчина». В Европе семья распространялась через христианскую традицию. В разных языках формы сокращались и приспосабливались по-разному; общая семья не означает одинаковой истории написаний.",
-        "На странице 22 списка Мягисте 1929 года Andres и Andre стоят в одной строке; Andre отмечено как сетуская и южноэстонская диалектная форма со ссылкой на материал Харгла и Andrei. Это документирует местную форму; историю французского André нельзя присваивать ей автоматически."
+        "На странице 22 списка 1929 года Andres и Andre стоят в одной строке; Andre отмечено как сетуская и южноэстонская диалектная форма со ссылкой на материал Харгла и Andrei. Это документирует местную форму; историю французского André нельзя присваивать ей автоматически."
       ],
       "en": [
         "Andre: The name belongs to the Andreas/Andrejs family, based on Greek andreios, manly, from anēr, man. The family spread in Europe through Christian tradition. Its forms were shortened and adapted differently across languages, so a shared family does not imply identical spelling histories.",
-        "Printed page 22 of Mägiste’s 1929 list places Andres and Andre on one line. Andre is marked as a Seto and South Estonian dialect form, citing Hargla material and Andrei. This particular reference documents a local form; the history of French André should not automatically be assigned to it."
+        "Printed page 22 of the 1929 list places Andres and Andre on one line. Andre is marked as a Seto and South Estonian dialect form, citing Hargla material and Andrei. This particular reference documents a local form; the history of French André should not automatically be assigned to it."
       ],
       "lt": [
         "Andre: Vardas priklauso Andreas/Andrejs šeimai iš graikų andreios „vyriškas“, kilusio iš anēr „vyras“. Europoje šeima plito per krikščioniškąją tradiciją. Įvairiose kalbose formos skirtingai trumpintos ir pritaikytos; bendra kilmė nereiškia vienodos rašybos istorijos.",
-        "Mägiste 1929 metų sąrašo 22 puslapyje Andres ir Andre pateikti vienoje eilutėje; Andre pažymėtas kaip setų ir pietų estų tarmės forma, nurodant Harglos medžiagą ir Andrei. Tai dokumentuoja vietinę formą; prancūzų André istorijos negalima jai automatiškai priskirti."
+        "1929 metų sąrašo 22 puslapyje Andres ir Andre pateikti vienoje eilutėje; Andre pažymėtas kaip setų ir pietų estų tarmės forma, nurodant Harglos medžiagą ir Andrei. Tai dokumentuoja vietinę formą; prancūzų André istorijos negalima jai automatiškai priskirti."
       ],
       "et": [
         "Andre: Nimi kuulub Andrease/Andrejsi perre, mille alus on kreeka andreios, mehine, sõnast anēr, mees. Pere levis Euroopas kristliku traditsiooni kaudu. Eri keeltes lühendati ja kohandati kujusid erinevalt, mistõttu ühine pere ei tähenda ühesugust kirjapildiajalugu.",

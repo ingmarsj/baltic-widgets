@@ -1,0 +1,15 @@
+{
+ "round": 134,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.111",
+ "scope": "Reading the five user-supplied PDFs against the still-open names.",
+ "source_ids": [
+  "LV-LILE19",
+  "LV-VALODA2024",
+  "RU-ANIKIN-RES-XI",
+  "PL-RKJ-T61",
+  "LT-ALL71"
+ ],
+ "outcome": "No reviewed history or hypothesis added. All matches were incidental (authors, editors, bibliography entries, literary characters, place names, a popularity count). Contexts saved in var/namedays-research/newpdf133.json and printed by ctx134.mjs.",
+ "records": []
+}

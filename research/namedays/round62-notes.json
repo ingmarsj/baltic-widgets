@@ -1,0 +1,439 @@
+{
+  "round": 62,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "12-26: examined all 16 unfinished country profiles in LV, LT and EE calendar order; 8 histories written, 8 remain open. No new provisional origin is displayed. Existing summaries are not promoted where the exact-form bridge remains uncertain.",
+  "records": [
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lv",
+      "name": "Dainuvīte",
+      "spellings": [
+        "Dainuvīte"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dainuv%C4%ABte"
+      ],
+      "facts_used": "Dainuvīte is formed from Latvian daina, ‘folk song’, and vīt, ‘to twine’. The Siliņš catalogue records the following historical detail: the first quarter of the twentieth century in the Bauska area; calendar entry 1928. The cited dictionary location is page 93. These are records of use or calendar inclusion, not a claim that the name was created then. A date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: 93. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lv",
+      "name": "Gija",
+      "spellings": [
+        "Gija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Gija"
+      ],
+      "facts_used": "The catalogue places Gija under Gijs but qualifies the Guido/witu/wit and Gideon explanations. Exact 1965 use and 1964 calendar record do not select a root. Inspect Siliņš pp. 137 and 146 and an independent historical bearer record.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "The catalogue places Gija under Gijs but qualifies the Guido/witu/wit and Gideon explanations. Exact 1965 use and 1964 calendar record do not select a root. Inspect Siliņš pp. 137 and 146 and an independent historical bearer record.",
+      "next_steps": "The catalogue places Gija under Gijs but qualifies the Guido/witu/wit and Gideon explanations. Exact 1965 use and 1964 calendar record do not select a root. Inspect Siliņš pp. 137 and 146 and an independent historical bearer record."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lv",
+      "name": "Megija",
+      "spellings": [
+        "Megija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Megija",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian Language Agency’s English-name manual gives Meggie / Meggy → Megija, explicitly identifying the English form as a diminutive of Margaret. This is a documented full-name and short-name relationship, not a guessed meaning based on the Latvian spelling. The exact row appears in Ahero’s 2006 manual, on printed page 112. It is evidence of a dated Latvian rendering recommendation. It does not date the first Latvian bearer, and no early date for Margaret or another short form is transferred to Megija.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 109 / printed 112. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lv",
+      "name": "Dainavīte",
+      "spellings": [
+        "Dainavīte"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dainav%C4%ABte"
+      ],
+      "facts_used": "Catalogue explicitly provides no direct origin for this spelling; Dainuvīte is only a see-also link. Find an exact formation statement and dated bearer; do not borrow Dainuvīte’s dates or etymology.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue explicitly provides no direct origin for this spelling; Dainuvīte is only a see-also link. Find an exact formation statement and dated bearer; do not borrow Dainuvīte’s dates or etymology.",
+      "next_steps": "Catalogue explicitly provides no direct origin for this spelling; Dainuvīte is only a see-also link. Find an exact formation statement and dated bearer; do not borrow Dainuvīte’s dates or etymology."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lv",
+      "name": "Gijs",
+      "spellings": [
+        "Gijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Gijs",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.izpetnieks.lv/en/name/Gija"
+      ],
+      "facts_used": "Catalogue p. 137 links to Guido with competing witu/wit and question-marked Gideon. The 1929 attestation does not resolve the route. Consult the printed entry and an independent exact-form origin source.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue p. 137 links to Guido with competing witu/wit and question-marked Gideon. The 1929 attestation does not resolve the route. Consult the printed entry and an independent exact-form origin source.",
+      "next_steps": "Catalogue p. 137 links to Guido with competing witu/wit and question-marked Gideon. The 1929 attestation does not resolve the route. Consult the printed entry and an independent exact-form origin source."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lv",
+      "name": "Mega",
+      "spellings": [
+        "Mega"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Mega",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian Language Agency’s English-name manual gives Meg → Mega, explicitly identifying the English form as a diminutive of Margaret. This is a documented full-name and short-name relationship, not a guessed meaning based on the Latvian spelling. The exact row appears in Ahero’s 2006 manual, on printed page 112. It is evidence of a dated Latvian rendering recommendation. It does not date the first Latvian bearer, and no early date for Margaret or another short form is transferred to Mega.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 109 / printed 112. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lv",
+      "name": "Megana",
+      "spellings": [
+        "Megana"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-MEGAN"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Megana",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Megan"
+      ],
+      "facts_used": "Catalogue has no direct origin. LVA Megan search returned no rows; do not infer a Megan bridge from similarity. Seek exact LVA/onomastic rendering and a dated bearer.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Catalogue has no direct origin. LVA Megan search returned no rows; do not infer a Megan bridge from similarity. Seek exact LVA/onomastic rendering and a dated bearer.",
+      "next_steps": "Catalogue has no direct origin. LVA Megan search returned no rows; do not infer a Megan bridge from similarity. Seek exact LVA/onomastic rendering and a dated bearer."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lt",
+      "name": "Gaudilė",
+      "spellings": [
+        "Gaudilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/gaudile/"
+      ],
+      "facts_used": "Salys PDF 230 / printed 215 visually confirms PN in the 1968 proper-name list, but gives no derivation. Guide page returned navigation only. Seek exact onomastic formation; do not infer it from gaudyti alone.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Salys PDF 230 / printed 215 visually confirms PN in the 1968 proper-name list, but gives no derivation. Guide page returned navigation only. Seek exact onomastic formation; do not infer it from gaudyti alone.",
+      "next_steps": "Salys PDF 230 / printed 215 visually confirms PN in the 1968 proper-name list, but gives no derivation. Guide page returned navigation only. Seek exact onomastic formation; do not infer it from gaudyti alone."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lt",
+      "name": "Gaudvilas",
+      "spellings": [
+        "Gaudvilas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/gaudvilas/"
+      ],
+      "facts_used": "Salys PDF 230 / printed 215 confirms PN; PDF 298 groups it under -vil- but does not settle Gaud-. Guide page returned navigation only. Seek an explicit exact-form two-stem analysis.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Salys PDF 230 / printed 215 confirms PN; PDF 298 groups it under -vil- but does not settle Gaud-. Guide page returned navigation only. Seek an explicit exact-form two-stem analysis.",
+      "next_steps": "Salys PDF 230 / printed 215 confirms PN; PDF 298 groups it under -vil- but does not settle Gaud-. Guide page returned navigation only. Seek an explicit exact-form two-stem analysis."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "lt",
+      "name": "Gindvilė",
+      "spellings": [
+        "Gindvilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/gindvile/"
+      ],
+      "facts_used": "Salys PDF 231 / printed 216 visually confirms PN, but not an element analysis. Guide page returned navigation only. Seek explicit origin, keeping Gindvilė separate from Gintvilė.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Salys PDF 231 / printed 216 visually confirms PN, but not an element analysis. Guide page returned navigation only. Seek explicit origin, keeping Gindvilė separate from Gintvilė.",
+      "next_steps": "Salys PDF 231 / printed 216 visually confirms PN, but not an element analysis. Guide page returned navigation only. Seek explicit origin, keeping Gindvilė separate from Gintvilė."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "ee",
+      "name": "Taban",
+      "spellings": [
+        "Taban"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Taban belongs to the Stefanus / Stephanus family in Edgar Rajandi’s Estonian name dictionary. He explains the Greek base as “crown, wreath, diadem” and explicitly includes this spelling among the forms used in Estonia. The spelling is documented in Raamat nimedest, published in Tallinn in 1966. The entry brings together several local adaptations of an older international name; it does not give a first birth registration or say that all the variants began to be used at the same time.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 155 / printed 157. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "ee",
+      "name": "Tehvan",
+      "spellings": [
+        "Tehvan"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Leole December 2005 PDF 6 includes exact Tehvan in the Stefanus group; no exact Tehvan hit in Rajandi. Popular calendar column alone is insufficient for a reviewed origin. Find a scholarly exact-form bridge and dated use; do not substitute Tehven or Tehvanus.",
+      "hypothesis": "",
+      "reason": "Research pass completed; a supported exact-form origin and historical record still need verification.",
+      "uncertainties": "Leole December 2005 PDF 6 includes exact Tehvan in the Stefanus group; no exact Tehvan hit in Rajandi. Popular calendar column alone is insufficient for a reviewed origin. Find a scholarly exact-form bridge and dated use; do not substitute Tehven or Tehvanus.",
+      "next_steps": "Leole December 2005 PDF 6 includes exact Tehvan in the Stefanus group; no exact Tehvan hit in Rajandi. Popular calendar column alone is insufficient for a reviewed origin. Find a scholarly exact-form bridge and dated use; do not substitute Tehven or Tehvanus."
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "ee",
+      "name": "Tahvo",
+      "spellings": [
+        "Tahvo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Tahvo belongs to the Stefanus / Stephanus family in Edgar Rajandi’s Estonian name dictionary. He explains the Greek base as “crown, wreath, diadem” and explicitly includes this spelling among the forms used in Estonia. The spelling is documented in Raamat nimedest, published in Tallinn in 1966. The entry brings together several local adaptations of an older international name; it does not give a first birth registration or say that all the variants began to be used at the same time.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 155 / printed 157. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "ee",
+      "name": "Tehvo",
+      "spellings": [
+        "Tehvo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Tehvo belongs to the Stefanus / Stephanus family in Edgar Rajandi’s Estonian name dictionary. He explains the Greek base as “crown, wreath, diadem” and explicitly includes this spelling among the forms used in Estonia. The spelling is documented in Raamat nimedest, published in Tallinn in 1966. The entry brings together several local adaptations of an older international name; it does not give a first birth registration or say that all the variants began to be used at the same time.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 155 / printed 157. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "ee",
+      "name": "Teho",
+      "spellings": [
+        "Teho"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Teho belongs to the Stefanus / Stephanus family in Edgar Rajandi’s Estonian name dictionary. He explains the Greek base as “crown, wreath, diadem” and explicitly includes this spelling among the forms used in Estonia. The spelling is documented in Raamat nimedest, published in Tallinn in 1966. The entry brings together several local adaptations of an older international name; it does not give a first birth registration or say that all the variants began to be used at the same time.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 155 / printed 157. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2026-12-26",
+      "date": "2026-11-12",
+      "calendar_date": "12-26",
+      "country": "ee",
+      "name": "Sten",
+      "spellings": [
+        "Sten"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi gives two associations for Sten: a link to Stefanus, whose Greek base means “crown, wreath”, and the Scandinavian explanation from sten, “stone”. These are distinct analyses, not two parts of one compound. Both accounts appear in his 1966 Estonian name lexicon. The stone explanation is compared with Thorsten and with names such as Petrus and Kalju by meaning. This comparison does not prove that an individual Estonian Sten was named through any one of those names.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a two-paragraph history in all five languages.",
+      "uncertainties": "Checked location: PDF 155 / printed 157. Catalogue material is an attributed online transcription; dictionary PDF spellings were visually inspected where used.",
+      "next_steps": ""
+    }
+  ]
+}

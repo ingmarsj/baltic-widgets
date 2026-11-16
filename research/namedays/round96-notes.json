@@ -1,0 +1,566 @@
+{
+  "round": 96,
+  "date": "2026-11-13",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "Calendar-order research pass for all LV/LT/EE names on 25 February. Three existing reviewed profiles preserved; 22 unfinished profiles examined. Eight histories added; fourteen remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh day: 26 February.",
+  "daily_summary": [
+    {
+      "calendar_date": "02-25",
+      "examined": 22,
+      "written": 8,
+      "open": 14
+    }
+  ],
+  "records": [
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Alma",
+      "spellings": [
+        "Alma"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-ALMA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/alma"
+      ],
+      "evidence_locations": "Online catalogue, dictionary p51; competing origins and possible dates retained",
+      "facts_used": "The catalogue attributed to Siliņš offers two explanations for Alma: Latin alma, meaning nourishing or kind, and a comparison with Amalia. These are alternatives; the entry does not establish one origin for every Latvian bearer. It places a possible Latvian written record in the second quarter of the nineteenth century and possible calendar inclusion in 1889. These qualified dates come from the online account of dictionary page 51, rather than an independently inspected original or a name-creation record.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Annemarija",
+      "spellings": [
+        "Annemarija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANNEMARIJA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/annemarija"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "The catalogue explicitly withholds an exact-form etymology. Existing official Annemarie rendering references have not been newly inspected; no Anmarija date is transferred.",
+      "uncertainties": "The catalogue explicitly withholds an exact-form etymology. Existing official Annemarie rendering references have not been newly inspected; no Anmarija date is transferred.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. The catalogue explicitly withholds an exact-form etymology. Existing official Annemarie rendering references have not been newly inspected; no Anmarija date is transferred."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Almāra",
+      "spellings": [
+        "Almāra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ALMARA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/alm%C4%81ra"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue explicitly says the checked dictionary has Almārs, not Almāra. A feminine derivation is not established.",
+      "uncertainties": "Catalogue explicitly says the checked dictionary has Almārs, not Almāra. A feminine derivation is not established.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue explicitly says the checked dictionary has Almārs, not Almāra. A feminine derivation is not established."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Almars",
+      "spellings": [
+        "Almars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ALMARS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/almars"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue explicitly distinguishes short-a Almars from long-ā Almārs. The 1922 Cēsis record belongs to Almārs and is not accepted as an exact Almars record.",
+      "uncertainties": "Catalogue explicitly distinguishes short-a Almars from long-ā Almārs. The 1922 Cēsis record belongs to Almārs and is not accepted as an exact Almars record.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue explicitly distinguishes short-a Almars from long-ā Almārs. The 1922 Cēsis record belongs to Almārs and is not accepted as an exact Almars record."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Almārs",
+      "spellings": [
+        "Almārs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ALMARS-LONG"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/alm%C4%81rs"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Exact 1922 Cēsis attestation is supplied, but no formation or independent historical episode is explained.",
+      "uncertainties": "Exact 1922 Cēsis attestation is supplied, but no formation or independent historical episode is explained.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Exact 1922 Cēsis attestation is supplied, but no formation or independent historical episode is explained."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Almīra",
+      "spellings": [
+        "Almīra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ALMIRA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/alm%C4%ABra"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue compares Spanish place-name Almería and gives 1934. The transmission and exact spelling bridge require independent onomastic evidence before this unusual comparison is accepted.",
+      "uncertainties": "Catalogue compares Spanish place-name Almería and gives 1934. The transmission and exact spelling bridge require independent onomastic evidence before this unusual comparison is accepted.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue compares Spanish place-name Almería and gives 1934. The transmission and exact spelling bridge require independent onomastic evidence before this unusual comparison is accepted."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Andārta",
+      "spellings": [
+        "Andārta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-ANDARTA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/and%C4%81rta"
+      ],
+      "evidence_locations": "Online catalogue, dictionary pp56;60;95;101",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš describes Andārta as a Latvian compound of Anna and Dārta. This explains the name's construction without assigning a single literal meaning to the whole compound. It gives this historical record for Andārta: Ārlava, 1826. The record concerns use of this spelling, rather than the date when the name was invented. The printed dictionary has not been independently checked here.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Ankatrīna",
+      "spellings": [
+        "Ankatrīna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-ANKATRINA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/ankatr%C4%ABna"
+      ],
+      "evidence_locations": "Online catalogue, dictionary p60",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš describes Ankatrīna as a Latvian compound of Anna and Katrīna. This explains the name's construction without assigning a single literal meaning to the whole compound. It gives this historical record for Ankatrīna: Ārlava, 1789. The record concerns use of this spelling, rather than the date when the name was invented. The printed dictionary has not been independently checked here.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Anlīza",
+      "spellings": [
+        "Anlīza"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANLIZA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/anl%C4%ABza"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue explicitly distinguishes Anlīza from Anlīze; its compound explanation and 1764 record cannot be transferred.",
+      "uncertainties": "Catalogue explicitly distinguishes Anlīza from Anlīze; its compound explanation and 1764 record cannot be transferred.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue explicitly distinguishes Anlīza from Anlīze; its compound explanation and 1764 record cannot be transferred."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Anlīze",
+      "spellings": [
+        "Anlīze"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-ANLIZE"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/anl%C4%ABze"
+      ],
+      "evidence_locations": "Online catalogue, dictionary p60",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš describes Anlīze as a Latvian compound of Anna and Līze. This explains the name's construction without assigning a single literal meaning to the whole compound. It gives this historical record for Anlīze: Lielauce, 1764; calendar 1889. The record concerns use of this spelling, rather than the date when the name was invented. The printed dictionary has not been independently checked here.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Anlizeta",
+      "spellings": [
+        "Anlizeta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANLIZETA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/anlizeta"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue has no English origin explanation, dictionary citation or dated episode. Spelling resemblance alone is insufficient.",
+      "uncertainties": "Catalogue has no English origin explanation, dictionary citation or dated episode. Spelling resemblance alone is insufficient.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue has no English origin explanation, dictionary citation or dated episode. Spelling resemblance alone is insufficient."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Anmāra",
+      "spellings": [
+        "Anmāra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANMARA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/anm%C4%81ra"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue has no English origin explanation, dictionary citation or dated episode. No Anna/Māra formation is inferred from spelling.",
+      "uncertainties": "Catalogue has no English origin explanation, dictionary citation or dated episode. No Anna/Māra formation is inferred from spelling.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue has no English origin explanation, dictionary citation or dated episode. No Anna/Māra formation is inferred from spelling."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Anmarija",
+      "spellings": [
+        "Anmarija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-ANMARIJA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/anmarija"
+      ],
+      "evidence_locations": "Online catalogue, dictionary p60",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš describes Anmarija as a Latvian compound of Anna and Marija. This explains the name's construction without assigning a single literal meaning to the whole compound. It gives this historical record for Anmarija: the fourth quarter of the nineteenth century. The record concerns use of this spelling, rather than the date when the name was invented. The printed dictionary has not been independently checked here.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Annaklāra",
+      "spellings": [
+        "Annaklāra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANNAKLARA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/annakl%C4%81ra"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue has no English origin explanation, dictionary citation or dated episode. No Anna/Klāra formation is inferred from spelling.",
+      "uncertainties": "Catalogue has no English origin explanation, dictionary citation or dated episode. No Anna/Klāra formation is inferred from spelling.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue has no English origin explanation, dictionary citation or dated episode. No Anna/Klāra formation is inferred from spelling."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Annamarija",
+      "spellings": [
+        "Annamarija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANNAMARIJA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/annamarija"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue explicitly withholds an exact-form etymology. The existing Hungarian Annamaria rendering lead needs original inspection; no Anmarija record is transferred.",
+      "uncertainties": "Catalogue explicitly withholds an exact-form etymology. The existing Hungarian Annamaria rendering lead needs original inspection; no Anmarija record is transferred.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue explicitly withholds an exact-form etymology. The existing Hungarian Annamaria rendering lead needs original inspection; no Anmarija record is transferred."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Annmarija",
+      "spellings": [
+        "Annmarija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS-ANNMARIJA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/annmarija"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Catalogue explicitly distinguishes the spelling from Anmarija and withholds a derivation; the nineteenth-century record is not transferred.",
+      "uncertainties": "Catalogue explicitly distinguishes the spelling from Anmarija and withholds a derivation; the nineteenth-century record is not transferred.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Catalogue explicitly distinguishes the spelling from Anmarija and withholds a derivation; the nineteenth-century record is not transferred."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lv",
+      "name": "Gunmāra",
+      "spellings": [
+        "Gunmāra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LV-SILINS-GUNMARA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/gunm%C4%81ra"
+      ],
+      "evidence_locations": "Online catalogue, dictionary p144",
+      "facts_used": "The catalogue attributed to Klāvs Siliņš describes Gunmāra as a Latvian compound of Guna and Māra. This explains the name's construction without assigning a single literal meaning to the whole compound. It gives this historical record for Gunmāra: 1967. The record concerns use of this spelling, rather than the date when the name was invented. The printed dictionary has not been independently checked here.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lt",
+      "name": "Margiris",
+      "spellings": [
+        "Margiris"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Salys PDF116/printed101; PDF303/printed288 (1964 calendar)",
+      "facts_used": "Antanas Salys describes Margiris as the form used by Vincas Krėvė in preference to Margis. He discusses possible compound reconstructions but stresses the difficulty of recovering the historical form; a proposed reconstruction is not a securely established literal meaning. The 1964 name calendar reprinted in Salys’s collected writings in 1983 lists Margiris with the short form Margys on 25 February. This documents a calendar recommendation, not the first bearer or the invention of the name.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "lt",
+      "name": "Regimantas",
+      "spellings": [
+        "Regimantas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Salys PDF262/printed247 search hit identifies an exact masculine personal name, but does not explain its formation. The commercial Reginmund etymology found in search results remains an unchecked lead. Maciejauskienė PDF3 discusses feminine formations, not an independent exact masculine root.",
+      "uncertainties": "Salys PDF262/printed247 search hit identifies an exact masculine personal name, but does not explain its formation. The commercial Reginmund etymology found in search results remains an unchecked lead. Maciejauskienė PDF3 discusses feminine formations, not an independent exact masculine root.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Salys PDF262/printed247 search hit identifies an exact masculine personal name, but does not explain its formation. The commercial Reginmund etymology found in search results remains an unchecked lead. Maciejauskienė PDF3 discusses feminine formations, not an independent exact masculine root."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "ee",
+      "name": "Tuule",
+      "spellings": [
+        "Tuule"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Rajandi PDF165/printed167 visually confirms Tuule in a group with Tuuli/Tuulike, cross-referenced to Taimi. The cross-reference alone does not supply an exact historical episode or justify transferring another form’s dates.",
+      "uncertainties": "Rajandi PDF165/printed167 visually confirms Tuule in a group with Tuuli/Tuulike, cross-referenced to Taimi. The cross-reference alone does not supply an exact historical episode or justify transferring another form’s dates.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Rajandi PDF165/printed167 visually confirms Tuule in a group with Tuuli/Tuulike, cross-referenced to Taimi. The cross-reference alone does not supply an exact historical episode or justify transferring another form’s dates."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "ee",
+      "name": "Tuulike",
+      "spellings": [
+        "Tuulike"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "evidence_locations": "Exact-name private cache search and catalogue / dictionary lead described below",
+      "facts_used": "Rajandi PDF165/printed167 visually confirms Tuulike. A cached lecture (LOCAL-R6-SOURCE-2 PDF4) and a search result mention the 1882 calendar, but the original calendar has not been inspected in this round. No 1882 first-bearer claim is accepted.",
+      "uncertainties": "Rajandi PDF165/printed167 visually confirms Tuulike. A cached lecture (LOCAL-R6-SOURCE-2 PDF4) and a search result mention the 1882 calendar, but the original calendar has not been inspected in this round. No 1882 first-bearer claim is accepted.",
+      "next_steps": "Inspect an exact primary onomastic entry or official rendering and a separate dated use. Rajandi PDF165/printed167 visually confirms Tuulike. A cached lecture (LOCAL-R6-SOURCE-2 PDF4) and a search result mention the 1882 calendar, but the original calendar has not been inspected in this round. No 1882 first-bearer claim is accepted."
+    },
+    {
+      "batch": "calendar-2027-02-25",
+      "date": "2026-11-13",
+      "calendar_date": "02-25",
+      "country": "ee",
+      "name": "Tormi",
+      "spellings": [
+        "Tormi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "evidence_locations": "Rajandi PDF8/printed9; PDF158/printed160; PDF165/printed167",
+      "facts_used": "Edgar Rajandi places Tormi among Estonian names formed from words for natural phenomena, here torm, storm. He explicitly warns that grouping it with Taima and Taimi saves space in the dictionary and does not make Tormi a derivative of those names. His 1966 book reports that one girl in Tallinn received the name Tormi in 1962. This is a dated local example, not a current population count, a first-ever attestation or a rule that the name can only be feminine.",
+      "uncertainties": "Source scope and qualifications retained in every translation. Online catalogue claims are attributed, not independently inspected printed dictionary entries.",
+      "next_steps": "No additional claim accepted without new exact-form evidence."
+    }
+  ]
+}
