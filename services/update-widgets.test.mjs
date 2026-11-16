@@ -21,14 +21,17 @@ async function fixture(t,{publish=false,fail=false,stale=false,plan=false,clean=
  const mock=publish?
   `function global:node { ${stale?'':writeReport}; ${writePublicationError}; Write-Host 'PUBLICATION FINISHED'; $global:LASTEXITCODE = ${fail?1:0} }`:
   `function global:npm.cmd { if ($args[0] -eq 'test') { Write-Host 'TESTS FINISHED'; $global:LASTEXITCODE = ${fail?1:0} } elseif ($args[1] -eq 'build') { Write-Host 'BUILD FINISHED'; $global:LASTEXITCODE = 0 } else { ${plan?'':writeReport}; $global:LASTEXITCODE = 0 } }`;
- return spawnSync('powershell.exe',['-NoProfile','-ExecutionPolicy','Bypass','-Command',`$ErrorActionPreference='Stop'; ${mock}; & ${quote(script)} ${plan?'-Plan':publish?'':'-NoPublish'}`],{encoding:'utf8'});
+ // Node decodes the captured pipe as UTF-8. PowerShell otherwise inherits the
+ // console code page (for example CP866 in cmd.exe), losing Baltic characters.
+ const command=`[Console]::OutputEncoding = [Text.UTF8Encoding]::new($false); $ErrorActionPreference='Stop'; ${mock}; & ${quote(script)} ${plan?'-Plan':publish?'':'-NoPublish'}`;
+ return spawnSync('powershell.exe',['-NoProfile','-ExecutionPolicy','Bypass','-EncodedCommand',Buffer.from(command,'utf16le').toString('base64')],{encoding:'utf8'});
 }
 for(const publish of [false,true])test(`final summary follows ${publish?'publication':'build'} output`,{skip:!windows},async t=>{
  const result=await fixture(t,{publish});assert.equal(result.status,0,result.stderr);
  const summary=result.stdout.indexOf('=== UPDATE ERROR SUMMARY ===');
  assert(summary>result.stdout.indexOf(publish?'PUBLICATION FINISHED':'BUILD FINISHED'));
  assert(result.stdout.indexOf('=== FINAL FUEL COVERAGE: partial (1/2) ===')>result.stdout.indexOf(publish?'PUBLICATION FINISHED':'BUILD FINISHED'));
- assert(result.stdout.includes('EE / Anna Kütus / 95: stale; last price: 2026-11-11'));
+ assert(result.stdout.includes('EE / Anna Kütus / 95: stale; last price: 2026-11-11'),result.stdout);
  assert(result.stdout.slice(summary).includes('fuel: simulated source error'));
 });
 test('test failure still repeats source and fatal errors at the end',{skip:!windows},async t=>{
