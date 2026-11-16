@@ -23,3 +23,10 @@ test('public client access stays in memory and requests only the public price fi
  });
  assert.equal(calls,3);assert.equal(result.quotes.length,1);assert.equal(JSON.stringify(result).includes(token),false);
 });
+
+
+test('expired reserve evidence retains its original date for coverage diagnostics without publishing a quote',()=>{
+ const result=parseCommunityFallback([report({source_observed_at:'2026-10-08T16:28:59Z'}),report({source_observed_at:'2026-10-07T16:28:59Z'}),report({source_observed_at:'2026-11-08T16:28:59Z'})],now);
+ assert.equal(result.quotes.length,0);
+ assert.deepEqual(result.report.latest_evidence,[{provider_source:'neste',fuel:'95',observed_at:'2026-10-08T16:28:59.000Z',freshness:'stale'}]);
+});

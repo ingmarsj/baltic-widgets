@@ -40,9 +40,10 @@ try{
    for(const folder of ['', 'lv','lt','et','ru','en']){await mkdir(path.join('data',folder),{recursive:true});for(const file of files)await cp(path.join('artifacts/static-site/data',folder,file),path.join('data',folder,file));}
   }else await cp('artifacts/static-site/data','data',{recursive:true});
   try{await cp(path.join(dir,'collector/fuel-stations.geojson'),'data/fuel-stations.geojson');}catch(e){if(e.code!=='ENOENT')throw e;}
-  report.fuel_coverage=fuelCoverage(await Promise.all(['LV','LT','EE'].map(async country=>JSON.parse(await readFile(`data/fuel-${country}.json`,'utf8')))));
+  let collector=null;try{collector=JSON.parse(await readFile(path.join(dir,'collector/fuel-stations.json'),'utf8'));}catch(error){if(error.code!=='ENOENT')throw error;}
+  report.fuel_coverage=fuelCoverage(await Promise.all(['LV','LT','EE'].map(async country=>JSON.parse(await readFile(`data/fuel-${country}.json`,'utf8')))),Date.now(),collector);
   console.log(`Collection status: ${report.status}. Fuel coverage: ${report.fuel_coverage.status} (${report.fuel_coverage.available}/${report.fuel_coverage.network_fuel_pairs} network/fuel pairs have current prices). Publication has not been verified yet.`);
-  if(report.fuel_coverage.gaps.length){console.warn('Missing current prices after collection (station counts describe known locations, not price coverage):');console.table(report.fuel_coverage.gaps);}
+  if(report.fuel_coverage.gaps.length){console.warn('Missing current prices after collection (station counts describe known locations, not price coverage):');console.table(report.fuel_coverage.gaps.map(({country,network,fuel,reason,last_published,age_hours})=>({country,network,fuel,reason,last_published,age_hours})));}
   await mkdir('artifacts',{recursive:true});await writeFile('artifacts/update-report.json',JSON.stringify(report,null,2));
   console.log(JSON.stringify({collection_status:report.status,fuel_coverage:report.fuel_coverage.status,publication_status:'not_verified',profile,errors:report.errors,report:'artifacts/update-report.json'}));
  }
