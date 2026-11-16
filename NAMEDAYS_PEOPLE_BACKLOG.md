@@ -8,8 +8,8 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 
 | Measure | LV | LT | EE |
 | --- | ---: | ---: | ---: |
-| No local exact bearer | 4494 | 890 | 520 |
-| Fewer than five (includes zero) | 5199 | 1219 | 1012 |
+| No local exact bearer | 4196 | 890 | 521 |
+| Fewer than five (includes zero) | 4901 | 1219 | 1014 |
 | At least five | 357 | 349 | 541 |
 
 ## First 60 queue entries
@@ -32,13 +32,11 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-18 | LV | Alesandrs | 0 | 5 |
 | 11-18 | LV | Brīva | 0 | 5 |
 | 11-18 | LV | Brīve | 0 | 5 |
-| 11-18 | LV | Brīvīte | 0 | 5 |
 | 11-18 | LV | Dolita | 0 | 5 |
 | 11-18 | LV | Dollija | 0 | 5 |
 | 11-18 | LV | Doloresa | 0 | 5 |
 | 11-18 | LV | Laisve | 0 | 5 |
 | 11-18 | LV | Latvis | 0 | 5 |
-| 11-18 | LV | Zandars | 0 | 5 |
 | 11-18 | LV | Zanders | 0 | 5 |
 | 11-18 | LV | Latvīte | 1 | 4 |
 | 11-18 | LT | Ginvydas | 0 | 5 |
@@ -60,11 +58,9 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-19 | LV | Elzabeta | 0 | 5 |
 | 11-19 | LV | Elžbeta | 0 | 5 |
 | 11-19 | LV | Jelizabeta | 0 | 5 |
-| 11-19 | LV | Jeļizabeta | 0 | 5 |
 | 11-19 | LV | Jelizaveta | 0 | 5 |
 | 11-19 | LV | Jeļizaveta | 0 | 5 |
 | 11-19 | LV | Jelizavete | 0 | 5 |
-| 11-19 | LV | Jeļizavete | 0 | 5 |
 | 11-19 | LV | Lisa | 0 | 5 |
 | 11-19 | LV | Lisija | 0 | 5 |
 | 11-19 | LV | Liza | 0 | 5 |
@@ -76,5 +72,9 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | 11-19 | LT | Dainotas | 0 | 5 |
 | 11-19 | LT | Rimgaudė | 0 | 5 |
 | 11-19 | LT | Matilda | 2 | 3 |
+| 11-19 | EE | Else | 0 | 5 |
+| 11-19 | EE | Eliisabet | 1 | 4 |
+| 11-19 | EE | Eliise | 2 | 3 |
+| 11-19 | EE | Betti | 3 | 2 |
 
 Namesakes are added above the existing people. Keep the five birthday celebrities below them, deduplicating the same person. Do not invent local bearers, equate related spellings, retry logged failed source runs, or count birthday people toward the local target.

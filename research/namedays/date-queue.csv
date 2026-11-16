@@ -6,8 +6,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 1,11-18,lv,Brīve,unresearched,3,unverified,needs_more
 1,11-18,lv,Aleksandris,unresearched,33,unverified,needs_more
 1,11-18,lv,Alesandrs,unresearched,1,unverified,needs_more
-1,11-18,lv,Brīvīte,unresearched,,unverified,needs_more
-1,11-18,lv,Zandars,unresearched,,unverified,needs_more
 2,11-19,lv,Beta,unresearched,44,unverified,needs_more
 2,11-19,lv,Elīzabeta,unresearched,3,unverified,needs_more
 2,11-19,lv,Elīzabete,unresearched,23,unverified,needs_more
@@ -16,8 +14,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 2,11-19,lv,Elzabeta,unresearched,3,unverified,needs_more
 2,11-19,lv,Jelizabeta,unresearched,3,unverified,needs_more
 2,11-19,lv,Jelizavete,unresearched,3,unverified,needs_more
-2,11-19,lv,Jeļizabeta,unresearched,,unverified,needs_more
-2,11-19,lv,Jeļizavete,unresearched,,unverified,needs_more
 2,11-19,lv,Lize,unresearched,,unverified,needs_more
 2,11-19,lv,Līziņa,unresearched,1,unverified,needs_more
 2,11-19,lt,Rimgaudė,unresearched,,unverified,needs_more
@@ -30,7 +26,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 3,11-20,lv,Vigelijs,unresearched,1,unverified,
 3,11-20,lv,Vigeta,unresearched,3,unverified,held
 3,11-20,lv,Vigija,unresearched,4,unverified,held
-3,11-20,lv,Vigilijs,unresearched,,unverified,needs_more
 3,11-20,lv,Vigita,unresearched,7,unverified,held
 3,11-20,lv,Vīgo,unresearched,2,unverified,needs_more
 3,11-20,lv,Viģīlija,unresearched,1,unverified,needs_more
@@ -40,18 +35,14 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 4,11-21,lv,Andars,unresearched,8,unverified,
 4,11-21,lv,Andejs,unresearched,1,unverified,
 4,11-21,lv,Vigors,unresearched,3,unverified,needs_more
-4,11-21,lv,Vigorts,unresearched,,unverified,needs_more
 4,11-21,lv,Vigra,unresearched,2,unverified,
 4,11-21,lv,Vigurds,unresearched,2,unverified,held
-4,11-21,lv,Vilfrida,unresearched,,unverified,needs_more
 4,11-21,lv,Zeltiņa,unresearched,1,unverified,needs_more
 4,11-21,lt,Girenė,unresearched,,unverified,needs_more
 4,11-21,lt,Gomantas,unresearched,,unverified,needs_more
 4,11-21,lt,Norgaudas,unresearched,,unverified,needs_more
 5,11-22,lv,Aldris,unresearched,7,unverified,
-5,11-22,lv,Aldijs,unresearched,,unverified,
 5,11-22,lv,Aldra,unresearched,3,unverified,needs_more
-5,11-22,lv,Alfins,unresearched,,unverified,needs_more
 5,11-22,lt,Dargintė,unresearched,,unverified,needs_more
 5,11-22,lt,Steigintas,unresearched,,unverified,needs_more
 5,11-22,ee,Säsil,unresearched,47,unverified,needs_more
@@ -61,13 +52,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 6,11-23,lv,Zigda,unresearched,3,unverified,held
 6,11-23,lv,Zigfrida,unresearched,1,unverified,needs_more
 6,11-23,lv,Zigrida,unresearched,37,unverified,needs_more
-6,11-23,lv,Zigrids,unresearched,,unverified,needs_more
 7,11-24,lv,Velda,unresearched,19,unverified,needs_more
 7,11-24,lv,Velita,unresearched,10,unverified,held
-7,11-24,lv,Velte,unresearched,,unverified,needs_more
-7,11-24,lv,Veltija,unresearched,,unverified,needs_more
-7,11-24,lv,Vīna,unresearched,,unverified,
-7,11-24,lv,Vinārs,unresearched,,unverified,
 7,11-24,lv,Viners,unresearched,1,unverified,
 7,11-24,lv,Vīne,unresearched,2,unverified,
 7,11-24,lt,Mantvinas,unresearched,,unverified,needs_more
@@ -91,7 +77,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 9,11-26,lv,Konrāts,unresearched,2,unverified,needs_more
 9,11-26,lv,Manefa,unresearched,48,unverified,held
 9,11-26,ee,Maara,unresearched,19,unverified,needs_more
-10,11-27,lv,Vinifreds,unresearched,,unverified,needs_more
 10,11-27,lv,Vinija,unresearched,6,unverified,held
 10,11-27,lv,Vinolds,unresearched,3,unverified,
 10,11-27,lv,Vinona,unresearched,2,unverified,needs_more
@@ -141,7 +126,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 15,12-02,lv,Voicehs,unresearched,10,unverified,held
 15,12-02,lv,Voiceks,unresearched,3,unverified,needs_more
 15,12-02,lv,Voicihs,unresearched,1,unverified,needs_more
-15,12-02,lv,Voičiks,unresearched,,unverified,needs_more
 15,12-02,lv,Voitiks,unresearched,1,unverified,needs_more
 15,12-02,lt,Vėjūnas,unresearched,,unverified,needs_more
 15,12-02,ee,Aire,unresearched,708,unverified,needs_more
@@ -151,7 +135,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 16,12-03,lv,Volfreds,unresearched,1,unverified,needs_more
 16,12-03,lt,Audinga,unresearched,,unverified,needs_more
 16,12-03,lt,Gailintas,unresearched,,unverified,needs_more
-17,12-04,lv,Vudis,unresearched,,unverified,needs_more
 17,12-04,lt,Liugailė,unresearched,,unverified,needs_more
 18,12-05,lv,Sabine,unresearched,21,unverified,needs_more
 18,12-05,lv,Sabrīne,unresearched,14,unverified,needs_more
@@ -160,8 +143,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 18,12-05,lt,Geisvilė,unresearched,,unverified,needs_more
 18,12-05,lt,Geisvinė,unresearched,,unverified,needs_more
 18,12-05,ee,Selme,unresearched,< 5,unverified,needs_more
-19,12-06,lv,Meikols,unresearched,,unverified,needs_more
-19,12-06,lv,Meikulis,unresearched,,unverified,needs_more
 19,12-06,lv,Meikuls,unresearched,8,unverified,needs_more
 19,12-06,lv,Nikija,unresearched,147,unverified,needs_more
 19,12-06,lv,Niklāss,unresearched,4,unverified,needs_more
@@ -182,12 +163,10 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 21,12-08,lv,Ginārs,unresearched,2,unverified,
 21,12-08,lv,Gunards,unresearched,5,unverified,needs_more
 21,12-08,lv,Gunarts,unresearched,1,unverified,needs_more
-21,12-08,lv,Gunijs,unresearched,,unverified,
 21,12-08,lv,Guno,unresearched,3,unverified,needs_more
 21,12-08,lt,Gedmintė,unresearched,,unverified,needs_more
 21,12-08,lt,Guntilda,unresearched,,unverified,needs_more
 22,12-09,lv,Sārtīte,unresearched,6,unverified,
-22,12-09,lv,Tabite,unresearched,,unverified,needs_more
 22,12-09,lv,Zenona,unresearched,8,unverified,needs_more
 22,12-09,ee,Raidu,unresearched,5,unverified,held
 22,12-09,ee,Raiko,unresearched,491,unverified,held
@@ -198,27 +177,18 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 23,12-10,lt,Loreta,unresearched,,unverified,needs_more
 24,12-11,lv,Valdeks,unresearched,1,unverified,needs_more
 24,12-11,lv,Valdimārts,unresearched,1,unverified,needs_more
-24,12-11,lv,Valdimirs,unresearched,,unverified,needs_more
 24,12-11,lv,Valdmiers,unresearched,1,unverified,needs_more
 24,12-11,lv,Valdone,unresearched,6,unverified,needs_more
 24,12-11,lv,Valdons,unresearched,1,unverified,needs_more
 24,12-11,lv,Valds,unresearched,6,unverified,needs_more
-24,12-11,lv,Vivaldis,unresearched,,unverified,
-24,12-11,lv,Voldmārs,unresearched,,unverified,needs_more
 24,12-11,lv,Vulmārs,unresearched,2,unverified,needs_more
 24,12-11,ee,Daaniel,unresearched,45,unverified,needs_more
 24,12-11,ee,Taano,unresearched,< 5,unverified,needs_more
-25,12-12,lv,Atala,unresearched,,unverified,needs_more
 25,12-12,lv,Igeta,unresearched,14,unverified,needs_more
-25,12-12,lv,Igila,unresearched,,unverified,
 25,12-12,lv,Iverta,unresearched,5,unverified,held
 25,12-12,lv,Iverts,unresearched,1,unverified,
-25,12-12,lv,Otālija,unresearched,,unverified,needs_more
-25,12-12,lv,Zezostrs,unresearched,,unverified,held
 25,12-12,lt,Dagmara,unresearched,,unverified,needs_more
 25,12-12,lt,Vaingedė,unresearched,,unverified,needs_more
-26,12-13,lv,Lucianna,unresearched,,unverified,needs_more
-26,12-13,lv,Lucijana,unresearched,,unverified,needs_more
 26,12-13,lv,Lucijāns,unresearched,1,unverified,needs_more
 26,12-13,lv,Lusiāna,unresearched,2,unverified,needs_more
 26,12-13,lv,Lusija,unresearched,24,unverified,needs_more
@@ -226,7 +196,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 26,12-13,lt,Kastautas,unresearched,,unverified,needs_more
 26,12-13,ee,Hele,unresearched,490,unverified,needs_more
 26,12-13,ee,Ele,unresearched,286,unverified,held
-27,12-14,lv,Gaismons,unresearched,,unverified,needs_more
 27,12-14,lv,Illuminata,unresearched,3,unverified,needs_more
 27,12-14,lt,Kintvilė,unresearched,,unverified,needs_more
 27,12-14,lt,Tarvainas,unresearched,,unverified,needs_more
@@ -241,22 +210,17 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 28,12-15,lv,Jonita,unresearched,6,unverified,held
 28,12-15,lv,Juanna,unresearched,3,unverified,needs_more
 28,12-15,lv,Junna,unresearched,20,unverified,needs_more
-28,12-15,lv,Žuanete,unresearched,,unverified,needs_more
 28,12-15,ee,Kelli,unresearched,450,unverified,held
 29,12-16,lv,Alvina,unresearched,35,unverified,needs_more
 29,12-16,lv,Alvine,unresearched,3,unverified,needs_more
-29,12-16,lv,Alvīnija,unresearched,,unverified,
 29,12-16,lv,Alvins,unresearched,16,unverified,needs_more
-29,12-16,lv,Alvīns,unresearched,,unverified,needs_more
 29,12-16,lv,Zira,unresearched,1,unverified,held
 29,12-16,lv,Zolija,unresearched,1,unverified,
 29,12-16,lt,Algina,unresearched,,unverified,needs_more
 29,12-16,lt,Alina,unresearched,,unverified,needs_more
 29,12-16,lt,Vygaudas,unresearched,,unverified,needs_more
 30,12-17,lv,Borghilde,unresearched,1,unverified,needs_more
-30,12-17,lv,Borģīne,unresearched,,unverified,
 30,12-17,lv,Dziesma,unresearched,2,unverified,needs_more
-30,12-17,lv,Hilga,unresearched,,unverified,needs_more
 30,12-17,lv,Ilda,unresearched,10,unverified,needs_more
 30,12-17,lt,Mantgailas,unresearched,,unverified,needs_more
 31,12-18,lv,Kristafors,unresearched,5,unverified,needs_more
@@ -266,19 +230,16 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 31,12-18,lt,Gracijus,unresearched,,unverified,needs_more
 31,12-18,lt,Vykantas,unresearched,,unverified,needs_more
 32,12-19,lv,Alena,unresearched,189,unverified,needs_more
-32,12-19,lv,Alereins,unresearched,,unverified,
 32,12-19,lv,Lelda,unresearched,27,unverified,needs_more
 32,12-19,lv,Tots,unresearched,9,unverified,held
 32,12-19,lt,Gerdvilas,unresearched,,unverified,needs_more
 32,12-19,ee,Maarius,unresearched,35,unverified,needs_more
 33,12-20,lv,Arta,unresearched,1399,unverified,needs_more
 33,12-20,lv,Artēmijs,unresearched,108,unverified,needs_more
-33,12-20,lv,Artija,unresearched,,unverified,
 33,12-20,lv,Vitnija,unresearched,32,unverified,needs_more
 33,12-20,lt,Daugardas,unresearched,,unverified,needs_more
 33,12-20,ee,Pärje,unresearched,16,unverified,needs_more
 34,12-21,lv,Saulceris,unresearched,1,unverified,needs_more
-34,12-21,lv,Saulgaida,unresearched,,unverified,needs_more
 34,12-21,lt,Girenė,unresearched,,unverified,needs_more
 34,12-21,lt,Norgaudė,unresearched,,unverified,needs_more
 34,12-21,lt,Norgaudas,unresearched,,unverified,needs_more
@@ -327,7 +288,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 44,12-31,ee,Silvo,unresearched,13,unverified,
 45,01-01,lv,Agunda,unresearched,4,unverified,
 45,01-01,lv,Agurs,unresearched,1,unverified,
-45,01-01,lv,Soleda,unresearched,,unverified,
 45,01-01,lv,Solita,unresearched,16,unverified,
 45,01-01,lv,Solveta,unresearched,2,unverified,
 45,01-01,lt,Eufrozija,unresearched,,unverified,
@@ -336,9 +296,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 46,01-02,lv,Ivisa,unresearched,1,unverified,
 46,01-02,ee,Esmi,unresearched,< 5,unverified,
 47,01-03,lv,Miervalda,unresearched,1,unverified,
-47,01-03,lv,Ammonārija,unresearched,,unverified,
-47,01-03,lv,Ammunārija,unresearched,,unverified,
-47,01-03,lv,Miervalds,unresearched,,unverified,
 47,01-03,lv,Ringla,unresearched,10,unverified,
 47,01-03,lv,Ringo,unresearched,2,unverified,
 48,01-04,lv,Amina,unresearched,401,unverified,
@@ -350,7 +307,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 48,01-04,lt,Anželika,unresearched,,unverified,
 49,01-05,lv,Amrita,summary,11,unverified,needs_more
 49,01-05,lv,Amunds,unresearched,2,unverified,
-49,01-05,lv,Anarita,unresearched,,unverified,
 49,01-05,lv,Semions,summary,20,unverified,needs_more
 49,01-05,lv,Zintauts,unresearched,1,unverified,
 50,01-06,lv,Aranta,unresearched,5,unverified,
@@ -365,19 +321,15 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 51,01-07,lv,Džulians,summary,34,unverified,needs_more
 51,01-07,lv,Zigmāris,unresearched,2,unverified,
 52,01-08,lv,Ivanda,unresearched,181,unverified,
-52,01-08,lv,Aristida,unresearched,,unverified,
 52,01-08,lv,Aristīda,unresearched,2,unverified,
 52,01-08,lv,Aristons,unresearched,1,unverified,
-52,01-08,lv,Aristrīds,unresearched,,unverified,
 52,01-08,lv,Arlands,unresearched,4,unverified,
 52,01-08,lv,Arlijs,unresearched,2,unverified,
 52,01-08,lv,Gatiņš,unresearched,1,unverified,
 52,01-08,lv,Īvande,unresearched,,unverified,
 52,01-08,lv,Ivase,unresearched,1,unverified,
-52,01-08,lv,Ivena,unresearched,,unverified,
 53,01-09,lv,Aksela,summary,4,unverified,needs_more
 53,01-09,lv,Akselis,summary,8,unverified,needs_more
-53,01-09,lv,Velonija,unresearched,,unverified,
 53,01-09,ee,Venno,unresearched,57,unverified,
 54,01-10,lv,Doreta,unresearched,5,unverified,
 54,01-10,lv,Dorina,unresearched,8,unverified,
@@ -396,10 +348,10 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 56,01-12,lv,Reinolds,summary,19,unverified,needs_more
 56,01-12,lv,Rinats,unresearched,73,unverified,
 56,01-12,lt,Cezarė,unresearched,,unverified,
-56,01-12,ee,Antonia Ande,unresearched,< 5,unverified,needs_more
+56,01-12,ee,Antonia,unresearched,,unverified,
+56,01-12,ee,Ande,unresearched,,unverified,
 57,01-13,lv,Airika,summary,10,unverified,needs_more
 57,01-13,lv,Ārens,unresearched,14,unverified,
-57,01-13,lv,Ariko,unresearched,,unverified,
 57,01-13,lv,Āriks,unresearched,1,unverified,
 57,01-13,lv,Harina,unresearched,3,unverified,
 58,01-14,lv,Raits,unresearched,63,unverified,
@@ -410,10 +362,7 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 59,01-15,lv,Aspāzija,unresearched,1,unverified,
 59,01-15,lv,Atēna,unresearched,16,unverified,
 59,01-15,lv,Feliciana,unresearched,5,unverified,
-59,01-15,lv,Feliciāna,unresearched,,unverified,
-59,01-15,lv,Felicianna,unresearched,,unverified,
 59,01-15,lv,Felicijana,unresearched,3,unverified,
-59,01-15,lv,Felicjana,unresearched,,unverified,
 59,01-15,lv,Felikarmena,unresearched,1,unverified,
 59,01-15,lv,Felīsija,unresearched,5,unverified,
 59,01-15,lv,Filicija,unresearched,3,unverified,
@@ -422,17 +371,14 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 59,01-15,ee,Sõlmi,unresearched,< 5,unverified,
 60,01-16,lv,Avija,unresearched,10,unverified,
 60,01-16,lv,Līda,unresearched,1,unverified,
-60,01-16,lv,Lidita,unresearched,,unverified,
 60,01-16,lt,Norgailis,unresearched,,unverified,
 61,01-17,lv,Denisa,unresearched,21,unverified,
 62,01-18,lv,Acons,unresearched,1,unverified,
 62,01-18,lv,Antuans,unresearched,5,unverified,
 63,01-19,lv,Alna,unresearched,2,unverified,
 63,01-19,lv,Alnars,unresearched,1,unverified,
-63,01-19,lv,Alnors,unresearched,,unverified,
 63,01-19,lv,Džeida,unresearched,42,unverified,
 63,01-19,lv,Džellija,unresearched,4,unverified,
-63,01-19,lv,Džozelīna,unresearched,,unverified,
 64,01-20,lv,Algarts,unresearched,1,unverified,
 64,01-20,lv,Algers,unresearched,5,unverified,
 64,01-20,lv,Algirds,unresearched,5,unverified,
@@ -443,25 +389,17 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 64,01-20,ee,Hendrika,unresearched,< 5,unverified,
 64,01-20,ee,Henna,unresearched,14,unverified,
 65,01-21,lv,Agnesija,unresearched,1,unverified,
-65,01-21,lv,Urdziņa,unresearched,,unverified,
 65,01-21,lt,Ineta,unresearched,,unverified,
 65,01-21,lt,Augerijus,unresearched,,unverified,
-66,01-22,lv,Benija,unresearched,,unverified,
-66,01-22,lv,Benjamina,unresearched,,unverified,
-66,01-22,lv,Benoventa,unresearched,,unverified,
 67,01-23,lv,Bažena,unresearched,16,unverified,
 67,01-23,lv,Greisija,unresearched,12,unverified,
-67,01-23,lv,Straumīte,unresearched,,unverified,
 67,01-23,lv,Vasilika,unresearched,2,unverified,
-67,01-23,lv,Virta,unresearched,,unverified,
 68,01-24,lv,Ksendija,unresearched,4,unverified,
 69,01-25,lv,Berenika,unresearched,3,unverified,
 69,01-25,lv,Berils,unresearched,2,unverified,
 69,01-25,lv,Beruta,unresearched,5,unverified,
 69,01-25,lv,Boneta,unresearched,5,unverified,
 69,01-25,lv,Bonija,unresearched,14,unverified,
-69,01-25,lv,Bonijs,unresearched,,unverified,
-69,01-25,lv,Sigorts,unresearched,,unverified,
 69,01-25,lv,Sigurts,unresearched,1,unverified,
 69,01-25,lv,Sigvarts,unresearched,2,unverified,
 69,01-25,lv,Zigo,unresearched,1,unverified,
@@ -469,7 +407,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 69,01-25,lv,Zigurts,unresearched,7,unverified,
 69,01-25,lv,Zigvards,unresearched,3,unverified,
 70,01-26,lv,Agneze,unresearched,1,unverified,
-70,01-26,lv,Hanzija,unresearched,,unverified,
 71,01-27,lv,Izolde,unresearched,77,unverified,
 71,01-27,lv,Izolda,unresearched,34,unverified,
 71,01-27,lv,Ilarija,unresearched,15,unverified,
@@ -483,22 +420,16 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 72,01-28,ee,Karro,unresearched,18,unverified,
 73,01-29,lv,Aivalds,unresearched,2,unverified,
 73,01-29,lv,Valerjans,unresearched,55,unverified,
-73,01-29,lv,Valerjāns,unresearched,,unverified,
-73,01-29,lv,Velerjans,unresearched,,unverified,
 73,01-29,ee,Valter,unresearched,494,unverified,
 73,01-29,ee,Valmo,unresearched,10,unverified,
 74,01-30,lv,Binija,unresearched,2,unverified,
 74,01-30,lv,Binnija,unresearched,15,unverified,
-74,01-30,lv,Bivšaka,unresearched,,unverified,
 74,01-30,lv,Stīna,unresearched,9,unverified,
 74,01-30,lv,Stīne,unresearched,3,unverified,
 74,01-30,lv,Tiāre,unresearched,1,unverified,
 74,01-30,lv,Valentija,unresearched,2,unverified,
 74,01-30,lt,Algina,unresearched,,unverified,needs_more
 74,01-30,ee,Jürja,unresearched,< 5,unverified,
-75,01-31,lv,Bonaventūrs,unresearched,,unverified,
-75,01-31,lv,Bonoventura,unresearched,,unverified,
-75,01-31,lv,Tīksma,unresearched,,unverified,
 75,01-31,ee,Meelitu,unresearched,< 5,unverified,
 76,02-01,lv,Indars,unresearched,92,unverified,
 76,02-01,lv,Inda,unresearched,7,unverified,
@@ -518,9 +449,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 78,02-03,lv,Idra,unresearched,2,unverified,
 79,02-04,lv,Domenika,unresearched,59,unverified,
 79,02-04,lv,Domeniks,unresearched,289,unverified,
-79,02-04,lv,Domuse,unresearched,,unverified,
-79,02-04,lv,Varenika,unresearched,,unverified,
-79,02-04,lv,Varonika,unresearched,,unverified,
 79,02-04,lv,Veranika,unresearched,32,unverified,
 80,02-05,lv,Sinilga,unresearched,4,unverified,
 80,02-05,lv,Agatons,unresearched,1,unverified,
@@ -544,14 +472,12 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 82,02-07,lt,Vilgirdė,unresearched,,unverified,
 83,02-08,lv,Aldone,unresearched,3,unverified,
 83,02-08,lv,Čelsija,unresearched,27,unverified,
-83,02-08,lv,Čereta,unresearched,,unverified,
 83,02-08,lv,Čezeta,summary,1,unverified,needs_more
 83,02-08,lv,Dabris,unresearched,1,unverified,
 83,02-08,ee,Talvo,unresearched,11,unverified,
 84,02-09,lv,Apolinars,unresearched,3,unverified,
 84,02-09,lv,Apolinārs,unresearched,1,unverified,
 84,02-09,lv,Apolons,unresearched,2,unverified,
-84,02-09,lv,Denora,unresearched,,unverified,
 84,02-09,lv,Deriāna,unresearched,3,unverified,
 84,02-09,lv,Destane,unresearched,1,unverified,
 84,02-09,lv,Raisma,unresearched,3,unverified,
@@ -563,7 +489,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 85,02-10,lv,Džasmīne,unresearched,4,unverified,
 85,02-10,lv,Jasmīne,unresearched,139,unverified,
 85,02-10,lv,Paļina,unresearched,16,unverified,
-85,02-10,lv,Paulamarija,unresearched,,unverified,
 85,02-10,lv,Pauleta,unresearched,4,unverified,
 85,02-10,lv,Paulina,summary,67,unverified,needs_more
 85,02-10,lv,Pauline,unresearched,20,unverified,
@@ -572,9 +497,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 85,02-10,lv,Polīna,unresearched,178,unverified,
 85,02-10,lv,Poļina,unresearched,1225,unverified,
 85,02-10,lv,Sholastika,unresearched,2,unverified,
-85,02-10,lv,Sholostika,unresearched,,unverified,
-85,02-10,lv,Skolestika,unresearched,,unverified,
-85,02-10,lv,Skolostika,unresearched,,unverified,
 85,02-10,lv,Žasmīne,unresearched,8,unverified,
 85,02-10,lt,Vydgailė,unresearched,,unverified,
 87,02-12,lv,Džigunda,unresearched,3,unverified,
@@ -600,14 +522,12 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 88,02-13,lv,Maldiņa,unresearched,1,unverified,
 88,02-13,lt,Loreta,unresearched,,unverified,needs_more
 88,02-13,ee,Ike,unresearched,7,unverified,
-89,02-14,lv,Edla,unresearched,,unverified,
 89,02-14,lv,Edmans,unresearched,2,unverified,
 89,02-14,lv,Egnārs,unresearched,8,unverified,
 89,02-14,lv,Valeks,unresearched,1,unverified,
 89,02-14,ee,Vallot,unresearched,9,unverified,
 90,02-15,lv,Alodija,unresearched,5,unverified,
 90,02-15,lv,Aloiza,unresearched,3,unverified,
-90,02-15,lv,Aloizis,unresearched,,unverified,
 90,02-15,lv,Olands,unresearched,1,unverified,
 90,02-15,lv,Olārs,unresearched,2,unverified,
 90,02-15,lv,Olevs,unresearched,2,unverified,
@@ -624,13 +544,10 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 91,02-16,ee,Aldi,unresearched,5–8,unverified,
 92,02-17,lv,Danats,unresearched,18,unverified,
 92,02-17,lv,Donna,unresearched,11,unverified,
-92,02-17,lv,Donvina,unresearched,,unverified,
 92,02-17,lv,Konstantija,unresearched,3,unverified,
 92,02-17,lv,Konstantina,unresearched,8,unverified,
 92,02-17,ee,Salmo,unresearched,< 5,unverified,
-93,02-18,lv,Cina,unresearched,,unverified,
 93,02-18,lv,Cintija,unresearched,2,unverified,
-93,02-18,lv,Ciprians,unresearched,,unverified,
 93,02-18,lv,Ciprijans,unresearched,1,unverified,
 93,02-18,lv,Korina,unresearched,5,unverified,
 93,02-18,ee,Karme,unresearched,15,unverified,
@@ -654,14 +571,11 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 97,02-22,lv,Adria,unresearched,30,unverified,
 97,02-22,lv,Adrianna,unresearched,62,unverified,
 97,02-22,lv,Areta,unresearched,46,unverified,
-97,02-22,lv,Aretijs,unresearched,,unverified,
 97,02-22,lv,Arets,unresearched,7,unverified,
 97,02-22,lv,Arimands,unresearched,5,unverified,
 97,02-22,ee,Helis,unresearched,211,unverified,
-98,02-23,lv,Almonds,unresearched,,unverified,
 98,02-23,lv,Aralda,unresearched,1,unverified,
 98,02-23,lv,Haralda,unresearched,3,unverified,
-98,02-23,lv,Herolds,unresearched,,unverified,
 98,02-23,lv,Heronija,unresearched,1,unverified,
 98,02-23,lt,Butvilė,unresearched,,unverified,
 98,02-23,ee,Lehto,unresearched,< 5,unverified,
@@ -679,8 +593,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 99,02-24,lv,Dīvs,unresearched,14,unverified,
 100,02-25,lv,Annemarija,unresearched,150,unverified,
 100,02-25,lv,Almāra,unresearched,1,unverified,
-100,02-25,lv,Anlīza,unresearched,,unverified,
-100,02-25,lv,Anlizeta,unresearched,,unverified,
 100,02-25,lv,Anmāra,unresearched,1,unverified,
 100,02-25,lv,Annaklāra,unresearched,1,unverified,
 100,02-25,lv,Annamarija,unresearched,42,unverified,
@@ -711,7 +623,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 104,03-01,lv,Ilgvalds,unresearched,2,unverified,
 104,03-01,lv,Ilgvards,unresearched,1,unverified,
 104,03-01,lv,Ilgvaris,unresearched,1,unverified,
-104,03-01,lv,Ivāra,unresearched,,unverified,
 105,03-02,lv,Emeralds,unresearched,3,unverified,
 105,03-02,lv,Lailita,unresearched,3,unverified,
 105,03-02,lv,Lovisa,unresearched,10,unverified,
@@ -741,28 +652,19 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 107,03-04,lv,Ennata,unresearched,7,unverified,
 107,03-04,lv,Ennija,unresearched,59,unverified,
 107,03-04,lv,Ensija,unresearched,3,unverified,
-107,03-04,lv,Enta,unresearched,,unverified,
 107,03-04,lv,Enzo,unresearched,97,unverified,
 107,03-04,ee,Almar,unresearched,37,unverified,
 108,03-05,lv,Austrīte,unresearched,3,unverified,
-109,03-06,lv,Godfrīds,unresearched,,unverified,
-109,03-06,lv,Gotlība,unresearched,,unverified,
 110,03-07,lv,Erīda,unresearched,1,unverified,
 110,03-07,lv,Erims,unresearched,3,unverified,
-110,03-07,lv,Helmīra,unresearched,,unverified,
 110,03-07,lt,Galmantė,unresearched,,unverified,
 111,03-08,lv,Dagita,unresearched,5,unverified,
 111,03-08,lv,Magrita,unresearched,1,unverified,
 111,03-08,lt,Gaydvilė,unresearched,,unverified,
 111,03-08,ee,Viilo,unresearched,< 5,unverified,
 112,03-09,lv,Ivalds,unresearched,1,unverified,
-112,03-09,lv,Filemona,unresearched,,unverified,
 112,03-09,lv,Filimonija,unresearched,3,unverified,
-112,03-09,lv,Filiomena,unresearched,,unverified,
-112,03-09,lv,Filomeja,unresearched,,unverified,
 112,03-09,lv,Filumena,unresearched,2,unverified,
-112,03-09,lv,Pilimona,unresearched,,unverified,
-113,03-10,lv,Laimrita,unresearched,,unverified,
 113,03-10,lv,Lilana,unresearched,5,unverified,
 113,03-10,lv,Lili,unresearched,51,unverified,
 113,03-10,lv,Lilianna,unresearched,39,unverified,
@@ -780,7 +682,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 115,03-12,lv,Aivils,unresearched,9,unverified,
 115,03-12,lv,Ajita,unresearched,4,unverified,
 115,03-12,lv,Ešlija,unresearched,79,unverified,
-115,03-12,lv,Etelvīne,unresearched,,unverified,
 115,03-12,lv,Etere,unresearched,1,unverified,
 115,03-12,lv,Eteri,unresearched,24,unverified,
 115,03-12,lv,Etīna,unresearched,1,unverified,
@@ -792,18 +693,15 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 116,03-13,lv,Baldūrs,unresearched,1,unverified,
 116,03-13,lv,Ernijs,unresearched,5,unverified,
 116,03-13,lv,Ernsts,unresearched,19,unverified,
-116,03-13,lv,Euzebijs,unresearched,,unverified,
 116,03-13,lv,Nesters,unresearched,6,unverified,
 116,03-13,ee,Ernits,unresearched,< 5,unverified,
 116,03-13,ee,Erni,unresearched,25,unverified,
 116,03-13,ee,Erno,unresearched,9,unverified,
 117,03-14,ee,Malde,unresearched,< 5,unverified,
 118,03-15,lv,Fabijans,unresearched,1,unverified,
-118,03-15,lv,Fabijāns,unresearched,,unverified,
 118,03-15,lv,Imula,unresearched,1,unverified,
 118,03-15,lv,Inelda,unresearched,1,unverified,
 119,03-16,lv,Guntris,unresearched,8,unverified,
-119,03-16,lv,Gunts,unresearched,,unverified,
 119,03-16,lv,Gutars,unresearched,1,unverified,
 119,03-16,lt,Norvaldė,unresearched,,unverified,
 119,03-16,ee,Herbi,unresearched,< 5,unverified,
@@ -824,23 +722,13 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 121,03-18,lv,Iliana,unresearched,26,unverified,
 121,03-18,lv,Ilija,unresearched,29,unverified,
 121,03-18,lv,Ilonda,unresearched,17,unverified,
-122,03-19,lv,Jazepata,unresearched,,unverified,
-122,03-19,lv,Jazupata,unresearched,,unverified,
-122,03-19,lv,Jezufata,unresearched,,unverified,
 122,03-19,lv,Jezupata,unresearched,2,unverified,
-122,03-19,lv,Jezupate,unresearched,,unverified,
 122,03-19,lv,Jozefata,unresearched,1,unverified,
 122,03-19,lv,Jozefina,unresearched,,unverified,
 122,03-19,lv,Jozefine,unresearched,1,unverified,
 122,03-19,lv,Jozs,unresearched,82,unverified,
-122,03-19,lv,Juzefata,unresearched,,unverified,
-122,03-19,lv,Juzefate,unresearched,,unverified,
 122,03-19,lv,Juzefina,unresearched,2,unverified,
-122,03-19,lv,Juzefīna,unresearched,,unverified,
-122,03-19,lv,Juzefine,unresearched,,unverified,
 122,03-19,lv,Juzefs,unresearched,16,unverified,
-122,03-19,lv,Juzepata,unresearched,,unverified,
-122,03-19,lv,Juzepate,unresearched,,unverified,
 122,03-19,lv,Juzufata,unresearched,1,unverified,
 122,03-19,lv,Žozefina,unresearched,6,unverified,
 122,03-19,lv,Žozefs,unresearched,10,unverified,
@@ -848,13 +736,11 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 123,03-20,ee,Malvi,unresearched,9,unverified,
 124,03-21,lv,Unigunde,unresearched,13,unverified,
 124,03-21,lv,Abigeila,unresearched,92,unverified,
-124,03-21,lv,Gelārijs,unresearched,,unverified,
 124,03-21,lv,Kunegunda,unresearched,1,unverified,
 124,03-21,lv,Unigunda,unresearched,5,unverified,
 124,03-21,lv,Unija,unresearched,2,unverified,
 124,03-21,ee,Külvo,unresearched,< 5,unverified,
 125,03-22,lv,Dziedra,unresearched,2,unverified,
-125,03-22,lv,Damijs,unresearched,,unverified,
 125,03-22,lv,Damirs,unresearched,865,unverified,
 125,03-22,lv,Gabriele,summary,31,unverified,needs_more
 125,03-22,lv,Gabriella,summary,392,unverified,needs_more
@@ -877,11 +763,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 127,03-24,lv,Džerijs,unresearched,3,unverified,
 127,03-24,lv,Garlībs,unresearched,1,unverified,
 127,03-24,lv,Geraldina,unresearched,1,unverified,
-127,03-24,lv,Kazemirs,unresearched,,unverified,
-127,03-24,lv,Kazimerina,unresearched,,unverified,
 127,03-24,lv,Kazimirina,unresearched,1,unverified,
 127,03-24,lv,Kazmerina,unresearched,1,unverified,
-127,03-24,lv,Kazmirina,unresearched,,unverified,
 127,03-24,lv,Sidars,unresearched,3,unverified,
 127,03-24,lv,Sidors,unresearched,2,unverified,
 127,03-24,lv,Zidra,unresearched,1,unverified,
@@ -906,7 +789,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 130,03-27,lv,Gentra,unresearched,1,unverified,
 130,03-27,lv,Gerita,unresearched,2,unverified,
 130,03-27,lv,Sauļus,unresearched,34,unverified,
-130,03-27,lv,Tālrids,unresearched,,unverified,
 130,03-27,lv,Tālrita,unresearched,2,unverified,
 130,03-27,lt,Alkmenas,unresearched,,unverified,
 130,03-27,ee,Leia,unresearched,32,unverified,
@@ -930,43 +812,30 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 134,03-31,ee,Irmi,unresearched,< 5,unverified,
 135,04-01,lv,Dagna,unresearched,2,unverified,
 135,04-01,lv,Dagnita,unresearched,6,unverified,
-135,04-01,lv,Glaima,unresearched,,unverified,
 135,04-01,lv,Gledisa,unresearched,6,unverified,
 135,04-01,lv,Glendija,unresearched,1,unverified,
 135,04-01,lv,Glens,unresearched,18,unverified,
 135,04-01,lv,Glita,unresearched,2,unverified,
 135,04-01,lv,Gvenda,unresearched,3,unverified,
-135,04-01,lv,Innocentijs,unresearched,,unverified,
-136,04-02,lv,Gracijans,unresearched,,unverified,
 136,04-02,lv,Grata,unresearched,7,unverified,
 136,04-02,lv,Irmgarda,unresearched,2,unverified,
-136,04-02,lv,Irmtrauta,unresearched,,unverified,
 136,04-02,ee,Eneken,unresearched,104,unverified,
 136,04-02,ee,Enelin,unresearched,78,unverified,
 137,04-03,lv,Dairita,unresearched,5,unverified,
 137,04-03,lv,Grineta,unresearched,10,unverified,
-138,04-04,lv,Ārvalda,unresearched,,unverified,
 138,04-04,lv,Ārvalds,unresearched,6,unverified,
-138,04-04,lv,Arvalda,unresearched,,unverified,
 138,04-04,lv,Arvalds,unresearched,5,unverified,
-138,04-04,lv,Arvaldina,unresearched,,unverified,
 138,04-04,ee,Arpo,unresearched,16,unverified,
 139,04-05,lv,Aivijs,unresearched,4,unverified,
-139,04-05,lv,Vide,unresearched,,unverified,
 139,04-05,lv,Videga,unresearched,9,unverified,
 139,04-05,lv,Vīdega,unresearched,2,unverified,
 139,04-05,ee,Irene,summary,350,unverified,needs_more
 140,04-06,lv,Dzīne,unresearched,2,unverified,
-140,04-06,lv,Filipina,unresearched,,unverified,
 140,04-06,ee,Villi,unresearched,88,unverified,
 141,04-07,lv,Elmonds,unresearched,2,unverified,
-141,04-07,lv,Helmute,unresearched,,unverified,
 141,04-07,lv,Zenaida,unresearched,5,unverified,
-141,04-07,lv,Zinaidis,unresearched,,unverified,
-141,04-07,lv,Zinaids,unresearched,,unverified,
 141,04-07,lv,Zinīda,unresearched,1,unverified,
 141,04-07,lt,Kentautė,unresearched,,unverified,
-142,04-08,lv,Adgars,unresearched,,unverified,
 142,04-08,lv,Dajana,unresearched,97,unverified,
 142,04-08,lv,Dane,unresearched,12,unverified,
 142,04-08,lv,Daneta,unresearched,9,unverified,
@@ -980,7 +849,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 143,04-09,lv,Aļesja,unresearched,363,unverified,
 143,04-09,lv,Matrjona,unresearched,54,unverified,
 143,04-09,lv,Valeriana,unresearched,3,unverified,
-143,04-09,lv,Valerianna,unresearched,,unverified,
 143,04-09,lv,Valerijana,unresearched,5,unverified,
 143,04-09,lv,Valerina,unresearched,2,unverified,
 143,04-09,lv,Valerjana,unresearched,4,unverified,
@@ -996,7 +864,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 145,04-11,ee,Hurme,unresearched,< 5,unverified,
 145,04-11,ee,Urmi,unresearched,26,unverified,
 146,04-12,lv,Juļjans,unresearched,8,unverified,
-146,04-12,lv,Juļjāns,unresearched,,unverified,
 146,04-12,ee,Ulrik,unresearched,< 5,unverified,
 147,04-13,lv,Egīls,unresearched,626,unverified,
 147,04-13,lv,Aigils,unresearched,1,unverified,
@@ -1007,7 +874,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 148,04-14,lv,Zigija,unresearched,2,unverified,
 148,04-14,lt,Vaišvydė,unresearched,,unverified,
 149,04-15,lv,Haida,unresearched,2,unverified,
-149,04-15,lv,Haideja,unresearched,,unverified,
 149,04-15,lv,Hamilkārs,unresearched,,unverified,
 149,04-15,lv,Heidija,unresearched,238,unverified,
 149,04-15,ee,Verner,unresearched,135,unverified,
@@ -1019,7 +885,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 150,04-16,lv,Bernadete,unresearched,17,unverified,
 150,04-16,lv,Bernadita,unresearched,3,unverified,
 150,04-16,lv,Bernadite,unresearched,1,unverified,
-150,04-16,lv,Bernadīte,unresearched,,unverified,
 150,04-16,lt,Algedė,unresearched,,unverified,
 151,04-17,lv,Harlijs,unresearched,4,unverified,
 151,04-17,lv,Rudi,unresearched,5,unverified,
@@ -1033,11 +898,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 152,04-18,ee,Volli,unresearched,90,unverified,
 153,04-19,lv,Fani,unresearched,2,unverified,
 153,04-19,lv,Fēbe,unresearched,32,unverified,
-153,04-19,lv,Fenija,unresearched,,unverified,
 153,04-19,lv,Feonija,unresearched,21,unverified,
 153,04-19,lv,Hēlija,unresearched,4,unverified,
-153,04-19,lv,Helijs,unresearched,,unverified,
-153,04-19,lv,Helta,unresearched,,unverified,
 154,04-20,lv,Florentija,unresearched,1,unverified,
 154,04-20,lv,Florentina,unresearched,4,unverified,
 154,04-20,lv,Florentine,unresearched,1,unverified,
@@ -1046,15 +908,11 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 154,04-20,lv,Florijana,unresearched,1,unverified,
 154,04-20,lv,Hendija,unresearched,1,unverified,
 154,04-20,lv,Henita,unresearched,8,unverified,
-154,04-20,lv,Hiacinta,unresearched,,unverified,
 154,04-20,lv,Meija,unresearched,25,unverified,
 154,04-20,ee,Urbe,unresearched,< 5,unverified,
 155,04-21,lv,Anastazija,unresearched,12,unverified,
 155,04-21,lv,Anastāzija,unresearched,2,unverified,
-155,04-21,lv,Anastazijs,unresearched,,unverified,
-155,04-21,lv,Anastāzijs,unresearched,,unverified,
 155,04-21,lv,Atanazijs,unresearched,1,unverified,
-155,04-21,lv,Herenija,unresearched,,unverified,
 155,04-21,lv,Herita,unresearched,4,unverified,
 155,04-21,lv,Marģeris,unresearched,10,unverified,
 156,04-22,lv,Armants,unresearched,12,unverified,
@@ -1105,7 +963,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 162,04-28,lv,Terēsa,unresearched,7,unverified,
 162,04-28,lv,Teresija,unresearched,22,unverified,
 162,04-28,lv,Terēsija,unresearched,6,unverified,
-162,04-28,lv,Termija,unresearched,,unverified,
 162,04-28,lt,Prudencijus,unresearched,,unverified,
 163,04-29,lv,Irute,unresearched,15,unverified,
 163,04-29,lv,Lainis,unresearched,6,unverified,
@@ -1118,7 +975,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 163,04-29,lt,Tormantas,unresearched,,unverified,
 163,04-29,ee,Kalmo,unresearched,< 5,unverified,
 164,04-30,lv,Daļa,unresearched,22,unverified,
-164,04-30,lv,Elta,unresearched,,unverified,
 164,04-30,lv,Isma,unresearched,1,unverified,
 164,04-30,lv,Itallo,unresearched,4,unverified,
 164,04-30,lv,Lianda,unresearched,4,unverified,
@@ -1128,13 +984,10 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 165,05-01,lv,Izaura,unresearched,3,unverified,
 165,05-01,lv,Jalmars,unresearched,3,unverified,
 165,05-01,lv,Ziedons,unresearched,6,unverified,
-165,05-01,lv,Ziedvalda,unresearched,,unverified,
 166,05-02,lv,Sigmunds,unresearched,7,unverified,
-166,05-02,lv,Jeroslavs,unresearched,,unverified,
 166,05-02,lv,Sigizmunds,unresearched,5,unverified,
 166,05-02,lv,Sigunds,unresearched,2,unverified,
 166,05-02,lv,Zigizmunds,unresearched,5,unverified,
-166,05-02,lv,Zigmans,unresearched,,unverified,
 166,05-02,lv,Zigmants,unresearched,14,unverified,
 166,05-02,lv,Zigmonts,unresearched,3,unverified,
 166,05-02,lt,Eidmanas,unresearched,,unverified,
@@ -1142,12 +995,10 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 167,05-03,lv,Juvita,unresearched,2,unverified,
 167,05-03,lt,Kantvydė,unresearched,,unverified,
 167,05-03,lt,Aldevinas,unresearched,,unverified,
-168,05-04,lv,Violanda,unresearched,,unverified,
 168,05-04,lv,Violenta,unresearched,1,unverified,
 168,05-04,lv,Vizbule,unresearched,3,unverified,
 168,05-04,lt,Dargailas,unresearched,,unverified,
 168,05-04,ee,Rosalie,unresearched,29,unverified,
-169,05-05,lv,Kaliksts,unresearched,,unverified,
 169,05-05,lv,Kalins,unresearched,2,unverified,
 169,05-05,lv,Keits,unresearched,11,unverified,
 169,05-05,lv,Rahmats,unresearched,15,unverified,
@@ -1155,15 +1006,11 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 169,05-05,lv,Rašids,unresearched,25,unverified,
 169,05-05,lt,Anielius,unresearched,,unverified,
 170,05-06,lv,Dereks,unresearched,51,unverified,
-170,05-06,lv,Gaidonis,unresearched,,unverified,
 170,05-06,lv,Gaidvars,unresearched,2,unverified,
 170,05-06,lt,Evodijus,unresearched,,unverified,
 170,05-06,ee,Aase,unresearched,5,unverified,
 171,05-07,lv,Anriete,unresearched,2,unverified,
-171,05-07,lv,Domicelija,unresearched,,unverified,
 171,05-07,lv,Domicella,unresearched,9,unverified,
-171,05-07,lv,Donicela,unresearched,,unverified,
-171,05-07,lv,Ennrike,unresearched,,unverified,
 171,05-07,lv,Enrijs,unresearched,23,unverified,
 171,05-07,lv,Enriketa,unresearched,5,unverified,
 171,05-07,lv,Genrieta,unresearched,22,unverified,
@@ -1182,7 +1029,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 173,05-09,lv,Ervils,unresearched,6,unverified,
 173,05-09,lv,Ervis,unresearched,2,unverified,
 173,05-09,lv,Klaidis,unresearched,1,unverified,
-173,05-09,lv,Timiāna,unresearched,,unverified,
 173,05-09,lv,Tims,unresearched,110,unverified,
 174,05-10,lv,Keitlīna,unresearched,55,unverified,
 174,05-10,lv,Kelija,unresearched,15,unverified,
@@ -1233,11 +1079,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 179,05-15,lv,Zosja,unresearched,3,unverified,
 180,05-16,lv,Edvija,unresearched,2,unverified,
 180,05-16,lv,Edvijs,unresearched,2,unverified,
-180,05-16,lv,Edvīna,unresearched,,unverified,
-180,05-16,lv,Edvīne,unresearched,,unverified,
-180,05-16,lv,Kleofa,unresearched,,unverified,
-180,05-16,lv,Kleotilda,unresearched,,unverified,
-180,05-16,lv,Klodija,unresearched,,unverified,
 180,05-16,lv,Klods,unresearched,4,unverified,
 180,05-16,ee,Esti,unresearched,30,unverified,
 181,05-17,lv,Dailons,unresearched,5,unverified,
@@ -1285,7 +1126,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 186,05-22,lv,Džamila,unresearched,17,unverified,
 186,05-22,lv,Emiliana,unresearched,8,unverified,
 186,05-22,lv,Emilijana,unresearched,1,unverified,
-186,05-22,lv,Emīlja,unresearched,,unverified,
 186,05-22,lv,Farhads,unresearched,12,unverified,
 186,05-22,lv,Farida,unresearched,24,unverified,
 186,05-22,lv,Farids,unresearched,23,unverified,
@@ -1301,7 +1141,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 187,05-23,lv,Lone,unresearched,,unverified,
 187,05-23,lv,Lonita,unresearched,4,unverified,
 187,05-23,lv,Lonnija,unresearched,1,unverified,
-187,05-23,lv,Lontīne,unresearched,,unverified,
 187,05-23,lt,Deziderijus,unresearched,,unverified,
 188,05-24,lv,Kurbads,unresearched,3,unverified,
 188,05-24,lv,Kurbats,unresearched,2,unverified,
@@ -1309,7 +1148,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 188,05-24,ee,Aller,unresearched,9,unverified,
 189,05-25,lv,Anšlavs,unresearched,3,unverified,
 189,05-25,lv,Junora,unresearched,14,unverified,
-189,05-25,lv,Andzelms,unresearched,,unverified,
 189,05-25,lv,Anzelma,unresearched,5,unverified,
 189,05-25,lv,Anzelms,unresearched,1,unverified,
 189,05-25,lv,Junta,unresearched,1,unverified,
@@ -1317,14 +1155,12 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 190,05-26,lv,Edvarts,unresearched,129,unverified,
 190,05-26,lv,Edvārts,unresearched,,unverified,
 190,05-26,lv,Ezra,unresearched,67,unverified,
-190,05-26,lv,Varaidots,unresearched,,unverified,
 190,05-26,lv,Varimands,unresearched,1,unverified,
 190,05-26,lv,Varimants,unresearched,1,unverified,
 190,05-26,lv,Varīte,unresearched,2,unverified,
 190,05-26,ee,Vilme,unresearched,13,unverified,
 190,05-26,ee,Valmi,unresearched,9,unverified,
 191,05-27,lv,Aglikerija,unresearched,2,unverified,
-191,05-27,lv,Dzidrīte,unresearched,,unverified,
 191,05-27,lv,Guneta,unresearched,3,unverified,
 191,05-27,lv,Gunitra,unresearched,2,unverified,
 191,05-27,lv,Laurēna,unresearched,11,unverified,
@@ -1353,24 +1189,16 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 193,05-29,ee,Leidur,unresearched,< 5,unverified,
 194,05-30,lv,Leāra,unresearched,2,unverified,
 194,05-30,lv,Levijs,unresearched,9,unverified,
-194,05-30,lv,Logita,unresearched,,unverified,
 194,05-30,lv,Vitolda,unresearched,2,unverified,
-194,05-30,lv,Vitols,unresearched,,unverified,
 194,05-30,lv,Vītols,unresearched,2,unverified,
 195,05-31,lv,Alīda,unresearched,147,unverified,
 195,05-31,lv,Alida,unresearched,6,unverified,
 195,05-31,lv,Alide,unresearched,2,unverified,
 195,05-31,lv,Alīde,unresearched,10,unverified,
-195,05-31,lv,Elīda,unresearched,,unverified,
-195,05-31,lv,Jūsmiņš,unresearched,,unverified,
 195,05-31,lv,Petronela,unresearched,2,unverified,
 195,05-31,lv,Petronellija,unresearched,1,unverified,
-195,05-31,lv,Petroneļa,unresearched,,unverified,
-195,05-31,lv,Petrunele,unresearched,,unverified,
 195,05-31,lv,Petrunelija,unresearched,1,unverified,
 196,06-01,lv,Bernedīne,unresearched,3,unverified,
-196,06-01,lv,Bernadina,unresearched,,unverified,
-196,06-01,lv,Bernadīne,unresearched,,unverified,
 196,06-01,lv,Leolita,summary,4,unverified,needs_more
 196,06-01,lv,Liards,unresearched,1,unverified,
 196,06-01,lv,Mairuta,unresearched,3,unverified,
@@ -1390,8 +1218,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 197,06-02,ee,Viivia,unresearched,< 5,unverified,
 197,06-02,ee,Veevi,unresearched,7,unverified,
 198,06-03,lv,Inete,unresearched,12,unverified,
-198,06-03,lv,Inneta,unresearched,,unverified,
-198,06-03,lv,Lipija,unresearched,,unverified,
 198,06-03,lv,Līrija,unresearched,1,unverified,
 198,06-03,ee,Kannike,unresearched,< 5,unverified,
 198,06-03,ee,Jolanta,unresearched,37,unverified,
@@ -1408,7 +1234,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 200,06-05,lv,Argita,unresearched,30,unverified,
 200,06-05,lv,Argons,unresearched,4,unverified,
 200,06-05,lv,Argots,unresearched,6,unverified,
-200,06-05,lv,Bonifats,unresearched,,unverified,
 200,06-05,lv,Inguards,unresearched,3,unverified,
 200,06-05,lv,Ingvards,unresearched,2,unverified,
 200,06-05,lv,Ingvilda,unresearched,39,unverified,
@@ -1427,19 +1252,13 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 201,06-06,lv,Kendija,unresearched,71,unverified,
 201,06-06,ee,Pärle,unresearched,39,unverified,
 202,06-07,lv,Arnela,unresearched,23,unverified,
-202,06-07,lv,Gaidīte,unresearched,,unverified,
 202,06-07,lv,Luāra,unresearched,10,unverified,
 202,06-07,lv,Lueta,unresearched,30,unverified,
-202,06-07,lv,Lugra,unresearched,,unverified,
-203,06-08,lv,Fridberts,unresearched,,unverified,
 203,06-08,lv,Salamons,unresearched,2,unverified,
 203,06-08,lv,Salimona,unresearched,1,unverified,
-203,06-08,lv,Salimonija,unresearched,,unverified,
 203,06-08,lv,Salimons,unresearched,5,unverified,
 203,06-08,lv,Salomija,unresearched,1,unverified,
 203,06-08,lv,Solumeja,unresearched,1,unverified,
-203,06-08,lv,Zalamons,unresearched,,unverified,
-204,06-09,lv,Ļudgarda,unresearched,,unverified,
 204,06-09,ee,Helar,unresearched,84,unverified,
 204,06-09,ee,Elar,unresearched,276,unverified,
 205,06-10,lv,Mafalda,unresearched,5,unverified,
@@ -1448,11 +1267,9 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 206,06-11,lv,Engus,unresearched,2,unverified,
 206,06-11,lv,Inguss,unresearched,230,unverified,
 206,06-11,lv,Mairolds,unresearched,3,unverified,
-206,06-11,lv,Mairs,unresearched,,unverified,
 206,06-11,lv,Videvuts,unresearched,4,unverified,
 206,06-11,lv,Vido,unresearched,1,unverified,
 206,06-11,lv,Vidulis,unresearched,2,unverified,
-206,06-11,lv,Veidvedis,unresearched,,unverified,
 206,06-11,lv,Vidvuts,unresearched,1,unverified,
 206,06-11,ee,Imme,unresearched,< 5,unverified,
 207,06-12,lv,Lenora,unresearched,14,unverified,
@@ -1480,7 +1297,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 210,06-15,lv,Žermēna,unresearched,12,unverified,
 210,06-15,lv,Marenda,unresearched,3,unverified,
 210,06-15,lv,Moda,unresearched,11,unverified,
-210,06-15,lv,Modis,unresearched,,unverified,
 210,06-15,lv,Vilita,unresearched,13,unverified,
 210,06-15,lv,Viljanta,unresearched,1,unverified,
 210,06-15,lv,Villija,unresearched,16,unverified,
@@ -1489,7 +1305,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 210,06-15,lv,Žermena,unresearched,3,unverified,
 210,06-15,lt,Tarvildas,unresearched,,unverified,
 211,06-16,lv,Marsela,unresearched,56,unverified,
-211,06-16,lv,Marseljēza,unresearched,,unverified,
 211,06-16,lv,Ustinija,unresearched,14,unverified,
 211,06-16,lv,Ustiņja,unresearched,4,unverified,
 211,06-16,ee,Päive,unresearched,< 5,unverified,
@@ -1503,11 +1318,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 212,06-17,lt,Daugandas,unresearched,,unverified,
 212,06-17,ee,Kenno,unresearched,155,unverified,
 213,06-18,lv,Madis,unresearched,57,unverified,
-213,06-18,lv,Adalberta,unresearched,,unverified,
 213,06-18,lv,Edelberts,unresearched,1,unverified,
-213,06-18,lv,Edilberts,unresearched,,unverified,
 213,06-18,lv,Merseda,unresearched,1,unverified,
-213,06-18,lv,Mersēda,unresearched,,unverified,
 213,06-18,lv,Mersedesa,unresearched,20,unverified,
 213,06-18,lv,Mervils,unresearched,2,unverified,
 213,06-18,lt,Ginbutas,unresearched,,unverified,
@@ -1516,8 +1328,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 214,06-19,lv,Milēna,unresearched,140,unverified,
 214,06-19,lv,Milēnija,unresearched,1,unverified,
 214,06-19,lv,Milona,unresearched,1,unverified,
-214,06-19,lv,Milvards,unresearched,,unverified,
-214,06-19,lv,Milvars,unresearched,,unverified,
 214,06-19,lv,Nilss,unresearched,27,unverified,
 214,06-19,lv,Vikijs,unresearched,3,unverified,
 214,06-19,lv,Vitors,unresearched,3,unverified,
@@ -1537,13 +1347,10 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 216,06-21,lv,Egīns,unresearched,1,unverified,
 216,06-21,lv,Emilians,unresearched,16,unverified,
 216,06-21,lv,Emilijans,unresearched,2,unverified,
-216,06-21,lv,Monrita,unresearched,,unverified,
-216,06-21,lv,Monvida,unresearched,,unverified,
 216,06-21,lv,Monvids,unresearched,30,unverified,
 216,06-21,lt,Dagailė,unresearched,,unverified,
 216,06-21,ee,Aht,unresearched,< 5,unverified,
 217,06-22,lv,Bogdana,unresearched,53,unverified,
-217,06-22,lv,Lūlija,unresearched,,unverified,
 217,06-22,ee,Pauliine,unresearched,64,unverified,
 218,06-23,lt,Ligita,summary,,unverified,needs_more
 218,06-23,ee,Malev,unresearched,8,unverified,
@@ -1569,9 +1376,7 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 223,06-28,lv,Narciza,unresearched,2,unverified,
 223,06-28,lv,Nargisa,unresearched,14,unverified,
 223,06-28,lv,Nargiza,unresearched,16,unverified,
-223,06-28,lv,Viestars,unresearched,,unverified,
 223,06-28,lv,Viesturis,unresearched,6,unverified,
-223,06-28,lv,Vieturs,unresearched,,unverified,
 223,06-28,lt,Tulgedas,unresearched,,unverified,
 223,06-28,lt,Irenijus,unresearched,,unverified,
 224,06-29,lv,Narajana,unresearched,1,unverified,
@@ -1585,7 +1390,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 224,06-29,lv,Pits,unresearched,1,unverified,
 224,06-29,lv,Pola,unresearched,16,unverified,
 224,06-29,lv,Povils,unresearched,19,unverified,
-225,06-30,lv,Mereks,unresearched,,unverified,
 225,06-30,lv,Tālivalds,unresearched,4,unverified,
 225,06-30,lv,Tālvaldis,unresearched,6,unverified,
 225,06-30,ee,Helend,unresearched,7,unverified,
@@ -1601,11 +1405,9 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 227,07-02,ee,Milve,unresearched,9,unverified,
 228,07-03,lv,Emarita,unresearched,2,unverified,
 228,07-03,lv,Emerenciana,unresearched,1,unverified,
-228,07-03,lv,Emerencijana,unresearched,,unverified,
 228,07-03,lv,Emerenta,unresearched,1,unverified,
 228,07-03,lv,Emerentiana,unresearched,1,unverified,
 228,07-03,lv,Emerentīne,unresearched,2,unverified,
-228,07-03,lv,Emertijana,unresearched,,unverified,
 228,07-03,lv,Enerita,unresearched,1,unverified,
 228,07-03,lt,Liaudmina,unresearched,,unverified,
 229,07-04,lv,Nērika,unresearched,2,unverified,
@@ -1626,19 +1428,13 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 231,07-06,lv,Anrita,unresearched,6,unverified,
 231,07-06,lv,Arkādija,unresearched,4,unverified,
 231,07-06,lv,Ēsa,unresearched,1,unverified,
-231,07-06,lv,Haldons,unresearched,,unverified,
 231,07-06,lt,Nerilis,unresearched,,unverified,
 231,07-06,lt,Nervilas,unresearched,,unverified,
 232,07-07,lv,Aldīna,unresearched,1,unverified,
-232,07-07,lv,Marute,unresearched,,unverified,
 233,07-08,lv,Adela,unresearched,36,unverified,
 233,07-08,lv,Adelaide,unresearched,20,unverified,
-233,07-08,lv,Adelgunde,unresearched,,unverified,
-233,07-08,lv,Adelheida,unresearched,,unverified,
-233,07-08,lv,Adelions,unresearched,,unverified,
 233,07-08,lv,Adeljans,unresearched,1,unverified,
 233,07-08,lv,Adeļa,unresearched,11,unverified,
-233,07-08,lv,Adeļjons,unresearched,,unverified,
 233,07-08,lv,Nimmija,unresearched,1,unverified,
 233,07-08,lv,Nimue,unresearched,1,unverified,
 233,07-08,lt,Amoldas,unresearched,,unverified,
@@ -1647,20 +1443,16 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 235,07-10,lv,Olijs,unresearched,7,unverified,
 235,07-10,lv,Olvita,unresearched,2,unverified,
 236,07-11,lv,Lennijs,unresearched,8,unverified,
-236,07-11,lv,Leonorija,unresearched,,unverified,
 236,07-11,lv,Taila,unresearched,4,unverified,
 236,07-11,lv,Taunis,unresearched,1,unverified,
 236,07-11,ee,Askur,unresearched,< 5,unverified,
 237,07-12,lv,Indreks,unresearched,,unverified,
-237,07-12,lv,Indriks,unresearched,,unverified,
 237,07-12,lv,Oniks,unresearched,4,unverified,
 237,07-12,lt,Sigisbertas,unresearched,,unverified,
 237,07-12,lt,Vyliaudė,unresearched,,unverified,
 237,07-12,ee,Hrm,unresearched,< 5,unverified,
-238,07-13,lv,Magrieta,unresearched,,unverified,
 238,07-13,lv,Malgožata,unresearched,3,unverified,
 238,07-13,lv,Margreta,unresearched,5,unverified,
-238,07-13,lv,Margrita,unresearched,,unverified,
 238,07-13,ee,Marita,unresearched,157,unverified,
 238,07-13,ee,Reeda,unresearched,33,unverified,
 239,07-14,lv,Anvars,unresearched,32,unverified,
@@ -1675,15 +1467,12 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 240,07-15,ee,Raine,unresearched,57,unverified,
 241,07-16,lv,Aleftina,unresearched,99,unverified,
 241,07-16,lv,Aleftīna,unresearched,23,unverified,
-241,07-16,lv,Aleftīne,unresearched,,unverified,
 241,07-16,lv,Herma,unresearched,2,unverified,
 241,07-16,lv,Hervita,unresearched,5,unverified,
-241,07-16,lv,Rainelde,unresearched,,unverified,
 241,07-16,lt,Lenora,unresearched,,unverified,
 242,07-17,lv,Alika,unresearched,93,unverified,
 242,07-17,lv,Aļika,unresearched,37,unverified,
 242,07-17,lv,Pijs,unresearched,1,unverified,
-243,07-18,lv,Bosa,unresearched,,unverified,
 243,07-18,lv,Rozalinda,unresearched,12,unverified,
 243,07-18,lv,Rozita,unresearched,8,unverified,
 243,07-18,lv,Rozmarija,unresearched,17,unverified,
@@ -1695,7 +1484,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 244,07-19,lv,Sarita,unresearched,15,unverified,
 244,07-19,lv,Zarina,unresearched,82,unverified,
 244,07-19,lt,Galigantas,unresearched,,unverified,
-245,07-20,lv,Plūdonis,unresearched,,unverified,
 245,07-20,lv,Radimins,unresearched,1,unverified,
 245,07-20,lv,Ramuna,unresearched,4,unverified,
 245,07-20,lv,Ramune,unresearched,13,unverified,
@@ -1703,7 +1491,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 245,07-20,lv,Ritmars,unresearched,2,unverified,
 245,07-20,lv,Ritmārs,unresearched,1,unverified,
 245,07-20,lv,Ruzanna,unresearched,22,unverified,
-245,07-20,lv,Ruze,unresearched,,unverified,
 246,07-21,lv,Meldris,unresearched,5,unverified,
 246,07-21,lv,Potencija,unresearched,,unverified,
 246,07-21,lv,Pudencija,unresearched,3,unverified,
@@ -1714,9 +1501,7 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 248,07-23,lv,Magone,unresearched,18,unverified,
 248,07-23,lv,Madelaina,unresearched,2,unverified,
 248,07-23,lv,Madeleina,unresearched,9,unverified,
-248,07-23,lv,Magdaliene,unresearched,,unverified,
 248,07-23,lv,Magita,unresearched,2,unverified,
-248,07-23,lv,Meralda,unresearched,,unverified,
 248,07-23,lv,Meri,unresearched,27,unverified,
 248,07-23,lt,Romula,unresearched,,unverified,
 249,07-24,lv,Kerstina,unresearched,8,unverified,
@@ -1735,7 +1520,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 250,07-25,lv,Džema,unresearched,2,unverified,
 250,07-25,lv,Džemss,unresearched,3,unverified,
 250,07-25,lv,Džims,unresearched,3,unverified,
-250,07-25,lv,Jakobīna,unresearched,,unverified,
 250,07-25,lv,Žaklina,unresearched,17,unverified,
 250,07-25,lv,Žaklīne,unresearched,11,unverified,
 250,07-25,lv,Žaks,unresearched,44,unverified,
@@ -1744,10 +1528,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 250,07-25,ee,Jaap,unresearched,< 5,unverified,
 251,07-26,lv,Anabella,unresearched,187,unverified,
 251,07-26,lv,Annelija,unresearched,5,unverified,
-251,07-26,lv,Aņeļa,unresearched,,unverified,
 251,07-26,lv,Oneta,unresearched,1,unverified,
 252,07-27,lv,Dite,unresearched,22,unverified,
-252,07-27,lv,Martijana,unresearched,,unverified,
 252,07-27,lv,Radu,unresearched,15,unverified,
 252,07-27,lv,Radvilis,unresearched,1,unverified,
 252,07-27,lv,Raēle,unresearched,4,unverified,
@@ -1755,10 +1537,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 252,07-27,lt,Svalia,unresearched,,unverified,
 253,07-28,lv,Celina,unresearched,4,unverified,
 253,07-28,lv,Celīna,unresearched,2,unverified,
-253,07-28,lv,Cicilija,unresearched,,unverified,
 253,07-28,lv,Cilija,unresearched,1,unverified,
 253,07-28,lv,Cilina,unresearched,3,unverified,
-253,07-28,lv,Cilmija,unresearched,,unverified,
 253,07-28,lv,Rafaela,summary,49,unverified,needs_more
 253,07-28,lv,Rafiks,unresearched,10,unverified,
 253,07-28,lt,Vytardas,unresearched,,unverified,
@@ -1780,7 +1560,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 255,07-30,lv,Rinārs,unresearched,8,unverified,
 255,07-30,lv,Rintars,unresearched,1,unverified,
 255,07-30,lv,Valteris,unresearched,,unverified,
-255,07-30,lv,Valtraude,unresearched,,unverified,
 255,07-30,lv,Valtrauta,unresearched,6,unverified,
 255,07-30,ee,Kerman,unresearched,16,unverified,
 255,07-30,ee,Kermo,unresearched,630,unverified,
@@ -1788,7 +1567,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 256,07-31,lv,Andželīna,unresearched,93,unverified,
 256,07-31,lv,Andžella,unresearched,32,unverified,
 256,07-31,lv,Andželo,unresearched,26,unverified,
-256,07-31,lv,Angarijs,unresearched,,unverified,
 256,07-31,lv,Anhelita,unresearched,1,unverified,
 256,07-31,lv,Anželina,unresearched,39,unverified,
 256,07-31,lv,Anželita,unresearched,3,unverified,
@@ -1796,7 +1574,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 256,07-31,lv,Sigeta,unresearched,2,unverified,
 256,07-31,ee,Meevi,unresearched,< 5,unverified,
 257,08-01,lv,Alba,unresearched,18,unverified,
-257,08-01,lv,Albinsa,unresearched,,unverified,
 257,08-01,lv,Rameka,unresearched,1,unverified,
 257,08-01,lv,Ramērs,unresearched,1,unverified,
 257,08-01,lv,Ramils,unresearched,55,unverified,
@@ -1804,18 +1581,14 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 257,08-01,lv,Ramīna,unresearched,20,unverified,
 257,08-01,ee,Maira,unresearched,20,unverified,
 258,08-02,lv,Elia,unresearched,52,unverified,
-258,08-02,lv,Eljašs,unresearched,,unverified,
 258,08-02,lv,Norlands,unresearched,8,unverified,
 258,08-02,lv,Normands,unresearched,9,unverified,
-258,08-02,lv,Normanta,unresearched,,unverified,
 258,08-02,lv,Normants,unresearched,1,unverified,
 258,08-02,lv,Normens,unresearched,18,unverified,
-258,08-02,lv,Normuds,unresearched,,unverified,
 258,08-02,lv,Stīvens,unresearched,128,unverified,
 258,08-02,ee,Helger,unresearched,47,unverified,
 258,08-02,ee,Helgo,unresearched,13,unverified,
 259,08-03,lv,Ogists,unresearched,3,unverified,
-259,08-03,lv,Onufrija,unresearched,,unverified,
 259,08-03,lt,Lengvinė,unresearched,,unverified,
 259,08-03,lt,Galimantas,unresearched,,unverified,
 260,08-04,lv,Romands,unresearched,7,unverified,
@@ -1830,7 +1603,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 260,08-04,ee,Veroonika,unresearched,90,unverified,
 260,08-04,ee,Veronika,summary,2547,unverified,needs_more
 261,08-05,lv,Arvīns,unresearched,5,unverified,
-261,08-05,lv,Osvaldis,unresearched,,unverified,
 261,08-05,lv,Rauza,unresearched,4,unverified,
 261,08-05,lv,Ravena,unresearched,3,unverified,
 261,08-05,lv,Salma,unresearched,6,unverified,
@@ -1855,8 +1627,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 263,08-07,ee,Vaigo,unresearched,6,unverified,
 263,08-07,ee,Hiljar,unresearched,14,unverified,
 263,08-07,ee,Hiljo,unresearched,< 5,unverified,
-264,08-08,lv,Midīte,unresearched,,unverified,
-264,08-08,lv,Mudijs,unresearched,,unverified,
 264,08-08,lv,Renda,unresearched,4,unverified,
 264,08-08,lv,Rendija,unresearched,48,unverified,
 264,08-08,lv,Renno,unresearched,2,unverified,
@@ -1864,10 +1634,7 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 264,08-08,lv,Reons,unresearched,1,unverified,
 264,08-08,lv,Vladeks,unresearched,12,unverified,
 264,08-08,ee,Silve,unresearched,28,unverified,
-265,08-09,lv,Genovera,unresearched,,unverified,
-265,08-09,lv,Genuvefa,unresearched,,unverified,
 265,08-09,lv,Gunavefa,unresearched,1,unverified,
-265,08-09,lv,Madare,unresearched,,unverified,
 266,08-10,lv,Brencis,unresearched,12,unverified,
 266,08-10,lv,Auda,unresearched,1,unverified,
 266,08-10,lv,Breta,unresearched,2,unverified,
@@ -1878,7 +1645,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 267,08-11,lv,Olesija,unresearched,6,unverified,
 267,08-11,lv,Olgita,unresearched,2,unverified,
 267,08-11,lv,Olmars,unresearched,1,unverified,
-267,08-11,lv,Olrita,unresearched,,unverified,
 267,08-11,lv,Oļesija,unresearched,17,unverified,
 267,08-11,lv,Oļesje,unresearched,1,unverified,
 267,08-11,lt,Butenis,unresearched,,unverified,
@@ -1887,7 +1653,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 267,08-11,ee,Suuru,unresearched,< 5,unverified,
 267,08-11,ee,Sanne,unresearched,25,unverified,
 268,08-12,lv,Klēra,unresearched,128,unverified,
-268,08-12,lv,Revs,unresearched,,unverified,
 268,08-12,lt,Laimona,unresearched,,unverified,
 268,08-12,lt,Radė,unresearched,,unverified,
 268,08-12,lt,Aiškutė,unresearched,,unverified,
@@ -1915,8 +1680,7 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 272,08-16,lv,Rivo,unresearched,10,unverified,
 272,08-16,lt,Alvila,unresearched,,unverified,
 272,08-16,ee,Aurel,unresearched,9,unverified,
-272,08-16,ee,Kullar Kullo,unresearched,< 5,unverified,needs_more
-273,08-17,lv,Ruriks,unresearched,,unverified,
+272,08-16,ee,Kullar,unresearched,,unverified,
 273,08-17,lv,Vinete,unresearched,11,unverified,
 273,08-17,lv,Vinita,unresearched,19,unverified,
 273,08-17,ee,Saamuel,unresearched,80,unverified,
@@ -1927,7 +1691,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 274,08-18,lv,Ellana,unresearched,12,unverified,
 274,08-18,lv,Helene,unresearched,28,unverified,
 274,08-18,lv,Helēne,unresearched,19,unverified,
-274,08-18,lv,Hellēna,unresearched,,unverified,
 274,08-18,ee,Heleene,unresearched,88,unverified,
 274,08-18,ee,Helene,unresearched,236,unverified,
 275,08-19,lv,Malgonija,unresearched,1,unverified,
@@ -1939,7 +1702,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 275,08-19,lv,Melizanda,unresearched,4,unverified,
 275,08-19,ee,Maano,unresearched,20,unverified,
 276,08-20,lv,Bernarde,unresearched,2,unverified,
-276,08-20,lv,Bernardina,unresearched,,unverified,
 276,08-20,lv,Bernardīna,unresearched,1,unverified,
 276,08-20,lv,Bernārs,unresearched,6,unverified,
 276,08-20,lv,Rokijs,unresearched,4,unverified,
@@ -1964,19 +1726,14 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 279,08-23,lv,Vitalisa,unresearched,4,unverified,
 279,08-23,lv,Vitaliss,unresearched,2,unverified,
 279,08-23,lv,Vitars,unresearched,1,unverified,
-280,08-24,lv,Bārtulis,unresearched,,unverified,
 280,08-24,lv,Bierants,unresearched,2,unverified,
 281,08-25,lv,Ludovika,unresearched,2,unverified,
-281,08-25,lv,Ludvisa,unresearched,,unverified,
 281,08-25,lv,Ludvise,unresearched,1,unverified,
-281,08-25,lv,Ludvisija,unresearched,,unverified,
 281,08-25,lv,Luiss,unresearched,245,unverified,
-281,08-25,lv,Ļudvise,unresearched,,unverified,
 281,08-25,lv,Patricijs,unresearched,2,unverified,
 281,08-25,lv,Patrisija,unresearched,12,unverified,
 281,08-25,lt,Mangailas,unresearched,,unverified,
 281,08-25,lt,Mangailė,unresearched,,unverified,
-282,08-26,lv,Bronija,unresearched,,unverified,
 282,08-26,lv,Natalī,unresearched,33,unverified,
 282,08-26,lv,Nate,unresearched,34,unverified,
 282,08-26,lv,Natela,unresearched,18,unverified,
@@ -1987,7 +1744,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 283,08-27,lv,Džonis,unresearched,2,unverified,
 283,08-27,lv,Huans,unresearched,18,unverified,
 283,08-27,lv,Janošs,unresearched,11,unverified,
-283,08-27,lv,Žanno,unresearched,,unverified,
 283,08-27,lv,Žans,unresearched,383,unverified,
 283,08-27,lv,Žuans,unresearched,6,unverified,
 283,08-27,ee,Mainmi,unresearched,< 5,unverified,
@@ -2005,18 +1761,14 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 285,08-29,lv,Armilda,unresearched,1,unverified,
 285,08-29,lv,Armins,unresearched,34,unverified,
 285,08-29,lv,Rubīna,unresearched,1,unverified,
-285,08-29,lv,Visma,unresearched,,unverified,
 285,08-29,lv,Vismands,unresearched,1,unverified,
 285,08-29,ee,Õnnela,unresearched,105,unverified,
 286,08-30,lv,Alvija,unresearched,1,unverified,
 286,08-30,lv,Alvits,unresearched,1,unverified,
-286,08-30,lv,Jalanta,unresearched,,unverified,
 286,08-30,ee,Mello,unresearched,< 5,unverified,
 286,08-30,ee,Miljo,unresearched,< 5,unverified,
 287,08-31,lv,Aigvars,unresearched,2,unverified,
 287,08-31,lv,Valisa,unresearched,1,unverified,
-287,08-31,lv,Vallida,unresearched,,unverified,
-287,08-31,lv,Valma,unresearched,,unverified,
 288,09-01,lt,Varūnė,unresearched,,unverified,
 288,09-01,ee,Üar,unresearched,< 5,unverified,
 288,09-01,ee,Ülari,unresearched,137,unverified,
@@ -2066,19 +1818,16 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 294,09-07,lt,Klodas,unresearched,,unverified,
 294,09-07,lt,Klodoaldas,unresearched,,unverified,
 294,09-07,ee,Reina,unresearched,10,unverified,
-295,09-08,lv,Ilgards,unresearched,,unverified,
 295,09-08,lv,Sianda,unresearched,26,unverified,
 295,09-08,lv,Sianta,unresearched,2,unverified,
 295,09-08,lv,Siāra,unresearched,6,unverified,
 295,09-08,ee,Mariann,unresearched,365,unverified,
-296,09-09,lv,Bronhilda,unresearched,,unverified,
 296,09-09,lv,Brunhilda,unresearched,3,unverified,
 296,09-09,lv,Brunons,unresearched,2,unverified,
 296,09-09,lv,Brūss,unresearched,14,unverified,
 296,09-09,lv,Sidnija,unresearched,31,unverified,
 296,09-09,lv,Sidžija,unresearched,1,unverified,
 296,09-09,lv,Teldijs,unresearched,2,unverified,
-296,09-09,lv,Zidija,unresearched,,unverified,
 296,09-09,lt,Seragina,unresearched,,unverified,
 296,09-09,ee,Taidi,unresearched,< 5,unverified,
 297,09-10,lv,Albertīne,unresearched,13,unverified,
@@ -2088,14 +1837,13 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 298,09-11,lv,Siglinda,unresearched,1,unverified,
 298,09-11,lv,Signa,unresearched,4,unverified,
 298,09-11,lv,Signeja,unresearched,2,unverified,
-298,09-11,lv,Signejana,unresearched,,unverified,
 298,09-11,lv,Signese,unresearched,2,unverified,
 298,09-11,lv,Signeta,unresearched,6,unverified,
 298,09-11,lv,Signijs,unresearched,3,unverified,
 298,09-11,lv,Zigna,unresearched,2,unverified,
 298,09-11,lv,Zigne,unresearched,4,unverified,
 298,09-11,lt,Hetga,unresearched,,unverified,
-298,09-11,ee,Snno,unresearched,< 5,unverified,needs_more
+298,09-11,ee,Sanno,unresearched,,unverified,
 299,09-12,lv,Ernita,unresearched,2,unverified,
 299,09-12,lv,Evelinda,unresearched,2,unverified,
 299,09-12,lv,Evelita,unresearched,9,unverified,
@@ -2124,7 +1872,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 301,09-14,lt,Roželė,unresearched,,unverified,
 301,09-14,ee,Reimu,unresearched,< 5,unverified,
 302,09-15,lv,Gunvaris,unresearched,1,unverified,
-302,09-15,lv,Gunivalds,unresearched,,unverified,
 302,09-15,lv,Gunvalds,unresearched,11,unverified,
 302,09-15,lv,Sandriāna,unresearched,2,unverified,
 302,09-15,lv,Sandrīte,unresearched,6,unverified,
@@ -2140,17 +1887,13 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 304,09-17,lv,Ajla,unresearched,4,unverified,
 304,09-17,lv,Sīringa,unresearched,1,unverified,
 304,09-17,lv,Sirke,unresearched,1,unverified,
-304,09-17,lv,Sivija,unresearched,,unverified,
 304,09-17,lv,Vairīte,unresearched,3,unverified,
-304,09-17,lv,Vairons,unresearched,,unverified,
 304,09-17,lv,Verija,unresearched,1,unverified,
 304,09-17,lv,Virēna,unresearched,2,unverified,
 305,09-18,lv,Eralds,unresearched,4,unverified,
 305,09-18,lt,Galmantė,unresearched,,unverified,
 306,09-19,lv,Munise,unresearched,19,unverified,
 306,09-19,lv,Sorenta,unresearched,15,unverified,
-306,09-19,lv,Vernis,unresearched,,unverified,
-306,09-19,lv,Veronis,unresearched,,unverified,
 306,09-19,ee,Marna,unresearched,< 5,unverified,
 307,09-20,lv,Mariana,unresearched,125,unverified,
 307,09-20,lv,Mariela,unresearched,17,unverified,
@@ -2161,7 +1904,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 307,09-20,lt,Andhus,unresearched,,unverified,
 308,09-21,lv,Mateass,unresearched,17,unverified,
 308,09-21,lv,Matija,unresearched,1,unverified,
-308,09-21,lv,Maurīcijs,unresearched,,unverified,
 308,09-21,lv,Metjū,unresearched,189,unverified,
 308,09-21,ee,Lemmo,unresearched,14,unverified,
 308,09-21,ee,Lemmert,unresearched,< 5,unverified,
@@ -2172,25 +1914,19 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 309,09-22,ee,Maur,unresearched,12,unverified,
 309,09-22,ee,Marvo,unresearched,20,unverified,
 310,09-23,lv,Snorre,unresearched,1,unverified,
-310,09-23,lv,Vandze,unresearched,,unverified,
-310,09-23,lv,Vaneranda,unresearched,,unverified,
 310,09-23,lv,Vanese,unresearched,5,unverified,
-310,09-23,lv,Venefrīda,unresearched,,unverified,
-310,09-23,lv,Venerande,unresearched,,unverified,
 310,09-23,lv,Veners,unresearched,3,unverified,
 310,09-23,lv,Venīna,unresearched,2,unverified,
 310,09-23,lt,Galintė,unresearched,,unverified,
 310,09-23,lt,Galinta,unresearched,,unverified,
 311,09-24,lv,Agrits,unresearched,1,unverified,
 311,09-24,lv,Agrons,unresearched,1,unverified,
-311,09-24,lv,Steiga,unresearched,,unverified,
 311,09-24,ee,Alvo,unresearched,6,unverified,
 312,09-25,lv,Raulis,unresearched,2,unverified,
 312,09-25,lv,Sulamite,unresearched,6,unverified,
 312,09-25,lv,Sulamīte,unresearched,6,unverified,
 312,09-25,lv,Svanhilda,unresearched,1,unverified,
 313,09-26,lv,Gundaris,unresearched,11,unverified,
-313,09-26,lv,Gundolfs,unresearched,,unverified,
 313,09-26,lv,Šeilija,unresearched,2,unverified,
 313,09-26,lv,Šeina,unresearched,17,unverified,
 313,09-26,lv,Šelbija,unresearched,7,unverified,
@@ -2214,11 +1950,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 315,09-28,lv,Seržs,unresearched,10,unverified,
 315,09-28,lv,Večislavs,unresearched,14,unverified,
 315,09-28,lv,Vencislava,unresearched,1,unverified,
-315,09-28,lv,Vencislavs,unresearched,,unverified,
-315,09-28,lv,Vinceslavs,unresearched,,unverified,
 315,09-28,lt,Vientautė,unresearched,,unverified,
 316,09-29,lv,Mihaela,unresearched,31,unverified,
-316,09-29,lv,Mikalina,unresearched,,unverified,
 316,09-29,lv,Mikēle,unresearched,4,unverified,
 316,09-29,lv,Mikija,unresearched,5,unverified,
 316,09-29,lv,Mikijs,unresearched,5,unverified,
@@ -2232,11 +1965,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 317,09-30,lv,Elnara,unresearched,6,unverified,
 317,09-30,lv,Elnāra,unresearched,3,unverified,
 317,09-30,lv,Elnurs,unresearched,6,unverified,
-317,09-30,lv,Geronima,unresearched,,unverified,
-317,09-30,lv,Heronima,unresearched,,unverified,
 317,09-30,lv,Heronims,unresearched,3,unverified,
 317,09-30,lv,Heronīms,unresearched,2,unverified,
-317,09-30,lv,Hieronīms,unresearched,,unverified,
 317,09-30,lv,Jeronims,unresearched,3,unverified,
 317,09-30,lv,Medeja,unresearched,10,unverified,
 317,09-30,lv,Mena,unresearched,,unverified,
@@ -2254,7 +1984,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 319,10-02,lv,Tillija,unresearched,1,unverified,
 320,10-03,lv,Ilizana,unresearched,6,unverified,
 320,10-03,lv,Ilizane,unresearched,2,unverified,
-320,10-03,lv,Tira,unresearched,,unverified,
 320,10-03,ee,Eevo,unresearched,< 5,unverified,
 321,10-04,lv,Dimārs,unresearched,2,unverified,
 321,10-04,lv,Francs,unresearched,38,unverified,
@@ -2263,7 +1992,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 321,10-04,lv,Fransuāza,unresearched,4,unverified,
 321,10-04,lv,Frensisa,unresearched,7,unverified,
 321,10-04,lv,Prans,unresearched,32,unverified,
-321,10-04,lv,Toralfs,unresearched,,unverified,
 321,10-04,lv,Torija,unresearched,7,unverified,
 321,10-04,lv,Torvalds,unresearched,4,unverified,
 321,10-04,lv,Tūrs,unresearched,10,unverified,
@@ -2294,13 +2022,10 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 323,10-06,lv,Treisija,unresearched,33,unverified,
 323,10-06,lv,Treviss,unresearched,55,unverified,
 323,10-06,ee,Edmund,summary,28,unverified,needs_more
-324,10-07,lv,Augmants,unresearched,,unverified,
 324,10-07,lv,Daumands,unresearched,2,unverified,
 324,10-07,lv,Druvaldis,unresearched,3,unverified,
 324,10-07,lv,Druvalds,unresearched,2,unverified,
-324,10-07,lv,Druvinalds,unresearched,,unverified,
 324,10-07,lv,Druvvalds,unresearched,1,unverified,
-324,10-07,lv,Tullija,unresearched,,unverified,
 324,10-07,lv,Turaida,unresearched,2,unverified,
 324,10-07,ee,Hasso,unresearched,25,unverified,
 325,10-08,lv,Aino,unresearched,21,unverified,
@@ -2312,16 +2037,12 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 325,10-08,lv,Annete,unresearched,13,unverified,
 325,10-08,lt,Aina,unresearched,,unverified,
 326,10-09,lv,Elgasts,unresearched,1,unverified,
-326,10-09,lv,Elgons,unresearched,,unverified,
-326,10-09,lv,Helgrīda,unresearched,,unverified,
 326,10-09,lt,Gedėtas,unresearched,,unverified,
 326,10-09,lt,Geditas,unresearched,,unverified,
 326,10-09,ee,Riine,unresearched,55,unverified,
 327,10-10,lv,Arvīds,unresearched,1886,unverified,
-327,10-10,lv,Arvedo,unresearched,,unverified,
 327,10-10,lv,Arveds,unresearched,15,unverified,
 327,10-10,lv,Arvēds,unresearched,1,unverified,
-327,10-10,lv,Arvīde,unresearched,,unverified,
 327,10-10,lv,Arvids,unresearched,62,unverified,
 327,10-10,lv,Arvita,unresearched,14,unverified,
 327,10-10,lt,Butautė,unresearched,,unverified,
@@ -2333,14 +2054,11 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 328,10-11,lv,Silvers,unresearched,7,unverified,
 328,10-11,ee,Haldo,unresearched,< 5,unverified,
 329,10-12,lv,Cirēnija,unresearched,1,unverified,
-329,10-12,lv,Valfreds,unresearched,,unverified,
 329,10-12,lv,Valfrēds,unresearched,2,unverified,
 329,10-12,lv,Valfrīda,unresearched,2,unverified,
 330,10-13,lv,Irmants,unresearched,2,unverified,
-330,10-13,lv,Irme,unresearched,,unverified,
 330,10-13,lv,Irmīne,unresearched,6,unverified,
 330,10-13,ee,Ebba,unresearched,9,unverified,
-331,10-14,lv,Mindora,unresearched,,unverified,
 331,10-14,lv,Vilhelmine,unresearched,7,unverified,
 331,10-14,ee,Kaidi,unresearched,1033,unverified,
 331,10-14,ee,Kaili,unresearched,627,unverified,
@@ -2380,25 +2098,19 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 335,10-18,lv,Ronvalds,unresearched,2,unverified,
 335,10-18,ee,Ludvig,unresearched,23,unverified,
 336,10-19,lv,Drosme,unresearched,3,unverified,
-336,10-19,lv,Drošvaldis,unresearched,,unverified,
-336,10-19,lv,Drošvaris,unresearched,,unverified,
 336,10-19,lv,Elīne,unresearched,71,unverified,
 336,10-19,lt,Geisvilas,unresearched,,unverified,
 336,10-19,lt,Kantrimė,unresearched,,unverified,
-337,10-20,lv,Leonita,unresearched,,unverified,
 339,10-22,lv,Airida,unresearched,5,unverified,
 339,10-22,lt,Mingedė,unresearched,,unverified,
 339,10-22,ee,Ihan,unresearched,< 5,unverified,
 340,10-23,lv,Dainida,unresearched,17,unverified,
-340,10-23,lv,Daimons,unresearched,,unverified,
 340,10-23,lv,Dainita,unresearched,2,unverified,
 340,10-23,lv,Dainors,unresearched,3,unverified,
 340,10-23,lv,Deimonds,unresearched,3,unverified,
 340,10-23,lv,Deimons,unresearched,12,unverified,
-341,10-24,lv,Ranāte,unresearched,,unverified,
 341,10-24,lv,Ranita,unresearched,2,unverified,
 341,10-24,lv,Reneta,unresearched,8,unverified,
-341,10-24,lv,Renta,unresearched,,unverified,
 341,10-24,lv,Rineta,unresearched,21,unverified,
 341,10-24,lt,Daugailas,unresearched,,unverified,
 341,10-24,ee,Asmo,unresearched,16,unverified,
@@ -2408,7 +2120,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 342,10-25,lv,Hilarija,unresearched,7,unverified,
 342,10-25,lt,Vaigedė,unresearched,,unverified,
 343,10-26,lv,Amanta,unresearched,44,unverified,
-343,10-26,lv,Amantija,unresearched,,unverified,
 343,10-26,lv,Amaranda,unresearched,2,unverified,
 343,10-26,lv,Amenta,unresearched,2,unverified,
 343,10-26,lv,Araminta,unresearched,1,unverified,
@@ -2427,7 +2138,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 345,10-28,lv,Antoņina,summary,2913,unverified,needs_more
 345,10-28,lv,Antonina,summary,306,unverified,needs_more
 345,10-28,lv,Antonīna,summary,4,unverified,needs_more
-345,10-28,lv,Ninella,summary,,unverified,needs_more
 345,10-28,lv,Niseta,unresearched,1,unverified,
 345,10-28,lt,Judas,summary,,unverified,needs_more
 345,10-28,ee,Siimu,unresearched,8,unverified,
@@ -2439,7 +2149,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 346,10-29,lv,Elvo,unresearched,3,unverified,
 346,10-29,lv,Laimons,unresearched,207,unverified,
 346,10-29,lv,Laimonts,unresearched,2,unverified,
-346,10-29,lv,Laimzieds,unresearched,,unverified,
 346,10-29,lt,Ermelinda,unresearched,,unverified,
 346,10-29,ee,Fredi,unresearched,155,unverified,
 347,10-30,lv,Adīne,unresearched,7,unverified,
@@ -2464,7 +2173,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 349,11-01,lv,Ildefons,unresearched,1,unverified,
 349,11-01,lv,Ildra,unresearched,1,unverified,
 349,11-01,lv,Tautvaldis,summary,1,unverified,needs_more
-349,11-01,lv,Tautvaris,summary,,unverified,needs_more
 349,11-01,lv,Ungars,unresearched,1,unverified,
 350,11-02,lv,Dzīle,summary,1,unverified,needs_more
 350,11-02,lv,Vendijs,summary,4,unverified,needs_more
@@ -2491,9 +2199,7 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 354,11-06,lv,Leonila,summary,13,unverified,needs_more
 354,11-06,lv,Linarda,summary,1,unverified,needs_more
 354,11-06,lv,Linarts,summary,4,unverified,needs_more
-354,11-06,lv,Linerts,summary,,unverified,needs_more
 354,11-06,lv,Lonarts,summary,1,unverified,needs_more
-355,11-07,lv,Helmīna,summary,,unverified,needs_more
 355,11-07,lv,Venantijs,summary,1,unverified,needs_more
 355,11-07,lv,Veno,unresearched,2,unverified,
 355,11-07,ee,Kirke,unresearched,726,unverified,
@@ -2529,10 +2235,8 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 360,11-12,lv,Viāna,unresearched,13,unverified,needs_more
 360,11-12,lv,Vidards,unresearched,5,unverified,needs_more
 360,11-12,lv,Vidarts,unresearched,2,unverified,needs_more
-360,11-12,lv,Vidavs,unresearched,,unverified,needs_more
 360,11-12,lt,Juozapotas,unresearched,,unverified,needs_more
 361,11-13,lv,Eugenijs,unresearched,8,unverified,needs_more
-361,11-13,lv,Euģenijs,unresearched,,unverified,needs_more
 361,11-13,lv,Euģēnijs,unresearched,1,unverified,needs_more
 361,11-13,lv,Evgenijs,unresearched,10,unverified,needs_more
 361,11-13,lv,Evgēnijs,unresearched,1,unverified,needs_more
@@ -2553,7 +2257,6 @@ order,date,country,name,category,registered_bearers,verification_status,note_sta
 363,11-15,lv,Undis,unresearched,5,unverified,needs_more
 363,11-15,lv,Undita,unresearched,1,unverified,needs_more
 363,11-15,ee,Vaigi,unresearched,< 5,unverified,needs_more
-364,11-16,lv,Ganda,unresearched,,unverified,
 364,11-16,lv,Landa,unresearched,15,unverified,needs_more
 364,11-16,lt,Gerdvilė,unresearched,,unverified,needs_more
 365,11-17,lv,Higo,unresearched,1,unverified,needs_more

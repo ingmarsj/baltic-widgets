@@ -9,7 +9,10 @@ import {compareFame} from '../public/namedays-people.js';
 // Reviewed spelling corrections for the supplied calendar. Each misspelling is absent from the official
 // VLKK name registry (data.gov.lt dataset 2664), while the corrected form is registered:
 // Arnasd -> Arnas (stray "d"), Felidta -> Felicita, Binifacas -> Bonifacas (also listed for 14 May by day.lt).
-export const CALENDAR_CORRECTIONS={lv:{'Emīlija.':'Emīlija'},lt:{Arnasd:'Arnas',Felidta:'Felicita',Binifacas:'Bonifacas'}};
+export const CALENDAR_CORRECTIONS={lv:{'Emīlija.':'Emīlija'},lt:{Arnasd:'Arnas',Felidta:'Felicita',Binifacas:'Bonifacas'},ee:{Snno:'Sanno'}};
+// Source rows that join two names in one cell (17 November 2026): split into separate calendar names.
+export const CALENDAR_SPLITS={ee:{'Antonia Ande':['Antonia','Ande'],'Kullar Kullo':['Kullar','Kullo']}};
+export function calendarNames(country,name){const clean=correctCalendarName(country,name);return CALENDAR_SPLITS[country]?.[clean]||[clean];}
 export function correctCalendarName(country,name){const clean=name.normalize('NFC').replace(/\s+/g,' ').trim();return CALENDAR_CORRECTIONS[country]?.[clean]||clean;}
 export function parseCalendar(input){
  const lines=input.replace(/^\uFEFF/,'').trim().split(/\r?\n/);
@@ -20,7 +23,7 @@ export function parseCalendar(input){
   const [country,d,m,rawName,id]=fields,name=correctCalendarName(country,rawName);const day=Number(d),month=Number(m);
   if(!COUNTRIES.includes(country)||!name.trim()||name.length>100||/[<>\x00-\x1f]/.test(name)||!/^\d+$/.test(id)||!Number.isInteger(day)||!Number.isInteger(month)||month<1||month>12||day<1||day>new Date(Date.UTC(2000,month,0)).getUTCDate())throw Error('Invalid TSV row '+(index+2));
   const key=String(month).padStart(2,'0')+'-'+String(day).padStart(2,'0');
-  const list=calendars[country][key]||=[];if(!list.some(n=>n.name===name))list.push({key:country+':'+name,name});rowCount++;counts[country]++;
+  const list=calendars[country][key]||=[];for(const part of calendarNames(country,name))if(!list.some(n=>n.name===part))list.push({key:country+':'+part,name:part});rowCount++;counts[country]++;
  }
  return validateCalendar({schema_version:1,writer_version:WRITER_VERSION,updated_at:new Date().toISOString(),source:'User-provided namedays.txt; source order preserved',data:{timezone:'Europe/Riga',source_rows:rowCount,source_rows_by_country:counts,calendars}});
 }

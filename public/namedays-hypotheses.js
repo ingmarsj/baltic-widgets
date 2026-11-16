@@ -1,3 +1,4 @@
+import {hypothesesR165} from './namedays-hypotheses-r165.js';
 import {hypothesesR164} from './namedays-hypotheses-r164.js';
 import {hypothesesR163} from './namedays-hypotheses-r163.js';
 import {hypothesesR149} from './namedays-hypotheses-r149.js';
@@ -119,5 +120,6 @@ for(const [country,map] of Object.entries(hypothesesR148))for(const [name,e] of 
 for(const [country,map] of Object.entries(hypothesesR149))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
 for(const [country,map] of Object.entries(hypothesesR163))for(const [name,e] of Object.entries(map))entries[country][name]=e;
 for(const [country,map] of Object.entries(hypothesesR164))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
+for(const [country,map] of Object.entries(hypothesesR165))for(const [name,e] of Object.entries(map))entries[country][name]??=e;
 export const HYPOTHESIS_LABELS={lv:'Pieņēmums',ru:'Предположение',en:'Hypothesis',lt:'Prielaida',et:'Oletus'};
 export function unverifiedHistory(name,country){return entries[country]?.[name.normalize('NFC').replace(/\.$/,'')]||null;}

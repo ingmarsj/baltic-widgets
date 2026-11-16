@@ -395,3 +395,17 @@ test('displayed histories name no research sources and no Russian origin (16 Nov
   assert.doesNotMatch(t,SRC,name);assert.doesNotMatch(t,RU,name);
  }
 });
+test('Latvian names with no bearer, no reviewed history and no namesake are not published; split Estonian rows are (17 November 2026)',async()=>{
+ const pop=JSON.parse(await readFile(new URL('../public/data/namedays/population-lv.json',import.meta.url),'utf8')).data;
+ const cal=JSON.parse(await readFile(new URL('../public/data/namedays/calendar-lv.json',import.meta.url),'utf8')).data.days;
+ const profiles=JSON.parse(await readFile(new URL('../public/data/namedays/profiles-lv.json',import.meta.url),'utf8')).data;
+ for(const {key,name} of Object.values(cal).flat()){
+  const p=profiles[key];assert.ok(p,key+' has a profile');
+  if(pop[name.toLocaleUpperCase('lv')]>0||p.people.length)continue;
+  assert.ok(describeName(p,'en',0,profiles).reviewed_narrative,key+' should be hidden: no bearer, no reviewed history, no namesake');
+ }
+ const ee=JSON.parse(await readFile(new URL('../public/data/namedays/calendar-ee.json',import.meta.url),'utf8')).data.days;
+ assert.deepEqual(ee['01-12'].map(n=>n.name),['Antonia','Ande','Tooni']);
+ assert.ok(['Kullar','Kullo'].every(n=>ee['08-16'].some(x=>x.name===n)));assert.ok(ee['09-11'].some(x=>x.name==='Sanno'));
+ assert.ok(!Object.values(ee).flat().some(x=>/^(Snno|Antonia Ande|Kullar Kullo)$/.test(x.name)));
+});

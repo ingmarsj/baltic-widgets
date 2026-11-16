@@ -1,0 +1,97 @@
+{
+  "round": 165,
+  "date": "2026-11-16",
+  "writer_version": "namedays-1.9.135",
+  "countries": {
+    "lv_changes": {
+      "hidden": 298,
+      "added": []
+    },
+    "lv": {
+      "profiles": 5258,
+      "local_profiles_before": 1062,
+      "local_profiles_after": 1062,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 1792,
+      "with_five_local": 357,
+      "calendar_memberships": 5259,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5259,
+      "old_display_preserved": 5259,
+      "facts_preserved": 5258,
+      "examples": []
+    },
+    "lt_changes": {
+      "hidden": 0,
+      "added": []
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 678,
+      "local_profiles_after": 678,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 728,
+      "with_five_local": 349,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": []
+    },
+    "ee_changes": {
+      "hidden": 3,
+      "added": [
+        "ee:Antonia",
+        "ee:Ande",
+        "ee:Kullar",
+        "ee:Kullo",
+        "ee:Sanno"
+      ]
+    },
+    "ee": {
+      "profiles": 1555,
+      "local_profiles_before": 1033,
+      "local_profiles_after": 1033,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 1110,
+      "with_five_local": 541,
+      "calendar_memberships": 1560,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1560,
+      "old_display_preserved": 1560,
+      "facts_preserved": 1550,
+      "examples": []
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "reused_lithuanian_citizenship_rows": 5263,
+    "reused_estonian_citizenship_rows": 9035,
+    "new_birthplace_rows": {
+      "lv": 4389,
+      "lt": 5850,
+      "ee": 7594
+    },
+    "eligible_birthplace_rows": {
+      "lv": 1133,
+      "lt": 783,
+      "ee": 963
+    },
+    "local_query": "P31 human, birthplace P19 / country P17, native label, at least two Wikipedia sitelinks; LIMIT 20000 not reached. Select native first names with fewer than five local exact bearers in the pre-round snapshot."
+  },
+  "validation": {
+    "unit_tests": 158,
+    "static_build": "passed",
+    "browser": "Preview at localhost:8765 after cache reload: writer namedays-1.9.135; LV 3 January no longer lists the hidden zero-bearer names (Ammonārija, Ammunārija, Miervalds); EE 12 January shows Antonia, Ande, Tooni and 11 September shows Sanno with a labelled hypothesis",
+    "history_facts": "Person facts unchanged in all 8677 profiles; reviewed histories unchanged; round 164 adds labelled hypotheses and supplements for names that had no origin part",
+    "display": "All 9368 memberships preserve every previously displayed person and show five distinct birthday people below exact namesakes."
+  }
+}

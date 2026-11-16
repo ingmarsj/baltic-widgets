@@ -5,7 +5,7 @@ import {historySupplement} from './namedays-hypotheses-supplements.js';
 import {rootHistory,reviewedRoot} from './namedays-roots.js';
 import {plainHistory,plainHypothesis} from './namedays-plain.js';
 import {finalWording} from './namedays-plain-r163.js';
-export const WRITER_VERSION='namedays-1.9.134';
+export const WRITER_VERSION='namedays-1.9.135';
 export function nameIdentity(name){return name.normalize('NFD').replace(/(\p{Script=Latin})\p{M}+/gu,'$1').normalize('NFC').replace(/\.$/,'').toLowerCase();}
 export const LANGUAGES=['lv','ru','en','lt','et'];
 const bundles={

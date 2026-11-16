@@ -1,5 +1,5 @@
 {
-  "writer_version": "namedays-1.9.134",
+  "writer_version": "namedays-1.9.135",
   "enabled_countries": [
     "lv",
     "lt",
@@ -8,18 +8,19 @@
   "source_rows": 9371,
   "countries": {
     "lv": {
-      "profiles": 5556,
-      "documented": 4737,
+      "profiles": 5258,
+      "hidden_zero_bearers": 0,
+      "documented": 4556,
       "with_namesakes": 2221,
-      "with_attestation": 3243,
-      "with_word_meanings": 652,
+      "with_attestation": 3228,
+      "with_word_meanings": 649,
       "research_pending": 1,
       "editorial": {
         "reviewed_narratives": 3517,
-        "factual_summaries": 78,
+        "factual_summaries": 74,
         "attestation_only": 0,
-        "needs_research": 1961,
-        "unverified_hypotheses": 1961,
+        "needs_research": 1667,
+        "unverified_hypotheses": 1667,
         "fictional_stories": 0,
         "translated_languages": [
           "lv",
@@ -28,12 +29,13 @@
           "lt",
           "et"
         ],
-        "with_related_context": 3010,
+        "with_related_context": 2864,
         "with_calendar_entry": 176
       }
     },
     "lt": {
       "profiles": 1568,
+      "hidden_zero_bearers": 0,
       "documented": 1316,
       "with_namesakes": 747,
       "with_attestation": 198,
@@ -58,18 +60,19 @@
       }
     },
     "ee": {
-      "profiles": 1553,
+      "profiles": 1555,
+      "hidden_zero_bearers": 0,
       "documented": 542,
-      "with_namesakes": 1123,
+      "with_namesakes": 1126,
       "with_attestation": 178,
       "with_word_meanings": 59,
-      "research_pending": 0,
+      "research_pending": 5,
       "editorial": {
-        "reviewed_narratives": 1248,
+        "reviewed_narratives": 1249,
         "factual_summaries": 5,
         "attestation_only": 0,
-        "needs_research": 300,
-        "unverified_hypotheses": 297,
+        "needs_research": 301,
+        "unverified_hypotheses": 301,
         "fictional_stories": 0,
         "translated_languages": [
           "lv",

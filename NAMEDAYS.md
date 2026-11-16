@@ -178,6 +178,8 @@ Namesake research should first search Wikipedia and the relevant national domain
 
 The namesakes tab displays an approximate number of registered name bearers for the Latvian and Estonian calendars and for the most common Lithuanian names, with only the country, the count and, for Lithuania, the “born since 1900” scope visible. Snapshot dates and provider names are retained in metadata and are not displayed in the card. `population-lv.json` is separate from historical profiles. Its source is the official PMLP CC0 dataset [Personu vārdi](https://data.gov.lv/dati/dataset/personu-vardi). It counts people registered in PMLP, including a name within multiple given names; it does not assert current physical residence in Latvia. Exact NFC spelling is retained: diacritic variants and hyphenated names are not merged. Each matching component is counted once per person. Missing names are omitted, never shown as zero. Counts are not reduced by one for the visitor.
 
+**Hidden Latvian names (17 November 2026).** A Latvian calendar name that has no bearer in `population-lv.json`, no reviewed history (only a labelled hypothesis) and no namesake is left out of the generated `calendar-lv.json` and `profiles-lv.json` by `scripts/generate-namedays.mjs`. The PMLP list includes every name with at least one bearer, so absence there means zero. Such a name returns automatically at the next generation once the statistics show a bearer, or once it gets a reviewed history or a namesake. The rule is not applied to LT and EE, whose statistics are not complete name lists. The current hidden names are listed in `research/namedays/round165-notes.json`.
+
 ```sh
 npm run update:nameday-statistics
 npm run update:nameday-statistics -- --force

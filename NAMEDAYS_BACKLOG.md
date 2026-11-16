@@ -10,13 +10,13 @@ The complete list of names that still lack a reviewed history, one row per name,
 
 | Level | LV | LT | EE |
 | --- | ---: | ---: | ---: |
-| Reviewed history | 3517 | 1364 | 1248 |
-| Short factual summary | 78 | 3 | 5 |
+| Reviewed history | 3517 | 1364 | 1249 |
+| Short factual summary | 74 | 3 | 5 |
 | Early record only | 0 | 0 | 0 |
-| Needs research | 1961 | 201 | 300 |
-| Total profiles | 5556 | 1568 | 1553 |
+| Needs research | 1667 | 201 | 301 |
+| Total profiles | 5258 | 1568 | 1555 |
 
-Unverified hypotheses remain included in Needs research: LV 1961; LT 201; EE 297. Their widget text is explicitly labelled as a hypothesis, and their records stay in the verification queue.
+Unverified hypotheses remain included in Needs research: LV 1667; LT 201; EE 301. Their widget text is explicitly labelled as a hypothesis, and their records stay in the verification queue.
 
 ## How to work through the backlog
 
@@ -47,8 +47,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | LV | Aleksandris | Unverified hypothesis | 33 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LV | Brīve | Unverified hypothesis | 3 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LV | Alesandrs | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Brīvīte | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Zandars | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 
 ### 19 November
 
@@ -63,8 +61,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | LV | Jelizavete | Unverified hypothesis | 3 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LV | Elizbete | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LV | Līziņa | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Jeļizabeta | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Jeļizavete | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LV | Lize | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LT | Rimgaudė | Unverified hypothesis |  | Find an exact authoritative etymology in LT-VLKK/LT-LKI or Kuzavinis/Savukynas that resolves gaudus sound versus gauti/gaudyti. LT-GUIDE gives rimti/ramintis + gaudus; visually checked Salys PDF p. 287 / printed p. 272 explains general Gaud- through gauti, compare (su)gaudinti. It lists Ringaudas, not Rimgaudė; do not silently equate Ringaudas/Rimgaudas or transfer the male Rimgaudas dictionary record to this form. Guide date is 28 November, unlike project 19 November; preserve supplied date. No secure whole-name translation yet. |
 
@@ -84,7 +80,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | LV | Vīga | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LV | Vigelijs | Unverified hypothesis | 1 |  |
 | LV | Viģīlija | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Vigilijs | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LT | Vaidvitė | Unverified hypothesis |  |  |
 | EE | Helmu | Unverified hypothesis | 7 | Search EE-RAJANDI66 Lisanimestik and Mägiste 1936 (cited by Rajandi) for exact Helmu; keep Helmut/Helmo comparison open. |
 | EE | Helmur | Unverified hypothesis | < 5 | Find a later signed Estonian source (EE-EKI name bibliography, Mägiste 1936) that chooses between Rajandi's Helmut and Elmar placements for Helmur. |
@@ -99,8 +94,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | LV | Vigurds | Unverified hypothesis | 2 | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |
 | LV | Andejs | Unverified hypothesis | 1 |  |
 | LV | Zeltiņa | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Vigorts | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Vilfrida | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LT | Girenė | Unverified hypothesis |  | Find an exact Girenė analysis. |
 | LT | Gomantas | Unverified hypothesis |  | Follow Pakerys’s LVKŽ and Zinkevičius references and inspect competing go-/mant- analyses. |
 | LT | Norgaudas | Unverified hypothesis |  | Find a scholarly element analysis for Norgaudas. |
@@ -111,8 +104,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | --- | --- | --- | --- | --- |
 | LV | Aldris | Unverified hypothesis | 7 |  |
 | LV | Aldra | Unverified hypothesis | 3 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Aldijs | Unverified hypothesis |  |  |
-| LV | Alfins | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LT | Dargintė | Unverified hypothesis |  | Follow the exact Dargintė references LVEŽ69/CA102/VKn75/VKat4 and inspect original first-stem analysis. |
 | LT | Steigintas | Unverified hypothesis |  | Inspect exact Steigintas in authoritative dictionary and establish an explicit Steigintas/Steikintas bridge if one exists. |
 | EE | Säsil | Unverified hypothesis | 47 | Find an Estonian name dictionary (Seppo 1994, EE-EKI bibliography) with an exact Säsil entry and its Cécile/Cecilia bridge. |
@@ -127,7 +118,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | LV | Zigda | Unverified hypothesis | 3 | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |
 | LV | Sigurnija | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LV | Zigfrida | Unverified hypothesis | 1 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Zigrids | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 
 ### 24 November
 
@@ -137,10 +127,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | LV | Velita | Unverified hypothesis | 10 | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |
 | LV | Vīne | Unverified hypothesis | 2 |  |
 | LV | Viners | Unverified hypothesis | 1 |  |
-| LV | Velte | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Veltija | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Vīna | Unverified hypothesis |  |  |
-| LV | Vinārs | Unverified hypothesis |  |  |
 | LT | Mantvinas | Unverified hypothesis |  | Inspect scholarly exact-name mant-/vin- analyses and dictionary references; retain the dated usage separately. |
 
 ### 25 November
@@ -180,7 +166,6 @@ Research follows the calendar: the widget shows yesterday, today and tomorrow, s
 | LV | Vinija | Unverified hypothesis | 6 | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |
 | LV | Vinolds | Unverified hypothesis | 3 |  |
 | LV | Vinona | Unverified hypothesis | 2 | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| LV | Vinifreds | Unverified hypothesis |  | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | LT | Girdvydė | Unverified hypothesis |  | Find an exact feminine Girdvydė in a scholarly list. |
 | LT | Girvydė | Unverified hypothesis |  | Find an exact feminine Girvydė. |
 | LT | Virgis | Unverified hypothesis |  | Find an exact Virgis record. |
@@ -488,45 +473,10 @@ These names were examined but not written, usually because only a meaning was fo
 | Zeltiņa | Unverified hypothesis | 1 | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | Zigfrida | Unverified hypothesis | 1 | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | Zira | Unverified hypothesis | 1 | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |  |
-| Alfins | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Alvīns | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Atala | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Brīvīte | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Euģenijs | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Gaismons | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Helmīna | Short factual summary |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Hilga | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Jeļizabeta | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Jeļizavete | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Linerts | Short factual summary |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | Lize | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Lucianna | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Lucijana | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | Marcis | Short factual summary |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Meikols | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Meikulis | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Ninella | Short factual summary |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Otālija | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Saulgaida | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Tabite | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Tautvaris | Short factual summary |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | Teofile | Short factual summary |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 | Tone | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Valdimirs | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Velte | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Veltija | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Vidavs | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Vigilijs | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Vigorts | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Vilfrida | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Vinifreds | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Voičiks | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Voldmārs | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Vudis | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Zandars | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Zezostrs | Unverified hypothesis |  | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |  |
-| Zigrids | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
-| Žuanete | Unverified hypothesis |  | Entry gives only a questioned link (?), an unknown origin, or no entry; not promoted. | Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study. |
 
 ### LT
 
@@ -613,17 +563,14 @@ These names were examined but not written, usually because only a meaning was fo
 | Helmu | Unverified hypothesis | 7 | Research pass completed; labelled hypothesis remains open in the backlog. | Search EE-RAJANDI66 Lisanimestik and Mägiste 1936 (cited by Rajandi) for exact Helmu; keep Helmut/Helmo comparison open. |
 | Raidu | Unverified hypothesis | 5 | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |  |
 | Alve | Unverified hypothesis | < 5 | Round 120 closure pass found no exact-form bridge; the item stays open. | No remaining cached Estonian name source mentions Alve; leave open unless a new Estonian onomastic source appears. |
-| Antonia Ande | Needs research | < 5 | Calendar research pass completed; the exact origin or dated history remains unverified. | The supplied calendar contains this two-word profile as one identity. No exact compound-name history found. Seek a source explicitly documenting the whole name; do not split it or transfer separate Antonia/Ande origins. |
 | Helmur | Unverified hypothesis | < 5 | Research pass completed; labelled hypothesis remains open in the backlog. | Find a later signed Estonian source (EE-EKI name bibliography, Mägiste 1936) that chooses between Rajandi's Helmut and Elmar placements for Helmur. |
 | Hingo | Unverified hypothesis | < 5 | Research pass completed; unresolved origin remains in backlog. | Same as Hengo. |
-| Kullar Kullo | Needs research | < 5 |  | Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form. |
 | Laus | Unverified hypothesis | < 5 | Exact-form origin bridge or dated exact-form episode still missing; the existing labelled proposal stays unverified. | Open Wiedemann’s Estonian–German dictionary entry Laus/Klaos for an explicit Nikolaus link. |
 | Osmar | Unverified hypothesis | < 5 | Fact checked, but the name keeps its explicit unverified hypothesis (see round130 notes). |  |
 | Oss | Unverified hypothesis | < 5 | Still open: no exact-form origin bridge plus independent dated detail, or competing analyses unresolved. | Find a scholarly Estonian source for Oss. |
 | Piine | Unverified hypothesis | < 5 | Exact-form origin bridge or dated exact-form episode still missing; the existing labelled proposal stays unverified. | Find Piine in Rajandi 1966 / Seppo 1994; keep Sabiine comparison labelled. |
 | Raima | Unverified hypothesis | < 5 | Still open: no exact-form origin bridge plus independent dated detail, or competing analyses unresolved. | Search Mägiste/Leole and stat.ee for Raima. |
 | Selme | Unverified hypothesis | < 5 | Exact-form origin bridge or dated exact-form episode still missing; the existing labelled proposal stays unverified. | Find a dictionary entry explicitly linking Selme with Selma (Rajandi 1966 / Seppo 1994); Selma evidence not transferred. |
-| Snno | Needs research | < 5 |  | Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form. |
 | Taano | Unverified hypothesis | < 5 | Research pass completed; unresolved origin remains in backlog. | Check Mägiste 1929 and EKI for Taano. |
 | Une | Short factual summary | < 5 |  | Inspect the exact primary entry and a separately dated episode. Cache hits are common-word sleep contexts or a Norwegian rendering row, not an Estonian given-name etymology. No exact human historical episode established. |
 | Vaigi | Unverified hypothesis | < 5 | Round 120 closure pass found no exact-form bridge; the item stays open. | Seppo 1994 is the last named lead and is not cached. |
@@ -816,11 +763,11 @@ These names are outside the official TOP 50 lists, so no count is available; the
 
 Agrikola, Aina, Aiškutė, Akvilma, Aldevinas, Algedė, Alkmenas, Alvila, Amoldas, Andhus, Andželika, Anielius, Anželika, Arenas, Arene, Atgaudė, Augerijus, Aurymė, Baniutė, Barmantas, Barvydė, Bylotas, Butautė, Butenis, Butginas, Butvilė, Cezarė, Dagailė, Dargailas, Dargintas, Dargvitė, Daugailas, Daugandas, Dautara, Deziderijus, Edilija, Eidmanas, Eivilitas, Eivilitė, Elvydė, Ermelinda, Eufrozija, Evodijus, Fajina, Felicisimas, Gaydvilė, Gailenis, Gaitė, Galė, Galigantas, Galimantas, Galimintas, Galindas, Galindė, Galinta, Galintė, Galmantė, Galvydė, Ganvilė, Gatigintas, Gedardas, Gedėtas, Gedgailė, Gedgaudė, Geditas, Geisvyda, Geisvilas, Gelvydė, Gentvainas, Gentvila, Gilvynas, Ginbutas, Gitana, Gitanas, Gordijonas, Hetga, Ineta, Irenijus, Irvita, Josmilas, Kantrimė, Kantvydė, Kargaudas, Kentautė, Klodas, Klodoaldas, Labvardas, Laimona, Lengvinė, Lenora, Liaudmina, Ligidija, Limantė, Liudginas, Liudlė, Mandravas, Mandravė, Mangailas, Mangailė, Martinijonas, Martys, Melchioras, Milgedė, Mingedė, Nautas, Nerilis, Nerys, Nervilas, Norgailis, Norvaidė, Norvainė, Norvaldė, Panteleonas, Pijonijus, Poncijonas, Prudencijus, Radė, Romula, Roželė, Seragina, Severijonas, Sigisbertas, Sigutis, Simplicijus, Sitvija, Skirtautė, Skirvydė, Svalia, Tarmantas, Tarvildas, Tautenė, Tautgirdė, Teofanas, Tormantas, Tulgedas, Vaidmantė, Vaidvitė, Vaigedė, Vaišvydė, Varūna, Varūnė, Vydgailė, Vientautė, Vilgirdė, Vyliaudė, Vilūnė, Vinfridas, Visgailas, Visgintas, Visvilas, Vytardas, Vitbutas, Volfgangas, Zygfrydas, Žadvainis
 
-## Priority 5: other EE names that still need research (184)
+## Priority 5: other EE names that still need research (188)
 
 Ranked by Statistics Estonia counts, with the bearer count in brackets. Estonian-coined and literary names (Aavik, Saal, Kalevipoeg) usually have the richest histories.
 
-Elvo (50), Kimmo (48), Helger (47), Elme (46), Pärle (39), Sirja (39), Almar (37), Jolanta (37), Reeda (33), Leia (32), Solveig (31), Esti (30), Joakim (29), Jürgo (29), Rosalie (29), Marjo (28), Silve (28), Urmi (26), Erni (25), Hasso (25), Iivo (25), Sanne (25), Ludvig (23), Vilvi (23), Ingeborg (22), Meri (22), Maano (20), Maira (20), Marvo (20), Õrne (20), Ingi (19), Leivo (19), Joosua (18), Jürjo (18), Karro (18), Mirle (17), Arpo (16), Asmo (16), Kerman (16), Heelia (15), Karme (15), Meili (15), Valmer (15), Henna (14), Hiljar (14), Lemmo (14), Helgo (13), Loone (13), Manni (13), Silvo (13), Vilme (13), Maur (12), Leina (11), Talvo (11), Üllas (11), Ivalo (10), Juulika (10), Reina (10), Valmo (10), Aller (9), Aurel (9), Ebba (9), Erno (9), Malvi (9), Malvo (9), Milve (9), Vallot (9), Valmi (9), Doora (8), Imant (8), Jaako (8), Malev (8), Meino (8), Siimu (8), Simmu (8), Ervi (7), Haili (7), Helend (7), Ike (7), Veevi (7), Alvo (6), Erla (6), Ervo (6), Helliki (6), Kaaro (6), Vaarika (6), Vaigo (6), Aase (5), Alda (5), Aldi (5–8), Aabi (< 5), Aht (< 5), Aii (< 5), Ainari (< 5), Alme (< 5), Askur (< 5), Augst (< 5), Auvo (< 5), Eevo (< 5), Elva (< 5), Ernits (< 5), Esmi (< 5), Häidi (< 5), Häili (< 5), Haldo (< 5), Hälli (< 5), Heero (< 5), Helmeles (< 5), Hendrika (< 5), Herbi (< 5), Hiljo (< 5), Hingi (< 5), Hrm (< 5), Hurme (< 5), Ihan (< 5), Imme (< 5), Irmi (< 5), Jaap (< 5), Jürja (< 5), Kalmo (< 5), Kannike (< 5), Kärdi (< 5), Kindel (< 5), Kostel (< 5), Külvo (< 5), Laide (< 5), Laido (< 5), Lainela (< 5), Laini (< 5), Leevo (< 5), Lehto (< 5), Leido (< 5), Leidur (< 5), Leine (< 5), Lemmert (< 5), Madro (< 5), Mainmi (< 5), Malde (< 5), Marna (< 5), Maurits (< 5), Meelitu (< 5), Meevi (< 5), Mehto (< 5), Mella (< 5), Mello (< 5), Miljo (< 5), Päive (< 5), Pärno (< 5), Pireta (< 5), Priida (< 5), Priidika (< 5), Reimu (< 5), Salmo (< 5), Salve (< 5), Salvi (< 5), Sibülle (< 5), Sõlmi (< 5), Sulve (< 5), Suuru (< 5), Sveno (< 5), Taidi (< 5), Taidur (< 5), Talve (< 5), Tapper (< 5), Teetlev (< 5), Teeto (< 5), Tehvan (< 5), Tiino (< 5), Truude (< 5), Üar (< 5), Uljo (< 5), Ulmi (< 5), Ulrik (< 5), Urbe (< 5), Veegi (< 5), Verni (< 5), Viilo (< 5), Viivia (< 5), Vilimo (< 5), Vilmo (< 5), Virma (< 5), Virvi (< 5), Virvo (< 5), Võitur (< 5)
+Elvo (50), Kimmo (48), Helger (47), Elme (46), Pärle (39), Sirja (39), Almar (37), Jolanta (37), Reeda (33), Leia (32), Solveig (31), Esti (30), Joakim (29), Jürgo (29), Rosalie (29), Marjo (28), Silve (28), Urmi (26), Erni (25), Hasso (25), Iivo (25), Sanne (25), Ludvig (23), Vilvi (23), Ingeborg (22), Meri (22), Maano (20), Maira (20), Marvo (20), Õrne (20), Ingi (19), Leivo (19), Joosua (18), Jürjo (18), Karro (18), Mirle (17), Arpo (16), Asmo (16), Kerman (16), Heelia (15), Karme (15), Meili (15), Valmer (15), Henna (14), Hiljar (14), Lemmo (14), Helgo (13), Loone (13), Manni (13), Silvo (13), Vilme (13), Maur (12), Leina (11), Talvo (11), Üllas (11), Ivalo (10), Juulika (10), Reina (10), Valmo (10), Aller (9), Aurel (9), Ebba (9), Erno (9), Malvi (9), Malvo (9), Milve (9), Vallot (9), Valmi (9), Doora (8), Imant (8), Jaako (8), Malev (8), Meino (8), Siimu (8), Simmu (8), Ervi (7), Haili (7), Helend (7), Ike (7), Veevi (7), Alvo (6), Erla (6), Ervo (6), Helliki (6), Kaaro (6), Vaarika (6), Vaigo (6), Aase (5), Alda (5), Aldi (5–8), Aabi (< 5), Aht (< 5), Aii (< 5), Ainari (< 5), Alme (< 5), Askur (< 5), Augst (< 5), Auvo (< 5), Eevo (< 5), Elva (< 5), Ernits (< 5), Esmi (< 5), Häidi (< 5), Häili (< 5), Haldo (< 5), Hälli (< 5), Heero (< 5), Helmeles (< 5), Hendrika (< 5), Herbi (< 5), Hiljo (< 5), Hingi (< 5), Hrm (< 5), Hurme (< 5), Ihan (< 5), Imme (< 5), Irmi (< 5), Jaap (< 5), Jürja (< 5), Kalmo (< 5), Kannike (< 5), Kärdi (< 5), Kindel (< 5), Kostel (< 5), Külvo (< 5), Laide (< 5), Laido (< 5), Lainela (< 5), Laini (< 5), Leevo (< 5), Lehto (< 5), Leido (< 5), Leidur (< 5), Leine (< 5), Lemmert (< 5), Madro (< 5), Mainmi (< 5), Malde (< 5), Marna (< 5), Maurits (< 5), Meelitu (< 5), Meevi (< 5), Mehto (< 5), Mella (< 5), Mello (< 5), Miljo (< 5), Päive (< 5), Pärno (< 5), Pireta (< 5), Priida (< 5), Priidika (< 5), Reimu (< 5), Salmo (< 5), Salve (< 5), Salvi (< 5), Sibülle (< 5), Sõlmi (< 5), Sulve (< 5), Suuru (< 5), Sveno (< 5), Taidi (< 5), Taidur (< 5), Talve (< 5), Tapper (< 5), Teetlev (< 5), Teeto (< 5), Tehvan (< 5), Tiino (< 5), Truude (< 5), Üar (< 5), Uljo (< 5), Ulmi (< 5), Ulrik (< 5), Urbe (< 5), Veegi (< 5), Verni (< 5), Viilo (< 5), Viivia (< 5), Vilimo (< 5), Vilmo (< 5), Virma (< 5), Virvi (< 5), Virvo (< 5), Võitur (< 5), Ande, Antonia, Kullar, Sanno
 
 ## Known data issues
 
