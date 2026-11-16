@@ -7,14 +7,15 @@ import path from 'node:path';
 
 const windows=process.platform==='win32';
 const quote=value=>"'"+value.replaceAll("'","''")+"'";
-async function fixture(t,{publish=false,fail=false,stale=false,plan=false}={}){
+async function fixture(t,{publish=false,fail=false,stale=false,plan=false,clean=false}={}){
  const root=await mkdtemp(path.join(tmpdir(),'widgets-summary-'));
  t.after(()=>rm(root,{recursive:true,force:true}));
  await mkdir(path.join(root,'scripts'));await mkdir(path.join(root,'artifacts'));
  const script=path.join(root,'scripts','update-widgets.ps1'),report=path.join(root,'artifacts','update-report.json');
  await copyFile(new URL('../scripts/update-widgets.ps1',import.meta.url),script);
  if(stale){await writeFile(report,JSON.stringify({errors:['STALE ERROR']}));await utimes(report,new Date('2000-01-01'),new Date('2000-01-01'));}
- const writeReport=`[IO.File]::WriteAllText(${quote(report)},'{"errors":["fuel: simulated source error"]}')`;
+ let writeReport=`[IO.File]::WriteAllText(${quote(report)},'{"errors":["fuel: simulated source error"],"fuel_coverage":{"status":"partial","available":1,"network_fuel_pairs":2,"gaps":[{"country":"EE","network":"Hepa","fuel":"95","reason":"stale","last_published":"2026-11-11"}]}}')`;
+ if(clean)writeReport=writeReport.replace('["fuel: simulated source error"]','[]');
  const publicationReport=path.join(root,'artifacts','publication-report.json');
  const writePublicationError=publish&&fail?`[IO.File]::WriteAllText(${quote(publicationReport)},'{"error":"Pages verification failed"}')`:'';
  const mock=publish?
@@ -26,6 +27,8 @@ for(const publish of [false,true])test(`final summary follows ${publish?'publica
  const result=await fixture(t,{publish});assert.equal(result.status,0,result.stderr);
  const summary=result.stdout.indexOf('=== UPDATE ERROR SUMMARY ===');
  assert(summary>result.stdout.indexOf(publish?'PUBLICATION FINISHED':'BUILD FINISHED'));
+ assert(result.stdout.indexOf('=== FINAL FUEL COVERAGE: partial (1/2) ===')>result.stdout.indexOf(publish?'PUBLICATION FINISHED':'BUILD FINISHED'));
+ assert(result.stdout.includes('EE / Hepa / 95: stale; last price: 2026-11-11'));
  assert(result.stdout.slice(summary).includes('fuel: simulated source error'));
 });
 test('test failure still repeats source and fatal errors at the end',{skip:!windows},async t=>{
@@ -42,4 +45,11 @@ test('early publication failure does not repeat a stale previous report',{skip:!
 test('plan mode does not report old collection errors',{skip:!windows},async t=>{
  const result=await fixture(t,{plan:true,stale:true});assert.equal(result.status,0,result.stderr);
  assert(!result.stdout.includes('UPDATE ERROR SUMMARY'));assert(!result.stdout.includes('STALE ERROR'));
+});
+
+
+test('partial coverage remains visible after successful publication without inventing an update error',{skip:!windows},async t=>{
+ const result=await fixture(t,{publish:true,clean:true});assert.equal(result.status,0,result.stderr);
+ assert(result.stdout.indexOf('=== FINAL FUEL COVERAGE: partial (1/2) ===')>result.stdout.indexOf('PUBLICATION FINISHED'));
+ assert(!result.stdout.includes('UPDATE ERROR SUMMARY'));
 });

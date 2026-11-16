@@ -204,6 +204,7 @@ export function parseStraujupite(html) {
       out.push({ country: 'LV', brand: 'Straujupīte', address, fuel, label, value: $(card).find('.sj-fprice').text(), day });
     });
   });
+  if (!out.some(r=>r.fuel==='95') || !out.some(r=>r.fuel==='diesel')) throw Error('Straujupīte price cards changed');
   return out;
 }
 
@@ -380,7 +381,7 @@ export async function run(output = 'artifacts/fuel-live', sourceList = Object.ke
     }
     if(mode==='prices'&&sourceList.includes('straujupite')){
       try{const fallback=await collectCommunityFallback(now);fallbackQuotes=fallback.quotes;statuses.set('energijascenas',{id:'energijascenas',status:'ok',last_success_at:now,...fallback.report});}
-      catch{statuses.set('energijascenas',{...statuses.get('energijascenas'),id:'energijascenas',status:'error',last_attempt_at:now,error:'Public community fallback temporarily unavailable'});}
+      catch{const message='Public community fallback temporarily unavailable';errors.push('energijascenas prices: '+message);statuses.set('energijascenas',{...statuses.get('energijascenas'),id:'energijascenas',status:'error',last_attempt_at:now,error:message});console.error('energijascenas: '+message);}
     }
     for(const station of stations){delete station.prices['98'];if(station.available_fuels)station.available_fuels=station.available_fuels.filter(f=>f!=='98');}
     // Recompute old values too: a failed source must not retain a 'recent' flag forever.

@@ -50,6 +50,16 @@ try {
                 try {
                     $finalReport = Get-Content $reportFile.FullName -Raw | ConvertFrom-Json
                     $summaryErrors += @($finalReport.errors)
+                    if ($finalReport.fuel_coverage) {
+                        $coverage = $finalReport.fuel_coverage
+                        Write-Host ''
+                        Write-Host "=== FINAL FUEL COVERAGE: $($coverage.status) ($($coverage.available)/$($coverage.network_fuel_pairs)) ==="
+                        foreach ($gap in $coverage.gaps) {
+                            $lastPrice = if ($gap.last_published) { $gap.last_published } else { 'not reported' }
+                            Write-Host "- $($gap.country) / $($gap.network) / $($gap.fuel): $($gap.reason); last price: $lastPrice"
+                        }
+                        Write-Host 'Details: artifacts/update-report.json'
+                    }
                 } catch { $summaryErrors += "Could not read update report: $($_.Exception.Message)" }
             }
         }

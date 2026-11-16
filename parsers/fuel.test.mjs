@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, readFile, rm } from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import { normalize, parseCircle, expandCirclePrices, parseVirsi, parseViada, parseLea, parseFuelest, geojson, run, addViadaCoordinates } from './fuel.mjs';
+import { normalize, parseCircle, expandCirclePrices, parseStraujupite, parseVirsi, parseViada, parseLea, parseFuelest, geojson, run, addViadaCoordinates } from './fuel.mjs';
 
 const now = '2026-11-05T07:00:00Z';
 const circle = `<p>Cenas spēkā no 04.11.2026.</p><table>
@@ -151,4 +151,19 @@ test('Circle K uniform collection loads a directory once, reuses cache, and pres
     const failed=await run(folder,['circle'],{setExitCode:false});
     assert.equal(failed.errors.length,1);assert.deepEqual(failed.data,second.data);
   } finally {globalThis.fetch=originalFetch;await rm(folder,{recursive:true,force:true});}
+});
+
+
+test('failed community reserve is an update error and does not silently report full collection success',async()=>{
+ const folder=await mkdtemp(path.join(os.tmpdir(),'fuel-reserve-error-')),originalFetch=globalThis.fetch;
+ const html='<p>Atjaunots: '+new Date().toISOString().slice(0,10).split('-').reverse().join('.')+'</p>'+['Benzīns 95','Dīzeļdegviela'].map(label=>`<div class="sj-fcard"><span class="sj-fname">${label}</span><span class="sj-fprice">1.9</span><span class="sj-faddr">A iela 1, Rīga</span></div>`).join('');
+ try{
+  globalThis.fetch=async url=>String(url).includes('straujupite.lv')?new Response(html):new Response('unavailable',{status:503});
+  const result=await run(folder,['straujupite'],{setExitCode:false});
+  assert.equal(result.sources.find(s=>s.id==='straujupite').status,'ok');
+  assert.equal(result.sources.find(s=>s.id==='energijascenas').status,'error');
+  assert.deepEqual(result.errors,['energijascenas prices: Public community fallback temporarily unavailable']);
+  assert.equal(result.data[0].prices['95'].value,1.9);
+  assert.throws(()=>parseStraujupite('<p>Atjaunots: 16.11.2026</p><p>Changed layout</p>'),/price cards changed/);
+ }finally{globalThis.fetch=originalFetch;await rm(folder,{recursive:true,force:true});}
 });
