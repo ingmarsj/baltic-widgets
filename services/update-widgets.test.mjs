@@ -14,7 +14,7 @@ async function fixture(t,{publish=false,fail=false,stale=false,plan=false,clean=
  const script=path.join(root,'scripts','update-widgets.ps1'),report=path.join(root,'artifacts','update-report.json');
  await copyFile(new URL('../scripts/update-widgets.ps1',import.meta.url),script);
  if(stale){await writeFile(report,JSON.stringify({errors:['STALE ERROR']}));await utimes(report,new Date('2000-01-01'),new Date('2000-01-01'));}
- let writeReport=`[IO.File]::WriteAllText(${quote(report)},'{"errors":["fuel: simulated source error"],"fuel_coverage":{"status":"partial","available":1,"network_fuel_pairs":2,"gaps":[{"country":"EE","network":"Hepa","fuel":"95","reason":"stale","last_published":"2026-11-11"}]}}')`;
+ let writeReport=`[IO.File]::WriteAllText(${quote(report)},'{"errors":["fuel: simulated source error"],"fuel_coverage":{"status":"partial","available":1,"network_fuel_pairs":2,"gaps":[{"country":"EE","network":"Anna Kütus","fuel":"95","reason":"stale","last_published":"2026-11-11"}]}}')`;
  if(clean)writeReport=writeReport.replace('["fuel: simulated source error"]','[]');
  const publicationReport=path.join(root,'artifacts','publication-report.json');
  const writePublicationError=publish&&fail?`[IO.File]::WriteAllText(${quote(publicationReport)},'{"error":"Pages verification failed"}')`:'';
@@ -28,7 +28,7 @@ for(const publish of [false,true])test(`final summary follows ${publish?'publica
  const summary=result.stdout.indexOf('=== UPDATE ERROR SUMMARY ===');
  assert(summary>result.stdout.indexOf(publish?'PUBLICATION FINISHED':'BUILD FINISHED'));
  assert(result.stdout.indexOf('=== FINAL FUEL COVERAGE: partial (1/2) ===')>result.stdout.indexOf(publish?'PUBLICATION FINISHED':'BUILD FINISHED'));
- assert(result.stdout.includes('EE / Hepa / 95: stale; last price: 2026-11-11'));
+ assert(result.stdout.includes('EE / Anna Kütus / 95: stale; last price: 2026-11-11'));
  assert(result.stdout.slice(summary).includes('fuel: simulated source error'));
 });
 test('test failure still repeats source and fatal errors at the end',{skip:!windows},async t=>{

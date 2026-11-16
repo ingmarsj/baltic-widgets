@@ -36,7 +36,7 @@ Dates describe the inspected snapshot and will change when new observations arri
 
 ## Changes and repeatable checks
 
-Reserve-fetch failures now enter collector errors and the final update error summary. A changed Straujupīte page cannot silently clear successful station prices by returning an empty result. Coverage distinguishes an unreported fuel from an expired quote, retains the newest original reserve evidence, reports its age and includes the source status. The final PowerShell output repeats the remaining gaps after build/publication.
+Reserve-fetch failures now enter collector errors and the final update error summary. A changed Straujupīte page cannot silently clear successful station prices by returning an empty result. Coverage distinguishes an unreported fuel from an expired quote, retains the newest original reserve evidence, reports its age and includes the source status. The final PowerShell output repeats the remaining gaps after build/publication and reads JSON explicitly as UTF-8, preserving Baltic characters under Windows PowerShell 5.1.
 
 Run `node scripts/diagnose-fuel-coverage.mjs` from the public repository to inspect the private SQLite fuel snapshot without network requests, collection, generation or publication. Set an absolute `DATA_DIR` if the database is elsewhere. It writes only `artifacts/fuel-coverage-report.json`; it opens SQLite read-only and does not access name-day content.
 

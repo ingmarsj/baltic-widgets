@@ -29,7 +29,7 @@ try {
     if ($Plan) { return }
 
     # Source failures retain cached data. They remain visible before publication.
-    $report = Get-Content 'artifacts/update-report.json' -Raw | ConvertFrom-Json
+    $report = Get-Content 'artifacts/update-report.json' -Encoding UTF8 -Raw | ConvertFrom-Json
     foreach ($sourceError in $report.errors) { Write-Warning $sourceError }
 
     & npm.cmd test
@@ -48,7 +48,7 @@ try {
             $reportFile = Get-Item 'artifacts/update-report.json'
             if ($reportFile.LastWriteTimeUtc -ge $runStartedUtc) {
                 try {
-                    $finalReport = Get-Content $reportFile.FullName -Raw | ConvertFrom-Json
+                    $finalReport = Get-Content $reportFile.FullName -Encoding UTF8 -Raw | ConvertFrom-Json
                     $summaryErrors += @($finalReport.errors)
                     if ($finalReport.fuel_coverage) {
                         $coverage = $finalReport.fuel_coverage
@@ -67,7 +67,7 @@ try {
             $publicationFile = Get-Item 'artifacts/publication-report.json'
             if ($publicationFile.LastWriteTimeUtc -ge $runStartedUtc) {
                 try {
-                    $publicationReport = Get-Content $publicationFile.FullName -Raw | ConvertFrom-Json
+                    $publicationReport = Get-Content $publicationFile.FullName -Encoding UTF8 -Raw | ConvertFrom-Json
                     if ($publicationReport.error) { $summaryErrors += "Publication: $($publicationReport.error)" }
                 } catch { $summaryErrors += "Could not read publication report: $($_.Exception.Message)" }
             }
