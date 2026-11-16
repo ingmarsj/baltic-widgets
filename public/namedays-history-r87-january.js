@@ -576,7 +576,7 @@ export const historiesJanuaryR87={
       ],
       "text": {
         "en": [
-          "Aune is a Finnish short form of Agnes. Edgar Rajandi records Aune ~ Auni as Finnish short forms of Agnes, and Julius Mägiste’s 1929 collection of Estonian-style personal names includes Aune from the Finnish almanac, equated with Agnes.",
+          "Aune is a Finnish short form of Agnes. Edgar Rajandi records Aune ~ Auni as Finnish short forms of Agnes, and Julius the 1929 collection of Estonian-style personal names includes Aune from the Finnish almanac, equated with Agnes.",
           "Mägiste’s collection, published in Tartu in 1929, is a dated record of Aune being listed and discussed for Estonian use; it does not identify the first Estonian bearer. Rajandi explains the base name Agnes through Greek “pure”."
         ],
         "lv": [
@@ -584,11 +584,11 @@ export const historiesJanuaryR87={
           "Mägistes krājums, izdots Tartu 1929. gadā, ir datēta liecība, ka Aune iekļauts sarakstā un apspriests lietošanai Igaunijā; tas nenosaka pirmo nēsātāju Igaunijā. Rajandi pamatvārdu Agnes skaidro ar grieķu «tīrs»."
         ],
         "ru": [
-          "Aune — финская краткая форма Agnes. Эдгар Райанди фиксирует Aune ~ Auni как финские краткие формы Agnes, а сборник эстонских по звучанию личных имён Юлиуса Мягисте 1929 года включает Aune из финского альманаха, приравнивая его к Agnes.",
+          "Aune — финская краткая форма Agnes. Эдгар Райанди фиксирует Aune ~ Auni как финские краткие формы Agnes, а сборник эстонских по звучанию личных имён Юлиуса 1929 года включает Aune из финского альманаха, приравнивая его к Agnes.",
           "Сборник Мягисте, изданный в Тарту в 1929 году, — датированное свидетельство того, что Aune вносили в списки и обсуждали для эстонского употребления; он не называет первую носительницу в Эстонии. Основное имя Agnes Райанди объясняет через греческое «чистый»."
         ],
         "lt": [
-          "Aune yra suomiškas Agnes trumpinys. Edgaras Rajandi Aune ~ Auni užrašo kaip suomiškus Agnes trumpinius, o Juliaus Mägiste 1929 metų estiškai skambančių asmenvardžių rinkinyje Aune įtrauktas iš suomių almanacho ir prilygintas Agnes.",
+          "Aune yra suomiškas Agnes trumpinys. Edgaras Rajandi Aune ~ Auni užrašo kaip suomiškus Agnes trumpinius, o Juliaus 1929 metų estiškai skambančių asmenvardžių rinkinyje Aune įtrauktas iš suomių almanacho ir prilygintas Agnes.",
           "Mägiste rinkinys, išleistas Tartu 1929 metais, yra datuotas liudijimas, kad Aune buvo įtrauktas į sąrašą ir svarstytas estiškam vartojimui; jis nenurodo pirmosios turėtojos Estijoje. Pamatinį vardą Agnes Rajandi aiškina per graikų „tyras“."
         ],
         "et": [

@@ -514,19 +514,19 @@ export const historiesJanuaryR91={
       "text": {
         "en": [
           "Paavel is an Estonian form of Paul (Latin Paulus, “small”). Edgar Rajandi refers Pavel ~ Paavel to Paul and names Paavel among the Estonian forms of the name, alongside Paavo and Paul; Russian Павел is its closest model.",
-          "Julius Mägiste’s 1929 list explains Paavel as equal to Paul(us) and cites older written forms such as Pawel in the sixteenth-century Polish survey of Livonia and Pauel in the Keila churchwardens’ account book of 1472–1553. These are historical spellings of the name family, not dated records of the modern spelling Paavel."
+          "Julius the 1929 list explains Paavel as equal to Paul(us) and cites older written forms such as Pawel in the sixteenth-century Polish survey of Livonia and Pauel in the Keila churchwardens’ account book of 1472–1553. These are historical spellings of the name family, not dated records of the modern spelling Paavel."
         ],
         "lv": [
           "Paavel ir Paul igauņu forma (latīņu Paulus «mazs»). Edgars Rajandi Pavel ~ Paavel attiecina uz Paul un min Paavel starp vārda igauņu formām līdzās Paavo un Paul; tuvākais paraugs ir krievu Павел.",
-          "Jūliusa Mēgistes 1929. gada sarakstā Paavel pielīdzināts Paul(us) un minētas senākas rakstības, piemēram, Pawel 16. gadsimta poļu Livonijas revīzijā un Pauel Keilas baznīcas pārziņu rēķinu grāmatā (1472–1553). Tās ir vārdu saimes vēsturiskas rakstības, nevis datētas mūsdienu rakstības Paavel ziņas."
+          "Jūliusa 1929. gada sarakstā Paavel pielīdzināts Paul(us) un minētas senākas rakstības, piemēram, Pawel 16. gadsimta poļu Livonijas revīzijā un Pauel Keilas baznīcas pārziņu rēķinu grāmatā (1472–1553). Tās ir vārdu saimes vēsturiskas rakstības, nevis datētas mūsdienu rakstības Paavel ziņas."
         ],
         "ru": [
           "Paavel — эстонская форма имени Paul (латинское Paulus «малый»). Эдгар Райанди относит Pavel ~ Paavel к Paul и называет Paavel среди эстонских форм имени наряду с Paavo и Paul; ближайший образец — русское Павел.",
-          "Список Юлиуса Мягисте 1929 года приравнивает Paavel к Paul(us) и приводит старые написания, например Pawel в польской ревизии Ливонии XVI века и Pauel в счётной книге церковных старост Кейлы 1472–1553 годов. Это исторические написания семьи имени, а не датированные записи современного написания Paavel."
+          "Список Юлиуса 1929 года приравнивает Paavel к Paul(us) и приводит старые написания, например Pawel в польской ревизии Ливонии XVI века и Pauel в счётной книге церковных старост Кейлы 1472–1553 годов. Это исторические написания семьи имени, а не датированные записи современного написания Paavel."
         ],
         "lt": [
           "Paavel – estiška Paul forma (lotynų Paulus „mažas“). Edgaras Rajandi Pavel ~ Paavel sieja su Paul ir Paavel mini tarp estiškų vardo formų greta Paavo ir Paul; artimiausias pavyzdys – rusų Павел.",
-          "Juliuso Mägiste 1929 metų sąraše Paavel prilyginamas Paul(us) ir nurodomos senesnės rašybos, pavyzdžiui, Pawel XVI amžiaus lenkų Livonijos revizijoje ir Pauel Keilos bažnyčios seniūnų sąskaitų knygoje (1472–1553). Tai vardų šeimos istorinės rašybos, o ne datuoti šiuolaikinės rašybos Paavel įrašai."
+          "Juliuso 1929 metų sąraše Paavel prilyginamas Paul(us) ir nurodomos senesnės rašybos, pavyzdžiui, Pawel XVI amžiaus lenkų Livonijos revizijoje ir Pauel Keilos bažnyčios seniūnų sąskaitų knygoje (1472–1553). Tai vardų šeimos istorinės rašybos, o ne datuoti šiuolaikinės rašybos Paavel įrašai."
         ],
         "et": [
           "Paavel on Pauli eesti vorm (ladina Paulus „väike”). Edgar Rajandi viitab Pavel ~ Paavel nimele Paul ja nimetab Paavlit nime eesti vormide seas Paavo ja Pauli kõrval; lähim eeskuju on vene Павел.",
@@ -569,19 +569,19 @@ export const historiesJanuaryR91={
       ],
       "text": {
         "en": [
-          "The origin of Paap is disputed. Julius Mägiste’s 1929 list compares it with Paul, and Edgar Rajandi reports the view, attributed to Mägiste, that Paap is a child-language reduplication of Paul. Rajandi himself considers another origin more probable: he groups the South Estonian names Paabo, Paabu and Paap with Fabian.",
+          "The origin of Paap is disputed. Julius the 1929 list compares it with Paul, and Edgar Rajandi reports the view, attributed to Mägiste, that Paap is a child-language reduplication of Paul. Rajandi himself considers another origin more probable: he groups the South Estonian names Paabo, Paabu and Paap with Fabian.",
           "Mägiste cites the form Pap from the sixteenth-century Polish survey of Livonia, and Wiedemann’s dictionary records Paabu and Paapu as women’s names. These are historical records of the form, not a resolution of which explanation applies to a given bearer."
         ],
         "lv": [
-          "Paap izcelsme ir apstrīdēta. Jūliusa Mēgistes 1929. gada sarakstā tas salīdzināts ar Paul, un Edgars Rajandi min Mēgistem piedēvēto uzskatu, ka Paap ir Paul bērnu valodas reduplikācija. Pats Rajandi par ticamāku uzskata citu izcelsmi: dienvidigauņu vārdus Paabo, Paabu un Paap viņš saista ar Fabian.",
+          "Paap izcelsme ir apstrīdēta. Jūliusa 1929. gada sarakstā tas salīdzināts ar Paul, un Edgars Rajandi min Mēgistem piedēvēto uzskatu, ka Paap ir Paul bērnu valodas reduplikācija. Pats Rajandi par ticamāku uzskata citu izcelsmi: dienvidigauņu vārdus Paabo, Paabu un Paap viņš saista ar Fabian.",
           "Mēgiste min formu Pap no 16. gadsimta poļu Livonijas revīzijas, bet Vīdemaņa vārdnīca Paabu un Paapu fiksē kā sieviešu vārdus. Tās ir formas vēsturiskas ziņas, nevis atbilde, kurš skaidrojums attiecas uz konkrētu nēsātāju."
         ],
         "ru": [
-          "Происхождение Paap спорно. Список Юлиуса Мягисте 1929 года сравнивает его с Paul, а Эдгар Райанди приводит приписываемое Мягисте мнение, что Paap — детская редупликация имени Paul. Сам Райанди считает более вероятным иное происхождение: южноэстонские имена Paabo, Paabu и Paap он связывает с Fabian.",
+          "Происхождение Paap спорно. Список Юлиуса 1929 года сравнивает его с Paul, а Эдгар Райанди приводит приписываемое Мягисте мнение, что Paap — детская редупликация имени Paul. Сам Райанди считает более вероятным иное происхождение: южноэстонские имена Paabo, Paabu и Paap он связывает с Fabian.",
           "Мягисте приводит форму Pap из польской ревизии Ливонии XVI века, а словарь Видемана фиксирует Paabu и Paapu как женские имена. Это исторические свидетельства формы, а не решение вопроса, какое объяснение относится к конкретному носителю."
         ],
         "lt": [
-          "Paap kilmė ginčytina. Juliuso Mägiste 1929 metų sąraše jis lyginamas su Paul, o Edgaras Rajandi nurodo Mägiste priskiriamą nuomonę, kad Paap yra vaikų kalbos Paul reduplikacija. Pats Rajandi tikėtinesne laiko kitą kilmę: pietų estų vardus Paabo, Paabu ir Paap jis sieja su Fabian.",
+          "Paap kilmė ginčytina. Juliuso 1929 metų sąraše jis lyginamas su Paul, o Edgaras Rajandi nurodo Mägiste priskiriamą nuomonę, kad Paap yra vaikų kalbos Paul reduplikacija. Pats Rajandi tikėtinesne laiko kitą kilmę: pietų estų vardus Paabo, Paabu ir Paap jis sieja su Fabian.",
           "Mägiste nurodo formą Pap iš XVI amžiaus lenkų Livonijos revizijos, o Wiedemanno žodynas Paabu ir Paapu fiksuoja kaip moterų vardus. Tai istoriniai formos paliudijimai, o ne atsakymas, kuris aiškinimas tinka konkrečiam turėtojui."
         ],
         "et": [

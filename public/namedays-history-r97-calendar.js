@@ -1445,7 +1445,7 @@ export const historiesCalendarR97={
       "text": {
         "en": [
           "Edgar Rajandi discusses Helve together with Helve and Helvi, allowing them to be understood as independent names associated with helves, a flake. His cross-references also show that the names cannot be reduced to one exclusive historical route.",
-          "Both spellings occur in Julius Mägiste’s 1929 naming book. Rajandi later describes a regional difference in 1963: Helve was preferred in northern Estonia and Helvi in southern Estonia. This is his historical observation, not a claim about present popularity."
+          "Both spellings occur in Julius the 1929 naming book. Rajandi later describes a regional difference in 1963: Helve was preferred in northern Estonia and Helvi in southern Estonia. This is his historical observation, not a claim about present popularity."
         ],
         "lv": [
           "Edgars Rajandi vārdu Helve aplūko kopā ar Helve un Helvi, pieļaujot tos uztvert kā patstāvīgus vārdus saistībā ar helves — pārsla. Viņa šķērssaites arī rāda, ka vārdiem nevar noteikt vienu vienīgu vēsturisko ceļu.",
@@ -1453,11 +1453,11 @@ export const historiesCalendarR97={
         ],
         "ru": [
           "Эдгар Раянди рассматривает Helve вместе с Helve и Helvi, допуская их понимание как самостоятельных имён в связи с helves — хлопьями, снежинкой. Его перекрёстные ссылки также показывают, что история имён не сводится к одному исключительному пути.",
-          "Оба написания присутствуют в книге имён Юлиуса Мягисте 1929 года. Позднее Раянди отмечает региональное различие в 1963 году: на севере Эстонии предпочитали Helve, на юге — Helvi. Это историческое наблюдение, а не сведения о нынешней популярности."
+          "Оба написания присутствуют в книге имён Юлиуса 1929 года. Позднее Раянди отмечает региональное различие в 1963 году: на севере Эстонии предпочитали Helve, на юге — Helvi. Это историческое наблюдение, а не сведения о нынешней популярности."
         ],
         "lt": [
           "Edgaras Rajandi Helve aptaria kartu su Helve ir Helvi, leisdamas juos suprasti kaip savarankiškus vardus, siejamus su helves — dribsniu. Jo nuorodos taip pat rodo, kad vardų istorijos negalima suvesti į vieną išskirtinį kelią.",
-          "Abi rašybos pateiktos Juliaus Mägiste 1929 metų vardų knygoje. Vėliau Rajandi aprašo regioninį skirtumą 1963 metais: šiaurės Estijoje teikta pirmenybė Helve, pietų Estijoje — Helvi. Tai istorinis stebėjimas, o ne dabartinio populiarumo duomenys."
+          "Abi rašybos pateiktos Juliaus 1929 metų vardų knygoje. Vėliau Rajandi aprašo regioninį skirtumą 1963 metais: šiaurės Estijoje teikta pirmenybė Helve, pietų Estijoje — Helvi. Tai istorinis stebėjimas, o ne dabartinio populiarumo duomenys."
         ],
         "et": [
           "Edgar Rajandi käsitleb nime Helve koos nimedega Helve ja Helvi, lubades neid mõista iseseisvate nimedena seoses sõnaga helves. Tema ristviited näitavad ka seda, et nimede ajalugu ei saa taandada üheleainsale päritoluteele.",
@@ -1473,7 +1473,7 @@ export const historiesCalendarR97={
       "text": {
         "en": [
           "Edgar Rajandi discusses Helvi together with Helve and Helvi, allowing them to be understood as independent names associated with helves, a flake. His cross-references also show that the names cannot be reduced to one exclusive historical route.",
-          "Both spellings occur in Julius Mägiste’s 1929 naming book. Rajandi later describes a regional difference in 1963: Helve was preferred in northern Estonia and Helvi in southern Estonia. This is his historical observation, not a claim about present popularity."
+          "Both spellings occur in Julius the 1929 naming book. Rajandi later describes a regional difference in 1963: Helve was preferred in northern Estonia and Helvi in southern Estonia. This is his historical observation, not a claim about present popularity."
         ],
         "lv": [
           "Edgars Rajandi vārdu Helvi aplūko kopā ar Helve un Helvi, pieļaujot tos uztvert kā patstāvīgus vārdus saistībā ar helves — pārsla. Viņa šķērssaites arī rāda, ka vārdiem nevar noteikt vienu vienīgu vēsturisko ceļu.",
@@ -1481,11 +1481,11 @@ export const historiesCalendarR97={
         ],
         "ru": [
           "Эдгар Раянди рассматривает Helvi вместе с Helve и Helvi, допуская их понимание как самостоятельных имён в связи с helves — хлопьями, снежинкой. Его перекрёстные ссылки также показывают, что история имён не сводится к одному исключительному пути.",
-          "Оба написания присутствуют в книге имён Юлиуса Мягисте 1929 года. Позднее Раянди отмечает региональное различие в 1963 году: на севере Эстонии предпочитали Helve, на юге — Helvi. Это историческое наблюдение, а не сведения о нынешней популярности."
+          "Оба написания присутствуют в книге имён Юлиуса 1929 года. Позднее Раянди отмечает региональное различие в 1963 году: на севере Эстонии предпочитали Helve, на юге — Helvi. Это историческое наблюдение, а не сведения о нынешней популярности."
         ],
         "lt": [
           "Edgaras Rajandi Helvi aptaria kartu su Helve ir Helvi, leisdamas juos suprasti kaip savarankiškus vardus, siejamus su helves — dribsniu. Jo nuorodos taip pat rodo, kad vardų istorijos negalima suvesti į vieną išskirtinį kelią.",
-          "Abi rašybos pateiktos Juliaus Mägiste 1929 metų vardų knygoje. Vėliau Rajandi aprašo regioninį skirtumą 1963 metais: šiaurės Estijoje teikta pirmenybė Helve, pietų Estijoje — Helvi. Tai istorinis stebėjimas, o ne dabartinio populiarumo duomenys."
+          "Abi rašybos pateiktos Juliaus 1929 metų vardų knygoje. Vėliau Rajandi aprašo regioninį skirtumą 1963 metais: šiaurės Estijoje teikta pirmenybė Helve, pietų Estijoje — Helvi. Tai istorinis stebėjimas, o ne dabartinio populiarumo duomenys."
         ],
         "et": [
           "Edgar Rajandi käsitleb nime Helvi koos nimedega Helve ja Helvi, lubades neid mõista iseseisvate nimedena seoses sõnaga helves. Tema ristviited näitavad ka seda, et nimede ajalugu ei saa taandada üheleainsale päritoluteele.",
@@ -1608,7 +1608,7 @@ export const historiesCalendarR97={
       ],
       "text": {
         "en": [
-          "Leila is present in Mägiste’s 1929 naming book with a Finnish-source label. This documents its place in Estonian naming literature without proving that every bearer received it through Finnish.",
+          "Leila is present in the 1929 naming book with a Finnish-source label. This documents its place in Estonian naming literature without proving that every bearer received it through Finnish.",
           "Rajandi links its literary use to Byron’s poem The Giaour, published in 1813. This is an international literary episode, not the date of the first Estonian Leila; the older root is not settled here by his historical language label."
         ],
         "lv": [
@@ -1616,11 +1616,11 @@ export const historiesCalendarR97={
           "Rajandi tā literāro lietojumu saista ar Bairona poēmu The Giaour, kas publicēta 1813. gadā. Tas ir starptautisks literatūras notikums, nevis pirmās Igaunijas Leila datums; senākā sakne šeit netiek noteikta pēc viņa vēsturiskās valodas norādes."
         ],
         "ru": [
-          "Leila присутствует в книге имён Мягисте 1929 года с пометой финского источника. Это свидетельствует о месте имени в эстонской литературе об именовании, не доказывая финский путь для каждой носительницы.",
+          "Leila присутствует в книге имён 1929 года с пометой финского источника. Это свидетельствует о месте имени в эстонской литературе об именовании, не доказывая финский путь для каждой носительницы.",
           "Раянди связывает его литературное употребление с поэмой Байрона The Giaour, вышедшей в 1813 году. Это международный литературный эпизод, а не дата первой эстонской Leila; древний корень здесь не устанавливается по его исторической языковой помете."
         ],
         "lt": [
-          "Leila pateikta Mägiste 1929 metų vardų knygoje su suomiško šaltinio žyma. Tai liudija jos vietą estų vardų literatūroje, neįrodant suomiško kelio kiekvienai vardo turėtojai.",
+          "Leila pateikta 1929 metų vardų knygoje su suomiško šaltinio žyma. Tai liudija jos vietą estų vardų literatūroje, neįrodant suomiško kelio kiekvienai vardo turėtojai.",
           "Rajandi jos literatūrinį vartojimą sieja su Byrono poema The Giaour, išleista 1813 metais. Tai tarptautinis literatūros įvykis, o ne pirmosios Estijos Leila data; senesnė šaknis čia nenustatoma pagal jo istorinę kalbos žymą."
         ],
         "et": [

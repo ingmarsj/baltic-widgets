@@ -1,0 +1,65 @@
+{
+  "round": 116,
+  "date": "2026-11-14",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "scope": "Famous people tab before further name-history work; no new reviewed histories.",
+  "user_confirmed": "Final fallback means famous people born on the selected calendar date.",
+  "selection": [
+    "Local exact-spelling namesakes",
+    "International exact-spelling namesakes",
+    "People born on the selected month/day, any name"
+  ],
+  "target": 5,
+  "writer_version": "namedays-1.9.74",
+  "sources": [
+    "PEOPLE-PANTHEON2025",
+    "PEOPLE-PANTHEON-DATASETS",
+    "PEOPLE-PANTHEON-LICENSE",
+    "PEOPLE-PANTHEON-METHODS",
+    "PEOPLE-WD-LABELS-000",
+    "PEOPLE-WD-LABELS-001",
+    "PEOPLE-WD-LABELS-002",
+    "PEOPLE-WD-LABELS-003",
+    "PEOPLE-WD-LABELS-004",
+    "PEOPLE-WD-LABELS-005",
+    "PEOPLE-WD-LABELS-006",
+    "PEOPLE-WD-LABELS-007",
+    "PEOPLE-WD-LABELS-008",
+    "PEOPLE-WD-LABELS-009"
+  ],
+  "outcome": "All 9368 calendar memberships show five distinct people; 366 birthday pools contain eight candidates each. All 8677 profile identities and structured name-history facts are preserved. Exact namesakes exist for 2268 profiles, including 466 with local associations; birthday fallback is explicitly distinguished from namesakes.",
+  "claim_limits": [
+    "Popularity scores and language counts are ranking proxies, not an objective fame judgment.",
+    "New local associations use birthplace within present-day borders; existing verified citizenship associations are retained separately by provenance.",
+    "Exact matches use real name labels; related forms are not eligible for the first two tiers. Labels alone do not prove a legal given name.",
+    "Birthday selection excludes incomplete dates, invalid dates, inconsistent years and years before 1000; it is not an exhaustive historical birthday register.",
+    "Localized labels remain incomplete; canonical names are used when a real translation is unavailable.",
+    "Filling five places does not mean finding five namesakes or verifying a name history."
+  ],
+  "failed_leads": [
+    {
+      "source": "Wikipedia on-this-day feeds",
+      "status": "stopped_http_429",
+      "cached_responses": 42,
+      "production_use": false,
+      "next_step": "Reuse saved responses if needed; no broad retry loop."
+    },
+    {
+      "source": "Wikidata birthday SPARQL",
+      "status": "timeouts_truncation_and_date_precision_limits",
+      "production_use": false,
+      "next_step": "Use the complete cached Pantheon date dataset; do not repeat failed broad queries."
+    },
+    {
+      "source": "Wikidata labels",
+      "status": "partial_stopped_http_429",
+      "supplemental_entities": 500,
+      "next_step": "Optional later targeted local-name and translation verification, reusing cached batches."
+    }
+  ],
+  "private_material": "Raw archives, normalized bulk discovery data and collection scripts stay under var outside github-public. Public output contains selected structured fields and license/provenance metadata.",
+  "license": "Pantheon-derived data: CC BY-SA 4.0; Datawheel and Yu et al. attribution in NAMEDAYS_PEOPLE.md and JSON metadata. Optional Wikidata labels: CC0.",
+  "validation": "133 unit tests, one dedicated source-cache test, static build and Russian browser checks passed; full production-data audit is round116-audit.json.",
+  "next_step": "Continue improving local exact-name coverage and translated labels; resume unfinished name-history verification under existing calendar-order rules when requested.",
+  "records": []
+}

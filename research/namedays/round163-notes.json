@@ -1,0 +1,969 @@
+{
+ "round": 163,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.133",
+ "scope": "User review of round 152–162 wording: East Slavic names, early Soviet abbreviation names, coined and literary names.",
+ "decisions": [
+  "Do not call a name Russian, Ukrainian or Belarusian; use East Slavic or Slavic for modern forms and Kyivan Rus for historical ones, with the ultimate origin added. Cognate lists and historical facts stay.",
+  "Early Soviet abbreviation names are written as riddles that hint at their source without naming it.",
+  "Coined and literary names show where they came from; Rigonda and Leho already did, and Leho gets a supplement on Lehola. The user's suggested link of Leho with leht (leaf) was not added because the records point to Lehola and Leonhard.",
+  "Ask the user with a full worked example before changing these wording rules again."
+ ],
+ "method": "namedays-plain-r163.js: sentence map W163 (merged into the round 140 map) and finalWording() for root and family histories that bypass the sentence map; namedays-hypotheses-r163.js overrides earlier hypotheses for Vilens, Kima, Revs and Rema; namedays-hypotheses-supplements-r163.js adds labelled supplements. A full scan of displayed EN and RU text (var/namedays-research/scan163.mjs, scanru163.mjs) found the remaining cases; what remains are cognate lists and historical facts.",
+ "other_fixes": [
+  "Russian “дистрицт” mistranslations of “district” in five research texts replaced with proper district names (Елгавский, Огрский, Добельский, Рижский район).",
+  "Ruslans: arslan is Turkic, not Arabic."
+ ],
+ "records": [
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Ivanna",
+   "spellings": [
+    "Ivanna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Radions",
+   "spellings": [
+    "Radions"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Jaroslava",
+   "spellings": [
+    "Jaroslava"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Stepanija",
+   "spellings": [
+    "Stepanija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Stepānija",
+   "spellings": [
+    "Stepānija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Solomija",
+   "spellings": [
+    "Solomija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Nazarijs",
+   "spellings": [
+    "Nazarijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Halina",
+   "spellings": [
+    "Halina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Halīna",
+   "spellings": [
+    "Halīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Olesja",
+   "spellings": [
+    "Olesja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Oļesja",
+   "spellings": [
+    "Oļesja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Borislavs",
+   "spellings": [
+    "Borislavs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Roksolana",
+   "spellings": [
+    "Roksolana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vitalina",
+   "spellings": [
+    "Vitalina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Mihailina",
+   "spellings": [
+    "Mihailina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Miroslava",
+   "spellings": [
+    "Miroslava"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Jefimija",
+   "spellings": [
+    "Jefimija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Jelizaveta",
+   "spellings": [
+    "Jelizaveta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Jekaterina",
+   "spellings": [
+    "Jekaterina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Oksana",
+   "spellings": [
+    "Oksana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Aksana",
+   "spellings": [
+    "Aksana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Alēna",
+   "spellings": [
+    "Alēna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Galina",
+   "spellings": [
+    "Galina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Gaļina",
+   "spellings": [
+    "Gaļina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Volga",
+   "spellings": [
+    "Volga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Elga",
+   "spellings": [
+    "Elga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Helga",
+   "spellings": [
+    "Helga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Helge",
+   "spellings": [
+    "Helge"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Helgi",
+   "spellings": [
+    "Helgi"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Oļegs",
+   "spellings": [
+    "Oļegs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic / Slavic / Kyivan Rus wording instead of a Russian, Ukrainian or Belarusian label; ultimate origin added where general onomastic knowledge gives it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lt",
+   "name": "Oksana",
+   "spellings": [
+    "Oksana"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "reworded",
+   "facts_used": "East Slavic form of Xenia.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Ruslans",
+   "spellings": [
+    "Ruslans"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "corrected",
+   "facts_used": "arslan is Turkic, not Arabic.",
+   "next_step": "None."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Ninele",
+   "spellings": [
+    "Ninele"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vilora",
+   "spellings": [
+    "Vilora"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Marlens",
+   "spellings": [
+    "Marlens"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vladilena",
+   "spellings": [
+    "Vladilena"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vladilens",
+   "spellings": [
+    "Vladilens"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vladlena",
+   "spellings": [
+    "Vladlena"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vladlēna",
+   "spellings": [
+    "Vladlēna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vladlens",
+   "spellings": [
+    "Vladlens"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [],
+   "sources": [],
+   "change": "riddle wording",
+   "facts_used": "Early Soviet abbreviation name described as a riddle that hints at its source without naming it.",
+   "next_step": "None; wording change only."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Vilens",
+   "spellings": [
+    "Vilens"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "hypothesis (riddle)",
+   "facts_used": "Abbreviation name of the 1920s (initials and surname beginning of a 1920s politician).",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Kima",
+   "spellings": [
+    "Kima"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "hypothesis (riddle)",
+   "facts_used": "Initial letters of an international youth organisation of the 1920s–1930s; replaces the round 144 hypothesis (short form of Kimberlija, Joahims) and hides the misleading relation line.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Revs",
+   "spellings": [
+    "Revs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "hypothesis (riddle)",
+   "facts_used": "Short name from the beginning of the word for revolution.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Rema",
+   "spellings": [
+    "Rema"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "hypothesis (riddle)",
+   "facts_used": "Often read as an abbreviation of revolution and the surnames of two 19th-century philosophers; uncertain.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Olesja",
+   "spellings": [
+    "Olesja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "supplement",
+   "facts_used": "Pet form of Alexandra (Greek alexein + anēr); independent name after the 1898 story Olesya.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Oļesja",
+   "spellings": [
+    "Oļesja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "supplement",
+   "facts_used": "Pet form of Alexandra (Greek alexein + anēr); independent name after the 1898 story Olesya.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Roksolana",
+   "spellings": [
+    "Roksolana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "supplement",
+   "facts_used": "Name of the Sarmatian Roxolani tribe; made famous by Roksolana (Hürrem), wife of Suleiman the Magnificent, from the lands of former Kyivan Rus.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Ruslana",
+   "spellings": [
+    "Ruslana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "supplement",
+   "facts_used": "Turkic arslan, “lion”; reached the Eastern Slavs through medieval heroic tales; known widely through a poem of 1820.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "lv",
+   "name": "Ruslands",
+   "spellings": [
+    "Ruslands"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "supplement",
+   "facts_used": "Turkic arslan, “lion”; reached the Eastern Slavs through medieval heroic tales; known widely through a poem of 1820.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  },
+  {
+   "batch": "wording-2026-11-16-r163",
+   "date": "2026-11-16",
+   "country": "ee",
+   "name": "Leho",
+   "spellings": [
+    "Leho"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "change": "supplement",
+   "facts_used": "Lehola: literary name of the Lõhavere hillfort, stronghold of Lembitu; called Leole in a 13th-century chronicle.",
+   "next_step": "Find a source that documents this origin for the calendar form."
+  }
+ ]
+}

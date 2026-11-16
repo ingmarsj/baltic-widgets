@@ -76,7 +76,7 @@ add(historiesEstonianR16,'Aarne',['https://en.wiktionary.org/wiki/Aarne#Estonian
 ],[
  'Megistes 1929. gada krājumā «Eestipäraseid isikunimesid» pie somu Aarno dots salīdzinājums ar Hēdemēstes Aarne. Tas ir konkrēts drukāts vietējās formas piemērs. Grāmatas izdošanas gads rāda šīs liecības publicēšanu, nevis vārda izdomāšanu vai pirmo bērnu ar šo vārdu.',
  'В сборнике Мягисте «Eestipäraseid isikunimesid» 1929 года при финском Aarno дано сравнение с Aarne из Хяэдемеэсте. Это конкретный печатный пример местной формы. Год выхода книги датирует публикацию свидетельства, а не создание имени или наречение первого ребёнка.',
- 'Mägiste’s 1929 collection Eestipäraseid isikunimesid compares Finnish Aarno with Aarne from Häädemeeste. This is a specific printed example of a local form. The book’s year dates publication of that evidence, not the name’s invention or the naming of its first child.',
- 'Mägiste 1929 metų rinkinyje „Eestipäraseid isikunimesid“ prie suomių Aarno pateiktas palyginimas su Häädemeeste Aarne. Tai konkretus spausdintas vietinės formos pavyzdys. Knygos metai datuoja liudijimo paskelbimą, o ne vardo sukūrimą ar pirmojo vaiko pavadinimą.',
+ 'the 1929 collection Eestipäraseid isikunimesid compares Finnish Aarno with Aarne from Häädemeeste. This is a specific printed example of a local form. The book’s year dates publication of that evidence, not the name’s invention or the naming of its first child.',
+ '1929 metų rinkinyje „Eestipäraseid isikunimesid“ prie suomių Aarno pateiktas palyginimas su Häädemeeste Aarne. Tai konkretus spausdintas vietinės formos pavyzdys. Knygos metai datuoja liudijimo paskelbimą, o ne vardo sukūrimą ar pirmojo vaiko pavadinimą.',
  'Mägiste 1929. aasta kogumikus Eestipäraseid isikunimesid võrreldakse soome Aarnot Häädemeeste Aarnega. See on kohaliku kuju konkreetne trükinäide. Raamatu ilmumisaasta dateerib tõendi avaldamist, mitte nime väljamõtlemist või esimese lapse nimetamist.'
 ]);

@@ -12,7 +12,7 @@ import {fileURLToPath} from 'node:url';
 
 const project=resolve(dirname(fileURLToPath(import.meta.url)),'..');
 const cache=resolve(project,'../var/namedays-sources');
-const ID=/^(?:[A-Z]{2,5})(?:-[A-Z0-9]+)+$/;
+const ID=/^(?:[A-Z]{2,8})(?:-[A-Z0-9]+)+$/;
 const strip=u=>u.split('#')[0].replace(/\/$/,'');
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'');}catch{return '';}};
 const plain=s=>s.replace(/\[([^\]]*)\]\([^)]*\)/g,'$1').replace(/\*\*|`/g,'').replace(/\s+/g,' ').trim();

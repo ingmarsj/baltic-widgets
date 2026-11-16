@@ -1,0 +1,63 @@
+{
+  "round": 116,
+  "date": "2026-11-14",
+  "writer_version": "namedays-1.9.74",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "with_exact_namesakes": 1401,
+      "with_local_exact": 176,
+      "with_five_exact": 497,
+      "calendar_memberships": 5557,
+      "five_people": 5557,
+      "using_birthday_fallback": 5068,
+      "displayed_tiers": {
+        "local": 271,
+        "international": 3772,
+        "birthday": 23742
+      },
+      "facts_preserved": 5556
+    },
+    "lt": {
+      "profiles": 1568,
+      "with_exact_namesakes": 302,
+      "with_local_exact": 130,
+      "with_five_exact": 90,
+      "calendar_memberships": 2253,
+      "five_people": 2253,
+      "using_birthday_fallback": 2058,
+      "displayed_tiers": {
+        "local": 497,
+        "international": 1181,
+        "birthday": 9587
+      },
+      "facts_preserved": 1568
+    },
+    "ee": {
+      "profiles": 1553,
+      "with_exact_namesakes": 565,
+      "with_local_exact": 160,
+      "with_five_exact": 289,
+      "calendar_memberships": 1558,
+      "five_people": 1558,
+      "using_birthday_fallback": 1267,
+      "displayed_tiers": {
+        "local": 249,
+        "international": 1719,
+        "birthday": 5822
+      },
+      "facts_preserved": 1553
+    }
+  },
+  "birthday_days": 366,
+  "birthday_candidates_per_day": 8,
+  "failures": [],
+  "validation": {
+    "unit_tests": 133,
+    "source_cache_tests": 1,
+    "static_build": "passed",
+    "browser": "Russian tab shows five people and updates birthday selection from 14 to 15 November; no source links displayed.",
+    "identity_and_facts": "All 8677 profile keys and structured name-history facts preserved against pre-feature snapshot.",
+    "ranking": "Local exact, international exact, birthday; duplicate IDs excluded; all birthday dates match selected civil date."
+  }
+}

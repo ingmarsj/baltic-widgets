@@ -220,7 +220,7 @@ export const historiesEstonianR59={
         "Мягисте помечает Leiger сокращением, которым он обозначает собственные предложения имён, поэтому список 1929 года фиксирует сознательное предложение, а не унаследованное имя. В декабре 2005 года газета Сууре-Яани «Leole» назвала Leiger среди декабрьских именинных имён и представила его как богатыря хийумаасцев. Ни одна из публикаций не доказывает, когда это имя впервые получил ребёнок."
       ],
       "en": [
-        "Leiger: Julius Mägiste’s 1929 book Eestipäraseid isikunimesid proposes Leiger as a male given name, comparing Wiedemann’s dictionary word leiger, ‘big strong man, giant’, and the Leiger of Estonian mythology. M. J. Eisen’s Tõll ja ta sugu only conditionally supposes that the giant’s name came from Swedish lekare, ‘player, musician’. The common word and the folklore figure are documented, but the ultimate source of the word is not settled.",
+        "Leiger: Julius the 1929 book Eestipäraseid isikunimesid proposes Leiger as a male given name, comparing Wiedemann’s dictionary word leiger, ‘big strong man, giant’, and the Leiger of Estonian mythology. M. J. Eisen’s Tõll ja ta sugu only conditionally supposes that the giant’s name came from Swedish lekare, ‘player, musician’. The common word and the folklore figure are documented, but the ultimate source of the word is not settled.",
         "Mägiste marks Leiger with his abbreviation for his own name proposals, so the 1929 list documents a deliberate proposal rather than an inherited given name. In December 2005 the Suure-Jaani newspaper Leole listed Leiger among December name-day names and called him a hero of the Hiiumaa people. Neither publication proves when a child first received the name."
       ],
       "lt": [
@@ -270,15 +270,15 @@ export const historiesEstonianR59={
     ],
     "text": {
       "lv": [
-        "Külvi: Jūliusa Mēgistes 1929. gada igauniskas cilmes vārdu sarakstā dots Küli ~ Külvi un salīdzināts ar igauņu külv «sēja» un külvama «sēt». 2005. gada decembrī Sūrjāni avīze «Leole» savukārt Külvi kopā ar Külli un Külliki atvasināja no somu Kyllikki. Abi skaidrojumi tiek saglabāti līdzās, nevis apvienoti.",
+        "Külvi: Jūliusa 1929. gada igauniskas cilmes vārdu sarakstā dots Küli ~ Külvi un salīdzināts ar igauņu külv «sēja» un külvama «sēt». 2005. gada decembrī Sūrjāni avīze «Leole» savukārt Külvi kopā ar Külli un Külliki atvasināja no somu Kyllikki. Abi skaidrojumi tiek saglabāti līdzās, nevis apvienoti.",
         "Mēgiste par Küli ~ Külvi avotu min J. P. Sēgeļa vārdu piezīmes; viņa avotu sarakstā Sēgeļa materiāls raksturots kā vārdu ziņas no Halistes un jaunvārdu saraksts no 1893.–1894. gada. Tādējādi 1929. gada publikācija fiksē formu datētā zinātniskā sarakstā, nevis pirmo meiteni, kas saņēma šo vārdu."
       ],
       "ru": [
-        "Külvi: В списке эстонских по характеру имён Юлиуса Мягисте 1929 года дано Küli ~ Külvi и приведено сравнение с эстонскими külv «посев» и külvama «сеять». В декабре 2005 года газета Сууре-Яани «Leole», напротив, выводила Külvi вместе с Külli и Külliki из финского Kyllikki. Оба объяснения сохраняются рядом, а не объединяются.",
+        "Külvi: В списке эстонских по характеру имён Юлиуса 1929 года дано Küli ~ Külvi и приведено сравнение с эстонскими külv «посев» и külvama «сеять». В декабре 2005 года газета Сууре-Яани «Leole», напротив, выводила Külvi вместе с Külli и Külliki из финского Kyllikki. Оба объяснения сохраняются рядом, а не объединяются.",
         "Источником для Küli ~ Külvi Мягисте называет заметки об именах Й. П. Сыггеля; в его списке источников материал Сыггеля описан как сведения об именах из Халлисте и список новых имён 1893–1894 годов. Таким образом, публикация 1929 года фиксирует форму в датированном научном списке, а не первую девочку с этим именем."
       ],
       "en": [
-        "Külvi: Julius Mägiste’s 1929 list of Estonian-style names gives Küli ~ Külvi and compares Estonian külv, ‘sowing’, and külvama, ‘to sow’. In December 2005 the Suure-Jaani newspaper Leole instead derived Külvi, together with Külli and Külliki, from Finnish Kyllikki. The two explanations are kept side by side rather than merged.",
+        "Külvi: Julius the 1929 list of Estonian-style names gives Küli ~ Külvi and compares Estonian külv, ‘sowing’, and külvama, ‘to sow’. In December 2005 the Suure-Jaani newspaper Leole instead derived Külvi, together with Külli and Külliki, from Finnish Kyllikki. The two explanations are kept side by side rather than merged.",
         "Mägiste cites J. P. Sõggel’s name notes as the source of Küli ~ Külvi; his list of sources describes Sõggel’s material as name notes from Halliste and a list of new names from 1893–1894. The 1929 publication therefore records the form in a dated scholarly list, not the first girl to receive the name."
       ],
       "lt": [
@@ -299,15 +299,15 @@ export const historiesEstonianR59={
     ],
     "text": {
       "lv": [
-        "Rait: Vikivārdnīcas igauņu šķirklis Rait atvasina vai nu no igauņu vārda rait «kolosāls milzis», vai uzskata par Raimonda variantu. Jūliusa Mēgistes 1929. gada igauņu personvārdu sarakstā Rait ir iekļauts un ar jautājuma zīmi salīdzināts ar Raik. Pieejamie avoti šos ceļus atstāj atvērtus, nevis izvēlas vienu.",
+        "Rait: Vikivārdnīcas igauņu šķirklis Rait atvasina vai nu no igauņu vārda rait «kolosāls milzis», vai uzskata par Raimonda variantu. Jūliusa 1929. gada igauņu personvārdu sarakstā Rait ir iekļauts un ar jautājuma zīmi salīdzināts ar Raik. Pieejamie avoti šos ceļus atstāj atvērtus, nevis izvēlas vienu.",
         "Mēgiste min vēsturisku ierakstu formā Rayth no 16. gadsimta poļu Livonijas apraksta, kas publicēts sērijā «Polska XVI wieku». Tas ir sens personvārda ieraksts, kas citēts 1929. gada zinātniskā sarakstā, nevis pierādījums, ka katrs mūsdienu Rait tieši turpina šo vārdu."
       ],
       "ru": [
-        "Rait: Эстонская статья Викисловаря выводит Rait либо из эстонского слова rait «колосс, великан», либо считает его вариантом имени Раймонд. В список эстонских личных имён Юлиуса Мягисте 1929 года входит Rait, который предположительно сопоставляется с Raik. Имеющиеся источники оставляют эти пути открытыми, не выбирая один.",
+        "Rait: Эстонская статья Викисловаря выводит Rait либо из эстонского слова rait «колосс, великан», либо считает его вариантом имени Раймонд. В список эстонских личных имён Юлиуса 1929 года входит Rait, который предположительно сопоставляется с Raik. Имеющиеся источники оставляют эти пути открытыми, не выбирая один.",
         "Мягисте приводит историческую запись в форме Rayth из польского описания Ливонии XVI века, изданного в серии «Польша XVI века». Это старая запись личного имени, процитированная в научном списке 1929 года, а не доказательство того, что каждый современный Rait прямо продолжает это имя."
       ],
       "en": [
-        "Rait: Wiktionary’s Estonian entry derives Rait either from the Estonian word rait, ‘colossus’, or as a variant of Raimond. Julius Mägiste’s 1929 list of Estonian personal names includes Rait and tentatively compares it with Raik. The available sources keep these routes open rather than choosing one.",
+        "Rait: Wiktionary’s Estonian entry derives Rait either from the Estonian word rait, ‘colossus’, or as a variant of Raimond. Julius the 1929 list of Estonian personal names includes Rait and tentatively compares it with Raik. The available sources keep these routes open rather than choosing one.",
         "Mägiste cites a historical record of the form Rayth from a sixteenth-century Polish survey of Livonia, published in the series Polska XVI wieku. This is an old personal-name record cited in a 1929 scholarly list, not proof that every modern Rait continues that name directly."
       ],
       "lt": [
@@ -328,15 +328,15 @@ export const historiesEstonianR59={
     ],
     "text": {
       "lv": [
-        "Raik: Jūliusa Mēgistes 1929. gada sarakstā Raik iekļauts starp igauņu personvārdiem un salīdzināts ar Raigas (somu Raikas) un, ar jautājuma zīmi, ar kāda auga nosaukumu. 2005. gada decembrī Sūrjāni avīze «Leole» savukārt Raik kopā ar Raigo un Reigo pasniedza kā Raivo variantu. Šie skaidrojumi paliek alternatīvi.",
+        "Raik: Jūliusa 1929. gada sarakstā Raik iekļauts starp igauņu personvārdiem un salīdzināts ar Raigas (somu Raikas) un, ar jautājuma zīmi, ar kāda auga nosaukumu. 2005. gada decembrī Sūrjāni avīze «Leole» savukārt Raik kopā ar Raigo un Reigo pasniedza kā Raivo variantu. Šie skaidrojumi paliek alternatīvi.",
         "Mēgiste min formas Raik un Rayk no 16. gadsimta poļu Livonijas apraksta un Henne Rayke no publicētiem izvilkumiem no Tallinas senākajiem ierakstiem (1365–1458). Šie ieraksti rāda tās pašas vai līdzīgu formu senu lietojumu, bet nepierāda nepārtrauktu saikni ar mūsdienu nesējiem."
       ],
       "ru": [
-        "Raik: В списке Юлиуса Мягисте 1929 года Raik включён в число эстонских личных имён, сопоставлен с Raigas (финское Raikas) и, со знаком вопроса, с названием растения. В декабре 2005 года газета Сууре-Яани «Leole», напротив, представила Raik вместе с Raigo и Reigo как вариант имени Raivo. Эти объяснения остаются альтернативными.",
+        "Raik: В списке Юлиуса 1929 года Raik включён в число эстонских личных имён, сопоставлен с Raigas (финское Raikas) и, со знаком вопроса, с названием растения. В декабре 2005 года газета Сууре-Яани «Leole», напротив, представила Raik вместе с Raigo и Reigo как вариант имени Raivo. Эти объяснения остаются альтернативными.",
         "Мягисте приводит формы Raik и Rayk из польского описания Ливонии XVI века, а также Henne Rayke из изданных выписок из древнейших таллинских записей (1365–1458). Эти записи показывают давнее употребление той же или сходных форм, но не доказывают непрерывной связи с современными носителями."
       ],
       "en": [
-        "Raik: Julius Mägiste’s 1929 list includes Raik among Estonian personal names, compares it with Raigas (Finnish Raikas) and, with a question mark, with a plant name. In December 2005 the Suure-Jaani newspaper Leole instead presented Raik, together with Raigo and Reigo, as a variant of Raivo. These explanations remain alternatives.",
+        "Raik: Julius the 1929 list includes Raik among Estonian personal names, compares it with Raigas (Finnish Raikas) and, with a question mark, with a plant name. In December 2005 the Suure-Jaani newspaper Leole instead presented Raik, together with Raigo and Reigo, as a variant of Raivo. These explanations remain alternatives.",
         "Mägiste cites the forms Raik and Rayk from a sixteenth-century Polish survey of Livonia, and Henne Rayke from published extracts of Tallinn’s earliest records (1365–1458). These records show old use of the same or similar forms; they do not prove an unbroken line to modern bearers."
       ],
       "lt": [

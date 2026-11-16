@@ -1,0 +1,482 @@
+{
+  "round": 122,
+  "date": "2026-11-15",
+  "writer_version": "namedays-1.9.100",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 992,
+      "local_profiles_after": 997,
+      "local_exact_links_added": 13,
+      "new_exact_person_profile_links": 21,
+      "with_exact_namesakes": 1735,
+      "with_five_local": 314,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": [
+        {
+          "name": "Betija",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q138963551",
+              "name": "Betija Zvejniece"
+            }
+          ]
+        },
+        {
+          "name": "Vilfrīds",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q2571269",
+              "name": "Vilfrīds Lange"
+            },
+            {
+              "id": "Q2060620",
+              "name": "Vilfrīds Štriks-Štrikfelds"
+            }
+          ]
+        },
+        {
+          "name": "Trīne",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q64481772",
+              "name": "Trīne Birģele"
+            }
+          ]
+        },
+        {
+          "name": "Ketija",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q25393466",
+              "name": "Ketija Birzule"
+            },
+            {
+              "id": "Q130246033",
+              "name": "Ketija Vihmane"
+            }
+          ]
+        },
+        {
+          "name": "Konrāds",
+          "before": 3,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q112537",
+              "name": "Konrāds Kalējs"
+            },
+            {
+              "id": "Q6429766",
+              "name": "Konrāds Ubāns"
+            },
+            {
+              "id": "Q130246106",
+              "name": "Konrāds Dekerts"
+            }
+          ]
+        },
+        {
+          "name": "Ignats",
+          "before": 2,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q10986658",
+              "name": "Ignats Asans"
+            },
+            {
+              "id": "Q138963742",
+              "name": "Ignats Čeksters"
+            },
+            {
+              "id": "Q22286688",
+              "name": "Ignats Gigels"
+            }
+          ]
+        },
+        {
+          "name": "Ako",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q2077595",
+              "name": "Ako"
+            }
+          ]
+        },
+        {
+          "name": "Vsevolods",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q2082714",
+              "name": "Vsevolods Zeļonijs"
+            },
+            {
+              "id": "Q141370227",
+              "name": "Vsevolods Mitrēvičs"
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 612,
+      "local_profiles_after": 617,
+      "local_exact_links_added": 27,
+      "new_exact_person_profile_links": 27,
+      "with_exact_namesakes": 674,
+      "with_five_local": 304,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": [
+        {
+          "name": "Adas",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q3605068",
+              "name": "Adas Juškevičius"
+            },
+            {
+              "id": "Q133455803",
+              "name": "Adas Dambrauskas"
+            },
+            {
+              "id": "Q9140719",
+              "name": "Adas Jakubauskas"
+            }
+          ]
+        },
+        {
+          "name": "Liucijus",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12663726",
+              "name": "Liucijus Albertas Dringelis"
+            },
+            {
+              "id": "Q16459257",
+              "name": "Liucijus Suslavičius"
+            }
+          ]
+        },
+        {
+          "name": "Grigalius",
+          "before": 0,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q3919010",
+              "name": "Grigalius Astikas"
+            },
+            {
+              "id": "Q2992076",
+              "name": "Grigalius Chodkevičius"
+            },
+            {
+              "id": "Q3917244",
+              "name": "Grigalius Valavičius"
+            }
+          ]
+        },
+        {
+          "name": "Matilda",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q28098651",
+              "name": "Matilda Giunter-Buczynska"
+            },
+            {
+              "id": "Q16464124",
+              "name": "Matilda Miglė Nainienė"
+            }
+          ]
+        },
+        {
+          "name": "Aistis",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q16442832",
+              "name": "Aistis Mickevičius"
+            },
+            {
+              "id": "Q134436257",
+              "name": "Aistis Vitkauskas"
+            }
+          ]
+        },
+        {
+          "name": "Eligijus",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q30113018",
+              "name": "Eligijus Jankauskas"
+            },
+            {
+              "id": "Q371858",
+              "name": "Eligijus Masiulis"
+            },
+            {
+              "id": "Q25498158",
+              "name": "Eligijus Butkus"
+            }
+          ]
+        },
+        {
+          "name": "Ambraziejus",
+          "before": 2,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q65261549",
+              "name": "Ambraziejus Jakavonis"
+            },
+            {
+              "id": "Q12648234",
+              "name": "Ambraziejus Jankus"
+            },
+            {
+              "id": "Q12648242",
+              "name": "Ambraziejus Jonynas"
+            }
+          ]
+        },
+        {
+          "name": "Jekaterina",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q60627846",
+              "name": "Jekaterina Rojaka"
+            },
+            {
+              "id": "Q65260766",
+              "name": "Jekaterina Fiodorova"
+            },
+            {
+              "id": "Q4224858",
+              "name": "Jekaterina Kniažeckaja"
+            }
+          ]
+        }
+      ]
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 992,
+      "local_profiles_after": 995,
+      "local_exact_links_added": 34,
+      "new_exact_person_profile_links": 35,
+      "with_exact_namesakes": 1083,
+      "with_five_local": 504,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": [
+        {
+          "name": "Heinar",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q15619262",
+              "name": "Heinar Jahu"
+            },
+            {
+              "id": "Q20528292",
+              "name": "Heinar Aau"
+            },
+            {
+              "id": "Q12363569",
+              "name": "Heinar Sakkos"
+            }
+          ]
+        },
+        {
+          "name": "Ilo",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q12364431",
+              "name": "Ilo Sibul"
+            },
+            {
+              "id": "Q12364429",
+              "name": "Ilo Aasa"
+            },
+            {
+              "id": "Q12364430",
+              "name": "Ilo Käbin"
+            }
+          ]
+        },
+        {
+          "name": "Helmar",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q16407492",
+              "name": "Helmar Tõnurist"
+            },
+            {
+              "id": "Q61111643",
+              "name": "Helmar Valper"
+            }
+          ]
+        },
+        {
+          "name": "Helmer",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q12363761",
+              "name": "Helmer Jõgi"
+            },
+            {
+              "id": "Q20742239",
+              "name": "Helmer Avasalu"
+            },
+            {
+              "id": "Q97285988",
+              "name": "Helmer Hallik"
+            }
+          ]
+        },
+        {
+          "name": "Sille",
+          "before": 4,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q9336913",
+              "name": "Sille Vaiksaar"
+            },
+            {
+              "id": "Q29419876",
+              "name": "Sille Kapper-Tiisler"
+            },
+            {
+              "id": "Q97221787",
+              "name": "Sille Pihlak"
+            }
+          ]
+        },
+        {
+          "name": "Leemet",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12368409",
+              "name": "Leemet Onno"
+            },
+            {
+              "id": "Q106817944",
+              "name": "Leemet Böckler"
+            }
+          ]
+        },
+        {
+          "name": "Katri",
+          "before": 3,
+          "after": 6,
+          "people": [
+            {
+              "id": "Q16405510",
+              "name": "Katri Raik"
+            },
+            {
+              "id": "Q106764066",
+              "name": "Katri Horma"
+            },
+            {
+              "id": "Q12366611",
+              "name": "Katri Aaslav-Tepandi"
+            }
+          ]
+        },
+        {
+          "name": "Kaarin",
+          "before": 1,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q12365927",
+              "name": "Kaarin Riives-Kaagjärv"
+            },
+            {
+              "id": "Q61110791",
+              "name": "Kaarin Kivirähk"
+            },
+            {
+              "id": "Q16405407",
+              "name": "Kaarin Raid"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "reused_lithuanian_citizenship_rows": 5263,
+    "reused_estonian_citizenship_rows": 9035,
+    "new_birthplace_rows": {
+      "lv": 4389,
+      "lt": 5850,
+      "ee": 7594
+    },
+    "eligible_birthplace_rows": {
+      "lv": 1132,
+      "lt": 783,
+      "ee": 963
+    },
+    "local_query": "P31 human, birthplace P19 / country P17, native label, at least two Wikipedia sitelinks; LIMIT 20000 not reached. Select native first names with fewer than five local exact bearers in the pre-round snapshot."
+  },
+  "validation": {
+    "unit_tests": 144,
+    "static_build": "passed",
+    "browser": "Passed in the page module context (widget shows only yesterday to tomorrow): Eba shows the new reviewed history without a hypothesis label, Varje shows the Rajandi history, Ako shows the Livonian elder Ako, Grigalius shows Astikas, Chodkevičius and Valavičius, Raigo has ten local namesakes.",
+    "history_facts": "Person facts unchanged in all 8677 profiles; reviewed histories added through the round 122 history module",
+    "display": "All 9368 memberships preserve every previously displayed person and show five distinct birthday people below exact namesakes."
+  }
+}

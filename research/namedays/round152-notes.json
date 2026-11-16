@@ -1,0 +1,3834 @@
+{
+ "round": 152,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.129",
+ "scope": "Labelled origin supplements for February calendar names whose reviewed history gives no origin.",
+ "method": "thin151.mjs 02-01 02-29 listed reviewed February histories without origin wording; r152-data.mjs + build-r152.mjs (round 151 pattern, new O12 bases) wrote public/namedays-hypotheses-supplements-r152.js, merged by public/namedays-hypotheses-supplements.js. Skipped: names whose reviewed history already links a word (Laima, Daris, Dedze, Malda, Teri, Helve, Mehis and similar), literary coinages without etymology (Rigonda, Leho) and names with no secure base (Aldonija, Raja, Veronija, Gendrė, Goda, Ülla group, Selmar, Helbe). Wording follows the 16 November rules (no sources, no Russian attribution).",
+ "counts": {
+  "lv": 91,
+  "lt": 64,
+  "ee": 36
+ },
+ "records": [
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "lv",
+   "name": "Birgita",
+   "spellings": [
+    "Birgita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Brigita is usually explained from Celtic Brigid, “the exalted one”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "lv",
+   "name": "Brita",
+   "spellings": [
+    "Brita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Brigita is usually explained from Celtic Brigid, “the exalted one”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "lv",
+   "name": "Vida",
+   "spellings": [
+    "Vida"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dāvids is usually explained from Hebrew Dāwīḏ, “beloved”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-05",
+   "country": "lv",
+   "name": "Agafija",
+   "spellings": [
+    "Agafija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agata is usually explained from Greek agathos, “good”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-05",
+   "country": "lv",
+   "name": "Silja",
+   "spellings": [
+    "Silja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Cecīlija is usually explained from Latin Caecilius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Dārta",
+   "spellings": [
+    "Dārta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Dora",
+   "spellings": [
+    "Dora"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Dore",
+   "spellings": [
+    "Dore"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Dorta",
+   "spellings": [
+    "Dorta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Dorte",
+   "spellings": [
+    "Dorte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Dadzis",
+   "spellings": [
+    "Dadzis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dagmāra is usually explained from Old Norse dagr + mær, “day + famous”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Darija",
+   "spellings": [
+    "Darija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dārijs is usually explained from Persian Dārayavauš, “he who holds the good”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Dārija",
+   "spellings": [
+    "Dārija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dārijs is usually explained from Persian Dārayavauš, “he who holds the good”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lv",
+   "name": "Darina",
+   "spellings": [
+    "Darina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dārijs is usually explained from Persian Dārayavauš, “he who holds the good”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "lv",
+   "name": "Rišards",
+   "spellings": [
+    "Rišards"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "lv",
+   "name": "Dikijs",
+   "spellings": [
+    "Dikijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "lv",
+   "name": "Diks",
+   "spellings": [
+    "Diks"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "lv",
+   "name": "Rikarda",
+   "spellings": [
+    "Rikarda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "lv",
+   "name": "Rikardo",
+   "spellings": [
+    "Rikardo"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-08",
+   "country": "lv",
+   "name": "Česlava",
+   "spellings": [
+    "Česlava"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Česlavs is usually explained from Slavic čьstь + slava, “honour + glory”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-08",
+   "country": "lv",
+   "name": "Danko",
+   "spellings": [
+    "Danko"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Bogdana is usually explained from Slavic Bogъ + danъ, “God + given”. Daniels is usually explained from Hebrew Dāniyyēl, “God is my judge”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-09",
+   "country": "lv",
+   "name": "Apolonija",
+   "spellings": [
+    "Apolonija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Apolinārijs is usually explained from Latin Apollinaris, “belonging to Apollo”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-09",
+   "country": "lv",
+   "name": "Apolinarija",
+   "spellings": [
+    "Apolinarija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Apolinārijs is usually explained from Latin Apollinaris, “belonging to Apollo”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-09",
+   "country": "lv",
+   "name": "Apolinārija",
+   "spellings": [
+    "Apolinārija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Apolinārijs is usually explained from Latin Apollinaris, “belonging to Apollo”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-09",
+   "country": "lv",
+   "name": "Simoneta",
+   "spellings": [
+    "Simoneta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Simons is usually explained from Hebrew šāma, “to hear”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "lv",
+   "name": "Paulīne",
+   "spellings": [
+    "Paulīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Pauls is usually explained from Latin paulus, “small”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-11",
+   "country": "lv",
+   "name": "Laimiņa",
+   "spellings": [
+    "Laimiņa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Laimiņa may be formed from the Latvian word laime, “happiness, good fortune”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-11",
+   "country": "lv",
+   "name": "Laimīte",
+   "spellings": [
+    "Laimīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Laimīte may be formed from the Latvian word laime, “happiness, good fortune”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-11",
+   "country": "lv",
+   "name": "Laimute",
+   "spellings": [
+    "Laimute"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Laimute may be formed from the Latvian word laime, “happiness, good fortune”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lv",
+   "name": "Karlīna",
+   "spellings": [
+    "Karlīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kārlis is usually explained from Germanic karl, “free man”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lv",
+   "name": "Karla",
+   "spellings": [
+    "Karla"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kārlis is usually explained from Germanic karl, “free man”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lv",
+   "name": "Kārla",
+   "spellings": [
+    "Kārla"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kārlis is usually explained from Germanic karl, “free man”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lv",
+   "name": "Karlīne",
+   "spellings": [
+    "Karlīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kārlis is usually explained from Germanic karl, “free man”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lv",
+   "name": "Karola",
+   "spellings": [
+    "Karola"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kārlis is usually explained from Germanic karl, “free man”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lv",
+   "name": "Karolīne",
+   "spellings": [
+    "Karolīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kārlis is usually explained from Germanic karl, “free man”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-13",
+   "country": "lv",
+   "name": "Jordans",
+   "spellings": [
+    "Jordans"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jordāna is usually explained from Hebrew yarden, “the one flowing down”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-14",
+   "country": "lv",
+   "name": "Valents",
+   "spellings": [
+    "Valents"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Valentīns is usually explained from Latin valens, “strong, healthy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-14",
+   "country": "lv",
+   "name": "Valtīns",
+   "spellings": [
+    "Valtīns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Valentīns is usually explained from Latin valens, “strong, healthy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-15",
+   "country": "lv",
+   "name": "Olavs",
+   "spellings": [
+    "Olavs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Olafs is usually explained from Old Norse anu + leifr, “ancestor + heir”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-15",
+   "country": "lv",
+   "name": "Olavi",
+   "spellings": [
+    "Olavi"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Olafs is usually explained from Old Norse anu + leifr, “ancestor + heir”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-15",
+   "country": "lv",
+   "name": "Aloizija",
+   "spellings": [
+    "Aloizija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aloizs is usually taken as a Latinised form of a Germanic name (Alwis, Ludwig).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-15",
+   "country": "lv",
+   "name": "Aloizijs",
+   "spellings": [
+    "Aloizijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aloizs is usually taken as a Latinised form of a Germanic name (Alwis, Ludwig).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-15",
+   "country": "lv",
+   "name": "Aloīzijs",
+   "spellings": [
+    "Aloīzijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aloizs is usually taken as a Latinised form of a Germanic name (Alwis, Ludwig).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lv",
+   "name": "Džuljeta",
+   "spellings": [
+    "Džuljeta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lv",
+   "name": "Džulija",
+   "spellings": [
+    "Džulija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lv",
+   "name": "Džūlija",
+   "spellings": [
+    "Džūlija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lv",
+   "name": "Jūla",
+   "spellings": [
+    "Jūla"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lv",
+   "name": "Jūle",
+   "spellings": [
+    "Jūle"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lv",
+   "name": "Julita",
+   "spellings": [
+    "Julita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-17",
+   "country": "lv",
+   "name": "Donalds",
+   "spellings": [
+    "Donalds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Donalds is usually explained from Celtic Domhnall, “world ruler”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-17",
+   "country": "lv",
+   "name": "Konstancija",
+   "spellings": [
+    "Konstancija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Konstantija is usually explained from Latin constantia, “constancy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-17",
+   "country": "lv",
+   "name": "Konstantīna",
+   "spellings": [
+    "Konstantīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Konstantīns is usually explained from Latin constans, “steadfast, constant”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-17",
+   "country": "lv",
+   "name": "Konstantīne",
+   "spellings": [
+    "Konstantīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Konstantīns is usually explained from Latin constans, “steadfast, constant”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-18",
+   "country": "lv",
+   "name": "Kora",
+   "spellings": [
+    "Kora"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kora is usually explained from Greek korē, “girl, maiden”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lv",
+   "name": "Jefrosinija",
+   "spellings": [
+    "Jefrosinija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eufrosīne is usually explained from Greek euphrosynē, “joy, mirth”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lv",
+   "name": "Jefrosīnija",
+   "spellings": [
+    "Jefrosīnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eufrosīne is usually explained from Greek euphrosynē, “joy, mirth”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lv",
+   "name": "Sjuzanna",
+   "spellings": [
+    "Sjuzanna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Susanna is usually explained from Hebrew šōšannā, “lily”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lv",
+   "name": "Zanita",
+   "spellings": [
+    "Zanita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Susanna is usually explained from Hebrew šōšannā, “lily”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lv",
+   "name": "Zuze",
+   "spellings": [
+    "Zuze"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Susanna is usually explained from Hebrew šōšannā, “lily”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "lv",
+   "name": "Egdijs",
+   "spellings": [
+    "Egdijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Egidijs is usually explained from Greek aigis, “goatskin shield”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "lv",
+   "name": "Egerts",
+   "spellings": [
+    "Egerts"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ekharts is usually explained from Germanic agi + hart, “blade edge + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "lv",
+   "name": "Smuidrīte",
+   "spellings": [
+    "Smuidrīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Smuidrīte may be formed from the Latvian word smuidrs, “slender”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-21",
+   "country": "lv",
+   "name": "Arilds",
+   "spellings": [
+    "Arilds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Arnolds is usually explained from Germanic arn + walt, “eagle + rule”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-21",
+   "country": "lv",
+   "name": "Elenora",
+   "spellings": [
+    "Elenora"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "The origin of Eleonora is debated.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-21",
+   "country": "lv",
+   "name": "Elionora",
+   "spellings": [
+    "Elionora"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "The origin of Eleonora is debated.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "lv",
+   "name": "Adriāna",
+   "spellings": [
+    "Adriāna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adriāns is usually explained from Latin Hadrianus, “from the town of Hadria”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "lv",
+   "name": "Adrija",
+   "spellings": [
+    "Adrija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adriāns is usually explained from Latin Hadrianus, “from the town of Hadria”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "lv",
+   "name": "Adriana",
+   "spellings": [
+    "Adriana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adriāns is usually explained from Latin Hadrianus, “from the town of Hadria”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "lv",
+   "name": "Adris",
+   "spellings": [
+    "Adris"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adriāns is usually explained from Latin Hadrianus, “from the town of Hadria”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Andriana",
+   "spellings": [
+    "Andriana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adriāns is usually explained from Latin Hadrianus, “from the town of Hadria”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "lv",
+   "name": "Ariana",
+   "spellings": [
+    "Ariana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Arijana and Arjana are usually linked with Greek Ariadne, the daughter of Minos who helped Theseus out of the labyrinth.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "lv",
+   "name": "Ariāna",
+   "spellings": [
+    "Ariāna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Arijana and Arjana are usually linked with Greek Ariadne, the daughter of Minos who helped Theseus out of the labyrinth.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-23",
+   "country": "lv",
+   "name": "Aralds",
+   "spellings": [
+    "Aralds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Haralds is usually explained from Old Norse herr + valdr, “army + ruler”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-23",
+   "country": "lv",
+   "name": "Harolds",
+   "spellings": [
+    "Harolds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Haralds is usually explained from Old Norse herr + valdr, “army + ruler”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-24",
+   "country": "lv",
+   "name": "Dianna",
+   "spellings": [
+    "Dianna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Diāna is usually explained from Latin Diana, “the Roman goddess of the hunt”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lv",
+   "name": "Aurēlija",
+   "spellings": [
+    "Aurēlija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aurēlijs is usually explained from Latin aureus, “golden”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lv",
+   "name": "Aurelija",
+   "spellings": [
+    "Aurelija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aurēlijs is usually explained from Latin aureus, “golden”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lv",
+   "name": "Elvina",
+   "spellings": [
+    "Elvina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alvīns is usually explained from Germanic adal/alb + wini, “noble or elf + friend”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lv",
+   "name": "Elvīna",
+   "spellings": [
+    "Elvīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alvīns is usually explained from Germanic adal/alb + wini, “noble or elf + friend”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lv",
+   "name": "Elvins",
+   "spellings": [
+    "Elvins"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alvīns is usually explained from Germanic adal/alb + wini, “noble or elf + friend”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lv",
+   "name": "Elvīns",
+   "spellings": [
+    "Elvīns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Alvīns is usually explained from Germanic adal/alb + wini, “noble or elf + friend”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Līvija",
+   "spellings": [
+    "Līvija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Līvija is usually explained from Latin Livius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Līva",
+   "spellings": [
+    "Līva"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Līvija is usually explained from Latin Livius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Liva",
+   "spellings": [
+    "Liva"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Līvija is usually explained from Latin Livius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Liveta",
+   "spellings": [
+    "Liveta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Līvija is usually explained from Latin Livius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Livija",
+   "spellings": [
+    "Livija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Līvija is usually explained from Latin Livius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Andre",
+   "spellings": [
+    "Andre"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Andrejs is usually explained from Greek andreios, “manly, brave”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lv",
+   "name": "Andrija",
+   "spellings": [
+    "Andrija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Andrejs is usually explained from Greek andreios, “manly, brave”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-28",
+   "country": "lv",
+   "name": "Skaidrīte",
+   "spellings": [
+    "Skaidrīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Skaidrīte may be formed from the Latvian word skaidrs, “clear, pure”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-28",
+   "country": "lv",
+   "name": "Justins",
+   "spellings": [
+    "Justins"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Justīns is usually explained from Latin iustus, “just”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-28",
+   "country": "lv",
+   "name": "Justīns",
+   "spellings": [
+    "Justīns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Justīns is usually explained from Latin iustus, “just”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-11",
+   "country": "lt",
+   "name": "Adolfas",
+   "spellings": [
+    "Adolfas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ādolfs is usually explained from Germanic adal + wolf, “noble + wolf”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-05",
+   "country": "lt",
+   "name": "Agota",
+   "spellings": [
+    "Agota"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agata is usually explained from Greek agathos, “good”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-08",
+   "country": "lt",
+   "name": "Jeronimas",
+   "spellings": [
+    "Jeronimas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hieronīms is usually explained from Greek hieros + onoma, “holy + name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-08",
+   "country": "lt",
+   "name": "Saliamonas",
+   "spellings": [
+    "Saliamonas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Salamans is usually explained from Hebrew šālōm, “peace”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-08",
+   "country": "lt",
+   "name": "Salys",
+   "spellings": [
+    "Salys"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Salamans is usually explained from Hebrew šālōm, “peace”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lt",
+   "name": "Izabelė",
+   "spellings": [
+    "Izabelė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Isabella is the Spanish and Portuguese form of Elizabeth.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "lt",
+   "name": "Jogintas",
+   "spellings": [
+    "Jogintas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jogintas is built like a Baltic two-stem name with the stems Jo- and -gint- (compare Jogaila, Gintautas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-17",
+   "country": "lt",
+   "name": "Aleksas",
+   "spellings": [
+    "Aleksas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aleksandrs is usually explained from Greek alexein + anēr, “to defend + man”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-17",
+   "country": "lt",
+   "name": "Viltė",
+   "spellings": [
+    "Viltė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Viltė may be linked with Lithuanian viltis, “hope”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-13",
+   "country": "lt",
+   "name": "Benignas",
+   "spellings": [
+    "Benignas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Benignas is usually explained from Latin benignus, “kind, benevolent”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-09",
+   "country": "lt",
+   "name": "Apolonija",
+   "spellings": [
+    "Apolonija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Apolinārijs is usually explained from Latin Apollinaris, “belonging to Apollo”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-09",
+   "country": "lt",
+   "name": "Polė",
+   "spellings": [
+    "Polė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Apolinārijs is usually explained from Latin Apollinaris, “belonging to Apollo”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "lt",
+   "name": "Darata",
+   "spellings": [
+    "Darata"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-04",
+   "country": "lt",
+   "name": "Arvilė",
+   "spellings": [
+    "Arvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Arvilė is built like a Baltic two-stem name with the stems Ar- and -vil- (compare Arvydas, Ginvilas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-04",
+   "country": "lt",
+   "name": "Vidmantas",
+   "spellings": [
+    "Vidmantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vidmantas is built like a Baltic two-stem name with the stems Vid- and -mant- (compare Vidas, Daumantas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "lt",
+   "name": "Asta",
+   "spellings": [
+    "Asta"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Asterija is usually explained from Greek astēr, “star”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "lt",
+   "name": "Blažiejus",
+   "spellings": [
+    "Blažiejus"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Blažiejus is usually explained from Latin blaesus, “lisping”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "lt",
+   "name": "Blažys",
+   "spellings": [
+    "Blažys"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Blažiejus is usually explained from Latin blaesus, “lisping”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "lt",
+   "name": "Radvilas",
+   "spellings": [
+    "Radvilas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Radvilas is built like a Baltic two-stem name with the stems Rad- and -vil- (compare Radvydė, Ginvilas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "lt",
+   "name": "Radvilė",
+   "spellings": [
+    "Radvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Radvilė is built like a Baltic two-stem name with the stems Rad- and -vil- (compare Radvydė, Ginvilas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lt",
+   "name": "Eulalija",
+   "spellings": [
+    "Eulalija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eulalija is usually explained from Greek eulalos, “well-spoken”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lt",
+   "name": "Mantminas",
+   "spellings": [
+    "Mantminas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mantminas is built like a Baltic two-stem name with the stems Mant- and -min- (compare Mantvydas, Gediminas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "lt",
+   "name": "Reginaldas",
+   "spellings": [
+    "Reginaldas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rainolds (Reinholds) is usually explained from Germanic ragin + walt, “counsel + rule”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-18",
+   "country": "lt",
+   "name": "Bernadeta",
+   "spellings": [
+    "Bernadeta"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Bernhards is usually explained from Germanic bero + hart, “bear + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-18",
+   "country": "lt",
+   "name": "Lengvenis",
+   "spellings": [
+    "Lengvenis"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lengvenis may be linked with Lithuanian lengvas, “light”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-18",
+   "country": "lt",
+   "name": "Simeonas",
+   "spellings": [
+    "Simeonas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Simons is usually explained from Hebrew šāma, “to hear”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "lt",
+   "name": "Brigita",
+   "spellings": [
+    "Brigita"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Brigita is usually explained from Celtic Brigid, “the exalted one”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "lt",
+   "name": "Eidvilė",
+   "spellings": [
+    "Eidvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eidvilė is built like a Baltic two-stem name with the stems Eid- and -vil- (compare Eidimtas, Ginvilas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "lt",
+   "name": "Gytautas",
+   "spellings": [
+    "Gytautas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gytautas is built like a Baltic two-stem name with the stems Gy- and -taut- (compare Gytis, Vytautas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "lt",
+   "name": "Ignotas",
+   "spellings": [
+    "Ignotas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ignatius is usually traced to the Roman family name Egnatius, later associated with Latin ignis, “fire”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-23",
+   "country": "lt",
+   "name": "Roma",
+   "spellings": [
+    "Roma"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Romāns is usually explained from Latin Romanus, “Roman”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-23",
+   "country": "lt",
+   "name": "Romana",
+   "spellings": [
+    "Romana"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Romāns is usually explained from Latin Romanus, “Roman”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-23",
+   "country": "lt",
+   "name": "Severinas",
+   "spellings": [
+    "Severinas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Severinas is usually explained from Latin severus, “stern, serious”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-24",
+   "country": "lt",
+   "name": "Demetrija",
+   "spellings": [
+    "Demetrija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Demetrija is usually explained from Greek Dēmētēr, “the goddess of grain and harvest”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-24",
+   "country": "lt",
+   "name": "Matas",
+   "spellings": [
+    "Matas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mateuss is usually explained from Hebrew Mattityāhū, “gift of Yahweh”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "lt",
+   "name": "Leonas",
+   "spellings": [
+    "Leonas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Leonas is usually explained from Latin leo, “lion”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "lt",
+   "name": "Aidas",
+   "spellings": [
+    "Aidas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aidas may be linked with Lithuanian aidas, “echo”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-21",
+   "country": "lt",
+   "name": "Žemyna",
+   "spellings": [
+    "Žemyna"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Žemyna may be linked with Lithuanian žemė, “earth”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "lt",
+   "name": "Elvyra",
+   "spellings": [
+    "Elvyra"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Elvira is usually taken as a Spanish name, probably of Germanic origin; its meaning is uncertain.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "lt",
+   "name": "Gabrielius",
+   "spellings": [
+    "Gabrielius"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gabrielius is usually explained from Hebrew Gaḇrīʾēl, “God is my strength”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "lt",
+   "name": "Girvydas",
+   "spellings": [
+    "Girvydas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Girvydas is built like a Baltic two-stem name with the stems Gir- and -vyd- (compare Girdenis, Tautvydas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "lt",
+   "name": "Skolastika",
+   "spellings": [
+    "Skolastika"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Skolastika is usually explained from Latin scholasticus, “learned, scholarly”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "lt",
+   "name": "Skolė",
+   "spellings": [
+    "Skolė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Skolastika is usually explained from Latin scholasticus, “learned, scholarly”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "lt",
+   "name": "Ada",
+   "spellings": [
+    "Ada"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Adelheide is usually explained from Germanic adal + heit, “noble + kind”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-15",
+   "country": "lt",
+   "name": "Faustinas",
+   "spellings": [
+    "Faustinas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Faustinas is usually explained from Latin faustus, “fortunate, lucky”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-15",
+   "country": "lt",
+   "name": "Vytis",
+   "spellings": [
+    "Vytis"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vitauts (Vytautas) is usually explained from Lithuanian vyti + tauta, “to chase + people”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lt",
+   "name": "Fortunatas",
+   "spellings": [
+    "Fortunatas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Fortunatas is usually explained from Latin fortunatus, “fortunate”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lt",
+   "name": "Livija",
+   "spellings": [
+    "Livija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Līvija is usually explained from Latin Livius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-27",
+   "country": "lt",
+   "name": "Skirmantė",
+   "spellings": [
+    "Skirmantė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Skirmantė is built like a Baltic two-stem name with the stems Skir- and -mant- (compare Skirgaila, Daumantas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "lt",
+   "name": "Ričardas",
+   "spellings": [
+    "Ričardas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lt",
+   "name": "Julijona",
+   "spellings": [
+    "Julijona"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lt",
+   "name": "Julijonas",
+   "spellings": [
+    "Julijonas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Jūliāna is usually explained from Latin Iulius, “a Roman family name”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "lt",
+   "name": "Tautvydas",
+   "spellings": [
+    "Tautvydas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tautvydas is built like a Baltic two-stem name with the stems Taut- and -vyd- (compare Tautvilas, Girvydas).",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-02",
+   "country": "lt",
+   "name": "Rytys",
+   "spellings": [
+    "Rytys"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rytys may be linked with Lithuanian rytas, “morning”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-02",
+   "country": "lt",
+   "name": "Valdas",
+   "spellings": [
+    "Valdas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Valdas may be linked with Lithuanian valdyti, “to rule”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-02",
+   "country": "lt",
+   "name": "Vandenė",
+   "spellings": [
+    "Vandenė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vandenė may be linked with Lithuanian vanduo, “water”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-14",
+   "country": "lt",
+   "name": "Kirilas",
+   "spellings": [
+    "Kirilas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kirilas is usually explained from Greek kyrios, “lord”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-14",
+   "country": "lt",
+   "name": "Liliana",
+   "spellings": [
+    "Liliana"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Liliāna is usually explained from Latin lilium, “lily”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-14",
+   "country": "lt",
+   "name": "Lilijana",
+   "spellings": [
+    "Lilijana"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Liliāna is usually explained from Latin lilium, “lily”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-14",
+   "country": "lt",
+   "name": "Saulė",
+   "spellings": [
+    "Saulė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Saulė may be linked with Lithuanian saulė, “sun”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lt",
+   "name": "Konradas",
+   "spellings": [
+    "Konradas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Konradas is usually explained from Germanic kuoni + rāt, “bold + counsel”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lt",
+   "name": "Nida",
+   "spellings": [
+    "Nida"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Nida may be linked with the place name Nida, a village on the Curonian Spit and a river.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-19",
+   "country": "lt",
+   "name": "Zuzana",
+   "spellings": [
+    "Zuzana"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Susanna is usually explained from Hebrew šōšannā, “lily”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-28",
+   "country": "lt",
+   "name": "Osvaldas",
+   "spellings": [
+    "Osvaldas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Osvalds is usually explained from Germanic ans + walt, “god + rule”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "ee",
+   "name": "Pirja",
+   "spellings": [
+    "Pirja"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Brigita is usually explained from Celtic Brigid, “the exalted one”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "ee",
+   "name": "Pirje",
+   "spellings": [
+    "Pirje"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Brigita is usually explained from Celtic Brigid, “the exalted one”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-01",
+   "country": "ee",
+   "name": "Gita",
+   "spellings": [
+    "Gita"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agata is usually explained from Greek agathos, “good”. Brigita is usually explained from Celtic Brigid, “the exalted one”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-02",
+   "country": "ee",
+   "name": "Leegi",
+   "spellings": [
+    "Leegi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Leegi may be linked with the Estonian word leek, “flame”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "ee",
+   "name": "Hugo",
+   "spellings": [
+    "Hugo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hugo is usually explained from Germanic hugu, “mind, spirit”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-03",
+   "country": "ee",
+   "name": "Huko",
+   "spellings": [
+    "Huko"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hugo is usually explained from Germanic hugu, “mind, spirit”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-05",
+   "country": "ee",
+   "name": "Aet",
+   "spellings": [
+    "Aet"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agata is usually explained from Greek agathos, “good”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "ee",
+   "name": "Doris",
+   "spellings": [
+    "Doris"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "ee",
+   "name": "Tea",
+   "spellings": [
+    "Tea"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-06",
+   "country": "ee",
+   "name": "Thea",
+   "spellings": [
+    "Thea"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dorotea is usually explained from Greek dōron + theos, “gift + god”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "ee",
+   "name": "Riko",
+   "spellings": [
+    "Riko"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-07",
+   "country": "ee",
+   "name": "Riku",
+   "spellings": [
+    "Riku"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rihards is usually explained from Germanic rīhhi + hart, “ruler + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-08",
+   "country": "ee",
+   "name": "Tali",
+   "spellings": [
+    "Tali"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Taimi is usually linked with Estonian and Finnish taim/taimi, “plant, seedling”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-08",
+   "country": "ee",
+   "name": "Talis",
+   "spellings": [
+    "Talis"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Taimi is usually linked with Estonian and Finnish taim/taimi, “plant, seedling”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "ee",
+   "name": "Ella",
+   "spellings": [
+    "Ella"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helēna is usually explained from Greek Helenē, “origin uncertain; linked with “torch, brightness””.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "ee",
+   "name": "Ellu",
+   "spellings": [
+    "Ellu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helēna is usually explained from Greek Helenē, “origin uncertain; linked with “torch, brightness””.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-10",
+   "country": "ee",
+   "name": "Ellen",
+   "spellings": [
+    "Ellen"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helēna is usually explained from Greek Helenē, “origin uncertain; linked with “torch, brightness””.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "ee",
+   "name": "Häli",
+   "spellings": [
+    "Häli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helēna is usually explained from Greek Helenē, “origin uncertain; linked with “torch, brightness””.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-12",
+   "country": "ee",
+   "name": "Elmi",
+   "spellings": [
+    "Elmi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Elmi may be linked with the Estonian word helmes, “pearl”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-14",
+   "country": "ee",
+   "name": "Vallut",
+   "spellings": [
+    "Vallut"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Voldemārs is usually explained from Germanic walt + māri, “rule + famous”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-16",
+   "country": "ee",
+   "name": "Miralda",
+   "spellings": [
+    "Miralda"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Miranda is usually explained from Latin mirandus, “worthy of admiration”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-17",
+   "country": "ee",
+   "name": "Väinu",
+   "spellings": [
+    "Väinu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Väino is usually linked with Väinämöinen, the singer and sage of Finnish and Estonian epic poetry.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-18",
+   "country": "ee",
+   "name": "Karmen",
+   "spellings": [
+    "Karmen"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Carmen is usually linked with Mount Carmel (Hebrew karmel, “garden”) and also with Latin carmen, “song”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "ee",
+   "name": "Meinhard",
+   "spellings": [
+    "Meinhard"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Meinhards is usually explained from Germanic magin + hart, “strength + hardy”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "ee",
+   "name": "Ardi",
+   "spellings": [
+    "Ardi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hartvigs is usually explained from Germanic hart + wīg, “hardy + battle”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "ee",
+   "name": "Hardi",
+   "spellings": [
+    "Hardi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hartvigs is usually explained from Germanic hart + wīg, “hardy + battle”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-20",
+   "country": "ee",
+   "name": "Hardo",
+   "spellings": [
+    "Hardo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hartvigs is usually explained from Germanic hart + wīg, “hardy + battle”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "ee",
+   "name": "Hela",
+   "spellings": [
+    "Hela"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hela may be linked with the Estonian word hele, “bright, clear”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-22",
+   "country": "ee",
+   "name": "Helin",
+   "spellings": [
+    "Helin"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helin may be linked with the Estonian word helin, “ringing, chime”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-24",
+   "country": "ee",
+   "name": "Mattias",
+   "spellings": [
+    "Mattias"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mateuss is usually explained from Hebrew Mattityāhū, “gift of Yahweh”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-24",
+   "country": "ee",
+   "name": "Madi",
+   "spellings": [
+    "Madi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mateuss is usually explained from Hebrew Mattityāhū, “gift of Yahweh”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-24",
+   "country": "ee",
+   "name": "Matis",
+   "spellings": [
+    "Matis"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mateuss is usually explained from Hebrew Mattityāhū, “gift of Yahweh”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-25",
+   "country": "ee",
+   "name": "Tuule",
+   "spellings": [
+    "Tuule"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tuule may be linked with the Estonian word tuul, “wind”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-25",
+   "country": "ee",
+   "name": "Tuulike",
+   "spellings": [
+    "Tuulike"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tuulike may be linked with the Estonian word tuul, “wind”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-26",
+   "country": "ee",
+   "name": "Ingmar",
+   "spellings": [
+    "Ingmar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ingmārs is usually explained from Old Norse Ing + mærr, “the god’s name Ing + famous”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  },
+  {
+   "batch": "supplements-2026-11-16-feb",
+   "date": "2026-11-16",
+   "calendar_date": "02-28",
+   "country": "ee",
+   "name": "Vilmer",
+   "spellings": [
+    "Vilmer"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vilmārs is usually explained from Germanic willo + māri, “will + famous”.",
+   "basis": "Supplement after a reviewed history that gives no origin; base-name origin as usually explained in general onomastic reference works, or comparison with a common word. The reviewed history is unchanged.",
+   "next_step": "Find a source that documents the origin for this calendar form."
+  }
+ ]
+}

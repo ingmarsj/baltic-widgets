@@ -15,7 +15,7 @@ test('cached URLs gain stable IDs without downloading; ID conflicts preserve bot
  const script=path.join(project,'scripts/nameday-source-cache.mjs');
  await copyFile(fileURLToPath(new URL('./nameday-source-cache.mjs',import.meta.url)),script);
  let requests=0;
- const server=createServer((req,res)=>{requests++;res.setHeader('content-type','text/html');res.end('<html><title>Fixture '+req.url+'</title><body>A sufficiently long original research page for testing cached source identity and stable aliases.</body></html>');});
+ const server=createServer((req,res)=>{requests++;if(req.url==='/json'){res.setHeader('content-type','application/json');res.end(JSON.stringify({entities:{Q1:{name:'A name with ā and ī',birthdate:'1950-11-14'}}}));return;}if(req.url==='/error'){res.setHeader('content-type','application/json');res.end(JSON.stringify({error:{code:'ratelimited'}}));return;}res.setHeader('content-type','text/html');res.end('<html><title>Fixture '+req.url+'</title><body>A sufficiently long original research page for testing cached source identity and stable aliases.</body></html>');});
  await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));
  t.after(async()=>{
   await new Promise(resolve=>server.close(resolve));
@@ -37,4 +37,11 @@ test('cached URLs gain stable IDs without downloading; ID conflicts preserve bot
  assert.equal(requests,2,'neither conflicting fetch contacts the server');
  assert.deepEqual(await manifest('BOOK-ONE'),before);
  assert.equal((await manifest('BOOK-TWO')).id,second.id);
+ const data=await run(['--url',base+'/json','--id','BIOGRAPHIES']);assert.equal(data.kind,'json');
+ const info=await manifest('BIOGRAPHIES');const object=path.join(fixture,'var/namedays-sources/objects',info.object);
+ assert.equal(JSON.parse(await readFile(path.join(object,'source.json'),'utf8')).entities.Q1.birthdate,'1950-11-14');
+ assert.match((await readFile(path.join(object,'pages-v1.json'),'utf8')),/ā and ī/);
+ await run(['--url',base+'/json','--id','BIOGRAPHIES']);assert.equal(requests,3,'JSON snapshots are reused too');
+ await assert.rejects(run(['--url',base+'/error','--id','API-ERROR']),e=>{assert.match(e.stdout,/API error/);return true;});
+ await assert.rejects(manifest('API-ERROR'),/ENOENT/);
 });

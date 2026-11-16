@@ -1,0 +1,120 @@
+{
+  "round": 113,
+  "calendar_dates": [
+    "09-03",
+    "09-04",
+    "09-05",
+    "09-06",
+    "09-07",
+    "09-08",
+    "09-09",
+    "09-10",
+    "09-11",
+    "09-12",
+    "09-13",
+    "09-14",
+    "09-15",
+    "09-16",
+    "09-17",
+    "09-18",
+    "09-19",
+    "09-20",
+    "09-21",
+    "09-22",
+    "09-23",
+    "09-24",
+    "09-25",
+    "09-26",
+    "09-27",
+    "09-28",
+    "09-29",
+    "09-30",
+    "10-01",
+    "10-02"
+  ],
+  "calendar_records_covered": 753,
+  "existing_reviewed_calendar_records_preserved": 145,
+  "unfinished_calendar_records_examined": 608,
+  "distinct_unfinished_profiles": 604,
+  "new_reviewed_histories": 155,
+  "translations": 775,
+  "paragraphs": 1550,
+  "unverified_calendar_records": 451,
+  "distinct_unverified_profiles": 449,
+  "summary": [
+    {
+      "country": "lv",
+      "calendar_records": 437,
+      "existing_reviewed_calendar_records_preserved": 52,
+      "unfinished_calendar_records_examined": 385,
+      "new_reviewed_histories": 98,
+      "newly_reused_lv_histories": 9,
+      "prior_profile_histories_preserved": 5449,
+      "unrelated_profiles_with_inherited_provenance_updates": 27,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    },
+    {
+      "country": "lt",
+      "calendar_records": 191,
+      "existing_reviewed_calendar_records_preserved": 68,
+      "unfinished_calendar_records_examined": 123,
+      "new_reviewed_histories": 27,
+      "newly_reused_lv_histories": 0,
+      "prior_profile_histories_preserved": 1541,
+      "unrelated_profiles_with_inherited_provenance_updates": 11,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    },
+    {
+      "country": "ee",
+      "calendar_records": 125,
+      "existing_reviewed_calendar_records_preserved": 25,
+      "unfinished_calendar_records_examined": 100,
+      "new_reviewed_histories": 30,
+      "newly_reused_lv_histories": 0,
+      "prior_profile_histories_preserved": 1523,
+      "unrelated_profiles_with_inherited_provenance_updates": 4,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    }
+  ],
+  "validation": {
+    "full_tests": {
+      "command": "npm test",
+      "passed": 130,
+      "failed": 0
+    },
+    "static_build": {
+      "command": "npm run build",
+      "status": "passed"
+    },
+    "whitespace_check": {
+      "command": "git diff --check",
+      "status": "passed"
+    },
+    "research_audit": {
+      "status": "passed",
+      "all_dates_and_profiles_accounted_for": true,
+      "existing_five_language_histories_preserved": true,
+      "new_text_has_no_source_urls": true,
+      "all_source_ids_registered": true,
+      "all_open_profiles_remain_unverified": true,
+      "no_new_hypothesis_displayed": true
+    }
+  },
+  "provenance_metadata_changes": [],
+  "note": "The generator may add inherited provenance or retype a source by URL deduplication. All established-source URLs, structured facts, namesakes and existing rendered histories are preserved; superseded hypothesis-only URLs may be removed only on newly reviewed profiles under the existing generator policy. Readiness uses actual rendered narratives, including family narratives, rather than inherited provenance type. Each calendar membership is accounted for; distinct profile and calendar-record totals are reported separately. Historical source dates never change supplied calendar dates. Raw originals, extracted text and images remain private. No push or publication performed.",
+  "open_records_now_showing_reused_history": [
+    "lv:Dzintāra",
+    "lv:Genādijs",
+    "lv:Aili",
+    "lv:Mārijs",
+    "lv:Lāna",
+    "lv:Geronīms",
+    "lv:Lasma"
+  ]
+}

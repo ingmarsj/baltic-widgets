@@ -743,11 +743,11 @@ export const historiesCalendarR102={
       "text": {
         "en": [
           "Edgar Rajandi notes that Finnish Helmi is treated as equivalent in meaning to Margaretha and English Pearl; the Estonian and Finnish word helm means ‘bead, pearl’.",
-          "Julius Mägiste’s 1929 list marks Helmi as a name already in use and taken from Finnish, and his introduction names Helmi among the names brought forward by the Estonian national awakening."
+          "Julius the 1929 list marks Helmi as a name already in use and taken from Finnish, and his introduction names Helmi among the names brought forward by the Estonian national awakening."
         ],
         "lv": [
           "Edgars Rajandi norāda, ka somu Helmi pēc nozīmes pielīdzina vārdiem Margaretha un angļu Pearl; igauņu un somu vārds helm nozīmē ‘krelle, pērle’.",
-          "Jūliusa Mēgistes 1929. gada sarakstā Helmi apzīmēts kā jau lietots, no somu valodas aizgūts vārds, un ievadā viņš Helmi min starp vārdiem, kurus aktualizēja igauņu nacionālā atmoda."
+          "Jūliusa 1929. gada sarakstā Helmi apzīmēts kā jau lietots, no somu valodas aizgūts vārds, un ievadā viņš Helmi min starp vārdiem, kurus aktualizēja igauņu nacionālā atmoda."
         ],
         "ru": [
           "Эдгар Раянди отмечает, что финское Helmi по значению приравнивают к Margaretha и английскому Pearl; эстонское и финское слово helm означает «бусина, жемчужина».",
@@ -755,7 +755,7 @@ export const historiesCalendarR102={
         ],
         "lt": [
           "Edgaras Rajandi pažymi, kad suomių Helmi pagal reikšmę prilyginamas Margaretha ir anglų Pearl; estų ir suomių žodis helm reiškia „karoliukas, perlas“.",
-          "Juliaus Mägiste 1929 metų sąraše Helmi pažymėtas kaip jau vartojamas, iš suomių perimtas vardas, o įvade jis Helmi mini tarp vardų, kuriuos iškėlė estų tautinis atgimimas."
+          "Juliaus 1929 metų sąraše Helmi pažymėtas kaip jau vartojamas, iš suomių perimtas vardas, o įvade jis Helmi mini tarp vardų, kuriuos iškėlė estų tautinis atgimimas."
         ],
         "et": [
           "Edgar Rajandi märgib, et soome Helmit võrdsustatakse sisuliselt nimedega Margaretha ja inglise Pearl; sõna helm tähendab ‘helmes, pärl’.",
@@ -797,11 +797,11 @@ export const historiesCalendarR102={
       ],
       "text": {
         "en": [
-          "Julius Mägiste’s 1929 list groups Timmo with the dialect form Timm, which he equates with the church name Timoteus, and with Finnish Timo.",
+          "Julius the 1929 list groups Timmo with the dialect form Timm, which he equates with the church name Timoteus, and with Finnish Timo.",
           "He records Timmo as a Seto form taken from Jakob Hurt’s folklore collections from Vastseliina, and his 1936 recommended list keeps the related Timm as krk., a name found in older church registers."
         ],
         "lv": [
-          "Jūliusa Mēgistes 1929. gada sarakstā Timmo grupēts kopā ar dialekta formu Timm, ko viņš pielīdzina baznīcas vārdam Timoteus, un ar somu Timo.",
+          "Jūliusa 1929. gada sarakstā Timmo grupēts kopā ar dialekta formu Timm, ko viņš pielīdzina baznīcas vārdam Timoteus, un ar somu Timo.",
           "Timmo viņš fiksē kā setu formu no Jakoba Hurta folkloras krājumiem Vastseliinā, bet 1936. gada ieteikumu sarakstā radniecīgais Timm saglabāts ar krk. — vārds no vecākām baznīcas grāmatām."
         ],
         "ru": [
@@ -809,7 +809,7 @@ export const historiesCalendarR102={
           "Timmo он фиксирует как сетускую форму из фольклорных собраний Якоба Хурта в Вастселийне, а в рекомендательном списке 1936 года родственное Timm оставлено с пометой krk. — имя из старых церковных книг."
         ],
         "lt": [
-          "Juliaus Mägiste 1929 metų sąraše Timmo sugrupuotas su tarmine forma Timm, kurią jis prilygina bažnytiniam vardui Timoteus, ir su suomių Timo.",
+          "Juliaus 1929 metų sąraše Timmo sugrupuotas su tarmine forma Timm, kurią jis prilygina bažnytiniam vardui Timoteus, ir su suomių Timo.",
           "Timmo jis užfiksuoja kaip setų formą iš Jakobo Hurto tautosakos rinkinių Vastseliinoje, o 1936 metų sąraše giminingas Timm paliktas su žyma krk. — vardas iš senesnių bažnytinių knygų."
         ],
         "et": [
@@ -825,11 +825,11 @@ export const historiesCalendarR102={
       ],
       "text": {
         "en": [
-          "Julius Mägiste’s 1929 list groups Timo with the dialect forms Timm and Timmo, which he equates with the church name Timoteus.",
+          "Julius the 1929 list groups Timo with the dialect forms Timm and Timmo, which he equates with the church name Timoteus.",
           "Mägiste labels Timo sm., a Finnish form, in 1929, while his 1936 recommended list marks it murd., a form from dialect collections that by his key entered Estonian use only in the nineteenth or twentieth century."
         ],
         "lv": [
-          "Jūliusa Mēgistes 1929. gada sarakstā Timo grupēts kopā ar dialekta formām Timm un Timmo, ko viņš pielīdzina baznīcas vārdam Timoteus.",
+          "Jūliusa 1929. gada sarakstā Timo grupēts kopā ar dialekta formām Timm un Timmo, ko viņš pielīdzina baznīcas vārdam Timoteus.",
           "Mēgiste 1929. gadā Timo apzīmē ar sm. — somu forma, bet 1936. gada ieteikumu sarakstā ar murd. — forma no dialektu krājumiem, kas pēc viņa atslēgas igauņu lietojumā ienākusi tikai 19. vai 20. gadsimtā."
         ],
         "ru": [
@@ -837,7 +837,7 @@ export const historiesCalendarR102={
           "В 1929 году Мэгисте помечает Timo как sm. — финскую форму, а в рекомендательном списке 1936 года как murd. — форму из диалектных собраний, вошедшую, по его пояснению, в эстонское употребление лишь в XIX или XX веке."
         ],
         "lt": [
-          "Juliaus Mägiste 1929 metų sąraše Timo sugrupuotas su tarminėmis formomis Timm ir Timmo, kurias jis prilygina bažnytiniam vardui Timoteus.",
+          "Juliaus 1929 metų sąraše Timo sugrupuotas su tarminėmis formomis Timm ir Timmo, kurias jis prilygina bažnytiniam vardui Timoteus.",
           "1929 metais Mägiste Timo pažymi sm. — suomiška forma, o 1936 metų rekomenduojamų vardų sąraše murd. — forma iš tarmių rinkinių, kuri, pasak jo paaiškinimo, į estų vartoseną atėjo tik XIX ar XX amžiuje."
         ],
         "et": [
@@ -854,11 +854,11 @@ export const historiesCalendarR102={
       "text": {
         "en": [
           "Kahru is one of the Estonian-style names promoted in the early twentieth century. Julius Mägiste lists it with the meaning ‘bear’; the form resembles Finnish karhu and Estonian karu, but he gives no fuller derivation.",
-          "Mägiste’s 1929 list cites the name from Oskar Kallas’s booklet of new baptismal names (third printing, Tartu 1921), glossed as ‘bear’. His 1936 recommended list marks Kahru kstl., an artificially created name with a known proposer."
+          "the 1929 list cites the name from Oskar Kallas’s booklet of new baptismal names (third printing, Tartu 1921), glossed as ‘bear’. His 1936 recommended list marks Kahru kstl., an artificially created name with a known proposer."
         ],
         "lv": [
           "Kahru ir viens no 20. gadsimta sākumā popularizētajiem igauniskajiem vārdiem. Jūliuss Mēgiste to min ar nozīmi ‘lācis’; forma atgādina somu karhu un igauņu karu, taču plašāku atvasinājumu viņš nedod.",
-          "Mēgistes 1929. gada sarakstā vārds ņemts no Oskara Kallasa jauno kristāmvārdu brošūras (trešais iespiedums, Tartu, 1921) ar skaidrojumu ‘lācis’. 1936. gada ieteikumu sarakstā Kahru apzīmēts kā kstl. — mākslīgi darināts vārds ar zināmu ierosinātāju."
+          "1929. gada sarakstā vārds ņemts no Oskara Kallasa jauno kristāmvārdu brošūras (trešais iespiedums, Tartu, 1921) ar skaidrojumu ‘lācis’. 1936. gada ieteikumu sarakstā Kahru apzīmēts kā kstl. — mākslīgi darināts vārds ar zināmu ierosinātāju."
         ],
         "ru": [
           "Kahru — одно из эстонских по облику имён, продвигавшихся в начале XX века. Юлиус Мэгисте приводит его со значением «медведь»; форма напоминает финское karhu и эстонское karu, но подробного словообразования он не даёт.",
@@ -866,7 +866,7 @@ export const historiesCalendarR102={
         ],
         "lt": [
           "Kahru — vienas iš XX a. pradžioje skleistų estiško skambesio vardų. Julius Mägiste jį pateikia su reikšme „lokys“; forma primena suomių karhu ir estų karu, tačiau išsamesnės darybos jis nenurodo.",
-          "Mägiste 1929 metų sąraše vardas paimtas iš Oskaro Kallaso naujų krikšto vardų knygelės (trečiasis leidimas, Tartu, 1921) su paaiškinimu „lokys“. 1936 metų rekomenduojamų vardų sąraše Kahru pažymėtas kstl. — dirbtinai sukurtas vardas, kurio autorius žinomas."
+          "1929 metų sąraše vardas paimtas iš Oskaro Kallaso naujų krikšto vardų knygelės (trečiasis leidimas, Tartu, 1921) su paaiškinimu „lokys“. 1936 metų rekomenduojamų vardų sąraše Kahru pažymėtas kstl. — dirbtinai sukurtas vardas, kurio autorius žinomas."
         ],
         "et": [
           "Kahru on üks XX sajandi algul propageeritud eestipäraseid nimesid. Julius Mägiste annab selle tähendusega ‘karu’; kuju meenutab soome sõna karhu ja eesti karu, kuid lähemat tuletust ta ei esita.",
@@ -881,11 +881,11 @@ export const historiesCalendarR102={
       ],
       "text": {
         "en": [
-          "Julius Mägiste’s 1929 list places Aina at the head of a group with Aine, Aini, Ainike and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, without assigning one origin to every form.",
+          "Julius the 1929 list places Aina at the head of a group with Aine, Aini, Ainike and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, without assigning one origin to every form.",
           "His 1936 recommended list marks Aina krk., a name taken from older church registers; by his own key, such names had not been found in the oldest documents and date from after the seventeenth century."
         ],
         "lv": [
-          "Jūliusa Mēgistes 1929. gada sarakstā Aina ir grupas sākumā kopā ar Aine, Aini, Ainike un Aino; Aine viņš saista ar tautasdziesmu vārdu ainuke ‘vienīgais’, nepiešķirot vienu izcelsmi visām formām.",
+          "Jūliusa 1929. gada sarakstā Aina ir grupas sākumā kopā ar Aine, Aini, Ainike un Aino; Aine viņš saista ar tautasdziesmu vārdu ainuke ‘vienīgais’, nepiešķirot vienu izcelsmi visām formām.",
           "Viņa 1936. gada ieteikumu sarakstā Aina apzīmēts ar krk. — vārds no vecākām baznīcas grāmatām; pēc paša atslēgas šādi vārdi nav atrasti vecākajos dokumentos un ir vēlāki par 17. gadsimtu."
         ],
         "ru": [
@@ -893,7 +893,7 @@ export const historiesCalendarR102={
           "В его рекомендательном списке 1936 года Aina помечено krk. — имя из старых церковных книг; по его же пояснению, такие имена не найдены в древнейших документах и относятся ко времени после XVII века."
         ],
         "lt": [
-          "Juliaus Mägiste 1929 metų sąraše Aina pradeda grupę su Aine, Aini, Ainike ir Aino; Aine jis sieja su liaudies dainų žodžiu ainuke „vienintelis“, nepriskirdamas visoms formoms vienos kilmės.",
+          "Juliaus 1929 metų sąraše Aina pradeda grupę su Aine, Aini, Ainike ir Aino; Aine jis sieja su liaudies dainų žodžiu ainuke „vienintelis“, nepriskirdamas visoms formoms vienos kilmės.",
           "Jo 1936 metų rekomenduojamų vardų sąraše Aina pažymėtas krk. — vardas iš senesnių bažnytinių knygų; pagal jo paaiškinimą, tokių vardų nerasta seniausiuose dokumentuose ir jie vėlesni nei XVII amžius."
         ],
         "et": [
@@ -909,11 +909,11 @@ export const historiesCalendarR102={
       ],
       "text": {
         "en": [
-          "Julius Mägiste’s 1929 list places Aini in one group with Aina, Aine, Ainike and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, without assigning one origin to every form.",
+          "Julius the 1929 list places Aini in one group with Aina, Aine, Ainike and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, without assigning one origin to every form.",
           "He marks Aini as a Finnish dialect form that he had collected himself, and his 1936 recommended list labels it sm., a name of Finnish origin. Neither list dates the first Estonian bearer."
         ],
         "lv": [
-          "Jūliusa Mēgistes 1929. gada sarakstā Aini ievietots vienā grupā ar Aina, Aine, Ainike un Aino; Aine viņš saista ar tautasdziesmu vārdu ainuke ‘vienīgais’, nepiešķirot vienu izcelsmi visām formām.",
+          "Jūliusa 1929. gada sarakstā Aini ievietots vienā grupā ar Aina, Aine, Ainike un Aino; Aine viņš saista ar tautasdziesmu vārdu ainuke ‘vienīgais’, nepiešķirot vienu izcelsmi visām formām.",
           "Aini viņš apzīmē kā somu dialekta formu, ko savācis pats, un 1936. gada ieteikumu sarakstā tas apzīmēts ar sm. — somu cilmes vārds. Neviens saraksts nedatē pirmo igauņu nesēju."
         ],
         "ru": [
@@ -921,7 +921,7 @@ export const historiesCalendarR102={
           "Aini он отмечает как финскую диалектную форму, собранную им самим, а в рекомендательном списке 1936 года имя помечено sm. — финского происхождения. Ни один список не датирует первую эстонскую носительницу."
         ],
         "lt": [
-          "Juliaus Mägiste 1929 metų sąraše Aini įtrauktas į vieną grupę su Aina, Aine, Ainike ir Aino; Aine jis sieja su liaudies dainų žodžiu ainuke „vienintelis“, nepriskirdamas visoms formoms vienos kilmės.",
+          "Juliaus 1929 metų sąraše Aini įtrauktas į vieną grupę su Aina, Aine, Ainike ir Aino; Aine jis sieja su liaudies dainų žodžiu ainuke „vienintelis“, nepriskirdamas visoms formoms vienos kilmės.",
           "Aini jis pažymi kaip paties surinktą suomių tarminę formą, o 1936 metų rekomenduojamų vardų sąraše vardas pažymėtas sm. — suomiškos kilmės. Nė vienas sąrašas nenurodo pirmosios estų turėtojos datos."
         ],
         "et": [
@@ -937,11 +937,11 @@ export const historiesCalendarR102={
       ],
       "text": {
         "en": [
-          "Julius Mägiste’s 1929 list places Ainike in one group with Aina, Aine, Aini and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, and glosses Aino as ‘the only one’.",
+          "Julius the 1929 list places Ainike in one group with Aina, Aine, Aini and Aino; he links Aine to the folk-song word ainuke, ‘the only one’, and glosses Aino as ‘the only one’.",
           "For Ainike he cites Oskar Kallas’s 1921 list of new baptismal names, where the form appears as Ainik. In his 1936 recommended list Ainike is marked kstl., an artificially created name."
         ],
         "lv": [
-          "Jūliusa Mēgistes 1929. gada sarakstā Ainike ievietots vienā grupā ar Aina, Aine, Aini un Aino; Aine viņš saista ar tautasdziesmu vārdu ainuke ‘vienīgais’, bet Aino skaidro kā ‘vienīgā’.",
+          "Jūliusa 1929. gada sarakstā Ainike ievietots vienā grupā ar Aina, Aine, Aini un Aino; Aine viņš saista ar tautasdziesmu vārdu ainuke ‘vienīgais’, bet Aino skaidro kā ‘vienīgā’.",
           "Ainike gadījumā viņš atsaucas uz Oskara Kallasa 1921. gada jauno kristāmvārdu sarakstu, kur forma dota kā Ainik. 1936. gada ieteikumu sarakstā Ainike apzīmēts kā kstl. — mākslīgi darināts vārds."
         ],
         "ru": [
@@ -949,7 +949,7 @@ export const historiesCalendarR102={
           "Для Ainike он ссылается на список новых крестильных имён Оскара Калласа 1921 года, где форма дана как Ainik. В рекомендательном списке 1936 года Ainike помечено kstl. — искусственно созданное имя."
         ],
         "lt": [
-          "Juliaus Mägiste 1929 metų sąraše Ainike įtrauktas į vieną grupę su Aina, Aine, Aini ir Aino; Aine jis sieja su liaudies dainų žodžiu ainuke „vienintelis“, o Aino aiškina kaip „vienintelė“.",
+          "Juliaus 1929 metų sąraše Ainike įtrauktas į vieną grupę su Aina, Aine, Aini ir Aino; Aine jis sieja su liaudies dainų žodžiu ainuke „vienintelis“, o Aino aiškina kaip „vienintelė“.",
           "Ainike atveju jis remiasi 1921 metų Oskaro Kallaso naujų krikšto vardų sąrašu, kur forma pateikta kaip Ainik. 1936 metų rekomenduojamų vardų sąraše Ainike pažymėtas kstl. — dirbtinai sukurtas vardas."
         ],
         "et": [

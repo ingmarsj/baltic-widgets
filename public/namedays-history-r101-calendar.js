@@ -2011,11 +2011,11 @@ export const historiesCalendarR101={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Aimur and Aimar. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Rajandi describes Aimur as an artificially created name, citing Johannes Mägiste’s 1936 list, and says it was used only in isolated cases. He presents it as one more possible starting point for the name Aimar."
+          "Rajandi describes Aimur as an artificially created name, citing Johannes the 1936 list, and says it was used only in isolated cases. He presents it as one more possible starting point for the name Aimar."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Aimur un Aimar. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
-          "Rajandi Aimur raksturo kā mākslīgi darinātu vārdu, atsaucoties uz Johannesa Mēgistes 1936. gada sarakstu, un norāda, ka tas lietots tikai atsevišķos gadījumos. Viņš to min kā vēl vienu iespējamu vārda Aimar avotu."
+          "Rajandi Aimur raksturo kā mākslīgi darinātu vārdu, atsaucoties uz Johannesa 1936. gada sarakstu, un norāda, ka tas lietots tikai atsevišķos gadījumos. Viņš to min kā vēl vienu iespējamu vārda Aimar avotu."
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Aimur и Aimar. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
@@ -2023,7 +2023,7 @@ export const historiesCalendarR101={
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Aimur ir Aimar ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Rajandi Aimur apibūdina kaip dirbtinai sukurtą vardą, remdamasis Johanneso Mägiste 1936 metų sąrašu, ir pažymi, kad jis vartotas tik pavieniais atvejais. Jį mini kaip dar vieną galimą vardo Aimar pagrindą."
+          "Rajandi Aimur apibūdina kaip dirbtinai sukurtą vardą, remdamasis Johanneso 1936 metų sąrašu, ir pažymi, kad jis vartotas tik pavieniais atvejais. Jį mini kaip dar vieną galimą vardo Aimar pagrindą."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Aimur ja Aimar seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",
@@ -2092,11 +2092,11 @@ export const historiesCalendarR101={
       "text": {
         "en": [
           "Edgar Rajandi suggests that Vaida may be an ancient Estonian feminine name, comparing the documentary name Vaiduke(n) and place names such as Vaidavere. He states explicitly that the question has not yet been resolved.",
-          "He records Vaida as a rare name in the Elva district in 1962 and notes that Mägiste’s 1936 recommended list took it from actual use. He also mentions the Latvian calendar name Vaida but treats a shared origin only as a possibility."
+          "He records Vaida as a rare name in the Elva district in 1962 and notes that the 1936 recommended list took it from actual use. He also mentions the Latvian calendar name Vaida but treats a shared origin only as a possibility."
         ],
         "lv": [
           "Edgars Rajandi pieļauj, ka Vaida varētu būt sens igauņu sieviešu vārds, salīdzinot to ar dokumentos atrodamo Vaiduke(n) un vietvārdiem, piemēram, Vaidavere. Viņš skaidri norāda, ka jautājums vēl nav atrisināts.",
-          "Viņš Vaida fiksē kā retu vārdu Elvas rajonā 1962. gadā un norāda, ka Mēgistes 1936. gada ieteikumu sarakstā tas ņemts no faktiskā lietojuma. Viņš piemin arī latviešu kalendāra vārdu Vaida, taču kopīgu izcelsmi uzskata tikai par iespēju."
+          "Viņš Vaida fiksē kā retu vārdu Elvas rajonā 1962. gadā un norāda, ka 1936. gada ieteikumu sarakstā tas ņemts no faktiskā lietojuma. Viņš piemin arī latviešu kalendāra vārdu Vaida, taču kopīgu izcelsmi uzskata tikai par iespēju."
         ],
         "ru": [
           "Эдгар Раянди допускает, что Vaida может быть древним эстонским женским именем, сравнивая его с документальным именем Vaiduke(n) и топонимами вроде Vaidavere. Он прямо пишет, что вопрос пока не решён.",
@@ -2104,7 +2104,7 @@ export const historiesCalendarR101={
         ],
         "lt": [
           "Edgaras Rajandi spėja, kad Vaida gali būti senas estų moters vardas, ir lygina jį su dokumentuose žinomu Vaiduke(n) bei vietovardžiais, pavyzdžiui, Vaidavere. Jis aiškiai nurodo, kad klausimas dar neišspręstas.",
-          "Jis užfiksuoja Vaida kaip retą vardą Elvos rajone 1962 metais ir pažymi, kad į Mägiste 1936 metų rekomenduojamų vardų sąrašą jis pateko iš tikrojo vartojimo. Mini ir latvių kalendoriaus vardą Vaida, tačiau bendrą kilmę laiko tik galimybe."
+          "Jis užfiksuoja Vaida kaip retą vardą Elvos rajone 1962 metais ir pažymi, kad į 1936 metų rekomenduojamų vardų sąrašą jis pateko iš tikrojo vartojimo. Mini ir latvių kalendoriaus vardą Vaida, tačiau bendrą kilmę laiko tik galimybe."
         ],
         "et": [
           "Edgar Rajandi oletab, et Vaida võib olla muistne eesti naisenimi, ning võrdleb seda ürikunimega Vaiduke(n) ja kohanimedega nagu Vaidavere. Ta ütleb selgelt, et küsimus on seni lähemalt selgitamata.",

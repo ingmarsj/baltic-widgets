@@ -1,0 +1,450 @@
+{
+  "round": 127,
+  "date": "2026-11-16",
+  "writer_version": "namedays-1.9.105",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 1040,
+      "local_profiles_after": 1056,
+      "local_exact_links_added": 45,
+      "new_exact_person_profile_links": 58,
+      "with_exact_namesakes": 1787,
+      "with_five_local": 347,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": [
+        {
+          "name": "Vinets",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q16356053",
+              "name": "Vinets Veldre"
+            }
+          ]
+        },
+        {
+          "name": "Rodžers",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q23652700",
+              "name": "Rodžers Lodziņš"
+            }
+          ]
+        },
+        {
+          "name": "Samuels",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q130245835",
+              "name": "Samuels Henkins"
+            }
+          ]
+        },
+        {
+          "name": "Zāmuels",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q108037509",
+              "name": "Zāmuels Hops"
+            }
+          ]
+        },
+        {
+          "name": "Rudīte",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q42270624",
+              "name": "Rudīte Kalpiņa"
+            },
+            {
+              "id": "Q50377533",
+              "name": "Rudīte Losāne"
+            },
+            {
+              "id": "Q134546921",
+              "name": "Rudīte Urbacāne"
+            }
+          ]
+        },
+        {
+          "name": "Bērtulis",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q55285839",
+              "name": "Bērtulis Pizičs"
+            }
+          ]
+        },
+        {
+          "name": "Bertrams",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q71180587",
+              "name": "Bertrams Zariņš"
+            }
+          ]
+        },
+        {
+          "name": "Patrīcija",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q28870445",
+              "name": "Patrīcija Eiduka"
+            },
+            {
+              "id": "Q106527594",
+              "name": "Patrīcija Špaka"
+            },
+            {
+              "id": "Q134366213",
+              "name": "Patrīcija Stalidzāne"
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 664,
+      "local_profiles_after": 672,
+      "local_exact_links_added": 34,
+      "new_exact_person_profile_links": 37,
+      "with_exact_namesakes": 723,
+      "with_five_local": 348,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": [
+        {
+          "name": "Svajonė",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12674319",
+              "name": "Svajonė Šaltauskienė"
+            },
+            {
+              "id": "Q61108815",
+              "name": "Svajonė Stanikienė"
+            }
+          ]
+        },
+        {
+          "name": "Klementina",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q12660875",
+              "name": "Klementina Gudonytė"
+            }
+          ]
+        },
+        {
+          "name": "Aina",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q31199660",
+              "name": "Aina Grikšaitė"
+            },
+            {
+              "id": "Q16442827",
+              "name": "Aina Zinčiukaitė"
+            }
+          ]
+        },
+        {
+          "name": "Baltramiejus",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q4111181",
+              "name": "Baltramiejus Vilentas"
+            },
+            {
+              "id": "Q16445269",
+              "name": "Baltramiejus Svirenkavičius"
+            }
+          ]
+        },
+        {
+          "name": "Baltrus",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12650224",
+              "name": "Baltrus Atkočiūnas"
+            },
+            {
+              "id": "Q12650225",
+              "name": "Baltrus Matusevičius"
+            }
+          ]
+        },
+        {
+          "name": "Audronis",
+          "before": 2,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q12649496",
+              "name": "Audronis Imbrasas"
+            },
+            {
+              "id": "Q16444705",
+              "name": "Audronis Katilius"
+            },
+            {
+              "id": "Q12649498",
+              "name": "Audronis Kazimieras Kvedaras"
+            }
+          ]
+        },
+        {
+          "name": "Sonata",
+          "before": 4,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q541275",
+              "name": "Sonata Tamošaitytė"
+            },
+            {
+              "id": "Q7560823",
+              "name": "Sonata Milušauskaitė"
+            },
+            {
+              "id": "Q7560825",
+              "name": "Sonata Vanagaitė"
+            }
+          ]
+        },
+        {
+          "name": "Helga",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q15849727",
+              "name": "Helga Marija Kauzonė"
+            }
+          ]
+        }
+      ]
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 1022,
+      "local_profiles_after": 1029,
+      "local_exact_links_added": 45,
+      "new_exact_person_profile_links": 46,
+      "with_exact_namesakes": 1106,
+      "with_five_local": 539,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": [
+        {
+          "name": "Hella",
+          "before": 4,
+          "after": 6,
+          "people": [
+            {
+              "id": "Q465937",
+              "name": "Hella Wuolijoki"
+            },
+            {
+              "id": "Q29420492",
+              "name": "Hella Keem"
+            },
+            {
+              "id": "Q16403197",
+              "name": "Hella Kink"
+            }
+          ]
+        },
+        {
+          "name": "Päärn",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q124099589",
+              "name": "Päärn Hint"
+            },
+            {
+              "id": "Q7158272",
+              "name": "Päärn Niiler"
+            }
+          ]
+        },
+        {
+          "name": "Ivari",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q1398025",
+              "name": "Ivari Padar"
+            },
+            {
+              "id": "Q6098500",
+              "name": "Ivari Ilja"
+            },
+            {
+              "id": "Q61111528",
+              "name": "Ivari Männi"
+            }
+          ]
+        },
+        {
+          "name": "Pärt",
+          "before": 2,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q4795686",
+              "name": "Pärt Uusberg"
+            },
+            {
+              "id": "Q61109975",
+              "name": "Pärt Ellerhein"
+            },
+            {
+              "id": "Q16406379",
+              "name": "Pärt Lias"
+            }
+          ]
+        },
+        {
+          "name": "Ilma",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12364387",
+              "name": "Ilma Adamson"
+            },
+            {
+              "id": "Q16408384",
+              "name": "Ilma Saarepera"
+            }
+          ]
+        },
+        {
+          "name": "Ilmi",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q1276415",
+              "name": "Ilmi Kolla"
+            },
+            {
+              "id": "Q12364424",
+              "name": "Ilmi Laur-Paist"
+            },
+            {
+              "id": "Q63977205",
+              "name": "Ilmi Nael"
+            }
+          ]
+        },
+        {
+          "name": "Kusti",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q65260650",
+              "name": "Kusti Nõlvak"
+            },
+            {
+              "id": "Q12367867",
+              "name": "Kusti Kokk"
+            },
+            {
+              "id": "Q121428437",
+              "name": "Kusti Salm"
+            }
+          ]
+        },
+        {
+          "name": "Arvid",
+          "before": 1,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q12359777",
+              "name": "Arvid Dietrich Leopold Thomson"
+            },
+            {
+              "id": "Q12359778",
+              "name": "Arvid Leopold Brasche"
+            },
+            {
+              "id": "Q12359776",
+              "name": "Arvid Reinwaldt"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "reused_lithuanian_citizenship_rows": 5263,
+    "reused_estonian_citizenship_rows": 9035,
+    "new_birthplace_rows": {
+      "lv": 4389,
+      "lt": 5850,
+      "ee": 7594
+    },
+    "eligible_birthplace_rows": {
+      "lv": 1132,
+      "lt": 783,
+      "ee": 963
+    },
+    "local_query": "P31 human, birthplace P19 / country P17, native label, at least two Wikipedia sitelinks; LIMIT 20000 not reached. Select native first names with fewer than five local exact bearers in the pre-round snapshot."
+  },
+  "validation": {
+    "unit_tests": 144,
+    "static_build": "passed",
+    "browser": "Passed in the page module context after a reload (writer 1.9.105): Broņislavs, Jumis, Pärt and Aare show the round 127 Siliņš and Rajandi histories, and Broņislavs, Pärt, Aare and Palmira show the new local namesakes.",
+    "history_facts": "Person facts unchanged in all 8677 profiles; reviewed histories added through the round 127 history module",
+    "display": "All 9368 memberships preserve every previously displayed person and show five distinct birthday people below exact namesakes."
+  }
+}

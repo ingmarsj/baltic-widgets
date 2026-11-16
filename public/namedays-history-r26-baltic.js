@@ -69,15 +69,15 @@ export const historiesEstonianR26={
       ],
       "ru": [
         "Maare: В эстонском списке Мягисте Maare прямо соотнесено с Maria. Семья Maria/Mariam ведёт к еврейскому Miryam, первоначальное значение которого достоверно не установлено. Историю форм можно проследить, не выбирая один предположительный перевод.",
-        "На странице 16 «Eestipäraseid isikunimesid» Юлиуса Мягисте 1929 года отдельно стоят Maare = Maria и Maaret = Margareete. Соседство важно: похожие краткие имена отнесены к разным связям. Объяснение Maaret поэтому не переносится на Maare."
+        "На странице 16 «Eestipäraseid isikunimesid» Юлиуса 1929 года отдельно стоят Maare = Maria и Maaret = Margareete. Соседство важно: похожие краткие имена отнесены к разным связям. Объяснение Maaret поэтому не переносится на Maare."
       ],
       "en": [
         "Maare: Mägiste’s Estonian list explicitly equates Maare with Maria. The Maria/Mariam family leads to Hebrew Miryam, whose original meaning is not securely known. The documented forms can be followed without selecting one speculative translation.",
-        "Printed page 16 of Julius Mägiste’s 1929 Eestipäraseid isikunimesid separately lists Maare = Maria and Maaret = Margareete. Their proximity is useful evidence: similar short names have different connections in the source. Maaret’s explanation should therefore not be transferred to Maare."
+        "Printed page 16 of Julius the 1929 Eestipäraseid isikunimesid separately lists Maare = Maria and Maaret = Margareete. Their proximity is useful evidence: similar short names have different connections in the source. Maaret’s explanation should therefore not be transferred to Maare."
       ],
       "lt": [
         "Maare: Mägiste estų vardyne Maare tiesiogiai susieta su Maria. Maria/Mariam šeima veda į hebrajų Miryam, kurio pirminė reikšmė patikimai nenustatyta. Galima sekti dokumentuotas formas nepasirenkant vieno spėjamo vertimo.",
-        "Juliaus Mägiste 1929 metų „Eestipäraseid isikunimesid“ 16 puslapyje atskirai pateikti Maare = Maria ir Maaret = Margareete. Gretimumas svarbus: panašūs trumpi vardai šaltinyje turi skirtingus ryšius. Maaret aiškinimo nereikia perkelti Maare."
+        "Juliaus 1929 metų „Eestipäraseid isikunimesid“ 16 puslapyje atskirai pateikti Maare = Maria ir Maaret = Margareete. Gretimumas svarbus: panašūs trumpi vardai šaltinyje turi skirtingus ryšius. Maaret aiškinimo nereikia perkelti Maare."
       ],
       "et": [
         "Maare: Mägiste eesti nimekirjas on Maare otseselt võrdsustatud Mariaga. Maria/Mariami pere viib heebrea Miryamini, mille algne tähendus pole kindlalt teada. Dokumenteeritud kujusid saab jälgida üht oletuslikku tõlget valimata.",

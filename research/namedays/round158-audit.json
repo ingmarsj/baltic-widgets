@@ -1,0 +1,79 @@
+{
+  "round": 158,
+  "date": "2026-11-16",
+  "writer_version": "namedays-1.9.131",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 1062,
+      "local_profiles_after": 1062,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 1792,
+      "with_five_local": 357,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": []
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 678,
+      "local_profiles_after": 678,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 728,
+      "with_five_local": 349,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": []
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 1033,
+      "local_profiles_after": 1033,
+      "local_exact_links_added": 0,
+      "new_exact_person_profile_links": 0,
+      "with_exact_namesakes": 1110,
+      "with_five_local": 541,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": []
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "reused_lithuanian_citizenship_rows": 5263,
+    "reused_estonian_citizenship_rows": 9035,
+    "new_birthplace_rows": {
+      "lv": 4389,
+      "lt": 5850,
+      "ee": 7594
+    },
+    "eligible_birthplace_rows": {
+      "lv": 1133,
+      "lt": 783,
+      "ee": 963
+    },
+    "local_query": "P31 human, birthplace P19 / country P17, native label, at least two Wikipedia sitelinks; LIMIT 20000 not reached. Select native first names with fewer than five local exact bearers in the pre-round snapshot."
+  },
+  "validation": {
+    "unit_tests": 158,
+    "static_build": "passed",
+    "browser": "Preview at localhost:8765 after cache reload: writer namedays-1.9.131; LV Frida (lv), Kamila (ru), Tālija (en), LT Ąžuolas (en), Baltramiejus (lt) and EE Hannes (et) show the reviewed history first and the labelled origin supplement after it",
+    "history_facts": "Person facts unchanged in all 8677 profiles; reviewed histories unchanged; rounds 156–158 add labelled June–August origin supplements after them",
+    "display": "All 9368 memberships preserve every previously displayed person and show five distinct birthday people below exact namesakes."
+  }
+}

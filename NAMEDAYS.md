@@ -1,8 +1,10 @@
 # Name-day widget
 
+For the current work priority, saved sources and next actions, start with [NAMEDAYS_TASKS.md](NAMEDAYS_TASKS.md). The [local exact namesake queue](NAMEDAYS_PEOPLE_BACKLOG.md) is generated separately from the history-verification backlog.
+
 The name-day widget occupies the existing desktop sidebar slot. Its desktop card remains **238 × 78 px**. In the compact layout it becomes the first tab, selected by default, before Energy, Horoscope and Markets; there is no duplicate mobile card. As many complete name pills as fit are shown, based on measured rendered widths and the exact remaining-count button. A single unusually long name is ellipsized while preserving the counter; its full text remains available on hover and in the dialog. The remaining count opens the complete list. Long names and narrow containers reduce the number of visible pills rather than increasing the card height. Layout is recalculated on container resizing, compact-tab changes and font loading.
 
-Clicking a name opens one native modal dialog. Names are visible buttons, with no name dropdown or duplicate name heading. Yesterday, Today and Tomorrow follow civil dates in **Europe/Riga**, including year boundaries, leap days and daylight-saving changes. The History, Namesakes and Celebrate tabs share the selected name. Celebrate offers three heartfelt and three humorous greetings, a next-version button and copying.
+Clicking a name opens one native modal dialog. Names are visible buttons, with no name dropdown or duplicate name heading. Yesterday, Today and Tomorrow follow civil dates in **Europe/Riga**, including year boundaries, leap days and daylight-saving changes. The History, Famous people and Celebrate tabs share the selected name. Famous people shows local exact-spelling namesakes first, international exact-spelling namesakes next, and keeps five people born on the selected date below them. Adding namesakes expands the list. See [selection rules and attribution](NAMEDAYS_PEOPLE.md). Celebrate offers three heartfelt and three humorous greetings, a next-version button and copying.
 
 ## Standalone use
 
@@ -25,6 +27,7 @@ Generated files are in `public/data/namedays/`:
 - `calendar-{lv,lt,ee}.json`: separate country calendars, each with its own top-level country and exact day membership.
 - `profiles-{lv,lt,ee}.json`: country-specific profile identities, facts, related forms, namesakes and provenance.
 - `coverage.json`: editorial coverage for all three countries.
+- `people-birthdays.json`: eight ranked birthday candidates for each of 366 calendar dates, used to fill remaining Famous people places.
 
 ### Country separation and editorial coverage
 
@@ -34,12 +37,25 @@ Writer version 1.7.0 removed fictional spelling-based histories and retains orig
 
 | Editorial level | LV | LT | EE |
 | --- | ---: | ---: | ---: |
-| Reviewed narrative | 1,210 | 553 | 573 |
-| Short factual summary | 3,089 | 778 | 273 |
-| Earlier attestation only | 308 | 1 | 10 |
-| Historical research still needed | 949 | 236 | 697 |
+| Reviewed narrative | 2,282 | 784 | 849 |
+| Short factual summary | 2,206 | 574 | 350 |
+| Earlier attestation only | 180 | 0 | 3 |
+| Historical research still needed | 888 | 210 | 351 |
 | Total profiles | 5,556 | 1,568 | 1,553 |
 | Fictional historical stories displayed | 0 | 0 | 0 |
+
+### Planned work
+
+- **Plain-language cleanup of displayed histories (in progress since 14 November 2026, reviewed histories only).** The widget is popular reading, not scholarship: displayed history text names no sources or authors and drops methodological caveats, while facts, dates, places and genuine uncertainty stay. Research modules keep their original wording and provenance; only the display changes, through `public/namedays-plain.js`:
+  1. **Automatic rules for all reviewed histories.** Caveat sentences are recognised in the English paragraph and removed at the same sentence position in every language (or as the same trailing block when a translation joins sentences). Source formulas are rewritten per language, for example “Klāvs Siliņš’s dictionary (1990) explicitly refers Inārija to Ināra” → “Inārija is a form of the name Ināra”, “The dictionary gives the following historical record: Riga, 1932; calendar 1937” → “Recorded use: Riga, 1932. In the calendar since 1937.” This cut about 300,000 words; English paragraphs with a source name fell from about 5,300 to about 260 and with a caveat from about 3,400 to about 380 (after the full calendar pass) (detector counts include some false positives).
+  2. **Hand rewrites in calendar order** in `public/namedays-plain-calendar.js`, all five languages per name, for the unique prose the rules cannot reach. All days of the year are done (completed 15 November 2026) (batches of up to ten days are kept in their own module, imported by `namedays-plain-calendar.js`). A hand rewrite wins only when all five languages are present.
+  - Not in scope by decision: template notices for unresearched names, unverified hypotheses (they keep their label and cautious wording) and the generic “date of the record, not of the name” note in the attestation box.
+  - **Style:** origin first, then related forms, then dated records and calendar entry, then one notable bearer or episode. Short sentences. Name a historical publication only as an event with its year (“the Lithuanian name calendar of 1964”), never an author or page. Keep real uncertainty in plain words (“probably”, “is not known”); do not explain what a date does not prove.
+  - **Check:** `node ../var/namedays-research/plain-day.mjs MM-DD` (from `github-public/`) lists the day’s displayed reviewed histories that still mention sources or caveats; `parsers/namedays-plain.test.mjs` covers the rules.
+
+- **History reuse for LT and EE — done in round 129 (writer 1.9.107).** LT and EE names now reuse a verified history from a spelling variant in their own calendar or from the identical LV name, with a note; LT and EE never borrow from each other. See AGENTS.md for the exact rule.
+- **Famous people (expanded in round 118).** Local exact namesakes now cover 2,092 profiles, up from 1,879 in round 117. Namesakes are added above an independent five-person birthday list; every previous displayed celebrity is retained. Continue improving local exact-name coverage and real localized labels; birthday people do not imply that five namesakes were found. [Coverage, limitations and data attribution](NAMEDAYS_PEOPLE.md).
+- **Spelling-variant reuse:** LV names whose only variant history is a spelling note (for example Valerijs, Valentīns) still need their own research; they are listed in the backlog as before.
 
 ### Research order
 
@@ -138,7 +154,7 @@ Every name examined in the round, including the 97 not yet written, is recorded 
 
 Round 2 also normalizes whitespace in calendar names (nine published LT names had stray spaces, which split two of them into duplicate profiles), makes the calendar validator reject padded names, corrects three reviewed LT misspellings (Arnasd, Felidta and Binifacas become Arnas, Felicita and Bonifacas; only the corrected forms are in the official VLKK registry) through `CALENDAR_CORRECTIONS` in `parsers/namedays.mjs`, and drops extraction artifacts where a source label such as “gloss” had been captured as an etymological word (Vitālis, Vitalis).
 
-The four readiness categories are mutually exclusive within each country. Reviewed narratives include explicitly reviewed name families; short summaries may contain only an origin, a sourced relationship or a namesake, so neither category implies a long individual biography. Related-name context is available for 2,435 LV, 73 LT and 178 EE profiles; these counts overlap the categories above. Context is limited to two direct reference links and does not recursively follow chains or copy another name's attestation. Possible connections remain qualified.
+The four readiness categories are mutually exclusive within each country. Reviewed narratives include explicitly reviewed name families; short summaries may contain only an origin, a sourced relationship or a namesake, so neither category implies a long individual biography. Related-name context is available for 2,764 LV, 73 LT and 196 EE profiles; these counts overlap the categories above. Context is limited to two direct reference links and does not recursively follow chains or copy another name's attestation. Possible connections remain qualified.
 
 Calendar-entry evidence is retained for 176 LV profiles. A date assigned to a shared or cross-referenced dictionary entry is labeled with both forms rather than presented as an exact-spelling date. For example, the catalogue's Kajs/Gajs entry gives 1767 and a separate 1942 attestation. The original dictionary page has not been independently inspected, so the former is not asserted as proof of the exact Kajs spelling in 1767. Calendar-entry years are not creation dates or automatically the earliest use of a name.
 
@@ -308,3 +324,109 @@ Latvian additions use exact Siliņš catalogue entries with an explicit form rel
 Calendar-order pass for all LV/LT/EE records on 6–10 May (5 dates). Accounts for 143 calendar-profile records: 21 existing reviewed records preserved and 122 unfinished records examined (122 distinct unfinished profiles). Adds 35 histories in five languages; 87 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 11 May. Additions: LV 23, LT 4, EE 8; 175 translations and 350 paragraphs. Writer: namedays-1.9.59.
 
 First round using the sources added on 13 November 2026. Estonian additions combine Rajandi with Mägiste 1929 and the newly cached Mägiste 1936 recommended list, whose labels (kstl., krk., sm., murd.) and the 1929 source key (Rnm. = Oskar Kallas’s new baptismal names, 3rd printing 1921) give datable context for Kahru, Aina, Aini, Ainike, Timmo, Timo, Helmi and Helma. Latvian additions use the Siliņš catalogue; Lithuanian additions use the verified Salys calendar pairs. No new hypothesis is displayed. See [round 102 notes](research/namedays/round102-notes.json) and [audit](research/namedays/round102-audit.json). The next fresh date is **11 May**.
+
+### Round 103: five calendar dates, 11–15 May
+
+Calendar-order pass for all LV/LT/EE records on 11–15 May (5 dates). Accounts for 130 calendar-profile records: 20 existing reviewed records preserved and 110 unfinished records examined (109 distinct unfinished profiles). Adds 33 histories in five languages; 76 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 16 May. Additions: LV 18, LT 10, EE 5; 165 translations and 330 paragraphs. Writer: namedays-1.9.60.
+
+First round with the printed Siliņš 1990 (LV-SILINS90): Latvian histories now cite the dictionary itself with printed page numbers instead of the attributed online catalogue, and multi-explanation entries (Milda, Ina, Karmena/Karmene, Gļebs) are written with every alternative kept. Estonian additions use Rajandi with Mägiste 1929/1936 (Viia, Liivar, Õile, Õili, Eedit); Lithuanian additions use verified Salys calendar pairs, including Gintarė (26 September) and Girdutis (2 October) from PDF314. No new hypothesis is displayed. See [round 103 notes](research/namedays/round103-notes.json) and [audit](research/namedays/round103-audit.json). The next fresh date is **16 May**.
+
+### Round 104: ten calendar dates, 16–25 May
+
+Calendar-order pass for all LV/LT/EE records on 16–25 May (10 dates). Accounts for 277 calendar-profile records: 45 existing reviewed records preserved and 232 unfinished records examined (232 distinct unfinished profiles). Adds 66 histories in five languages; 166 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 26 May. Additions: LV 32, LT 13, EE 21; 330 translations and 660 paragraphs. Writer: namedays-1.9.62.
+
+Before this round, LV history reuse went live (writer 1.9.61): Latvian names without their own history reuse the verified history of a spelling variant or of the identical LT/EE name, with a one-line note; LV reviewed histories rose from 1,304 to 1,494. Round 104 adds Latvian histories from the printed Siliņš 1990 (including Kleopatra, Erhards, Anselms, Venta and the two-explanation Marlens), verified Salys calendar pairs for Lithuanian names, and Estonian name groups from Rajandi with Mägiste 1929/1936 (Alar/Alari/Allar, the Erik family with Eerik’s folk-calendar day on 18 May, the Lille/Lilli/Lilja/Liilia/Liili group, Urban/Urbo with the old Urbanus day on 25 May, Urves, Ester/Esta/Este, Taimo). No new hypothesis is displayed. See [round 104 notes](research/namedays/round104-notes.json) and [audit](research/namedays/round104-audit.json). The next fresh date is **26 May**.
+
+### Round 105: ten calendar dates, 26 May–4 June
+
+Calendar-order pass for all LV/LT/EE records on 26 May–4 June (10 dates). Accounts for 307 calendar-profile records: 43 existing reviewed records preserved and 264 unfinished records examined (263 distinct unfinished profiles). Adds 76 histories in five languages; 187 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 5 June. Additions: LV 37, LT 16, EE 23; 380 translations and 760 paragraphs. Writer: namedays-1.9.63.
+
+Latvian histories come from the printed Siliņš 1990 (including Biruta, the priestess of Palanga, and Vilhelms, Vitolds, Nikodēms, Longins, Dzidra, Varonis); Lithuanian histories from Salys calendar pairs verified on PDF308 (21 May–8 June); Estonian name groups from Rajandi with Mägiste 1929/1936 (Toivo, a Finnish calendar name on 4 June since 1908, and the medieval tõiv- forms; the Helga family; Roomet/Roomo/Roome from Fromhold with Fromo recorded at Padise in 1564; Argo; Luulik; Sirle/Sirli; Miina; Viive/Viivi). No new hypothesis is displayed. See [round 105 notes](research/namedays/round105-notes.json) and [audit](research/namedays/round105-audit.json). The next fresh date is **5 June**.
+
+### Round 106: ten calendar dates, 5–14 June
+
+Calendar-order pass for all LV/LT/EE records on 5–14 June (10 dates). Accounts for 259 calendar-profile records: 28 existing reviewed records preserved and 231 unfinished records examined (231 distinct unfinished profiles). Adds 53 histories in five languages; 178 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 15 June. Additions: LV 27, LT 11, EE 15; 265 translations and 530 paragraphs. Writer: namedays-1.9.64.
+
+Latvian histories from the printed Siliņš 1990 (including Nora from Eleonora, Bonifacijs, Ingvars, Lukrēcija, Anatols, Mamerts, Salome, Zālamans); Lithuanian histories from Salys calendar pairs verified on PDF309 (9–29 June); Estonian name groups from Rajandi with Mägiste 1929/1936 (Viljar/Viljer, Viljo/Vilju, Esko/Eskel with the 1752 mill hand Eskel in Tallinn, Monika/Moonika/Mooni, Amalie/Maali, Mailis, Endla, Enda, Haljand). Ainārs stays open because its only explanation is question-marked. No new hypothesis is displayed. See [round 106 notes](research/namedays/round106-notes.json) and [audit](research/namedays/round106-audit.json). The next fresh date is **15 June**.
+
+### Round 107: ten calendar dates, 15–24 June
+
+Calendar-order pass for all LV/LT/EE records on 15–24 June (10 dates). Accounts for 258 calendar-profile records: 54 existing reviewed records preserved and 204 unfinished records examined (203 distinct unfinished profiles). Adds 61 histories in five languages; 142 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 25 June. Additions: LV 29, LT 13, EE 19; 305 translations and 610 paragraphs. Writer: namedays-1.9.65.
+
+Latvian histories from the printed Siliņš 1990 (including Baņuta, the heroine of Alfrēds Kalniņš's opera; Maira with its four explanations; Mečislavs, Bogdans, Bogumila and Adalberts as stated compounds; Līgonis from *līgot*; Palmīra from the city of Palmyra); Lithuanian histories from Salys calendar pairs verified on PDF309 (9–29 June); Estonian name groups from Rajandi with Mägiste 1929/1936 (Viit/Viido and Vitus day, Guido/Kuido, Sigrid/Siiri/Siivi, Auli, Aurelia/Auri/Reeli, Lota/Karlotte, the Johannes forms Juho/Juss/Janno/Hannes/Ants, and Päivi). Vitus and Napoleons stay open for a multi-explanation write-up. No new hypothesis is displayed. See [round 107 notes](research/namedays/round107-notes.json) and [audit](research/namedays/round107-audit.json). The next fresh date is **25 June**.
+
+### Round 108: ten calendar dates, 25 June–4 July
+
+Calendar-order pass for all LV/LT/EE records on 25 June–4 July (10 dates). Accounts for 255 calendar-profile records: 53 existing reviewed records preserved and 202 unfinished records examined (202 distinct unfinished profiles). Adds 76 histories in five languages; 126 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 5 July. Additions: LV 53, LT 6, EE 17; 380 translations and 760 paragraphs. Writer: namedays-1.9.66.
+
+Latvian histories from the printed Siliņš 1990, read through an expanded headword index that also resolves combined headwords such as Paul/s, -is, Mil(l)ija and Inguna (-u-:-ū-): Viesturs as the elder of Tērvete, Pauls/Paulis from Latin *Paulus*, the Pēteris forms Pīters, Pjotrs and Petro, Natans/Nātans with Lessing's *Nathan the Wise*, Narciss with the myth of Narcissus, Neda with Leoncavallo's *Pagliacci*, Tālivaldis, Rimants, Narimants and Viestarts as stated compounds, and Latin-based Benigna, Verita, Emerita and Emerencija. Lithuanian histories come from Salys calendar pairs; the Salys page PDF310/printed295 (30 June–18 July) was transcribed from the page image in this round. Estonian groups come from Rajandi with Mägiste 1929/1936: Peet/Peedo/Peedu (Peter and Paul's day), Elviira, Elfriide/Elfi/Elvi, Leopold, Arvo, Milvi, Päivu/Päivo, Vane/Vaane/Vanevald/Manivald from the Livonian Chronicle of Henry, and Virgo. Peep, Vaino and Vaano stay open. No new hypothesis is displayed. See [round 108 notes](research/namedays/round108-notes.json) and [audit](research/namedays/round108-audit.json). The next fresh date is **5 July**.
+
+### Round 109: ten calendar dates, 5–14 July
+
+Calendar-order pass for all LV/LT/EE records on 5–14 July (10 dates). Accounts for 240 calendar-profile records: 52 existing reviewed records preserved and 188 unfinished records examined (188 distinct unfinished profiles). Adds 70 histories in five languages; 118 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 15 July. Additions: LV 35, LT 12, EE 23; 350 translations and 700 paragraphs. Writer: namedays-1.9.67.
+
+Latvian histories from the printed Siliņš 1990 through the expanded headword index: Esmeralda with Victor Hugo's heroine, Samsons with Saint-Saëns's *Samson and Delilah*, Nameisis as the 13th-century Semigallian ruler (and Namejs from it), Indriķis/Intis/Anrijs from Heinrihs, Zaiga from *zaigot*, Ritvars as a stated compound, Svens/Svenis, Arkādijs, Nonna, Olīva and Oniksa. Lithuanian histories come from Salys calendar pairs on PDF309–310. Estonian groups come from Rajandi with Mägiste 1929/1936: Koidu and Koidula (Lydia Koidula's pen name), the Eleonora forms Ellinor/Eleonoora/Leonoora/Nora/Noora, Aive/Aivi, Saima/Saime/Saimi from Lake Saimaa and Snellman's newspaper, the Hermann forms, the Margareta forms Mareta/Meeta/Kreet/Kreeta with the 13 July folk-calendar name, and Joel. Agripīna and Olivers stay open for multi-explanation write-ups. No new hypothesis is displayed. See [round 109 notes](research/namedays/round109-notes.json) and [audit](research/namedays/round109-audit.json). The next fresh date is **15 July**.
+
+### Round 110: ten calendar dates, 15–24 July
+
+Calendar-order pass for all LV/LT/EE records on 15–24 July (10 dates). Accounts for 286 calendar-profile records: 59 existing reviewed records preserved and 227 unfinished records examined (226 distinct unfinished profiles). Adds 78 histories in five languages; 148 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 25 July. Additions: LV 46, LT 13, EE 19; 390 translations and 780 paragraphs. Writer: namedays-1.9.68.
+
+Latvian histories from the printed Siliņš 1990: Heinrihs as an Old High German compound (Riga 1302) with Heinis, Heincs, Hendrihs and Hendriks; Roza/Roze from Latin *rosa* with Rozālija, Rosita, Rosvita, Rozemarija and Rozīte; Jautrīte with Aspazija's *Sidraba šķidrauts*, Jautra and Jautris from *jautrs*; Kamils and Kamil(l)a; Estera, Sāra, Digna, Magdalēna (13th century), Kristiāns and the Kristīna forms. Lithuanian histories come from Salys calendar pairs; the Salys page PDF311/printed296 (19 July–4 August) was transcribed from the page image in this round. Estonian groups come from Rajandi with Mägiste 1929/1936: the Reinhold forms (Kreutzwald's second name), Meeme/Meemo from the Livonian Chronicle of Henry, Magdaleena/Magda/Made/Madli/Mall with the Maarja-Magdaleena parish name, Kristin/Krista/Kerstin/Rista, Saara/Salli and Senta with Wagner's *Flying Dutchman*. Leen, Leena and Leeni stay open because Rajandi derives them mainly from Helena. No new hypothesis is displayed. See [round 110 notes](research/namedays/round110-notes.json) and [audit](research/namedays/round110-audit.json). The next fresh date is **25 July**.
+
+### Round 111: ten calendar dates, 25 July–3 August
+
+Calendar-order pass for all LV/LT/EE records on 25 July–3 August (10 dates). Accounts for 299 calendar-profile records: 61 existing reviewed records preserved and 238 unfinished records examined (238 distinct unfinished profiles). Adds 71 histories in five languages; 167 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 4 August. Additions: LV 49, LT 9, EE 13; 355 translations and 710 paragraphs. Writer: namedays-1.9.69.
+
+Latvian histories from the printed Siliņš 1990: Jēkabs with the 25 July custom of carrying the first loaf of new bread to the field, Džems/Džeims and Jakovs; Džemma with Voynich's *The Gadfly*; Annele with Anna Brigadere's trilogy and the Anna forms Ance, Annija, Anniņa and Aņuta; Edmunds, Valters, Normans and Normunda, Radvils and Vidmants as stated compounds; Rafaels, Cilda, Augusts, Eliass, Angelika and the Angela forms. Lithuanian histories come from Salys calendar pairs on PDF311. Estonian groups come from Rajandi with Mägiste 1929/1936: Jakob/Jaagup/Jaak/Jako/Jass with the 25 July farming and weather sayings, Olav/Olavi/Olaf with St Olaf's Church in Tallinn (1267), Kaljo (Ansomardi 1903, Oskar Kallas 1911), Maire/Mairi from Finnish *maire*, and Marve/Marvi from Marta. No new hypothesis is displayed. See [round 111 notes](research/namedays/round111-notes.json) and [audit](research/namedays/round111-audit.json). The next fresh date is **4 August**.
+
+
+### Round 112: 4 August–2 September
+
+Calendar-order pass for all LV/LT/EE records on 4 August–2 September (30 dates). Accounts for 829 calendar-profile records: 126 existing reviewed records preserved and 703 unfinished records examined (698 distinct unfinished profiles). Adds 187 histories in five languages; 511 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 3 September. Additions: LV 116, LT 41, EE 30; 935 translations and 1870 paragraphs.
+
+The pass reuses the private source cache and visually checks the printed Siliņš 1990, Salys 1983, Rajandi 1966 and Mägiste 1929/1936 originals. LPVV entry 258 adds the documented Eberhards → Everhard → Everts transmission and preserves the historical spelling Evert in the 1566 accounts. No new source downloads were needed. All thirty dates include every unfinished LV, LT and EE calendar profile; existing reviewed narratives are preserved.
+
+Exact-spelling checks distinguish Romena/Romēna, Tālija/Talija, Valīda/Valida, Bernade/Bernarde and Mäive/Maive/Maivi. Masculine Finnish Janne in Mägiste is not used to date the Estonian feminine name. Competing roots, uncertain historical readings and a shared entry’s dates remain scoped to the actual evidence. New Lithuanian calendar narratives retain the 1964 calendar’s own dates without changing the supplied calendar. Source links remain provenance and working-file evidence only.
+
+See [round 112 notes](research/namedays/round112-notes.json) and [audit](research/namedays/round112-audit.json). The next fresh date is **3 September**.
+
+
+### Round 113: 3 September–2 October
+
+Calendar-order pass for all LV/LT/EE records on 3 September–2 October (30 dates). Accounts for 753 calendar-profile records: 145 existing reviewed records preserved and 608 unfinished records examined (604 distinct unfinished profiles). Adds 155 histories in five languages; 449 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 3 October. Additions: LV 98, LT 27, EE 30; 775 translations and 1550 paragraphs.
+
+The pass reuses cached primary books and exact catalogue snapshots. New narratives distinguish a documented name-form relationship from a distant lexical etymology and a dictionary-reported historical record from independently inspected register orthography. The five-language templates remain consistent with the preceding rounds. No new hypothesis is displayed.
+
+Original-page checks corrected the Salys pairs to Erdenis (Erdys), Eisvinas (Eisas), Rolandas (Rolas) and Eufemija (Fema). The modern supplied calendar is preserved. Siliņš’s shared Ermīna/Ermīne, Gunvaldis/Gunivaldis, Medards/Medarts and Skaidris/Skaidrītis entries retain shared date scope. Siringa is not used as evidence for Sīringa, and Vencs’s Sigulda 1638 record is not assigned to Venceslavs.
+
+Estonian recommendations are checked as actual list entries, with masculine/feminine scope retained. Finnish comparison Raimo is not represented as an independent 1929 Estonian list headword. Priido does not inherit Priidu’s publication evidence or Predrik’s 1753 record. The inspected 1936 guide lists Vilve, not Vilvi; the latter stays open. Text-layer/index-only leads remain unverified.
+
+See [round113 notes](research/namedays/round113-notes.json) and [audit](research/namedays/round113-audit.json). Sources and claim limits are recorded in working files and provenance only. Private raw archives, page images and downloaders remain outside the public repository. The next fresh date is **3 October**.
+
+
+### Round 114: 3 October–1 November
+
+Calendar-order pass for all LV/LT/EE records on 3 October–1 November (30 dates). Accounts for 746 calendar-profile records: 134 existing reviewed records preserved and 612 unfinished records examined (608 distinct unfinished profiles). Adds 159 histories in five languages; 449 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. Next fresh date: 2 November. Additions: LV 100, LT 27, EE 32; 795 translations and 1,590 paragraphs.
+
+The annual pass began on 12 November. Before this batch, 40 calendar dates remained (3 October–11 November); after these 30 dates, the final 10 dates are 2–11 November. This measures research-pass coverage, not verified-complete histories. Open profiles remain in the verification backlog.
+
+The pass reuses cached originals. Siliņš relationships retain exact spelling, combined-entry date scope and alternative interpretations. Arvēds does not inherit the adjacent Arvīda record from Rūjiena in 1877; Dainars does not inherit a questioned Dainārs explanation. The original Taīsija headword does not verify the OCR form Taisija. Beāta and Beata remain distinct.
+
+The Salys calendar supplies scoped full/short-form recommendations, not remote roots. The inspected text reads Kalistas, Alodija, Mąstautas and Mąstvilas. Teresė Kūdikėlio Jėzaus and Teresė iš Avilos retain their qualified scope. The Judas Tadas row is not treated as a full/short-form pair. All contemporary supplied calendar dates are preserved.
+
+Estonian recommendations are accepted only for exact list entries and explicit form relationships. Rajandi's Atso/Aatso reading discussion is not converted into a unique ancient origin. A bracketed Siimon entry or a Luukas comparison under Lugas is not silently promoted to an unqualified recommendation. A guide's year dates its publication, not the invention of a name.
+
+See [round114 notes](research/namedays/round114-notes.json) and [audit](research/namedays/round114-audit.json). Sources, exact locations and unsuccessful leads are recorded in working files and provenance. The existing LU raw archive and downloader remain private. The next fresh date is **2 November**.
+
+
+### Round 115: 2–11 November; first annual pass complete
+
+Calendar-order pass for all LV/LT/EE records on 2–11 November (10 dates). Accounts for 252 calendar-profile records: 57 existing reviewed records preserved and 195 unfinished records examined (195 distinct unfinished profiles). Adds 62 histories in five languages; 133 distinct profiles remain unverified. A completed pass is not verified-complete. No new hypothesis is displayed. The first annual calendar-order pass is now complete; unresolved histories remain in the verification backlog. Additions: LV 47, LT 8, EE 7; 310 translations and 620 paragraphs.
+
+The first annual calendar-order pass now covers **all 366 calendar dates, including 29 February**, from 12 November through 11 November. No fresh dates remain. The [annual pass audit](research/namedays/annual-pass1-audit.json) checks that every date has research notes and every calendar membership either has a reviewed narrative or an individual outcome for that date. All memberships are accounted for. This is completion of the research pass, not a claim that every name history is verified.
+
+The final batch preserves 57 previously reviewed calendar records and examines 195 unfinished records. Sources remain in working files and provenance. Original-page checks preserve the Lenards/Lenarts, Lotars/Lotārs, Lote/Lotte, Otis/Ote/Otiņš, Marcijana/Marcijanna and Nella/Nelli shared-entry scope. The enlarged Siliņš original has bold Otomars but an italic Otomārs reference under Otomija; this inconsistency remains open. Leonārs and Agrīte are not silently changed to unmacroned OCR forms.
+
+Salys calendar recommendations remain distinct from remote etymologies and the supplied contemporary calendar. The row Silvija (Silva) does not verify exact Sitvija; Andrejus Avelinas does not verify Evelina. Estonian Ado/Aado/Aadu and Märt/Märten relationships retain their precise guide entries. The Mardi hit in a Korjus example is not a bold naming recommendation. Hinge, Kiiri, Kaimo and Elev guide listings alone do not establish their formations. No new unverified hypothesis is displayed.
+
+See [round115 notes](research/namedays/round115-notes.json) and [audit](research/namedays/round115-audit.json). Private originals, page renders and the LU downloader/raw archive remain outside the public repository. The remaining work is the existing verification backlog, the planned LT/EE history reuse, the separate prose-cleanup run and namesake coverage; none is implied to be complete by the annual-pass milestone.

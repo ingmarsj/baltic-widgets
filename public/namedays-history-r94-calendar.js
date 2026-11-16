@@ -2070,7 +2070,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi equates Agaata and Agaate with Agatha/Agathe, explaining the Greek base as “good, kind”. These are recorded forms of the same name family.",
-          "Mägiste’s 1929 name book already lists Aede / Aet = Agaate. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
+          "the 1929 name book already lists Aede / Aet = Agaate. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
         ],
         "lv": [
           "Rajandi Agaata un Agaate pielīdzina Agatha/Agathe, grieķu pamatu skaidrojot kā «laba, laipna». Tās ir fiksētas vienas personvārdu saimes formas.",
@@ -2078,11 +2078,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Раянди приравнивает Agaata и Agaate к Agatha/Agathe, объясняя греческую основу как «добрая, хорошая». Это засвидетельствованные формы одной семьи имён.",
-          "Книга имён Мягисте 1929 года уже содержит Aede / Aet = Agaate. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
+          "Книга имён 1929 года уже содержит Aede / Aet = Agaate. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
         ],
         "lt": [
           "Rajandi Agaata ir Agaate prilygina Agatha/Agathe, graikišką pamatą aiškindamas „gera, maloni“. Tai paliudytos vienos vardų šeimos formos.",
-          "Mägiste 1929 metų vardų knygoje jau pateikta Aede / Aet = Agaate. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
+          "1929 metų vardų knygoje jau pateikta Aede / Aet = Agaate. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
         ],
         "et": [
           "Rajandi võrdsustab Agaata ja Agaate nimega Agatha/Agathe, seletades kreeka alust kui „hea, lahke”. Need on sama nimepere talletatud kujud.",
@@ -2097,7 +2097,7 @@ export const historiesCalendarR94={
       ],
       "text": {
         "en": [
-          "Rajandi explains Aet as a short form of Agatha through German Aget. Mägiste’s 1929 book explicitly gives Aede / Aet = Agaate.",
+          "Rajandi explains Aet as a short form of Agatha through German Aget. the 1929 book explicitly gives Aede / Aet = Agaate.",
           "The 1966 account notes the name’s continuing use, especially on Hiiumaa, and its occurrence in the 1962–1963 birth-register material. Those observations describe the historical sample."
         ],
         "lv": [
@@ -2105,11 +2105,11 @@ export const historiesCalendarR94={
           "1966. gada aprakstā minēts vārda pastāvīgs lietojums, īpaši Hījumā, un tā klātbūtne 1962.–1963. gada dzimšanas reģistru materiālā. Novērojumi attiecas uz vēsturisko izlasi."
         ],
         "ru": [
-          "Раянди объясняет Aet как краткую форму Agatha через немецкое Aget. В книге Мягисте 1929 года прямо дано Aede / Aet = Agaate.",
+          "Раянди объясняет Aet как краткую форму Agatha через немецкое Aget. В книге 1929 года прямо дано Aede / Aet = Agaate.",
           "Описание 1966 года отмечает сохранение имени, особенно на Хийумаа, и его присутствие в материалах регистраций рождений 1962–1963 годов. Эти наблюдения относятся к исторической выборке."
         ],
         "lt": [
-          "Rajandi Aet aiškina kaip Agatha trumpinį per vokišką Aget. Mägiste 1929 metų knygoje tiesiogiai pateikta Aede / Aet = Agaate.",
+          "Rajandi Aet aiškina kaip Agatha trumpinį per vokišką Aget. 1929 metų knygoje tiesiogiai pateikta Aede / Aet = Agaate.",
           "1966 metų aprašyme pažymėtas tolesnis vardo vartojimas, ypač Hyjumoje, ir jo buvimas 1962–1963 metų gimimų registrų medžiagoje. Šie pastebėjimai apibūdina istorinę imtį."
         ],
         "et": [
@@ -2181,7 +2181,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi’s 1966 name dictionary explicitly connects Richard with Riho / Riko / Riks; Rikart / Rihkard. The connection documents an Estonian name family rather than an exclusive origin for every international bearer.",
-          "Mägiste’s 1929 name book already lists Riku = Richard. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
+          "the 1929 name book already lists Riku = Richard. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
         ],
         "lv": [
           "Rajandi 1966. gada personvārdu vārdnīca Richard tieši saista ar Riho / Riko / Riks; Rikart / Rihkard. Saikne dokumentē igauņu vārdu saimi, nevis katra šā vārda nēsātāja vienīgo iespējamo izcelsmi.",
@@ -2189,11 +2189,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Словарь имён Раянди 1966 года прямо связывает Richard с Riho / Riko / Riks; Rikart / Rihkard. Эта связь документирует эстонскую семью имён, а не единственное происхождение имени каждого носителя в мире.",
-          "Книга имён Мягисте 1929 года уже содержит Riku = Richard. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
+          "Книга имён 1929 года уже содержит Riku = Richard. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
         ],
         "lt": [
           "Rajandi 1966 metų vardų žodynas Richard tiesiogiai sieja su Riho / Riko / Riks; Rikart / Rihkard. Ryšys paliudija estišką vardų šeimą, o ne vienintelę kilmę kiekvienam tarptautiniam vardo turėtojui.",
-          "Mägiste 1929 metų vardų knygoje jau pateikta Riku = Richard. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
+          "1929 metų vardų knygoje jau pateikta Riku = Richard. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
         ],
         "et": [
           "Rajandi 1966. aasta nimesõnastik seob nime Richard otseselt nimega Riho / Riko / Riks; Rikart / Rihkard. Seos dokumenteerib eesti nimeperekonda, mitte iga rahvusvahelise kandja ainsat võimalikku nimepäritolu.",
@@ -2209,7 +2209,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi’s 1966 name dictionary explicitly connects Riko with Riho → Richard. The connection documents an Estonian name family rather than an exclusive origin for every international bearer.",
-          "Mägiste’s 1929 name book already lists Riku = Richard. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
+          "the 1929 name book already lists Riku = Richard. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
         ],
         "lv": [
           "Rajandi 1966. gada personvārdu vārdnīca Riko tieši saista ar Riho → Richard. Saikne dokumentē igauņu vārdu saimi, nevis katra šā vārda nēsātāja vienīgo iespējamo izcelsmi.",
@@ -2217,11 +2217,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Словарь имён Раянди 1966 года прямо связывает Riko с Riho → Richard. Эта связь документирует эстонскую семью имён, а не единственное происхождение имени каждого носителя в мире.",
-          "Книга имён Мягисте 1929 года уже содержит Riku = Richard. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
+          "Книга имён 1929 года уже содержит Riku = Richard. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
         ],
         "lt": [
           "Rajandi 1966 metų vardų žodynas Riko tiesiogiai sieja su Riho → Richard. Ryšys paliudija estišką vardų šeimą, o ne vienintelę kilmę kiekvienam tarptautiniam vardo turėtojui.",
-          "Mägiste 1929 metų vardų knygoje jau pateikta Riku = Richard. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
+          "1929 metų vardų knygoje jau pateikta Riku = Richard. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
         ],
         "et": [
           "Rajandi 1966. aasta nimesõnastik seob nime Riko otseselt nimega Riho → Richard. Seos dokumenteerib eesti nimeperekonda, mitte iga rahvusvahelise kandja ainsat võimalikku nimepäritolu.",
@@ -2236,7 +2236,7 @@ export const historiesCalendarR94={
       ],
       "text": {
         "en": [
-          "Mägiste’s 1929 book explicitly lists Riku as a dialectal equivalent of Richard. The entry records the exact short form with its dialect label.",
+          "the 1929 book explicitly lists Riku as a dialectal equivalent of Richard. The entry records the exact short form with its dialect label.",
           "Rajandi’s 1966 Richard entry separately records Riho, Riko and Riks. Together the references document a family of short forms while keeping Riku’s 1929 publication date attached to its own entry."
         ],
         "lv": [
@@ -2244,11 +2244,11 @@ export const historiesCalendarR94={
           "Rajandi 1966. gada Richard šķirklī atsevišķi fiksēti Riho, Riko un Riks. Avoti dokumentē īso formu saimi, Riku 1929. gada publikācijas datumu saglabājot pie paša ieraksta."
         ],
         "ru": [
-          "Книга Мягисте 1929 года прямо приводит Riku как диалектное соответствие Richard. Статья фиксирует точную краткую форму с диалектной пометой.",
+          "Книга 1929 года прямо приводит Riku как диалектное соответствие Richard. Статья фиксирует точную краткую форму с диалектной пометой.",
           "Статья Richard у Раянди 1966 года отдельно фиксирует Riho, Riko и Riks. Вместе источники документируют семью кратких форм, сохраняя дату публикации Riku в 1929 году за его собственной статьёй."
         ],
         "lt": [
-          "Mägiste 1929 metų knygoje Riku tiesiogiai pateikta kaip tarminis Richard atitikmuo. Įrašas paliudija tikslų trumpinį su tarmine žyma.",
+          "1929 metų knygoje Riku tiesiogiai pateikta kaip tarminis Richard atitikmuo. Įrašas paliudija tikslų trumpinį su tarmine žyma.",
           "Rajandi 1966 metų Richard straipsnyje atskirai pateikta Riho, Riko ir Riks. Šaltiniai paliudija trumpinių šeimą, Riku 1929 metų publikacijos datą paliekant prie jo paties įrašo."
         ],
         "et": [
@@ -2319,7 +2319,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi’s 1966 name dictionary explicitly connects Ella with Eleonora / Elfrieda / Elisabeth / Helena. The connection documents an Estonian name family rather than an exclusive origin for every international bearer.",
-          "Mägiste’s 1929 name book already lists Ell / Ella / Ellu. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
+          "the 1929 name book already lists Ell / Ella / Ellu. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
         ],
         "lv": [
           "Rajandi 1966. gada personvārdu vārdnīca Ella tieši saista ar Eleonora / Elfrieda / Elisabeth / Helena. Saikne dokumentē igauņu vārdu saimi, nevis katra šā vārda nēsātāja vienīgo iespējamo izcelsmi.",
@@ -2327,11 +2327,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Словарь имён Раянди 1966 года прямо связывает Ella с Eleonora / Elfrieda / Elisabeth / Helena. Эта связь документирует эстонскую семью имён, а не единственное происхождение имени каждого носителя в мире.",
-          "Книга имён Мягисте 1929 года уже содержит Ell / Ella / Ellu. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
+          "Книга имён 1929 года уже содержит Ell / Ella / Ellu. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
         ],
         "lt": [
           "Rajandi 1966 metų vardų žodynas Ella tiesiogiai sieja su Eleonora / Elfrieda / Elisabeth / Helena. Ryšys paliudija estišką vardų šeimą, o ne vienintelę kilmę kiekvienam tarptautiniam vardo turėtojui.",
-          "Mägiste 1929 metų vardų knygoje jau pateikta Ell / Ella / Ellu. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
+          "1929 metų vardų knygoje jau pateikta Ell / Ella / Ellu. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
         ],
         "et": [
           "Rajandi 1966. aasta nimesõnastik seob nime Ella otseselt nimega Eleonora / Elfrieda / Elisabeth / Helena. Seos dokumenteerib eesti nimeperekonda, mitte iga rahvusvahelise kandja ainsat võimalikku nimepäritolu.",
@@ -2347,7 +2347,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi’s 1966 name dictionary explicitly connects Ellu with Eleonora / Elisabeth / Helena. The connection documents an Estonian name family rather than an exclusive origin for every international bearer.",
-          "Mägiste’s 1929 name book already lists Ell / Ella / Ellu. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
+          "the 1929 name book already lists Ell / Ella / Ellu. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
         ],
         "lv": [
           "Rajandi 1966. gada personvārdu vārdnīca Ellu tieši saista ar Eleonora / Elisabeth / Helena. Saikne dokumentē igauņu vārdu saimi, nevis katra šā vārda nēsātāja vienīgo iespējamo izcelsmi.",
@@ -2355,11 +2355,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Словарь имён Раянди 1966 года прямо связывает Ellu с Eleonora / Elisabeth / Helena. Эта связь документирует эстонскую семью имён, а не единственное происхождение имени каждого носителя в мире.",
-          "Книга имён Мягисте 1929 года уже содержит Ell / Ella / Ellu. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
+          "Книга имён 1929 года уже содержит Ell / Ella / Ellu. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
         ],
         "lt": [
           "Rajandi 1966 metų vardų žodynas Ellu tiesiogiai sieja su Eleonora / Elisabeth / Helena. Ryšys paliudija estišką vardų šeimą, o ne vienintelę kilmę kiekvienam tarptautiniam vardo turėtojui.",
-          "Mägiste 1929 metų vardų knygoje jau pateikta Ell / Ella / Ellu. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
+          "1929 metų vardų knygoje jau pateikta Ell / Ella / Ellu. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
         ],
         "et": [
           "Rajandi 1966. aasta nimesõnastik seob nime Ellu otseselt nimega Eleonora / Elisabeth / Helena. Seos dokumenteerib eesti nimeperekonda, mitte iga rahvusvahelise kandja ainsat võimalikku nimepäritolu.",
@@ -2485,7 +2485,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi gives three name connections for Elma: Wilhelma, a contraction of Elisabeth and Maria (El + Ma), and a variant of Alma. These are separate recorded routes, without choosing one for every family.",
-          "Mägiste’s 1929 name book already lists Elma. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
+          "the 1929 name book already lists Elma. The publication establishes the forms’ presence in the naming literature at that date; it does not identify their first bearers."
         ],
         "lv": [
           "Rajandi Elma dod trīs saiknes: Wilhelma, Elisabeth un Maria savilkumu (El + Ma) un Alma variantu. Tie ir atsevišķi fiksēti ceļi, neizvēloties vienu visām ģimenēm.",
@@ -2493,11 +2493,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Раянди даёт для Elma три связи: Wilhelma, стяжение Elisabeth и Maria (El + Ma) и вариант Alma. Это отдельные засвидетельствованные пути без выбора одного для всех семей.",
-          "Книга имён Мягисте 1929 года уже содержит Elma. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
+          "Книга имён 1929 года уже содержит Elma. Публикация подтверждает наличие этих форм в ономастической литературе к этой дате, не устанавливая первых носителей."
         ],
         "lt": [
           "Rajandi Elma pateikia tris sąsajas: Wilhelma, Elisabeth ir Maria sutraukimą (El + Ma) bei Alma variantą. Tai atskiri paliudyti keliai, nepasirenkant vieno visoms šeimoms.",
-          "Mägiste 1929 metų vardų knygoje jau pateikta Elma. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
+          "1929 metų vardų knygoje jau pateikta Elma. Leidinys paliudija šių formų buvimą vardų literatūroje tuo metu, nenustatydamas pirmųjų turėtojų."
         ],
         "et": [
           "Rajandi annab Elmale kolm nimeseost: Wilhelma, Elisabethi ja Maria kokkutõmme (El + Ma) ning Alma teisend. Need on eraldi talletatud teed, valimata üht kõigi perede jaoks.",
@@ -2512,7 +2512,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi’s 1966 name dictionary explicitly connects Elmi with Helmi. The connection documents an Estonian name family rather than an exclusive origin for every international bearer.",
-          "The source index in the 1966 dictionary attributes Elmi to Mägiste’s 1936 material, writing Elmi (= Helmi). This dates the cited naming reference rather than the first birth of an Elmi."
+          "The source index in the 1966 dictionary attributes Elmi to the 1936 material, writing Elmi (= Helmi). This dates the cited naming reference rather than the first birth of an Elmi."
         ],
         "lv": [
           "Rajandi 1966. gada personvārdu vārdnīca Elmi tieši saista ar Helmi. Saikne dokumentē igauņu vārdu saimi, nevis katra šā vārda nēsātāja vienīgo iespējamo izcelsmi.",
@@ -2520,11 +2520,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Словарь имён Раянди 1966 года прямо связывает Elmi с Helmi. Эта связь документирует эстонскую семью имён, а не единственное происхождение имени каждого носителя в мире.",
-          "Указатель источников словаря 1966 года относит Elmi к материалу Мягисте 1936 года, записывая Elmi (= Helmi). Это датирует цитируемый источник имён, а не рождение первой Elmi."
+          "Указатель источников словаря 1966 года относит Elmi к материалу 1936 года, записывая Elmi (= Helmi). Это датирует цитируемый источник имён, а не рождение первой Elmi."
         ],
         "lt": [
           "Rajandi 1966 metų vardų žodynas Elmi tiesiogiai sieja su Helmi. Ryšys paliudija estišką vardų šeimą, o ne vienintelę kilmę kiekvienam tarptautiniam vardo turėtojui.",
-          "1966 metų žodyno šaltinių rodyklė Elmi priskiria Mägiste 1936 metų medžiagai, užrašydama Elmi (= Helmi). Taip datuojamas cituojamas vardų šaltinis, o ne pirmosios Elmi gimimas."
+          "1966 metų žodyno šaltinių rodyklė Elmi priskiria 1936 metų medžiagai, užrašydama Elmi (= Helmi). Taip datuojamas cituojamas vardų šaltinis, o ne pirmosios Elmi gimimas."
         ],
         "et": [
           "Rajandi 1966. aasta nimesõnastik seob nime Elmi otseselt nimega Helmi. Seos dokumenteerib eesti nimeperekonda, mitte iga rahvusvahelise kandja ainsat võimalikku nimepäritolu.",
@@ -2566,20 +2566,20 @@ export const historiesCalendarR94={
       ],
       "text": {
         "en": [
-          "Mägiste’s 1929 book pairs Ikk with Iko. His introduction explains that these alternatives have different inflection: Ikk has genitive Iku, while Iko can keep Iko in both nominative and genitive.",
-          "Rajandi’s 1966 index also records Iko, citing Mägiste’s 1936 material and Nõmme’s 1935–1940 records. Older Ick and Icko comparisons in the 1929 book are not exact-spelling Iko first-birth dates."
+          "the 1929 book pairs Ikk with Iko. His introduction explains that these alternatives have different inflection: Ikk has genitive Iku, while Iko can keep Iko in both nominative and genitive.",
+          "Rajandi’s 1966 index also records Iko, citing the 1936 material and Nõmme’s 1935–1940 records. Older Ick and Icko comparisons in the 1929 book are not exact-spelling Iko first-birth dates."
         ],
         "lv": [
           "Mägiste 1929. gada grāmata Ikk saista ar Iko. Ievadā skaidrota atšķirīga locīšana: Ikk ģenitīvs ir Iku, bet Iko var palikt Iko gan nominatīvā, gan ģenitīvā.",
           "Rajandi 1966. gada rādītājs arī fiksē Iko, atsaucoties uz Mägiste 1936. gada materiālu un Nemmes 1935.–1940. gada ierakstiem. Vecākie Ick un Icko salīdzinājumi 1929. gada grāmatā nav precīzā Iko pirmās dzimšanas datumi."
         ],
         "ru": [
-          "Книга Мягисте 1929 года ставит рядом Ikk и Iko. Во введении объяснено различие склонения: у Ikk родительный Iku, а Iko может сохраняться и в именительном, и в родительном падеже.",
-          "Указатель Раянди 1966 года также фиксирует Iko, ссылаясь на материал Мягисте 1936 года и записи Нымме 1935–1940 годов. Старые сопоставления Ick и Icko в книге 1929 года не являются датами первого рождения с точным именем Iko."
+          "Книга 1929 года ставит рядом Ikk и Iko. Во введении объяснено различие склонения: у Ikk родительный Iku, а Iko может сохраняться и в именительном, и в родительном падеже.",
+          "Указатель Раянди 1966 года также фиксирует Iko, ссылаясь на материал 1936 года и записи Нымме 1935–1940 годов. Старые сопоставления Ick и Icko в книге 1929 года не являются датами первого рождения с точным именем Iko."
         ],
         "lt": [
-          "Mägiste 1929 metų knyga Ikk gretina su Iko. Įvade aiškinamas skirtingas linksniavimas: Ikk kilmininkas yra Iku, o Iko gali likti Iko tiek vardininke, tiek kilmininke.",
-          "Rajandi 1966 metų rodyklėje Iko taip pat įrašytas, nurodant Mägiste 1936 metų medžiagą ir Nemės 1935–1940 metų įrašus. Senesni Ick ir Icko palyginimai 1929 metų knygoje nėra tikslios Iko formos pirmojo gimimo datos."
+          "1929 metų knyga Ikk gretina su Iko. Įvade aiškinamas skirtingas linksniavimas: Ikk kilmininkas yra Iku, o Iko gali likti Iko tiek vardininke, tiek kilmininke.",
+          "Rajandi 1966 metų rodyklėje Iko taip pat įrašytas, nurodant 1936 metų medžiagą ir Nemės 1935–1940 metų įrašus. Senesni Ick ir Icko palyginimai 1929 metų knygoje nėra tikslios Iko formos pirmojo gimimo datos."
         ],
         "et": [
           "Mägiste 1929. aasta raamat kõrvutab Ikk’i ja Iko. Sissejuhatus seletab erinevat käänamist: Ikk’i omastav on Iku, Iko võib aga jääda Ikoks nii nimetavas kui ka omastavas.",
@@ -2622,7 +2622,7 @@ export const historiesCalendarR94={
       "text": {
         "en": [
           "Rajandi’s 1966 name dictionary explicitly connects Vallut with Waldemar / Voldemar. The connection documents an Estonian name family rather than an exclusive origin for every international bearer.",
-          "Rajandi includes Vallut among the shortened forms used in place of the full name. His 1966 index also cites Vallut in Mägiste’s 1936 material and marks it as used; this does not establish the first Vallut birth."
+          "Rajandi includes Vallut among the shortened forms used in place of the full name. His 1966 index also cites Vallut in the 1936 material and marks it as used; this does not establish the first Vallut birth."
         ],
         "lv": [
           "Rajandi 1966. gada personvārdu vārdnīca Vallut tieši saista ar Waldemar / Voldemar. Saikne dokumentē igauņu vārdu saimi, nevis katra šā vārda nēsātāja vienīgo iespējamo izcelsmi.",
@@ -2630,11 +2630,11 @@ export const historiesCalendarR94={
         ],
         "ru": [
           "Словарь имён Раянди 1966 года прямо связывает Vallut с Waldemar / Voldemar. Эта связь документирует эстонскую семью имён, а не единственное происхождение имени каждого носителя в мире.",
-          "Раянди включает Vallut в число кратких форм, употреблявшихся вместо полного имени. Указатель 1966 года также ссылается на Vallut в материале Мягисте 1936 года с пометой употребления; это не устанавливает первое рождение Vallut."
+          "Раянди включает Vallut в число кратких форм, употреблявшихся вместо полного имени. Указатель 1966 года также ссылается на Vallut в материале 1936 года с пометой употребления; это не устанавливает первое рождение Vallut."
         ],
         "lt": [
           "Rajandi 1966 metų vardų žodynas Vallut tiesiogiai sieja su Waldemar / Voldemar. Ryšys paliudija estišką vardų šeimą, o ne vienintelę kilmę kiekvienam tarptautiniam vardo turėtojui.",
-          "Rajandi Vallut mini tarp vietoj pilno vardo vartotų trumpinių. 1966 metų rodyklė Vallut taip pat priskiria Mägiste 1936 metų medžiagai ir žymi vartojimą; tai nenustato pirmojo Vallut gimimo."
+          "Rajandi Vallut mini tarp vietoj pilno vardo vartotų trumpinių. 1966 metų rodyklė Vallut taip pat priskiria 1936 metų medžiagai ir žymi vartojimą; tai nenustato pirmojo Vallut gimimo."
         ],
         "et": [
           "Rajandi 1966. aasta nimesõnastik seob nime Vallut otseselt nimega Waldemar / Voldemar. Seos dokumenteerib eesti nimeperekonda, mitte iga rahvusvahelise kandja ainsat võimalikku nimepäritolu.",

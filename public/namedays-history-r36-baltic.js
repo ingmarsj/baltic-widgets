@@ -63,19 +63,19 @@ export const historiesEstonianR36={
     "text": {
       "lv": [
         "Nigulas: Šī forma pieder Nikolaos/Nikolajs vārdu saimei. Grieķu saliktenī ir nikē, «uzvara», un laos, «tauta». Īsās un atvasinātās formas dažādās valodās pārveidojušas sākotnējo rakstību; kopīgā saime pati par sevi nenosaka vienu aizgūšanas ceļu visās ģimenēs.",
-        "Mēgistes 1929. gada vārdu saraksta 41. lappusē ir Nigulas Nikolaus saimē. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 41. lappusē ir Nigulas Nikolaus saimē. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Nigulas: Эта форма относится к семье Nikolaos/Nikolajs. В греческом сложном имени соединены nikē «победа» и laos «народ». Краткие и производные формы в разных языках изменяли исходное написание; общая семья сама по себе не определяет один путь заимствования во всех семьях.",
-        "На странице 41 списка имён Мягисте 1929 года приведено Nigulas в семье Nikolaus. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 41 списка имён 1929 года приведено Nigulas в семье Nikolaus. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Nigulas: This form belongs to the Nikolaos/Nikolajs family. The Greek compound combines nikē, victory, and laos, people. Short and derived forms in different languages changed the original spelling; a shared family does not itself establish one borrowing route in every household.",
-        "Page 41 of Mägiste’s 1929 name list gives Nigulas in the Nikolaus family. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 41 of the 1929 name list gives Nigulas in the Nikolaus family. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Nigulas: Ši forma priklauso Nikolaos/Nikolajs šeimai. Graikišką sudurtinį vardą sudaro nikē „pergalė“ ir laos „tauta“. Įvairių kalbų trumpiniai ir vediniai keitė pradinę rašybą; bendra šeima savaime nenustato vieno skolinimosi kelio kiekvienoje šeimoje.",
-        "Mägiste 1929 metų vardų sąrašo 41 puslapyje pateikiamas Nigulas Nikolaus šeimoje. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 41 puslapyje pateikiamas Nigulas Nikolaus šeimoje. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Nigulas: See kuju kuulub Nikolaose/Nikolajsi perre. Kreeka liitnimes on nikē, võit, ja laos, rahvas. Eri keelte lühi- ja tuletatud kujud muutsid algset kirjapilti; ühine nimepere ei määra iseenesest üht laenuteed igas perekonnas.",
@@ -92,19 +92,19 @@ export const historiesEstonianR36={
     "text": {
       "lv": [
         "Laas: Šī forma pieder Nikolaos/Nikolajs vārdu saimei. Grieķu saliktenī ir nikē, «uzvara», un laos, «tauta». Īsās un atvasinātās formas dažādās valodās pārveidojušas sākotnējo rakstību; kopīgā saime pati par sevi nenosaka vienu aizgūšanas ceļu visās ģimenēs.",
-        "Mēgistes 1929. gada vārdu saraksta 34. lappusē ir Laas ar norādi uz Klaus. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 34. lappusē ir Laas ar norādi uz Klaus. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Laas: Эта форма относится к семье Nikolaos/Nikolajs. В греческом сложном имени соединены nikē «победа» и laos «народ». Краткие и производные формы в разных языках изменяли исходное написание; общая семья сама по себе не определяет один путь заимствования во всех семьях.",
-        "На странице 34 списка имён Мягисте 1929 года приведено Laas с отсылкой к Klaus. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 34 списка имён 1929 года приведено Laas с отсылкой к Klaus. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Laas: This form belongs to the Nikolaos/Nikolajs family. The Greek compound combines nikē, victory, and laos, people. Short and derived forms in different languages changed the original spelling; a shared family does not itself establish one borrowing route in every household.",
-        "Page 34 of Mägiste’s 1929 name list gives Laas with a Klaus equation. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 34 of the 1929 name list gives Laas with a Klaus equation. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Laas: Ši forma priklauso Nikolaos/Nikolajs šeimai. Graikišką sudurtinį vardą sudaro nikē „pergalė“ ir laos „tauta“. Įvairių kalbų trumpiniai ir vediniai keitė pradinę rašybą; bendra šeima savaime nenustato vieno skolinimosi kelio kiekvienoje šeimoje.",
-        "Mägiste 1929 metų vardų sąrašo 34 puslapyje pateikiamas Laas su nuoroda į Klaus. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 34 puslapyje pateikiamas Laas su nuoroda į Klaus. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Laas: See kuju kuulub Nikolaose/Nikolajsi perre. Kreeka liitnimes on nikē, võit, ja laos, rahvas. Eri keelte lühi- ja tuletatud kujud muutsid algset kirjapilti; ühine nimepere ei määra iseenesest üht laenuteed igas perekonnas.",

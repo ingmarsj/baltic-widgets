@@ -2338,7 +2338,7 @@ export const historiesCalendarR99={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Leidi and Leida, Leili. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Exact Leidi appears as a proposed related form in Mägiste’s 1929 feminine name list. Rajandi also discusses it under Leida and Leili; the dated proposal does not select one exclusive route for every bearer."
+          "Exact Leidi appears as a proposed related form in the 1929 feminine name list. Rajandi also discusses it under Leida and Leili; the dated proposal does not select one exclusive route for every bearer."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Leidi un Leida, Leili. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2346,11 +2346,11 @@ export const historiesCalendarR99={
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Leidi и Leida, Leili. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Точное Leidi предложено как связанная форма в списке женских имён Мягисте 1929 года. Раянди обсуждает его при Leida и Leili; дата рекомендации не устанавливает единственного пути для каждой носительницы."
+          "Точное Leidi предложено как связанная форма в списке женских имён 1929 года. Раянди обсуждает его при Leida и Leili; дата рекомендации не устанавливает единственного пути для каждой носительницы."
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Leidi ir Leida, Leili ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Tikslus Leidi siūlomas kaip susijusi forma Mägiste 1929 metų moteriškų vardų sąraše. Rajandi jį taip pat aptaria prie Leida ir Leili; datuotas siūlymas nenustato vienintelio kelio kiekvienai turėtojai."
+          "Tikslus Leidi siūlomas kaip susijusi forma 1929 metų moteriškų vardų sąraše. Rajandi jį taip pat aptaria prie Leida ir Leili; datuotas siūlymas nenustato vienintelio kelio kiekvienai turėtojai."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Leidi ja Leida, Leili seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",
@@ -2392,7 +2392,7 @@ export const historiesCalendarR99={
       "text": {
         "en": [
           "Julius Mägiste documents a connection between Armo and Arm. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Mägiste’s 1929 masculine name list pairs Arm with Finnish Armo. It is a published naming recommendation, not an independently dated Estonian first bearer."
+          "the 1929 masculine name list pairs Arm with Finnish Armo. It is a published naming recommendation, not an independently dated Estonian first bearer."
         ],
         "lv": [
           "Julius Mägiste dokumentē saikni starp Armo un Arm. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2400,11 +2400,11 @@ export const historiesCalendarR99={
         ],
         "ru": [
           "Julius Mägiste документирует связь между Armo и Arm. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Список мужских имён Мягисте 1929 года сопоставляет Arm с финским Armo. Это опубликованная рекомендация, а не отдельно датированный первый эстонский носитель."
+          "Список мужских имён 1929 года сопоставляет Arm с финским Armo. Это опубликованная рекомендация, а не отдельно датированный первый эстонский носитель."
         ],
         "lt": [
           "Julius Mägiste dokumentuoja Armo ir Arm ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Mägiste 1929 metų vyriškų vardų sąrašas Arm pateikia kartu su suomių Armo. Tai paskelbta vardo rekomendacija, o ne atskirai datuotas pirmasis Estijos turėtojas."
+          "1929 metų vyriškų vardų sąrašas Arm pateikia kartu su suomių Armo. Tai paskelbta vardo rekomendacija, o ne atskirai datuotas pirmasis Estijos turėtojas."
         ],
         "et": [
           "Julius Mägiste dokumenteerib nimede Armo ja Arm seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",
@@ -2583,7 +2583,7 @@ export const historiesCalendarR99={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Ambrus and Ambrosius. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Exact Ambrus appears in Mägiste’s 1929 masculine name list, with a reference to Wiedemann. This is a published naming recommendation; it does not establish a first birth or transfer a surname record into a given-name date."
+          "Exact Ambrus appears in the 1929 masculine name list, with a reference to Wiedemann. This is a published naming recommendation; it does not establish a first birth or transfer a surname record into a given-name date."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Ambrus un Ambrosius. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2591,11 +2591,11 @@ export const historiesCalendarR99={
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Ambrus и Ambrosius. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Точное Ambrus входит в список мужских имён Мягисте 1929 года со ссылкой на Видемана. Это опубликованная рекомендация; она не устанавливает первое рождение и не превращает запись фамилии в дату личного имени."
+          "Точное Ambrus входит в список мужских имён 1929 года со ссылкой на Видемана. Это опубликованная рекомендация; она не устанавливает первое рождение и не превращает запись фамилии в дату личного имени."
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Ambrus ir Ambrosius ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Tikslus Ambrus yra Mägiste 1929 metų vyriškų vardų sąraše su nuoroda į Wiedemann. Tai paskelbta vardo rekomendacija; ji nenustato pirmojo gimimo ir nepaverčia pavardės įrašo asmenvardžio data."
+          "Tikslus Ambrus yra 1929 metų vyriškų vardų sąraše su nuoroda į Wiedemann. Tai paskelbta vardo rekomendacija; ji nenustato pirmojo gimimo ir nepaverčia pavardės įrašo asmenvardžio data."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Ambrus ja Ambrosius seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",

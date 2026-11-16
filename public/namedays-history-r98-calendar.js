@@ -2395,7 +2395,7 @@ export const historiesCalendarR98={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Valvo and Valve. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Rajandi’s index records Valvo in Tallinn in 1935–1940 and cites Mägiste’s 1936 naming book. These are historical-use and bibliographic references, not a first-birth date."
+          "Rajandi’s index records Valvo in Tallinn in 1935–1940 and cites the 1936 naming book. These are historical-use and bibliographic references, not a first-birth date."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Valvo un Valve. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2403,11 +2403,11 @@ export const historiesCalendarR98={
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Valvo и Valve. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Указатель Раянди отмечает Valvo в Таллине в 1935–1940 годах и ссылается на книгу имён Мягисте 1936 года. Это исторические и библиографические ссылки, а не дата первого рождения."
+          "Указатель Раянди отмечает Valvo в Таллине в 1935–1940 годах и ссылается на книгу имён 1936 года. Это исторические и библиографические ссылки, а не дата первого рождения."
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Valvo ir Valve ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Rajandi rodyklė Valvo mini Taline 1935–1940 metais ir nurodo Mägiste 1936 metų vardų knygą. Tai istorinės ir bibliografinės nuorodos, o ne pirmojo gimimo data."
+          "Rajandi rodyklė Valvo mini Taline 1935–1940 metais ir nurodo 1936 metų vardų knygą. Tai istorinės ir bibliografinės nuorodos, o ne pirmojo gimimo data."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Valvo ja Valve seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",

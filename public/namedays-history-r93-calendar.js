@@ -1737,7 +1737,7 @@ export const historiesCalendarR93={
       ],
       "text": {
         "en": [
-          "Mägiste’s 1929 name book lists Meelit and cites the historical spelling Melete in a document dated 1255. The medieval spelling is preserved as evidence for a related form.",
+          "the 1929 name book lists Meelit and cites the historical spelling Melete in a document dated 1255. The medieval spelling is preserved as evidence for a related form.",
           "Rajandi in 1966 includes Meelit in the old Estonian Meel- masculine name group alongside Meelik, Meelo and Meelu. Neither reference identifies the first bearer of the modern spelling."
         ],
         "lv": [
@@ -1745,11 +1745,11 @@ export const historiesCalendarR93={
           "Rajandi 1966. gadā Meelit iekļauj senajā igauņu Meel- vīriešu vārdu grupā līdzās Meelik, Meelo un Meelu. Neviens no avotiem nenosaka pirmo modernās rakstības nēsātāju."
         ],
         "ru": [
-          "Книга имён Мягисте 1929 года приводит Meelit и историческое написание Melete в документе 1255 года. Средневековое написание сохраняется как свидетельство родственной формы.",
+          "Книга имён 1929 года приводит Meelit и историческое написание Melete в документе 1255 года. Средневековое написание сохраняется как свидетельство родственной формы.",
           "Раянди в 1966 году включает Meelit в старую эстонскую группу мужских имён Meel- вместе с Meelik, Meelo и Meelu. Ни один источник не называет первого носителя современного написания."
         ],
         "lt": [
-          "Mägiste 1929 metų vardų knygoje pateiktas Meelit ir cituojama istorinė rašyba Melete 1255 metų dokumente. Viduramžių rašyba išlaikoma kaip giminiškos formos liudijimas.",
+          "1929 metų vardų knygoje pateiktas Meelit ir cituojama istorinė rašyba Melete 1255 metų dokumente. Viduramžių rašyba išlaikoma kaip giminiškos formos liudijimas.",
           "Rajandi 1966 metais Meelit įtraukia į senąją estų Meel- vyrų vardų grupę kartu su Meelik, Meelo ir Meelu. Nė vienas šaltinis nenustato pirmojo dabartinės rašybos turėtojo."
         ],
         "et": [
@@ -1765,7 +1765,7 @@ export const historiesCalendarR93={
       ],
       "text": {
         "en": [
-          "Mägiste’s 1929 book connects Meelik with source spellings including Myleke van Yausem and the patronymic Mattis Melekson. Those source forms are not rewritten as exact modern Meelik records.",
+          "the 1929 book connects Meelik with source spellings including Myleke van Yausem and the patronymic Mattis Melekson. Those source forms are not rewritten as exact modern Meelik records.",
           "Rajandi’s 1966 account explicitly places Meelik among old Estonian Meel- masculine names. This documents the family classification without assigning one modern literal sentence to the name."
         ],
         "lv": [
@@ -1773,11 +1773,11 @@ export const historiesCalendarR93={
           "Rajandi 1966. gada apraksts Meelik tieši iekļauj senajos igauņu Meel- vīriešu vārdos. Tas dokumentē saimes klasifikāciju, nepiešķirot vārdam vienu mūsdienīgu burtisku teikumu."
         ],
         "ru": [
-          "Книга Мягисте 1929 года связывает Meelik с написаниями Myleke van Yausem и патронимом Mattis Melekson. Эти формы не подменяются точными записями современного Meelik.",
+          "Книга 1929 года связывает Meelik с написаниями Myleke van Yausem и патронимом Mattis Melekson. Эти формы не подменяются точными записями современного Meelik.",
           "В описании Раянди 1966 года Meelik прямо входит в старые эстонские мужские имена Meel-. Это документирует классификацию семьи без единственной современной буквальной расшифровки."
         ],
         "lt": [
-          "Mägiste 1929 metų knyga Meelik sieja su šaltinių rašybomis Myleke van Yausem ir patronimu Mattis Melekson. Jos neperrašomos kaip tikslūs dabartinio Meelik įrašai.",
+          "1929 metų knyga Meelik sieja su šaltinių rašybomis Myleke van Yausem ir patronimu Mattis Melekson. Jos neperrašomos kaip tikslūs dabartinio Meelik įrašai.",
           "Rajandi 1966 metų aprašyme Meelik tiesiogiai priskirtas seniesiems estų Meel- vyrų vardams. Taip paliudijama šeimos klasifikacija, nesukuriant vieno šiuolaikinio pažodinio sakinio."
         ],
         "et": [
@@ -1849,7 +1849,7 @@ export const historiesCalendarR93={
       ],
       "text": {
         "en": [
-          "Mägiste’s 1929 book pairs Meeland with Meelendo, referring to older spellings Melendo van Velketh and Melendo Appoll. These are documented comparisons, not exact modern first-bearer dates.",
+          "the 1929 book pairs Meeland with Meelendo, referring to older spellings Melendo van Velketh and Melendo Appoll. These are documented comparisons, not exact modern first-bearer dates.",
           "Meeland remains present in Rajandi’s 1966 name index. Together the two books document its lexical history; they do not settle a separate exact meaning or identify who first used it."
         ],
         "lv": [
@@ -1857,11 +1857,11 @@ export const historiesCalendarR93={
           "Meeland atrodams arī Rajandi 1966. gada vārdu rādītājā. Abas grāmatas kopā dokumentē tā leksisko vēsturi, bet nenosaka atsevišķu precīzu nozīmi vai pirmo lietotāju."
         ],
         "ru": [
-          "Книга Мягисте 1929 года ставит Meeland в пару с Meelendo, ссылаясь на старые написания Melendo van Velketh и Melendo Appoll. Это документированные сопоставления, а не даты первых носителей современной формы.",
+          "Книга 1929 года ставит Meeland в пару с Meelendo, ссылаясь на старые написания Melendo van Velketh и Melendo Appoll. Это документированные сопоставления, а не даты первых носителей современной формы.",
           "Meeland есть и в указателе имён Раянди 1966 года. Две книги документируют его словарную историю, но не устанавливают отдельное точное значение или первого носителя."
         ],
         "lt": [
-          "Mägiste 1929 metų knygoje Meeland suporuotas su Meelendo, nurodant senesnes rašybas Melendo van Velketh ir Melendo Appoll. Tai paliudyti palyginimai, o ne pirmojo dabartinės formos turėtojo datos.",
+          "1929 metų knygoje Meeland suporuotas su Meelendo, nurodant senesnes rašybas Melendo van Velketh ir Melendo Appoll. Tai paliudyti palyginimai, o ne pirmojo dabartinės formos turėtojo datos.",
           "Meeland yra ir Rajandi 1966 metų vardų rodyklėje. Abi knygos liudija jo leksinę istoriją, tačiau nenustato atskiros tikslios reikšmės ar pirmojo vartotojo."
         ],
         "et": [

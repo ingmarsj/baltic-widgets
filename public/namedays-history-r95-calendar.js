@@ -1853,7 +1853,7 @@ export const historiesCalendarR95={
       "text": {
         "en": [
           "Rajandi’s 1966 dictionary explicitly connects Valda with Waldemar / Voldemar. This records an Estonian name-form relationship, without selecting a universal origin for every bearer.",
-          "Mägiste’s 1929 name book records Valda (Hurt, Hargla). The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
+          "the 1929 name book records Valda (Hurt, Hargla). The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
         ],
         "lv": [
           "Rajandi 1966. gada vārdnīca Valda tieši saista ar Waldemar / Voldemar. Tā ir igauņu vārdu formu saikne, nenosakot universālu izcelsmi katram nēsātājam.",
@@ -1861,11 +1861,11 @@ export const historiesCalendarR95={
         ],
         "ru": [
           "Словарь Раянди 1966 года прямо связывает Valda с Waldemar / Voldemar. Это связь эстонских форм имени без выбора универсального происхождения для каждого носителя.",
-          "Книга имён Мягисте 1929 года фиксирует Valda (Hurt, Hargla). Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
+          "Книга имён 1929 года фиксирует Valda (Hurt, Hargla). Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
         ],
         "lt": [
           "Rajandi 1966 metų žodynas Valda tiesiogiai sieja su Waldemar / Voldemar. Tai estiškų vardo formų ryšys, nenustatantis universalios kilmės kiekvienam turėtojui.",
-          "Mägiste 1929 metų vardų knyga užfiksuoja Valda (Hurt, Hargla). Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
+          "1929 metų vardų knyga užfiksuoja Valda (Hurt, Hargla). Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
         ],
         "et": [
           "Rajandi 1966. aasta sõnastik seob nime Valda otseselt kujuga Waldemar / Voldemar. See talletab eesti nimekujude seose, valimata kõigile kandjatele üldkehtivat päritolu.",
@@ -1909,7 +1909,7 @@ export const historiesCalendarR95={
       "text": {
         "en": [
           "Rajandi’s 1966 dictionary explicitly connects Väinu with Väino. This records an Estonian name-form relationship, without selecting a universal origin for every bearer.",
-          "Mägiste’s 1929 name book records Väino / Väinu. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
+          "the 1929 name book records Väino / Väinu. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
         ],
         "lv": [
           "Rajandi 1966. gada vārdnīca Väinu tieši saista ar Väino. Tā ir igauņu vārdu formu saikne, nenosakot universālu izcelsmi katram nēsātājam.",
@@ -1917,11 +1917,11 @@ export const historiesCalendarR95={
         ],
         "ru": [
           "Словарь Раянди 1966 года прямо связывает Väinu с Väino. Это связь эстонских форм имени без выбора универсального происхождения для каждого носителя.",
-          "Книга имён Мягисте 1929 года фиксирует Väino / Väinu. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
+          "Книга имён 1929 года фиксирует Väino / Väinu. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
         ],
         "lt": [
           "Rajandi 1966 metų žodynas Väinu tiesiogiai sieja su Väino. Tai estiškų vardo formų ryšys, nenustatantis universalios kilmės kiekvienam turėtojui.",
-          "Mägiste 1929 metų vardų knyga užfiksuoja Väino / Väinu. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
+          "1929 metų vardų knyga užfiksuoja Väino / Väinu. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
         ],
         "et": [
           "Rajandi 1966. aasta sõnastik seob nime Väinu otseselt kujuga Väino. See talletab eesti nimekujude seose, valimata kõigile kandjatele üldkehtivat päritolu.",
@@ -2239,7 +2239,7 @@ export const historiesCalendarR95={
       "text": {
         "en": [
           "Rajandi’s 1966 dictionary explicitly connects Mait with Matthias → Matti → Matt → Mait; Maido / Maidu. This records an Estonian name-form relationship, without selecting a universal origin for every bearer.",
-          "Mägiste’s 1929 name book records Maido / Maidu; Mait. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
+          "the 1929 name book records Maido / Maidu; Mait. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
         ],
         "lv": [
           "Rajandi 1966. gada vārdnīca Mait tieši saista ar Matthias → Matti → Matt → Mait; Maido / Maidu. Tā ir igauņu vārdu formu saikne, nenosakot universālu izcelsmi katram nēsātājam.",
@@ -2247,11 +2247,11 @@ export const historiesCalendarR95={
         ],
         "ru": [
           "Словарь Раянди 1966 года прямо связывает Mait с Matthias → Matti → Matt → Mait; Maido / Maidu. Это связь эстонских форм имени без выбора универсального происхождения для каждого носителя.",
-          "Книга имён Мягисте 1929 года фиксирует Maido / Maidu; Mait. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
+          "Книга имён 1929 года фиксирует Maido / Maidu; Mait. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
         ],
         "lt": [
           "Rajandi 1966 metų žodynas Mait tiesiogiai sieja su Matthias → Matti → Matt → Mait; Maido / Maidu. Tai estiškų vardo formų ryšys, nenustatantis universalios kilmės kiekvienam turėtojui.",
-          "Mägiste 1929 metų vardų knyga užfiksuoja Maido / Maidu; Mait. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
+          "1929 metų vardų knyga užfiksuoja Maido / Maidu; Mait. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
         ],
         "et": [
           "Rajandi 1966. aasta sõnastik seob nime Mait otseselt kujuga Matthias → Matti → Matt → Mait; Maido / Maidu. See talletab eesti nimekujude seose, valimata kõigile kandjatele üldkehtivat päritolu.",
@@ -2267,7 +2267,7 @@ export const historiesCalendarR95={
       "text": {
         "en": [
           "Rajandi’s 1966 dictionary explicitly connects Maido with Matthias → Matti → Matt → Mait; Maido / Maidu. This records an Estonian name-form relationship, without selecting a universal origin for every bearer.",
-          "Mägiste’s 1929 name book records Maido / Maidu; Mait. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
+          "the 1929 name book records Maido / Maidu; Mait. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
         ],
         "lv": [
           "Rajandi 1966. gada vārdnīca Maido tieši saista ar Matthias → Matti → Matt → Mait; Maido / Maidu. Tā ir igauņu vārdu formu saikne, nenosakot universālu izcelsmi katram nēsātājam.",
@@ -2275,11 +2275,11 @@ export const historiesCalendarR95={
         ],
         "ru": [
           "Словарь Раянди 1966 года прямо связывает Maido с Matthias → Matti → Matt → Mait; Maido / Maidu. Это связь эстонских форм имени без выбора универсального происхождения для каждого носителя.",
-          "Книга имён Мягисте 1929 года фиксирует Maido / Maidu; Mait. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
+          "Книга имён 1929 года фиксирует Maido / Maidu; Mait. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
         ],
         "lt": [
           "Rajandi 1966 metų žodynas Maido tiesiogiai sieja su Matthias → Matti → Matt → Mait; Maido / Maidu. Tai estiškų vardo formų ryšys, nenustatantis universalios kilmės kiekvienam turėtojui.",
-          "Mägiste 1929 metų vardų knyga užfiksuoja Maido / Maidu; Mait. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
+          "1929 metų vardų knyga užfiksuoja Maido / Maidu; Mait. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
         ],
         "et": [
           "Rajandi 1966. aasta sõnastik seob nime Maido otseselt kujuga Matthias → Matti → Matt → Mait; Maido / Maidu. See talletab eesti nimekujude seose, valimata kõigile kandjatele üldkehtivat päritolu.",
@@ -2295,7 +2295,7 @@ export const historiesCalendarR95={
       "text": {
         "en": [
           "Rajandi’s 1966 dictionary explicitly connects Maidu with Matthias → Matti → Matt → Mait; Maido / Maidu. This records an Estonian name-form relationship, without selecting a universal origin for every bearer.",
-          "Mägiste’s 1929 name book records Maido / Maidu; Mait. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
+          "the 1929 name book records Maido / Maidu; Mait. The publication dates the form’s presence in the naming literature, not its creation or the birth of its first bearer."
         ],
         "lv": [
           "Rajandi 1966. gada vārdnīca Maidu tieši saista ar Matthias → Matti → Matt → Mait; Maido / Maidu. Tā ir igauņu vārdu formu saikne, nenosakot universālu izcelsmi katram nēsātājam.",
@@ -2303,11 +2303,11 @@ export const historiesCalendarR95={
         ],
         "ru": [
           "Словарь Раянди 1966 года прямо связывает Maidu с Matthias → Matti → Matt → Mait; Maido / Maidu. Это связь эстонских форм имени без выбора универсального происхождения для каждого носителя.",
-          "Книга имён Мягисте 1929 года фиксирует Maido / Maidu; Mait. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
+          "Книга имён 1929 года фиксирует Maido / Maidu; Mait. Публикация датирует наличие формы в ономастической литературе, а не её создание или рождение первого носителя."
         ],
         "lt": [
           "Rajandi 1966 metų žodynas Maidu tiesiogiai sieja su Matthias → Matti → Matt → Mait; Maido / Maidu. Tai estiškų vardo formų ryšys, nenustatantis universalios kilmės kiekvienam turėtojui.",
-          "Mägiste 1929 metų vardų knyga užfiksuoja Maido / Maidu; Mait. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
+          "1929 metų vardų knyga užfiksuoja Maido / Maidu; Mait. Leidinys datuoja formos buvimą vardų literatūroje, o ne jos sukūrimą ar pirmojo turėtojo gimimą."
         ],
         "et": [
           "Rajandi 1966. aasta sõnastik seob nime Maidu otseselt kujuga Matthias → Matti → Matt → Mait; Maido / Maidu. See talletab eesti nimekujude seose, valimata kõigile kandjatele üldkehtivat päritolu.",

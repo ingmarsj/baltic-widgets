@@ -1,0 +1,470 @@
+{
+  "round": 123,
+  "date": "2026-11-15",
+  "writer_version": "namedays-1.9.101",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 997,
+      "local_profiles_after": 1004,
+      "local_exact_links_added": 39,
+      "new_exact_person_profile_links": 47,
+      "with_exact_namesakes": 1741,
+      "with_five_local": 322,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": [
+        {
+          "name": "Solvita",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q435407",
+              "name": "Solvita Āboltiņa"
+            },
+            {
+              "id": "Q50378623",
+              "name": "Solvita Krese"
+            }
+          ]
+        },
+        {
+          "name": "Ivo",
+          "before": 4,
+          "after": 7,
+          "people": [
+            {
+              "id": "Q4118775",
+              "name": "Ivo Lakučs"
+            },
+            {
+              "id": "Q43774954",
+              "name": "Ivo Minkevičs"
+            },
+            {
+              "id": "Q16358288",
+              "name": "Ivo Fomins"
+            }
+          ]
+        },
+        {
+          "name": "Blāzma",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q137804470",
+              "name": "Blāzma Vikmane"
+            }
+          ]
+        },
+        {
+          "name": "Sīmanis",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q20565121",
+              "name": "Sīmanis Simanovičs"
+            },
+            {
+              "id": "Q16353405",
+              "name": "Sīmanis Berģis"
+            },
+            {
+              "id": "Q111283995",
+              "name": "Sīmanis Klēvers"
+            }
+          ]
+        },
+        {
+          "name": "Ārijs",
+          "before": 4,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q2791628",
+              "name": "Ārijs Geikins"
+            },
+            {
+              "id": "Q16698387",
+              "name": "Ārijs Skride"
+            },
+            {
+              "id": "Q41557411",
+              "name": "Ārijs Šķepasts"
+            }
+          ]
+        },
+        {
+          "name": "Arigo",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q56087971",
+              "name": "Arigo Toro"
+            }
+          ]
+        },
+        {
+          "name": "Felicita",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q28554336",
+              "name": "Felicita Pauļuka"
+            },
+            {
+              "id": "Q50378636",
+              "name": "Felicita Ertnere"
+            }
+          ]
+        },
+        {
+          "name": "Felikss",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q4156924",
+              "name": "Felikss Deičs"
+            },
+            {
+              "id": "Q4200567",
+              "name": "Felikss Ingaunis"
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 617,
+      "local_profiles_after": 631,
+      "local_exact_links_added": 90,
+      "new_exact_person_profile_links": 92,
+      "with_exact_namesakes": 686,
+      "with_five_local": 322,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": [
+        {
+          "name": "Radvilė",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q459191",
+              "name": "Radvilė Morkūnaitė"
+            },
+            {
+              "id": "Q20503440",
+              "name": "Radvilė Racėnaitė"
+            }
+          ]
+        },
+        {
+          "name": "Saulė",
+          "before": 4,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q20503277",
+              "name": "Saulė Degutytė"
+            },
+            {
+              "id": "Q25496412",
+              "name": "Saulė Gailiūnaitė"
+            },
+            {
+              "id": "Q12672508",
+              "name": "Saulė Gedrimaitė"
+            }
+          ]
+        },
+        {
+          "name": "Irma",
+          "before": 2,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q4099189",
+              "name": "Irma Bune"
+            },
+            {
+              "id": "Q12656899",
+              "name": "Irma Grigaitienė"
+            },
+            {
+              "id": "Q12656900",
+              "name": "Irma Jurgelevičiūtė"
+            }
+          ]
+        },
+        {
+          "name": "Teodora",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q2403960",
+              "name": "Teodora Staugaitienė"
+            },
+            {
+              "id": "Q12674903",
+              "name": "Teodora Liaugaudaitė-Mačiulienė"
+            },
+            {
+              "id": "Q12674902",
+              "name": "Teodora Miknevičienė"
+            }
+          ]
+        },
+        {
+          "name": "Sabina",
+          "before": 2,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q16471842",
+              "name": "Sabina Gecevičiūtė"
+            },
+            {
+              "id": "Q21101143",
+              "name": "Sabina Kovalevskaja"
+            },
+            {
+              "id": "Q12672154",
+              "name": "Sabina Martinaitytė"
+            }
+          ]
+        },
+        {
+          "name": "Ginvilas",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q13030551",
+              "name": "Ginvilas"
+            }
+          ]
+        },
+        {
+          "name": "Marcijonas",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12664390",
+              "name": "Marcijonas Povilas Jurgaitis"
+            },
+            {
+              "id": "Q12664381",
+              "name": "Marcijonas Urmonas"
+            }
+          ]
+        },
+        {
+          "name": "Ina",
+          "before": 3,
+          "after": 7,
+          "people": [
+            {
+              "id": "Q4476100",
+              "name": "Ina Marčiulionytė"
+            },
+            {
+              "id": "Q16452901",
+              "name": "Ina Blužaitė"
+            },
+            {
+              "id": "Q12656741",
+              "name": "Ina Drąsutienė"
+            }
+          ]
+        }
+      ]
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 995,
+      "local_profiles_after": 998,
+      "local_exact_links_added": 27,
+      "new_exact_person_profile_links": 27,
+      "with_exact_namesakes": 1085,
+      "with_five_local": 509,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": [
+        {
+          "name": "Huko",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q61111769",
+              "name": "Huko Lumet"
+            }
+          ]
+        },
+        {
+          "name": "Armi",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q16734210",
+              "name": "Armi Pärt"
+            }
+          ]
+        },
+        {
+          "name": "Tea",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q16405885",
+              "name": "Tea Oll"
+            },
+            {
+              "id": "Q45848434",
+              "name": "Tea Tammelaan"
+            },
+            {
+              "id": "Q12376591",
+              "name": "Tea Varrak"
+            }
+          ]
+        },
+        {
+          "name": "Elli",
+          "before": 2,
+          "after": 5,
+          "people": [
+            {
+              "id": "Q16407589",
+              "name": "Elli Lellep"
+            },
+            {
+              "id": "Q61110680",
+              "name": "Elli Jaska"
+            },
+            {
+              "id": "Q12361915",
+              "name": "Elli Pärna"
+            }
+          ]
+        },
+        {
+          "name": "Kunnar",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q29420030",
+              "name": "Kunnar Karu"
+            },
+            {
+              "id": "Q135920375",
+              "name": "Kunnar Kukk"
+            },
+            {
+              "id": "Q124295908",
+              "name": "Kunnar Laansalu"
+            }
+          ]
+        },
+        {
+          "name": "Ove",
+          "before": 1,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q16403414",
+              "name": "Ove Büttner"
+            },
+            {
+              "id": "Q107163763",
+              "name": "Ove Põder"
+            },
+            {
+              "id": "Q16403932",
+              "name": "Ove Sander"
+            }
+          ]
+        },
+        {
+          "name": "Ilmo",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q20528421",
+              "name": "Ilmo Au"
+            },
+            {
+              "id": "Q16406544",
+              "name": "Ilmo Liive"
+            },
+            {
+              "id": "Q12364428",
+              "name": "Ilmo Maaroos"
+            }
+          ]
+        },
+        {
+          "name": "Antu",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q16406953",
+              "name": "Antu Rohtla"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "reused_lithuanian_citizenship_rows": 5263,
+    "reused_estonian_citizenship_rows": 9035,
+    "new_birthplace_rows": {
+      "lv": 4389,
+      "lt": 5850,
+      "ee": 7594
+    },
+    "eligible_birthplace_rows": {
+      "lv": 1132,
+      "lt": 783,
+      "ee": 963
+    },
+    "local_query": "P31 human, birthplace P19 / country P17, native label, at least two Wikipedia sitelinks; LIMIT 20000 not reached. Select native first names with fewer than five local exact bearers in the pre-round snapshot."
+  },
+  "validation": {
+    "unit_tests": 144,
+    "static_build": "passed",
+    "browser": "Passed in the page module context after a reload: Darija shows the spelling-variant note and the Dārija history, Valentīns and the EE Valle show the new histories, Kalvis and Apolinaras show the new local namesakes, Elli has six local namesakes.",
+    "history_facts": "Person facts unchanged in all 8677 profiles; reviewed histories added through the round 123 history module",
+    "display": "All 9368 memberships preserve every previously displayed person and show five distinct birthday people below exact namesakes."
+  }
+}

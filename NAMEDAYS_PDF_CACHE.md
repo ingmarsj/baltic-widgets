@@ -1,5 +1,7 @@
 # Reusable name-history PDF index
 
+The same private cache also accepts HTML, structured JSON and bzip2-compressed CSV archives through `fetch`. JSON is retained verbatim and indexed as formatted searchable text; API error objects are rejected. Compressed CSV originals are retained, extracted once with `bzip2` on PATH, and indexed in groups of 500 lines. These search-page numbers are not PDF pages or CSV record numbers (quoted fields may span lines). For structured data, record exact IDs and column names rather than interpreting search-page numbers as source pagination. Round 116 uses this path for Pantheon and Wikidata; originals and extracted bulk data remain private.
+
 Read [NAMEDAYS_SOURCES.md](NAMEDAYS_SOURCES.md) first. Reuse a registered PDF before downloading or extracting it again. The cache is a private research aid; the public repository contains the tool and provenance, not books, scans or extracted full text.
 
 ## Index once
@@ -138,3 +140,67 @@ New originals were cached once with `nameday-source-cache.mjs fetch` and are sea
 ## 6–10 May (round 102)
 
 No new PDF was acquired. Page images were rendered privately in var/namedays-research/round102/.
+
+## 11–15 May (round 103)
+
+No new PDF was acquired. Page images of LV-SILINS90 and LT-SALYS83 were rendered privately in var/namedays-research/round103/.
+
+## 16–25 May (round 104)
+
+No new PDF was acquired.
+
+## 26 May–4 June (round 105)
+
+No new PDF was acquired.
+
+## 5–14 June (round 106)
+
+No new PDF was acquired.
+
+## 15–24 June (round 107)
+
+No new PDF was acquired.
+
+## 25 June–4 July (round 108)
+
+No new PDF was acquired. Salys 1983 PDF310 was rendered privately for a visual transcription of the 1964 calendar list (30 June–18 July).
+
+## 5–14 July (round 109)
+
+No new PDF was acquired.
+
+## 15–24 July (round 110)
+
+No new PDF was acquired. Salys 1983 PDF311 was rendered privately for a visual transcription of the 1964 calendar list (19 July–4 August).
+
+## 25 July–3 August (round 111)
+
+No new PDF was acquired.
+
+
+### Calendar pass (round 112)
+
+The 4 August–2 September pass reuses existing cached originals and adds private page renders/enlargements in ../var/namedays-research/round112/. No book, raw download, page image or private downloader is copied into this repository. Exact original-page locations and claim limits are recorded in [round 112 notes](research/namedays/round112-notes.json). Siliņš printed = PDF − 3; Salys printed = PDF − 15; Rajandi printed = PDF + 2; the inspected Mägiste 1929/1936 pages use printed = PDF − 6.
+
+The LPVV Everts article is cached as JSON under LV-LPVV-258; its cache page 1 denotes a complete article, not a printed PDF page. Search it through the existing source-cache command before fetching anything again.
+
+
+### Calendar pass (round113)
+
+The 3 September–2 October pass reuses cached originals and page images. Private page renders, exact search sidecars, decision manifests and before-state snapshots are under ../var/namedays-research/round113/. Nothing from that private directory is copied to the public repository. No new book or web page was downloaded.
+
+Exact printed/PDF locations and claim limits are recorded in [round113 notes](research/namedays/round113-notes.json). Page offsets: Siliņš printed = PDF −3; Salys = PDF −15; Rajandi = PDF +2; inspected Mägiste 1929/1936 pages = PDF −6. Search results remain discovery leads until the original image is checked. The existing cache contains the raw LU person-name API archive and private downloader; they remain private.
+
+
+### Calendar pass (round114)
+
+The 3 October–1 November pass reuses cached originals and existing page images. Exact search sidecars, decisions, original-page renders and before-state snapshots remain private under ../var/namedays-research/round114/. No new book or page was downloaded. The LU API raw archive and downloader also remain outside the portable public repository.
+
+Per-profile page numbers and claim limits are recorded in [round114 notes](research/namedays/round114-notes.json). Offsets: Siliņš printed = PDF −3; Salys = PDF −15; Rajandi = PDF +2; inspected Mägiste 1929/1936 = PDF −6. Text searches and OCR/index matches are discovery leads, not original-image verification.
+
+
+### Calendar pass (round115)
+
+The final 2–11 November batch reuses cached originals and existing private page images. No new source was downloaded. Exact searches, decisions and before-state snapshots remain under ../var/namedays-research/round115/; the enlarged original Otomars/Otomārs check is private too. The LU downloader and raw API archive remain outside the public repository.
+
+The first annual pass now covers all 366 calendar dates including 29 February. See [round115 notes](research/namedays/round115-notes.json) for exact evidence locations and [annual audit](research/namedays/annual-pass1-audit.json) for date/membership accounting. A completed pass leaves unresolved histories in the verification backlog. Page offsets remain Siliņš −3, Salys −15, Rajandi +2, inspected Mägiste 1929/1936 −6.

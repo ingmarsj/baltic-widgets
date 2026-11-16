@@ -1349,7 +1349,7 @@ export const historiesDecemberJanuary={
       ],
       "text": {
         "en": [
-          "Mägiste’s 1929 collection lists Piiu among proposed feminine names and compares it with Wiedemann’s piiu, piigake, and piiga, “girl”. Rajandi later repeats the Estonian-word connection while keeping it separate from Piia’s Latin explanation.",
+          "the 1929 collection lists Piiu among proposed feminine names and compares it with Wiedemann’s piiu, piigake, and piiga, “girl”. Rajandi later repeats the Estonian-word connection while keeping it separate from Piia’s Latin explanation.",
           "The entry is marked Mg., which denotes Mägiste’s own proposals in this collection. It documents a proposal printed in 1929; it is not evidence that a child first received Piiu that year. Rajandi’s 1966 discussion shows the comparison continuing in later name scholarship."
         ],
         "lv": [
@@ -1357,11 +1357,11 @@ export const historiesDecemberJanuary={
           "Šķirklis apzīmēts ar Mg., kas šajā krājumā nozīmē paša Mägiste ierosinājumus. Tas dokumentē 1929. gadā iespiestu priekšlikumu, nevis bērna pirmo nosaukšanu par Piiu tajā gadā. Rajandi 1966. gada apskats rāda salīdzinājuma turpinājumu vēlākā vārdu pētniecībā."
         ],
         "ru": [
-          "Сборник Мягисте 1929 года включает Piiu в предложенные женские имена и сопоставляет с piiu, piigake и piiga «девушка» у Видемана. Райанди позже повторяет связь с эстонским словом, отличая её от латинского объяснения Piia.",
+          "Сборник 1929 года включает Piiu в предложенные женские имена и сопоставляет с piiu, piigake и piiga «девушка» у Видемана. Райанди позже повторяет связь с эстонским словом, отличая её от латинского объяснения Piia.",
           "Статья помечена Mg., что в сборнике обозначает собственные предложения Мягисте. Это документирует напечатанное в 1929 году предложение, а не первое наречение ребёнка Piiu в этом году. Обсуждение Райанди 1966 года показывает продолжение сравнения в позднейшей науке об именах."
         ],
         "lt": [
-          "Mägiste 1929 metų rinkinyje Piiu pateikta tarp siūlomų moteriškų vardų, gretinant su Wiedemanno piiu, piigake ir piiga „mergina“. Rajandi vėliau pakartoja ryšį su estų žodžiu, skirdamas jį nuo lotyniško Piia aiškinimo.",
+          "1929 metų rinkinyje Piiu pateikta tarp siūlomų moteriškų vardų, gretinant su Wiedemanno piiu, piigake ir piiga „mergina“. Rajandi vėliau pakartoja ryšį su estų žodžiu, skirdamas jį nuo lotyniško Piia aiškinimo.",
           "Įrašas pažymėtas Mg., rinkinyje reiškiančiu paties Mägiste siūlymus. Tai liudija 1929 metais išspausdintą siūlymą, bet ne pirmą vaiko pavadinimą Piiu tais metais. Rajandi 1966 metų aptarimas rodo šio gretinimo tęstinumą vėlesnėje vardų tyrimų tradicijoje."
         ],
         "et": [

@@ -378,15 +378,15 @@ export const historiesJanuaryR85={
       "text": {
         "en": [
           "Edgar Rajandi refers Hendrik to Heinrich and lists Endrik ~ Hendrik among the usual Estonian forms of that name. He derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear; a derivation from Hagenrich, “ruler of the court”, is also cited.",
-          "Julius Mägiste’s 1929 collection of Estonian personal names already lists Hendrik among its men’s names, citing Wiedemann’s dictionary. Rajandi’s 1966 book adds that the Heinrich family spread more widely in Estonia from the fifteenth century. Neither date marks the first Hendrik."
+          "Julius the 1929 collection of Estonian personal names already lists Hendrik among its men’s names, citing Wiedemann’s dictionary. Rajandi’s 1966 book adds that the Heinrich family spread more widely in Estonia from the fifteenth century. Neither date marks the first Hendrik."
         ],
         "lv": [
           "Edgars Rajandi Hendrik saista ar Heinrich un min Endrik ~ Hendrik starp parastajām šī vārda igauņu formām. Heinrich viņš atvasina no austrumfranku Haimrich «saimnieks savās mājās», taču norāda, ka sākotnējā forma un nozīme nav pilnīgi skaidra; minēts arī atvasinājums no Hagenrich «pagalma valdītājs».",
-          "Jūliusa Mēgistes 1929. gada igauņu personvārdu krājums jau min Hendrik vīriešu vārdu sarakstā, atsaucoties uz Vīdemaņa vārdnīcu. Rajandi 1966. gada grāmata piebilst, ka Heinrich saime Igaunijā plašāk izplatījās no 15. gadsimta. Neviens no šiem datumiem neiezīmē pirmo Hendrik."
+          "Jūliusa 1929. gada igauņu personvārdu krājums jau min Hendrik vīriešu vārdu sarakstā, atsaucoties uz Vīdemaņa vārdnīcu. Rajandi 1966. gada grāmata piebilst, ka Heinrich saime Igaunijā plašāk izplatījās no 15. gadsimta. Neviens no šiem datumiem neiezīmē pirmo Hendrik."
         ],
         "ru": [
           "Эдгар Райанди относит Hendrik к Heinrich и называет Endrik ~ Hendrik среди обычных эстонских форм этого имени. Heinrich он выводит из восточнофранкского Haimrich «хозяин в своём доме», отмечая, что исходная форма и значение не вполне ясны; приводится и выведение из Hagenrich «правитель двора».",
-          "Сборник эстонских личных имён Юлиуса Мягисте 1929 года уже приводит Hendrik в списке мужских имён со ссылкой на словарь Видемана. Книга Райанди 1966 года добавляет, что семья Heinrich шире распространилась в Эстонии с XV века. Ни одна из этих дат не отмечает первого Hendrik."
+          "Сборник эстонских личных имён Юлиуса 1929 года уже приводит Hendrik в списке мужских имён со ссылкой на словарь Видемана. Книга Райанди 1966 года добавляет, что семья Heinrich шире распространилась в Эстонии с XV века. Ни одна из этих дат не отмечает первого Hendrik."
         ],
         "lt": [
           "Edgaras Rajandi Hendrik sieja su Heinrich ir Endrik ~ Hendrik nurodo tarp įprastų estiškų šio vardo formų. Heinrich jis kildina iš rytų frankų Haimrich „šeimininkas savo namuose“, tačiau pažymi, kad pradinė forma ir reikšmė nėra visiškai aiškios; minima ir kilmė iš Hagenrich „kiemo valdytojas“.",
@@ -434,15 +434,15 @@ export const historiesJanuaryR85={
       "text": {
         "en": [
           "Rajandi gives Heino two documented contexts: it stands beside Eino, which he links with the old German Einewald, but he states that Heino is much older than Eino and mostly derives from Heinrich. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear.",
-          "Rajandi’s 1966 book names Enn, Heino and Harri as the favourite Heinrich variants a generation earlier, and lists Heino among the forms still preferred, with Harri, Heiki and Indrek, at a combined 20–25 per thousand. Mägiste’s 1929 list already records Hein ~ Heino."
+          "Rajandi’s 1966 book names Enn, Heino and Harri as the favourite Heinrich variants a generation earlier, and lists Heino among the forms still preferred, with Harri, Heiki and Indrek, at a combined 20–25 per thousand. the 1929 list already records Hein ~ Heino."
         ],
         "lv": [
           "Rajandi Heino dod divus dokumentētus kontekstus: tas stāv blakus Eino, ko viņš saista ar senvācu Einewald, taču viņš norāda, ka Heino ir daudz senāks par Eino un lielākoties cēlies no Heinrich. Heinrich Rajandi atvasina no austrumfranku Haimrich «saimnieks savās mājās», taču norāda, ka sākotnējā forma un nozīme nav pilnīgi skaidra.",
-          "Rajandi 1966. gada grāmata Enn, Heino un Harri sauc par paaudzi agrāk iecienītākajiem Heinrich variantiem un Heino min starp joprojām izvēlētajām formām kopā ar Harri, Heiki un Indrek — kopā 20–25 uz tūkstoti. Mēgistes 1929. gada saraksts jau fiksē Hein ~ Heino."
+          "Rajandi 1966. gada grāmata Enn, Heino un Harri sauc par paaudzi agrāk iecienītākajiem Heinrich variantiem un Heino min starp joprojām izvēlētajām formām kopā ar Harri, Heiki un Indrek — kopā 20–25 uz tūkstoti. 1929. gada saraksts jau fiksē Hein ~ Heino."
         ],
         "ru": [
           "Райанди даёт для Heino два документированных контекста: оно стоит рядом с Eino, которое он связывает со старонемецким Einewald, но подчёркивает, что Heino намного старше Eino и в основном происходит от Heinrich. Heinrich Райанди выводит из восточнофранкского Haimrich «хозяин в своём доме», отмечая, что исходная форма и значение не вполне ясны.",
-          "Книга Райанди 1966 года называет Enn, Heino и Harri любимыми вариантами Heinrich поколением раньше и относит Heino к формам, которые всё ещё предпочитают, вместе с Harri, Heiki и Indrek — в сумме 20–25 на тысячу. Список Мягисте 1929 года уже фиксирует Hein ~ Heino."
+          "Книга Райанди 1966 года называет Enn, Heino и Harri любимыми вариантами Heinrich поколением раньше и относит Heino к формам, которые всё ещё предпочитают, вместе с Harri, Heiki и Indrek — в сумме 20–25 на тысячу. Список 1929 года уже фиксирует Hein ~ Heino."
         ],
         "lt": [
           "Rajandi Heino pateikia du dokumentuotus kontekstus: jis stovi greta Eino, kurį autorius sieja su senąja vokiška Einewald forma, tačiau teigia, kad Heino daug senesnis už Eino ir dažniausiai kildinamas iš Heinrich. Heinrich Rajandi kildina iš rytų frankų Haimrich „šeimininkas savo namuose“, pažymėdamas, kad pradinė forma ir reikšmė nėra visiškai aiškios.",
@@ -488,15 +488,15 @@ export const historiesJanuaryR85={
       ],
       "text": {
         "en": [
-          "Rajandi lists Henno in the series Henn ~ Henno ~ Hennu, referred to Heinrich and connected with Enn, Enni and Enno. Mägiste’s 1929 collection also records Henno beside Henn, citing Wiedemann’s dictionary. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear.",
+          "Rajandi lists Henno in the series Henn ~ Henno ~ Hennu, referred to Heinrich and connected with Enn, Enni and Enno. the 1929 collection also records Henno beside Henn, citing Wiedemann’s dictionary. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear.",
           "In Rajandi’s analysis of 10,000 names given in Estonia in 1935–1955, Henno appeared seven times, while Enno appeared 37 times and Enn 63 times. These figures describe that sample, not today’s population or the first Henno."
         ],
         "lv": [
-          "Rajandi Henno min virknē Henn ~ Henno ~ Hennu, kas saistīta ar Heinrich un vārdiem Enn, Enni un Enno. Arī Mēgistes 1929. gada krājums fiksē Henno blakus Henn, atsaucoties uz Vīdemaņa vārdnīcu. Heinrich Rajandi atvasina no austrumfranku Haimrich «saimnieks savās mājās», taču norāda, ka sākotnējā forma un nozīme nav pilnīgi skaidra.",
+          "Rajandi Henno min virknē Henn ~ Henno ~ Hennu, kas saistīta ar Heinrich un vārdiem Enn, Enni un Enno. Arī 1929. gada krājums fiksē Henno blakus Henn, atsaucoties uz Vīdemaņa vārdnīcu. Heinrich Rajandi atvasina no austrumfranku Haimrich «saimnieks savās mājās», taču norāda, ka sākotnējā forma un nozīme nav pilnīgi skaidra.",
           "Rajandi analīzē par 10 000 vārdiem, kas Igaunijā doti 1935.–1955. gadā, Henno bija septiņas reizes, Enno — 37 reizes un Enn — 63 reizes. Šie skaitļi raksturo minēto izlasi, nevis mūsdienu iedzīvotājus vai pirmo Henno."
         ],
         "ru": [
-          "Райанди приводит Henno в ряду Henn ~ Henno ~ Hennu, отнесённом к Heinrich и связанном с Enn, Enni и Enno. Сборник Мягисте 1929 года также фиксирует Henno рядом с Henn со ссылкой на словарь Видемана. Heinrich Райанди выводит из восточнофранкского Haimrich «хозяин в своём доме», отмечая, что исходная форма и значение не вполне ясны.",
+          "Райанди приводит Henno в ряду Henn ~ Henno ~ Hennu, отнесённом к Heinrich и связанном с Enn, Enni и Enno. Сборник 1929 года также фиксирует Henno рядом с Henn со ссылкой на словарь Видемана. Heinrich Райанди выводит из восточнофранкского Haimrich «хозяин в своём доме», отмечая, что исходная форма и значение не вполне ясны.",
           "В анализе Райанди 10 000 имён, данных в Эстонии в 1935–1955 годах, Henno встретилось семь раз, Enno — 37 раз, а Enn — 63 раза. Эти числа описывают ту выборку, а не нынешнее население или первого Henno."
         ],
         "lt": [
@@ -544,15 +544,15 @@ export const historiesJanuaryR85={
       ],
       "text": {
         "en": [
-          "Rajandi gives Eno ~ Enu two separate uses: as a woman’s name it belongs with Ene, and as a man’s name it equals Enn, a short form from the Heinrich family. Mägiste’s 1929 list likewise places Eno next to Enn for comparison. The masculine Heinrich link therefore does not cover every bearer.",
+          "Rajandi gives Eno ~ Enu two separate uses: as a woman’s name it belongs with Ene, and as a man’s name it equals Enn, a short form from the Heinrich family. the 1929 list likewise places Eno next to Enn for comparison. The masculine Heinrich link therefore does not cover every bearer.",
           "Rajandi names Eno among forms such as Enn, Henn, Henu, Henno and Henni found in Estonian documents of the fourteenth to sixteenth centuries. Statistics Estonia counted 70 men and fewer than five women named Eno on 1 January 2026, so both uses continue."
         ],
         "lv": [
-          "Rajandi Eno ~ Enu dod divus atsevišķus lietojumus: kā sievietes vārds tas saistās ar Ene, bet kā vīrieša vārds tas līdzinās Enn — Heinrich saimes īsajai formai. Arī Mēgistes 1929. gada sarakstā Eno salīdzinājumam novietots blakus Enn. Tāpēc vīrieša vārda saikne ar Heinrich neattiecas uz katru nēsātāju.",
+          "Rajandi Eno ~ Enu dod divus atsevišķus lietojumus: kā sievietes vārds tas saistās ar Ene, bet kā vīrieša vārds tas līdzinās Enn — Heinrich saimes īsajai formai. Arī 1929. gada sarakstā Eno salīdzinājumam novietots blakus Enn. Tāpēc vīrieša vārda saikne ar Heinrich neattiecas uz katru nēsātāju.",
           "Rajandi Eno min starp tādām formām kā Enn, Henn, Henu, Henno un Henni, kas sastopamas 14.–16. gadsimta igauņu dokumentos. Igaunijas Statistikas pārvalde 2026. gada 1. janvārī uzskaitīja 70 vīriešus un mazāk nekā piecas sievietes vārdā Eno, tātad turpinās abi lietojumi."
         ],
         "ru": [
-          "Райанди даёт для Eno ~ Enu два отдельных употребления: как женское имя оно относится к Ene, а как мужское равно Enn — краткой форме из семьи Heinrich. Список Мягисте 1929 года также ставит Eno для сравнения рядом с Enn. Поэтому мужская связь с Heinrich относится не ко всем носителям.",
+          "Райанди даёт для Eno ~ Enu два отдельных употребления: как женское имя оно относится к Ene, а как мужское равно Enn — краткой форме из семьи Heinrich. Список 1929 года также ставит Eno для сравнения рядом с Enn. Поэтому мужская связь с Heinrich относится не ко всем носителям.",
           "Райанди называет Eno среди таких форм, как Enn, Henn, Henu, Henno и Henni, встречающихся в эстонских документах XIV–XVI веков. На 1 января 2026 года Статистическое ведомство Эстонии насчитало 70 мужчин и менее пяти женщин по имени Eno, то есть сохраняются оба употребления."
         ],
         "lt": [

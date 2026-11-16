@@ -1,0 +1,475 @@
+{
+  "round": 120,
+  "date": "2026-11-14",
+  "writer_version": "namedays-1.9.78",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 987,
+      "local_profiles_after": 990,
+      "local_exact_links_added": 20,
+      "new_exact_person_profile_links": 30,
+      "with_exact_namesakes": 1729,
+      "with_five_local": 312,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": [
+        {
+          "name": "Karolīne",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q39064459",
+              "name": "Karolīne Kronvalde"
+            }
+          ]
+        },
+        {
+          "name": "Lilija",
+          "before": 9,
+          "after": 10,
+          "people": [
+            {
+              "id": "Q4161919",
+              "name": "Lilija Dinere"
+            },
+            {
+              "id": "Q93895351",
+              "name": "Lilija Brangale"
+            },
+            {
+              "id": "Q107014638",
+              "name": "Lilija Brante"
+            }
+          ]
+        },
+        {
+          "name": "Valija",
+          "before": 3,
+          "after": 4,
+          "people": [
+            {
+              "id": "Q16355217",
+              "name": "Valija Veščunas-Jansone"
+            },
+            {
+              "id": "Q16475403",
+              "name": "Valija Dambe"
+            },
+            {
+              "id": "Q16355213",
+              "name": "Valija Drauga"
+            }
+          ]
+        },
+        {
+          "name": "Erhards",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q101064",
+              "name": "Erhards Krēgers"
+            },
+            {
+              "id": "Q16318956",
+              "name": "Erhards Deblers"
+            }
+          ]
+        },
+        {
+          "name": "Vilhelms",
+          "before": 8,
+          "after": 9,
+          "people": [
+            {
+              "id": "Q2663470",
+              "name": "Vilhelms Purvītis"
+            },
+            {
+              "id": "Q323916",
+              "name": "Vilhelms Bokslafs"
+            },
+            {
+              "id": "Q536669",
+              "name": "Vilhelms Neimanis"
+            }
+          ]
+        },
+        {
+          "name": "Mērija",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q26267761",
+              "name": "Mērija Grīnberga"
+            },
+            {
+              "id": "Q50377528",
+              "name": "Mērija Saule-Sleine"
+            }
+          ]
+        },
+        {
+          "name": "Kristiāns",
+          "before": 7,
+          "after": 8,
+          "people": [
+            {
+              "id": "Q553307",
+              "name": "Kristiāns Jāks Petersons"
+            },
+            {
+              "id": "Q52727147",
+              "name": "Kristiāns Rubīns"
+            },
+            {
+              "id": "Q6111259",
+              "name": "Kristiāns Pelšs"
+            }
+          ]
+        },
+        {
+          "name": "Anna",
+          "before": 10,
+          "after": 11,
+          "people": [
+            {
+              "id": "Q435424",
+              "name": "Anna Brigadere"
+            },
+            {
+              "id": "Q433407",
+              "name": "Anna Lāce"
+            },
+            {
+              "id": "Q771074",
+              "name": "Anna Sakse"
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 611,
+      "local_profiles_after": 612,
+      "local_exact_links_added": 19,
+      "new_exact_person_profile_links": 20,
+      "with_exact_namesakes": 671,
+      "with_five_local": 301,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 25,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": [
+        {
+          "name": "Vaidas",
+          "before": 7,
+          "after": 8,
+          "people": [
+            {
+              "id": "Q11003717",
+              "name": "Vaidas Baumila"
+            },
+            {
+              "id": "Q952422",
+              "name": "Vaidas Slavickas"
+            },
+            {
+              "id": "Q16620111",
+              "name": "Vaidas Kariniauskas"
+            }
+          ]
+        },
+        {
+          "name": "Leopoldas",
+          "before": 4,
+          "after": 9,
+          "people": [
+            {
+              "id": "Q65417",
+              "name": "Leopoldas Arendsas"
+            },
+            {
+              "id": "Q16458504",
+              "name": "Leopoldas Digrys"
+            },
+            {
+              "id": "Q12662943",
+              "name": "Leopoldas Dymša"
+            }
+          ]
+        },
+        {
+          "name": "Magdalena",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12664122",
+              "name": "Magdalena Draugelytė-Galdikienė"
+            },
+            {
+              "id": "Q12664118",
+              "name": "Magdalena Avietėnaitė"
+            }
+          ]
+        },
+        {
+          "name": "Algė",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12647994",
+              "name": "Algė Regina Jankevičienė"
+            },
+            {
+              "id": "Q61108640",
+              "name": "Algė Savickaitė"
+            }
+          ]
+        },
+        {
+          "name": "Alvydas",
+          "before": 12,
+          "after": 13,
+          "people": [
+            {
+              "id": "Q2619787",
+              "name": "Alvydas Pazdrazdis"
+            },
+            {
+              "id": "Q449611",
+              "name": "Alvydas Nikžentaitis"
+            },
+            {
+              "id": "Q11196308",
+              "name": "Alvydas Duonėla"
+            }
+          ]
+        },
+        {
+          "name": "Jadvyga",
+          "before": 10,
+          "after": 11,
+          "people": [
+            {
+              "id": "Q12657051",
+              "name": "Jadvyga Juškytė"
+            },
+            {
+              "id": "Q16106864",
+              "name": "Jadvyga Putinienė"
+            },
+            {
+              "id": "Q2161806",
+              "name": "Jadvyga Dunauskaitė"
+            }
+          ]
+        },
+        {
+          "name": "Anastazija",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q31199026",
+              "name": "Anastazija Kašinskaitė"
+            },
+            {
+              "id": "Q12648308",
+              "name": "Anastazija Sidarienė"
+            }
+          ]
+        },
+        {
+          "name": "Joana",
+          "before": 10,
+          "after": 11,
+          "people": [
+            {
+              "id": "Q11518354",
+              "name": "Joana Eidukonytė"
+            },
+            {
+              "id": "Q6205915",
+              "name": "Joana Narutavičienė"
+            },
+            {
+              "id": "Q15402095",
+              "name": "Joana Danguolė Sadeikienė"
+            }
+          ]
+        }
+      ]
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 980,
+      "local_profiles_after": 992,
+      "local_exact_links_added": 119,
+      "new_exact_person_profile_links": 119,
+      "with_exact_namesakes": 1081,
+      "with_five_local": 499,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 24,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": [
+        {
+          "name": "Tea",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q16405885",
+              "name": "Tea Oll"
+            },
+            {
+              "id": "Q45848434",
+              "name": "Tea Tammelaan"
+            }
+          ]
+        },
+        {
+          "name": "Elle",
+          "before": 8,
+          "after": 10,
+          "people": [
+            {
+              "id": "Q3741225",
+              "name": "Elle Kull"
+            },
+            {
+              "id": "Q16403912",
+              "name": "Elle Eha"
+            },
+            {
+              "id": "Q136101545",
+              "name": "Elle Kalmo"
+            }
+          ]
+        },
+        {
+          "name": "Ellu",
+          "before": 2,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q136031847",
+              "name": "Ellu Papstel"
+            },
+            {
+              "id": "Q12361924",
+              "name": "Ellu Puudist"
+            },
+            {
+              "id": "Q16408376",
+              "name": "Ellu Saar"
+            }
+          ]
+        },
+        {
+          "name": "Elmi",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q30605658",
+              "name": "Elmi Hakk"
+            }
+          ]
+        },
+        {
+          "name": "Meinhard",
+          "before": 9,
+          "after": 10,
+          "people": [
+            {
+              "id": "Q12370127",
+              "name": "Meinhard Niglas"
+            },
+            {
+              "id": "Q17361929",
+              "name": "Meinhard Uustalu"
+            },
+            {
+              "id": "Q136036704",
+              "name": "Meinhard Glücke"
+            }
+          ]
+        },
+        {
+          "name": "Avo",
+          "before": 7,
+          "after": 8,
+          "people": [
+            {
+              "id": "Q11853673",
+              "name": "Avo Keel"
+            },
+            {
+              "id": "Q15280817",
+              "name": "Avo Paistik"
+            },
+            {
+              "id": "Q29420338",
+              "name": "Avo Üprus"
+            }
+          ]
+        },
+        {
+          "name": "Maidu",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q12369512",
+              "name": "Maidu Varik"
+            }
+          ]
+        },
+        {
+          "name": "Ingo",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12364561",
+              "name": "Ingo Normet"
+            },
+            {
+              "id": "Q124741664",
+              "name": "Ingo Valgma"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reviewed_people": 9,
+    "role_added": "educator",
+    "wikipedia_prefix_ids": "PEOPLE-WIKI120-*"
+  },
+  "validation": {
+    "unit_tests": 138,
+    "static_build": "passed",
+    "browser": "LT Leopoldas 15 November: nine local namesakes, international tier, then five birthday people.",
+    "history_facts": "All 8677 profile facts unchanged",
+    "display": "All 9368 memberships preserve previously displayed people and five birthday people."
+  }
+}

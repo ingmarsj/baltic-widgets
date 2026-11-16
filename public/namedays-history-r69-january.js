@@ -1914,7 +1914,7 @@ export const historiesJanuary={
       "text": {
         "en": [
           "Rajandi groups Liia with Lea and Lia, noting Russian Лия as an influence on the spelling. This is a documented naming relationship. The later Latin “lioness” association of Lea should not replace the Hebrew background of the wider family.",
-          "Mägiste’s 1929 Estonian name list already prints the exact spelling Liia and cites Wiedemann. Rajandi discusses it again in 1966. These are dated dictionary records of Liia itself, rather than dates transferred from a different spelling."
+          "the 1929 Estonian name list already prints the exact spelling Liia and cites Wiedemann. Rajandi discusses it again in 1966. These are dated dictionary records of Liia itself, rather than dates transferred from a different spelling."
         ],
         "lv": [
           "Rajandi Liia grupē ar Lea un Lia, rakstībā atzīmējot krievu Лия ietekmi. Tā ir dokumentēta vārdu saikne. Vēlākā Lea asociācija ar latīņu «lauvene» neaizstāj plašākās saimes ebreju pamatu.",
@@ -1922,11 +1922,11 @@ export const historiesJanuary={
         ],
         "ru": [
           "Райанди объединяет Liia с Lea и Lia, отмечая влияние русского Лия на написание. Это документированная связь имён. Позднейшая латинская ассоциация Lea со «львицей» не заменяет еврейский фон всей семьи.",
-          "Эстонский список имён Мягисте 1929 года уже печатает точное Liia со ссылкой на Видемана. Райанди рассматривает его вновь в 1966 году. Это датированные словарные фиксации самой Liia, а не даты другого написания."
+          "Эстонский список имён 1929 года уже печатает точное Liia со ссылкой на Видемана. Райанди рассматривает его вновь в 1966 году. Это датированные словарные фиксации самой Liia, а не даты другого написания."
         ],
         "lt": [
           "Rajandi Liia grupuoja su Lea ir Lia, nurodydamas rusų Лия įtaką rašybai. Tai dokumentuotas vardų ryšys. Vėlesnė Lea sąsaja su lotyniška „liūte“ nepakeičia platesnės šeimos hebrajiško pamato.",
-          "Mägiste 1929 metų estų vardų sąraše jau yra tiksli Liia rašyba su nuoroda į Wiedemanną. Rajandi ją vėl aptaria 1966 metais. Tai datuoti pačios Liia žodyniniai liudijimai, o ne kitos rašybos datų perkėlimas."
+          "1929 metų estų vardų sąraše jau yra tiksli Liia rašyba su nuoroda į Wiedemanną. Rajandi ją vėl aptaria 1966 metais. Tai datuoti pačios Liia žodyniniai liudijimai, o ne kitos rašybos datų perkėlimas."
         ],
         "et": [
           "Rajandi rühmitab Liia Lea ja Liaga ning märgib vene Лия mõju kirjapildile. See on dokumenteeritud nimeseos. Lea hilisem ladina „emalõvi” seos ei asenda laiema nimepere heebrea tausta.",
@@ -1969,7 +1969,7 @@ export const historiesJanuary={
       "text": {
         "en": [
           "Aabo has more than one documented full-name connection. Mägiste compares Aabo/Aabu with Aabram and Aabel; Rajandi instead favours Abraham and Fabian for this short-name group. The sources do not select one universal origin for every bearer.",
-          "Aabo is already printed in Mägiste’s 1929 list. Rajandi’s 1966 dictionary later preserves the competing analyses. These dated treatments show the short name’s scholarly history without pretending that an earlier full name dates every local Aabo."
+          "Aabo is already printed in the 1929 list. Rajandi’s 1966 dictionary later preserves the competing analyses. These dated treatments show the short name’s scholarly history without pretending that an earlier full name dates every local Aabo."
         ],
         "lv": [
           "Aabo ir vairāk nekā viena dokumentēta pilnā vārda saikne. Mägiste Aabo/Aabu salīdzina ar Aabram un Aabel; Rajandi šai īso vārdu grupai dod priekšroku Abraham un Fabian. Avoti nenosaka vienu universālu cilmi visiem.",
@@ -1977,11 +1977,11 @@ export const historiesJanuary={
         ],
         "ru": [
           "У Aabo несколько документированных связей с полными именами. Мягисте сравнивает Aabo/Aabu с Aabram и Aabel; Райанди предпочитает для группы Abraham и Fabian. Источники не выбирают единственную общую этимологию всех носителей.",
-          "Aabo уже напечатано в списке Мягисте 1929 года. Позднее словарь Райанди 1966 года сохраняет разные разборы. Эти датированные исследования показывают историю краткого имени, не перенося возраст полного имени на каждого местного Aabo."
+          "Aabo уже напечатано в списке 1929 года. Позднее словарь Райанди 1966 года сохраняет разные разборы. Эти датированные исследования показывают историю краткого имени, не перенося возраст полного имени на каждого местного Aabo."
         ],
         "lt": [
           "Aabo turi daugiau nei vieną dokumentuotą ryšį su pilnu vardu. Mägiste Aabo/Aabu lygina su Aabram ir Aabel; Rajandi šiai trumpinių grupei labiau renkasi Abraham ir Fabian. Šaltiniai nenustato vienos visuotinės kilmės.",
-          "Aabo jau išspausdintas Mägiste 1929 metų sąraše. Vėlesnis Rajandi 1966 metų žodynas išsaugo skirtingus aiškinimus. Datuoti tyrimai rodo trumpinio mokslinę istoriją, neperkeldami senesnio pilno vardo datos kiekvienam vietiniam Aabo."
+          "Aabo jau išspausdintas 1929 metų sąraše. Vėlesnis Rajandi 1966 metų žodynas išsaugo skirtingus aiškinimus. Datuoti tyrimai rodo trumpinio mokslinę istoriją, neperkeldami senesnio pilno vardo datos kiekvienam vietiniam Aabo."
         ],
         "et": [
           "Aabol on mitu dokumenteeritud täisnimeseost. Mägiste võrdleb Aabot/Aabut Aabrami ja Aabeliga; Rajandi eelistab selle lühinimerühma puhul Abrahamit ja Fabianit. Allikad ei vali kõigile nimekandjatele üht universaalset päritolu.",
@@ -2242,7 +2242,7 @@ export const historiesJanuary={
       "text": {
         "en": [
           "Mägiste compares Velvo with Votic velve, “little brother”, while listing it beside Velve. Rajandi later includes Velvo in the Vello brother-name group. The comparison is attributed to the linguists, rather than presented as every family’s naming motive.",
-          "The exact form Velvo is printed in Mägiste’s 1929 name list and discussed again in Rajandi’s 1966 dictionary. These dated linguistic records show the form’s place in naming proposals; they are not an independently inspected first birth entry."
+          "The exact form Velvo is printed in the 1929 name list and discussed again in Rajandi’s 1966 dictionary. These dated linguistic records show the form’s place in naming proposals; they are not an independently inspected first birth entry."
         ],
         "lv": [
           "Mägiste Velvo salīdzina ar votu velve «brālītis», minot līdzās Velve. Rajandi vēlāk to iekļauj Vello brāļu vārdu grupā. Tas ir valodnieku salīdzinājums, nevis katras ģimenes vārda izvēles motīvs.",
@@ -2250,11 +2250,11 @@ export const historiesJanuary={
         ],
         "ru": [
           "Мягисте сравнивает Velvo с водским velve «братец», приводя рядом с Velve. Райанди позднее включает его в группу братских имён Vello. Это сопоставление лингвистов, а не мотив выбора имени каждой семьёй.",
-          "Точное Velvo напечатано в списке Мягисте 1929 года и вновь обсуждается в словаре Райанди 1966 года. Эти датированные лингвистические записи показывают место формы в предложениях имён, а не независимо проверенную первую запись о рождении."
+          "Точное Velvo напечатано в списке 1929 года и вновь обсуждается в словаре Райанди 1966 года. Эти датированные лингвистические записи показывают место формы в предложениях имён, а не независимо проверенную первую запись о рождении."
         ],
         "lt": [
           "Mägiste Velvo lygina su vodų velve „broliukas“, pateikdamas greta Velve. Rajandi vėliau jį įtraukia į Vello broliškų vardų grupę. Tai kalbininkų palyginimas, o ne kiekvienos šeimos vardo pasirinkimo motyvas.",
-          "Tiksli Velvo forma išspausdinta Mägiste 1929 metų vardų sąraše ir vėl aptarta Rajandi 1966 metų žodyne. Datuoti kalbiniai liudijimai rodo jos vietą vardų siūlymuose, o ne savarankiškai tikrintą pirmą gimimo įrašą."
+          "Tiksli Velvo forma išspausdinta 1929 metų vardų sąraše ir vėl aptarta Rajandi 1966 metų žodyne. Datuoti kalbiniai liudijimai rodo jos vietą vardų siūlymuose, o ne savarankiškai tikrintą pirmą gimimo įrašą."
         ],
         "et": [
           "Mägiste võrdleb Velvot vadja sõnaga velve „vennake”, loetledes seda Velve kõrval. Rajandi paigutab Velvo hiljem Vello vennasnimede rühma. Võrdlus kuulub keeleteadlastele ega kirjelda iga pere nimevaliku motiivi.",

@@ -2532,7 +2532,7 @@ export const historiesCalendarR100={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Villem and Wilhelm. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Exact Villem is included in Mägiste’s 1929 masculine name list, alongside references to older written forms. The publication documents a naming recommendation; those older spellings are not silently presented as the modern spelling’s first attestation."
+          "Exact Villem is included in the 1929 masculine name list, alongside references to older written forms. The publication documents a naming recommendation; those older spellings are not silently presented as the modern spelling’s first attestation."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Villem un Wilhelm. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2540,11 +2540,11 @@ export const historiesCalendarR100={
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Villem и Wilhelm. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Точное Villem включено в список мужских имён Мягисте 1929 года со ссылками на старые написания. Издание документирует рекомендацию; старые формы не выдаются за первое упоминание современного написания."
+          "Точное Villem включено в список мужских имён 1929 года со ссылками на старые написания. Издание документирует рекомендацию; старые формы не выдаются за первое упоминание современного написания."
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Villem ir Wilhelm ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Tikslus Villem įtrauktas į Mägiste 1929 metų vyriškų vardų sąrašą su nuorodomis į senesnes rašybas. Leidinys dokumentuoja vardo rekomendaciją; senosios rašybos nepateikiamos kaip pirmasis šiuolaikinės formos paminėjimas."
+          "Tikslus Villem įtrauktas į 1929 metų vyriškų vardų sąrašą su nuorodomis į senesnes rašybas. Leidinys dokumentuoja vardo rekomendaciją; senosios rašybos nepateikiamos kaip pirmasis šiuolaikinės formos paminėjimas."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Villem ja Wilhelm seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",
@@ -2614,7 +2614,7 @@ export const historiesCalendarR100={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Allo and Aleksander. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Mägiste’s 1929 masculine name list explicitly presents Allo as a dialectal form of Aleksander and pairs it with Allu. This dates a published recommendation, not the first bearer of the modern spelling."
+          "the 1929 masculine name list explicitly presents Allo as a dialectal form of Aleksander and pairs it with Allu. This dates a published recommendation, not the first bearer of the modern spelling."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Allo un Aleksander. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2622,11 +2622,11 @@ export const historiesCalendarR100={
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Allo и Aleksander. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Список мужских имён Мягисте 1929 года прямо даёт Allo как диалектную форму Aleksander и сопоставляет с Allu. Это дата опубликованной рекомендации, а не первого носителя современного написания."
+          "Список мужских имён 1929 года прямо даёт Allo как диалектную форму Aleksander и сопоставляет с Allu. Это дата опубликованной рекомендации, а не первого носителя современного написания."
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Allo ir Aleksander ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Mägiste 1929 metų vyriškų vardų sąrašas Allo tiesiogiai pateikia kaip tarminę Aleksander formą ir poruoja su Allu. Datuojama paskelbta rekomendacija, o ne pirmasis šiuolaikinės rašybos turėtojas."
+          "1929 metų vyriškų vardų sąrašas Allo tiesiogiai pateikia kaip tarminę Aleksander formą ir poruoja su Allu. Datuojama paskelbta rekomendacija, o ne pirmasis šiuolaikinės rašybos turėtojas."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Allo ja Aleksander seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",
@@ -2777,7 +2777,7 @@ export const historiesCalendarR100={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Ullo and Ulrich. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Exact Ullo appears in Mägiste’s 1929 name guide. This documents a published naming recommendation, not the first bearer or the invention of the name."
+          "Exact Ullo appears in the 1929 name guide. This documents a published naming recommendation, not the first bearer or the invention of the name."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Ullo un Ulrich. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2785,11 +2785,11 @@ export const historiesCalendarR100={
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Ullo и Ulrich. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Точное Ullo включено в справочник имён Мягисте 1929 года. Это опубликованная рекомендация, а не первый носитель или создание имени."
+          "Точное Ullo включено в справочник имён 1929 года. Это опубликованная рекомендация, а не первый носитель или создание имени."
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Ullo ir Ulrich ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Tikslus Ullo yra Mägiste 1929 metų vardų vadove. Tai paskelbta vardo rekomendacija, o ne pirmasis turėtojas ar vardo sukūrimas."
+          "Tikslus Ullo yra 1929 metų vardų vadove. Tai paskelbta vardo rekomendacija, o ne pirmasis turėtojas ar vardo sukūrimas."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Ullo ja Ulrich seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",
@@ -2940,7 +2940,7 @@ export const historiesCalendarR100={
       "text": {
         "en": [
           "Edgar Rajandi documents a connection between Valdu and Valdo, Waldemar, Voldemar. The relationship between these forms does not by itself establish a single exclusive distant root for every bearer.",
-          "Exact Valdu appears in Mägiste’s 1929 name guide. This documents a published naming recommendation, not the first bearer or the invention of the name."
+          "Exact Valdu appears in the 1929 name guide. This documents a published naming recommendation, not the first bearer or the invention of the name."
         ],
         "lv": [
           "Edgars Rajandi dokumentē saikni starp Valdu un Valdo, Waldemar, Voldemar. Šo formu saikne pati par sevi nenosaka vienu vienīgu tālāko sakni visiem vārda nesējiem.",
@@ -2948,11 +2948,11 @@ export const historiesCalendarR100={
         ],
         "ru": [
           "Эдгар Раянди документирует связь между Valdu и Valdo, Waldemar, Voldemar. Связь этих форм сама по себе не устанавливает единственного дальнего корня для всех носителей имени.",
-          "Точное Valdu включено в справочник имён Мягисте 1929 года. Это опубликованная рекомендация, а не первый носитель или создание имени."
+          "Точное Valdu включено в справочник имён 1929 года. Это опубликованная рекомендация, а не первый носитель или создание имени."
         ],
         "lt": [
           "Edgaras Rajandi dokumentuoja Valdu ir Valdo, Waldemar, Voldemar ryšį. Šių formų ryšys savaime nenustato vienos išskirtinės tolimesnės šaknies visiems vardo turėtojams.",
-          "Tikslus Valdu yra Mägiste 1929 metų vardų vadove. Tai paskelbta vardo rekomendacija, o ne pirmasis turėtojas ar vardo sukūrimas."
+          "Tikslus Valdu yra 1929 metų vardų vadove. Tai paskelbta vardo rekomendacija, o ne pirmasis turėtojas ar vardo sukūrimas."
         ],
         "et": [
           "Edgar Rajandi dokumenteerib nimede Valdu ja Valdo, Waldemar, Voldemar seose. Nende kujude seos ei määra iseenesest kõigile nimekandjatele ühtainsat kaugemat tüve.",
