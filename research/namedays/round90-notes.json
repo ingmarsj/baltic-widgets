@@ -1,0 +1,633 @@
+{
+  "round": 90,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-23: researched all 23 unfinished LV/LT/EE profiles before advancing (LV 11/18, LT 1/2, EE 2/3 written). 14 histories written; 9 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Strauta",
+      "spellings": [
+        "Strauta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Strauta"
+      ],
+      "facts_used": "Catalogue offers strauts only as a possible interpretation; Matīši, third quarter of the twentieth century, is attestation only. Seek an exact formation statement (e.g. LV-ALL93-era dictionary) before promoting.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue offers strauts only as a possible interpretation; Matīši, third quarter of the twentieth century, is attestation only. Seek an exact formation statement (e.g. LV-ALL93-era dictionary) before promoting.",
+      "next_steps": "Catalogue offers strauts only as a possible interpretation; Matīši, third quarter of the twentieth century, is attestation only. Seek an exact formation statement (e.g. LV-ALL93-era dictionary) before promoting."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Rebeka",
+      "spellings": [
+        "Rebeka"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Rebeka",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Rebecca, Rebekah → Rebeka. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 116. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The catalogue’s competing question-marked Hebrew explanations are not selected; its 1767 calendar year and first-quarter-twentieth-century record are not used. Checked location: PDF 113 / printed 116, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Bazils",
+      "spellings": [
+        "Bazils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bazils"
+      ],
+      "facts_used": "The catalogue explains Bazils through Bazīlijs: Greek basileios «royal». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Latgale, 1695 (dictionary page 79). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 79. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Bažena",
+      "spellings": [
+        "Bažena"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-UA23"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ba%C5%BEena",
+        "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+      ],
+      "facts_used": "Catalogue relies on a period-Russian Бажена dictionary (not checked here). Ukrainian manual PDF 155 has Бажана → Bažana, not Bažena; RU93 search no hit. Seek exact Бажена → Bažena row and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue relies on a period-Russian Бажена dictionary (not checked here). Ukrainian manual PDF 155 has Бажана → Bažana, not Bažena; RU93 search no hit. Seek exact Бажена → Bažena row and dated use.",
+      "next_steps": "Catalogue relies on a period-Russian Бажена dictionary (not checked here). Ukrainian manual PDF 155 has Бажана → Bažana, not Bažena; RU93 search no hit. Seek exact Бажена → Bažena row and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Bekija",
+      "spellings": [
+        "Bekija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bekija",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Becky → Bekija. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 94. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The manual marks Becky as a diminutive of Rebecca; no Hebrew meaning asserted. Checked location: PDF 91 / printed 94, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Božena",
+      "spellings": [
+        "Božena"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-UA23",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Bo%C5%BEena",
+        "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact Ukrainian correspondence Божена → Božena. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2023 manual on printed page 155. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The catalogue’s Slavic božijь gloss is not used; the Ukrainian row does not establish a unique borrowing route (the catalogue also documents the name in Czech, Slovak, Slovenian and Croatian). Checked location: PDF 155 / printed 155, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Greisa",
+      "spellings": [
+        "Greisa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Greisa",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Grace → Greisa. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 103. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Greisija does not inherit this row. Checked location: PDF 100 / printed 103, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Greisija",
+      "spellings": [
+        "Greisija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Greisija"
+      ],
+      "facts_used": "Exact form absent from catalogue and Ahero 2006 (Grace → Greisa only). Seek an exact rendering and dated use; Greisa evidence not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact form absent from catalogue and Ahero 2006 (Grace → Greisa only). Seek an exact rendering and dated use; Greisa evidence not transferred.",
+      "next_steps": "Exact form absent from catalogue and Ahero 2006 (Grace → Greisa only). Seek an exact rendering and dated use; Greisa evidence not transferred."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Grēta",
+      "spellings": [
+        "Grēta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-EN06",
+        "LV-ALL93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Gr%C4%93ta",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/"
+      ],
+      "facts_used": "The catalogue refers Grēta to Margareta, within the Margareta/Margarita family that it traces to Latin margarīta, “pearl”. The 2006 English rendering manual independently lists Grēta among the Latvian renderings of Greta, which it marks as a diminutive of Margaret. Neither source gives the short form a separate meaning of its own. According to Laimute Balode and Renāte Siliņa-Piņķe’s 2025 article, Grēta was one of nine names added to the traditional Latvian name-day calendar in 2025. The catalogue separately reports a written record dated 1460. Neither date marks the creation of the name; the calendar addition is a recent official decision.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The 1460 catalogue record is attributed, not independently inspected; the 2025 calendar addition is not a creation date. Checked location: Siliņš catalogue pp. 141; 229; Ahero PDF 100 / printed 103 Greta (dem. of Margaret) → … Grēta; LV-ALL93 PDF 3 (2025 calendar additions), visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Grietiņa",
+      "spellings": [
+        "Grietiņa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Grieti%C5%86a"
+      ],
+      "facts_used": "The catalogue explains Grietiņa through Grieta → Margrieta, Margarita: Latin margarīta «pearl». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1925; calendar 1930 (dictionary page 142; 230; 229). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary pp. 142; 230; 229. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Reveka",
+      "spellings": [
+        "Reveka"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-UA23",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Reveka",
+        "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact Ukrainian correspondence Ревека → Reveka. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2023 manual on printed page 160. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The catalogue’s Ogre 1940 record and Rebeka reference are not used; the Ukrainian row does not prove a Ukrainian route for every bearer. Checked location: PDF 160 / printed 160, exact target in rendering table, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Straumīte",
+      "spellings": [
+        "Straumīte"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Straum%C4%ABte"
+      ],
+      "facts_used": "Catalogue: only possible straume connection; no direct entry. Seek an exact dictionary entry and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: only possible straume connection; no direct entry. Seek an exact dictionary entry and dated use.",
+      "next_steps": "Catalogue: only possible straume connection; no direct entry. Seek an exact dictionary entry and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Vasilijs",
+      "spellings": [
+        "Vasilijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Vasilijs",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "The catalogue explains Vasilijs through Bazīlijs: Greek basileios «royal». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Cesvaine, 1781; calendar 1889 (dictionary page 318). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Long-ī Vasīlijs does not inherit these dates. Checked location: Siliņš catalogue, dictionary p. 318; corroborating RU93 PDF 87 / printed 194 Василий → Vasilijs. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Vasīlijs",
+      "spellings": [
+        "Vasīlijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Vas%C4%ABlijs",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "Long-ī form absent; RU93 PDF 87 / printed 194 gives Василий → Vasilijs with short i. Seek an exact long-vowel source and date; do not inherit Vasilijs 1781/1889.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Long-ī form absent; RU93 PDF 87 / printed 194 gives Василий → Vasilijs with short i. Seek an exact long-vowel source and date; do not inherit Vasilijs 1781/1889.",
+      "next_steps": "Long-ī form absent; RU93 PDF 87 / printed 194 gives Василий → Vasilijs with short i. Seek an exact long-vowel source and date; do not inherit Vasilijs 1781/1889."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Vasilika",
+      "spellings": [
+        "Vasilika"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Vasilika"
+      ],
+      "facts_used": "Exact form absent from checked catalogue page p. 318 and cached manuals. Seek a Greek/Russian/Ukrainian rendering row and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact form absent from checked catalogue page p. 318 and cached manuals. Seek a Greek/Russian/Ukrainian rendering row and dated use.",
+      "next_steps": "Exact form absent from checked catalogue page p. 318 and cached manuals. Seek a Greek/Russian/Ukrainian rendering row and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Vasilisa",
+      "spellings": [
+        "Vasilisa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-RU93",
+        "LV-ALL93",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Vasilisa",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/2518/2474/"
+      ],
+      "facts_used": "The 1993 Russian name-rendering manual gives the exact correspondence Василиса → Vasilisa (printed page 184). The Siliņš catalogue does not contain this spelling; its Vasiļisa with a palatal ļ is a different form, so no etymology is transferred from it here. Laimute Balode and Renāte Siliņa-Piņķe’s 2025 article lists Vasilisa among the given names absent from Siliņš’s dictionary and counts it among the names more typical of Latvia’s non-Latvian ethnic groups. That is an observation about recent naming practice in Latvia, not a first-use date.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Vasiļisa is not merged; no etymology claimed. Checked location: RU93 PDF 77 / printed 184 Василиса → Vasilisa; LV-ALL93 PDF 5 table and section 2.1, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Vasils",
+      "spellings": [
+        "Vasils"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Vasils"
+      ],
+      "facts_used": "The catalogue explains Vasils through Vasilijs → Bazīlijs: Greek basileios «royal». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Rēzekne, 1599; calendar 1870 (dictionary page 318). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 318. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lv",
+      "name": "Virta",
+      "spellings": [
+        "Virta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Virta"
+      ],
+      "facts_used": "Catalogue has no origin; cache hits are common words (Karelian/Lithuanian), not personal-name evidence. Seek an exact onomastic entry and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue has no origin; cache hits are common words (Karelian/Lithuanian), not personal-name evidence. Seek an exact onomastic entry and dated use.",
+      "next_steps": "Catalogue has no origin; cache hits are common words (Karelian/Lithuanian), not personal-name evidence. Seek an exact onomastic entry and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lt",
+      "name": "Gailigedas",
+      "spellings": [
+        "Gailigedas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "1964 calendar PDF 301 / printed 286 has exact Gailigedas (Gailys) on 23 January, but Salys’s stem list (PDF 286 / printed 271, Gail- : gailėti, gailus) prints Gailgedas without i. Seek an explicit bridge for the -i- spelling (and Ged- stem, PDF 287) before writing a compound analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "1964 calendar PDF 301 / printed 286 has exact Gailigedas (Gailys) on 23 January, but Salys’s stem list (PDF 286 / printed 271, Gail- : gailėti, gailus) prints Gailgedas without i. Seek an explicit bridge for the -i- spelling (and Ged- stem, PDF 287) before writing a compound analysis.",
+      "next_steps": "1964 calendar PDF 301 / printed 286 has exact Gailigedas (Gailys) on 23 January, but Salys’s stem list (PDF 286 / printed 271, Gail- : gailėti, gailus) prints Gailgedas without i. Seek an explicit bridge for the -i- spelling (and Ged- stem, PDF 287) before writing a compound analysis."
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "lt",
+      "name": "Gunda",
+      "spellings": [
+        "Gunda"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Antanas Salys’s 1964 name calendar uses Gunda as a short form of longer names: Adelgunda (Adela, Gunda) on 30 January and Kunigunda (Gunda, Niga) on 3 March. These are documented full-name contexts; they do not choose a single base for every bearer of the independent name. The same calendar also lists Gunda as a separate name on 23 January, beside Gailigedas. This dates a published calendar entry, reprinted in Salys’s collected writings in 1983; it does not mark the creation of the name or its first Lithuanian bearer.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Rajandi’s Estonian Gunda < Gudrun/Kunigunda index entry (PDF 199) is Estonian context only and not used. Checked location: 1964 calendar PDF 301 / printed 286 (23 January Gunda), PDF 302 (30 January Adelgunda (Adela, Gunda)), PDF 304 (3 March Kunigunda (Gunda, Niga)). Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "ee",
+      "name": "Rene",
+      "spellings": [
+        "Rene"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Edgar Rajandi describes Rene as the French short form of Renatus, the brother name of Renata. He explains Renata from Latin as “reborn”. The Latin sense belongs to the older name family; it is not a trait of individual bearers. According to Rajandi’s 1966 book, Rene reached Estonia through literature only in the twentieth century and was especially frequent in Tallinn in 1962; earlier occurrences had been sporadic. This describes the historical spread he observed, not a first-use date or a current count.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "1962 frequency is historical, not current. Checked location: Rajandi PDF 145 / printed 147, Renata and Renatus entries, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "ee",
+      "name": "Reeno",
+      "spellings": [
+        "Reeno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "In his entry on Rene, the French short form of Renatus, Edgar Rajandi lists Reeno among the Estonianized forms; the 1938 calendar of “Hiie” also offered Reenur. The relationship to Rene is documented, but the Estonianized spelling does not create a separate literal meaning. Rajandi’s 1966 index records Reeno with the source reference Mg 36. In the main entry he describes the early occurrences, including these Estonianized forms, as sporadic before Rene became frequent in Tallinn in 1962. The reference dates a recorded form, not the invention of the name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The index abbreviation Mg 36 is reproduced, not decoded. Leole 2005 (Reeno short of Rene) corroborates but is not used in text. Checked location: Rajandi PDF 145 / printed 147 (eestipärastused Reeno and 1938 Hiie calendar Reenur); index PDF 214 / printed 216 Reeno Mg 36, visually checked. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-23",
+      "date": "2026-11-12",
+      "calendar_date": "01-23",
+      "country": "ee",
+      "name": "Räni",
+      "spellings": [
+        "Räni"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-MAGISTE29-AES",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Mägiste 1929 (AES) PDF 51 lists Räni with older Reni records and only a question-marked comparison with ränikivi; Rajandi index PDF 215 has *Räni (Reni) EÕ 63. Origin explicitly uncertain. Seek a scholarly derivation before writing.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Mägiste 1929 (AES) PDF 51 lists Räni with older Reni records and only a question-marked comparison with ränikivi; Rajandi index PDF 215 has *Räni (Reni) EÕ 63. Origin explicitly uncertain. Seek a scholarly derivation before writing.",
+      "next_steps": "Mägiste 1929 (AES) PDF 51 lists Räni with older Reni records and only a question-marked comparison with ränikivi; Rajandi index PDF 215 has *Räni (Reni) EÕ 63. Origin explicitly uncertain. Seek a scholarly derivation before writing."
+    }
+  ]
+}

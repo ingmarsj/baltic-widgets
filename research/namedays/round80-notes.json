@@ -1,0 +1,958 @@
+{
+  "round": 80,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-13: researched all 35 unfinished LV/LT/EE profiles before advancing. 16 histories written; 19 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Harijs",
+      "spellings": [
+        "Harijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Harijs",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The catalogue explains Harijs through Heinrihs: Old High German heim «home» + rīchi «powerful, ruler». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1885; calendar 1915 (dictionary page 148; 150). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Ahero PDF 69 / printed 72: Harry, diminutive of Henry → Herijs, Harijs; catalogue 148/150. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Ārijs",
+      "spellings": [
+        "Ārijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%80rijs"
+      ],
+      "facts_used": "Catalogue p. 67 marks the Hebrew aryē/ari comparison with a question mark. Seek an explicit source-script bridge and dated exact Latvian episode; do not state lion as verified.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 67 marks the Hebrew aryē/ari comparison with a question mark. Seek an explicit source-script bridge and dated exact Latvian episode; do not state lion as verified.",
+      "next_steps": "Catalogue p. 67 marks the Hebrew aryē/ari comparison with a question mark. Seek an explicit source-script bridge and dated exact Latvian episode; do not state lion as verified."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Āris",
+      "spellings": [
+        "Āris"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%80ris"
+      ],
+      "facts_used": "Direct reference to Ārijs retains that entry’s uncertain Hebrew comparison. Seek an exact independent derivation and historical use before selecting a root.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Direct reference to Ārijs retains that entry’s uncertain Hebrew comparison. Seek an exact independent derivation and historical use before selecting a root.",
+      "next_steps": "Direct reference to Ārijs retains that entry’s uncertain Hebrew comparison. Seek an exact independent derivation and historical use before selecting a root."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Aira",
+      "spellings": [
+        "Aira"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-LEOLE05-DEC",
+        "EE-MAGISTE29",
+        "EE-MAGISTE29-AES",
+        "EE-RAJANDI66",
+        "LV-LVA-EN06"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aira",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Catalogue p. 45 gives competing airene/Airisa/unknown-formation contexts; possible 1934/calendar 1935 do not decide the origin. Seek the original exact entry and independent formation analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 45 gives competing airene/Airisa/unknown-formation contexts; possible 1934/calendar 1935 do not decide the origin. Seek the original exact entry and independent formation analysis.",
+      "next_steps": "Catalogue p. 45 gives competing airene/Airisa/unknown-formation contexts; possible 1934/calendar 1935 do not decide the origin. Seek the original exact entry and independent formation analysis."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Airika",
+      "spellings": [
+        "Airika"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Airika"
+      ],
+      "facts_used": "Catalogue only compares Airu with a question mark; possible 1971 does not verify derivation. Seek an exact formation statement, not an inherited Aira meaning.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue only compares Airu with a question mark; possible 1971 does not verify derivation. Seek an exact formation statement, not an inherited Aira meaning.",
+      "next_steps": "Catalogue only compares Airu with a question mark; possible 1971 does not verify derivation. Seek an exact formation statement, not an inherited Aira meaning."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Airiks",
+      "spellings": [
+        "Airiks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Airiks"
+      ],
+      "facts_used": "Catalogue proposes Ēriks or an unclear formation; even the century-quarter date is possible. Seek an explicit exact bridge and independently dated record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue proposes Ēriks or an unclear formation; even the century-quarter date is possible. Seek an explicit exact bridge and independently dated record.",
+      "next_steps": "Catalogue proposes Ēriks or an unclear formation; even the century-quarter date is possible. Seek an explicit exact bridge and independently dated record."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Airis",
+      "spellings": [
+        "Airis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-SINIJARV14",
+        "LT-SALYS83",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Airis",
+        "https://www.folklore.ee/kp/lp/2014/siirisinijarveesnimed.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf"
+      ],
+      "facts_used": "Catalogue offers airis oar or an unknown formation; Riga district 1973 is an attestation, not an etymological decision. Seek an exact origin analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue offers airis oar or an unknown formation; Riga district 1973 is an attestation, not an etymological decision. Seek an exact origin analysis.",
+      "next_steps": "Catalogue offers airis oar or an unknown formation; Riga district 1973 is an attestation, not an etymological decision. Seek an exact origin analysis."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Āra",
+      "spellings": [
+        "Āra"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%80ra"
+      ],
+      "facts_used": "Catalogue offers Ārija or Latvian āre/āra; no unique route established. Seek an explicit origin and dated exact record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue offers Ārija or Latvian āre/āra; no unique route established. Seek an explicit origin and dated exact record.",
+      "next_steps": "Catalogue offers Ārija or Latvian āre/āra; no unique route established. Seek an explicit origin and dated exact record."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Arends",
+      "spellings": [
+        "Arends"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arends"
+      ],
+      "facts_used": "Catalogue offers German aro/Dutch arend eagle and Arnolds alternatives. Seek an exact borrowing/short-name analysis and historical record, preserving alternatives.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue offers German aro/Dutch arend eagle and Arnolds alternatives. Seek an exact borrowing/short-name analysis and historical record, preserving alternatives.",
+      "next_steps": "Catalogue offers German aro/Dutch arend eagle and Arnolds alternatives. Seek an exact borrowing/short-name analysis and historical record, preserving alternatives."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Ārends",
+      "spellings": [
+        "Ārends"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%80rends"
+      ],
+      "facts_used": "Only possible macron-bearing variant of Arends, itself unresolved. Seek an exact long-vowel correspondence and dated bearer.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only possible macron-bearing variant of Arends, itself unresolved. Seek an exact long-vowel correspondence and dated bearer.",
+      "next_steps": "Only possible macron-bearing variant of Arends, itself unresolved. Seek an exact long-vowel correspondence and dated bearer."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Ārens",
+      "spellings": [
+        "Ārens"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%80rens"
+      ],
+      "facts_used": "Only possible Arends-family bridge. Seek explicit dropped-d/long-vowel formation and dated use rather than inheriting Arends roots.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only possible Arends-family bridge. Seek explicit dropped-d/long-vowel formation and dated use rather than inheriting Arends roots.",
+      "next_steps": "Only possible Arends-family bridge. Seek explicit dropped-d/long-vowel formation and dated use rather than inheriting Arends roots."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Aress",
+      "spellings": [
+        "Aress"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-ARM09",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aress",
+        "https://www.personvarduatveide.lv/uploads/sources/56/pdf/Armenu_ipasvardu_atveide_latviesu_valoda_2009.pdf"
+      ],
+      "facts_used": "The catalogue identifies Aress with Ares of Greek mythology. Salmiņa’s Armenian-name manual independently gives Ares → Aress and labels the source a Greek god’s name. This verifies the name-family link without making a bearer a symbol of war or courage. The Siliņš catalogue records a historical detail: 1931; calendar 1915 (dictionary page 65). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salmiņa 2009 PDF/printed 103: Aress / Ares, gr. teon.; catalogue p. 65. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Arigo",
+      "spellings": [
+        "Arigo"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arigo"
+      ],
+      "facts_used": "The catalogue explains Arigo through Henriks → Heinrihs: Old High German heim «home» + rīchi «powerful, ruler». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Rūjiena, 1926; calendar 1915 (dictionary page 66; 150). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 66; 150. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Arijs",
+      "spellings": [
+        "Arijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arijs"
+      ],
+      "facts_used": "The proposed relationship to Ārijs has no exact short-vowel verification; the proposed Hebrew root remains uncertain. Seek an authoritative exact row and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "The proposed relationship to Ārijs has no exact short-vowel verification; the proposed Hebrew root remains uncertain. Seek an authoritative exact row and date.",
+      "next_steps": "The proposed relationship to Ārijs has no exact short-vowel verification; the proposed Hebrew root remains uncertain. Seek an authoritative exact row and date."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Ariko",
+      "spellings": [
+        "Ariko"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ariko"
+      ],
+      "facts_used": "No exact origin in cache/catalogue. Seek an onomastic entry and dated bearer, distinguishing Arigo and Arik.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin in cache/catalogue. Seek an onomastic entry and dated bearer, distinguishing Arigo and Arik.",
+      "next_steps": "No exact origin in cache/catalogue. Seek an onomastic entry and dated bearer, distinguishing Arigo and Arik."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Ariks",
+      "spellings": [
+        "Ariks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-ARM09",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ariks",
+        "https://www.personvarduatveide.lv/uploads/sources/56/pdf/Armenu_ipasvardu_atveide_latviesu_valoda_2009.pdf"
+      ],
+      "facts_used": "The Armenian-name manual gives Arik → Ariks and explicitly describes Arik as a diminutive of Ara. This is one documented source-language context. Other international uses of Arik do not automatically explain every Latvian Ariks. The exact row appears in the 2009 manual on printed page 103. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF/printed 103, exact target column and explicit diminutive/full-name row. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Āriks",
+      "spellings": [
+        "Āriks"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-ARM09"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%80riks",
+        "https://www.personvarduatveide.lv/uploads/sources/56/pdf/Armenu_ipasvardu_atveide_latviesu_valoda_2009.pdf"
+      ],
+      "facts_used": "No exact long-ā bridge in checked source. The Armenian manual gives short-a Ariks, not Āriks. Seek an exact target spelling and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact long-ā bridge in checked source. The Armenian manual gives short-a Ariks, not Āriks. Seek an exact target spelling and date.",
+      "next_steps": "No exact long-ā bridge in checked source. The Armenian manual gives short-a Ariks, not Āriks. Seek an exact target spelling and date."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Aris",
+      "spellings": [
+        "Aris"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-MAGISTE29-AES",
+        "LV-LVA-ARM09"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aris",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/56/pdf/Armenu_ipasvardu_atveide_latviesu_valoda_2009.pdf"
+      ],
+      "facts_used": "Armenian manual PDF 103 uses Aris as source form and Latvian Ariss as target. It does not verify Latvian Aris. Catalogue Āris/Ārija comparison remains uncertain; seek an exact target row and historical use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Armenian manual PDF 103 uses Aris as source form and Latvian Ariss as target. It does not verify Latvian Aris. Catalogue Āris/Ārija comparison remains uncertain; seek an exact target row and historical use.",
+      "next_steps": "Armenian manual PDF 103 uses Aris as source form and Latvian Ariss as target. It does not verify Latvian Aris. Catalogue Āris/Ārija comparison remains uncertain; seek an exact target row and historical use."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Ariss",
+      "spellings": [
+        "Ariss"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-ARM09",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ariss",
+        "https://www.personvarduatveide.lv/uploads/sources/56/pdf/Armenu_ipasvardu_atveide_latviesu_valoda_2009.pdf"
+      ],
+      "facts_used": "The manual gives Armenian Aris → Latvian Ariss and explicitly identifies Aris as a short form of Aristakes. It keeps this name separate from Aress. The extra final s belongs to the documented Latvian rendering, rather than being silently removed. The exact row appears in the 2009 manual on printed page 103. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF/printed 103, exact target column and explicit diminutive/full-name row. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Harija",
+      "spellings": [
+        "Harija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Harija"
+      ],
+      "facts_used": "The catalogue explains Harija through Harijs → Heinrihs: Old High German heim «home» + rīchi «powerful, ruler». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: first quarter of the twentieth century (dictionary page 148; 150). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 148; 150. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Harina",
+      "spellings": [
+        "Harina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Harina"
+      ],
+      "facts_used": "No exact origin or dated episode found. Seek an exact personal-name analysis; do not assume a feminine Harry/Harijs formation.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin or dated episode found. Seek an exact personal-name analysis; do not assume a feminine Harry/Harijs formation.",
+      "next_steps": "No exact origin or dated episode found. Seek an exact personal-name analysis; do not assume a feminine Harry/Harijs formation."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Haris",
+      "spellings": [
+        "Haris"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Haris"
+      ],
+      "facts_used": "The catalogue explains Haris through Harijs → Heinrihs: Old High German heim «home» + rīchi «powerful, ruler». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: near Madona, fourth quarter of the nineteenth century (dictionary page 148; 150). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 148; 150. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Harita",
+      "spellings": [
+        "Harita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Harita"
+      ],
+      "facts_used": "The catalogue explains Harita through Greek charis (charitos) «grace, beauty». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1965; calendar 1899 (dictionary page 149). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 149. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lv",
+      "name": "Haritina",
+      "spellings": [
+        "Haritina"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-RU93",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Haritina",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact Russian correspondence Харитина → Haritina. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 1993 manual on printed page 190. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The accepted row documents the Cyrillic-to-Latvian correspondence; it does not prove a uniquely Ukrainian borrowing route. Checked location: PDF 83 / printed 190: exact female given-name row. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lt",
+      "name": "Dargaudas",
+      "spellings": [
+        "Dargaudas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-PAKERYS09",
+        "LT-PAKERYS10"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2009~1367168885961/J.04~2009~1367168885961.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf"
+      ],
+      "facts_used": "Salys PDF 286 / printed 271 places Dargaudas under Dar- (daryti), not Darg-/dergti. Pakerys 2009 PDF 4 / printed 188 discusses daro/darė as a better accentual comparison. The Gaud- component remains disputed by later scholarship; inspect exact full analysis before asserting a fixed compound meaning. 1964 calendar PDF 301 / printed 286 gives Dargaudas (Dargas).",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Salys PDF 286 / printed 271 places Dargaudas under Dar- (daryti), not Darg-/dergti. Pakerys 2009 PDF 4 / printed 188 discusses daro/darė as a better accentual comparison. The Gaud- component remains disputed by later scholarship; inspect exact full analysis before asserting a fixed compound meaning. 1964 calendar PDF 301 / printed 286 gives Dargaudas (Dargas).",
+      "next_steps": "Salys PDF 286 / printed 271 places Dargaudas under Dar- (daryti), not Darg-/dergti. Pakerys 2009 PDF 4 / printed 188 discusses daro/darė as a better accentual comparison. The Gaud- component remains disputed by later scholarship; inspect exact full analysis before asserting a fixed compound meaning. 1964 calendar PDF 301 / printed 286 gives Dargaudas (Dargas)."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lt",
+      "name": "Gilvydė",
+      "spellings": [
+        "Gilvydė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Dictionary PDF 231 / printed 216 marks the exact feminine PN next to Gilvydas but does not explicitly derive it. Seek an exact feminine formation analysis; adjacency and shared stems are not enough.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Dictionary PDF 231 / printed 216 marks the exact feminine PN next to Gilvydas but does not explicitly derive it. Seek an exact feminine formation analysis; adjacency and shared stems are not enough.",
+      "next_steps": "Dictionary PDF 231 / printed 216 marks the exact feminine PN next to Gilvydas but does not explicitly derive it. Seek an exact feminine formation analysis; adjacency and shared stems are not enough."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lt",
+      "name": "Hiliaras",
+      "spellings": [
+        "Hiliaras"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact spelling not found in scholarly cache. Historical calendar gives Hilaras without the extra i, not Hiliaras. Seek an explicit spelling bridge and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact spelling not found in scholarly cache. Historical calendar gives Hilaras without the extra i, not Hiliaras. Seek an explicit spelling bridge and dated use.",
+      "next_steps": "Exact spelling not found in scholarly cache. Historical calendar gives Hilaras without the extra i, not Hiliaras. Seek an explicit spelling bridge and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lt",
+      "name": "Raimonda",
+      "spellings": [
+        "Raimonda"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-LVA-RU93",
+        "INT-BTN-RAIMONDA"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.behindthename.com/name/raimonda"
+      ],
+      "facts_used": "Exact curated BTN Raimonda is labelled Italian, not Lithuanian; other cache mentions do not settle the Lithuanian formation. Seek an explicit Lithuanian feminine correspondence and dated episode, without transferring Raimundas history.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact curated BTN Raimonda is labelled Italian, not Lithuanian; other cache mentions do not settle the Lithuanian formation. Seek an explicit Lithuanian feminine correspondence and dated episode, without transferring Raimundas history.",
+      "next_steps": "Exact curated BTN Raimonda is labelled Italian, not Lithuanian; other cache mentions do not settle the Lithuanian formation. Seek an explicit Lithuanian feminine correspondence and dated episode, without transferring Raimundas history."
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lt",
+      "name": "Vera",
+      "spellings": [
+        "Vera"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys explicitly describes Lithuanian Veronika being shortened to Vera. This establishes a local full-name and short-name relationship. It does not make all international Veras the same name: Russian, Latin and other short-name contexts must still be distinguished. His 1964 calendar prints Veronika (Vera) on 9 July and also gives other full-name contexts for Vera elsewhere. These historical entries document editorial short forms; their old calendar dates do not replace the date of Vera in the present calendar.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The direct Lithuanian shortening is one established route, not the unique origin of all international Vera bearers. Checked location: PDF 45 / printed 30: Lithuanian Veronika shortened to Vera; 1964 calendar PDF 310 / printed 295: Veronika (Vera). Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "lt",
+      "name": "Veronika",
+      "spellings": [
+        "Veronika"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-VERONICA"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/veronica"
+      ],
+      "facts_used": "The dictionary pairs Veronika with Veronica. The international form is a Latin alteration of Berenice, with spelling influenced by ecclesiastical Latin vera icon, “true image”. That later association should not be treated as the name’s sole original derivation. The 1964 calendar includes Veronika, described as the legendary woman who wiped Christ’s face, on 12 July, with Vera and Vėrė as short forms. This records a saint legend and a calendar tradition, rather than independently verified biography or the name’s invention.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The face-cloth episode is a saint legend, not verified biography. Vera icon is a later spelling influence; no primary Greek stem lexicon was newly inspected. Checked location: PDF 276 / printed 261, PN Veronica; calendar PDF 310 / printed 295, legendary face-wiper on July 12; curated Veronica opening and explicit Lithuanian usage. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "ee",
+      "name": "Hillar",
+      "spellings": [
+        "Hillar"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi identifies Hillar and Illar as older short forms of Hilarion/Hilarius, a Greek–Latin family explained as “cheerful, joyful”. He distinguishes the local short forms from the longer names behind them. His historical account cites eighteenth- and nineteenth-century calendars on 13 January, with older forms such as Hillari, Hilarioni and Hilariuse. These retain their original spelling and calendar context; they are not all independent first records of modern Hillar.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Preserve exact gender, shared sample and alternative full-name contexts; no population figure is current. Checked location: PDF 77 / printed 79; PDF 79 / printed 81. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "ee",
+      "name": "Hillo",
+      "spellings": [
+        "Hillo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Hillo with Illo among southern Estonian short forms in the Hillar/Hilarius family. He also identifies Elias and its Russian form Ilja as possible full-name contexts for these short forms. The alternatives should not be collapsed into one origin. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Preserve exact gender, shared sample and alternative full-name contexts; no population figure is current. Checked location: PDF 77 / printed 79 and index PDF 200 / printed 202. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "ee",
+      "name": "Illar",
+      "spellings": [
+        "Illar"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi explicitly sends Illar to Hillar, an older short form in the Hilarion/Hilarius family. The family’s “cheerful, joyful” explanation concerns the older name; the local initial vowel does not create a separate literal meaning. He records five uses of Illar across Tartu and Elva together in 1962 and describes it as mainly southern Estonian. This is a combined historical figure for the two places. It is not five in each place, a current population count or a first-use year.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Preserve exact gender, shared sample and alternative full-name contexts; no population figure is current. Checked location: PDF 77 / printed 79; PDF 79 / printed 81. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "ee",
+      "name": "Illart",
+      "spellings": [
+        "Illart"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi includes Illart among developments of Illar, which he links to Hillar and the Hilarion/Hilarius family. The added final consonant is part of the recorded local name form; it does not supply an independent word meaning. His 1966 book reports occasional use of the variants Illart and Illert in 1920–1940. The statement concerns that period and those separate spellings. It gives neither a first birth date nor a precise total that can be assigned to Illart alone.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Preserve exact gender, shared sample and alternative full-name contexts; no population figure is current. Checked location: PDF 77 / printed 79; PDF 79 / printed 81. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-13",
+      "date": "2026-11-12",
+      "calendar_date": "01-13",
+      "country": "ee",
+      "name": "Illo",
+      "spellings": [
+        "Illo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi connects Illo with both Ilja and Hillar, while treating an exceptional feminine use separately. This is an explicit record of more than one naming context. The same spelling therefore need not have a single origin or gender in every historical example. He records a feminine Illo in Tallinn in 1936 and directs that context to Ilo. The date belongs to that specific example. It is not a first-use date for every masculine Illo or a reason to replace the separately documented Ilja/Hillar connections.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Preserve exact gender, shared sample and alternative full-name contexts; no population figure is current. Checked location: PDF 77 / printed 79; PDF 79 / printed 81. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

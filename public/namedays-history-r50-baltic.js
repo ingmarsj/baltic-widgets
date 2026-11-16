@@ -67,19 +67,19 @@ export const historiesEstonianR50={
     "text": {
       "lv": [
         "Pärja: Igauņu personvārds veidots no pärg, «vainags». Vārdnīca šo atvasinājumu dod tieši personvārdam, un to atkārto vietējā vārdu sleja. Tas atšķiras no skaidrojuma, kas būtu balstīts tikai uz nejauši līdzīgu vārdu citā valodā.",
-        "Mēgistes 1929. gada vārdu saraksta 18. lappusē ir Pärja sieviešu vārdu sarakstā. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 18. lappusē ir Pärja sieviešu vārdu sarakstā. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Pärja: Эстонское личное имя образовано от pärg «венок». Словарь указывает этот вывод именно для имени, и его повторяет местная колонка. Это отличается от объяснения, построенного лишь на случайно похожем слове другого языка.",
-        "На странице 18 списка имён Мягисте 1929 года приведено Pärja в списке женских имён. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 18 списка имён 1929 года приведено Pärja в списке женских имён. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Pärja: The Estonian given name was formed from pärg, wreath. The dictionary gives this derivation specifically for the personal name, and the local name column repeats it. It is distinct from an explanation based only on an accidentally similar foreign word.",
-        "Page 18 of Mägiste’s 1929 name list gives Pärja in the female-name list. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 18 of the 1929 name list gives Pärja in the female-name list. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Pärja: Estų asmenvardis sudarytas iš pärg „vainikas“. Žodynas šį vedimą pateikia būtent asmenvardžiui, jį pakartoja ir vietinė vardų skiltis. Tai skiriasi nuo aiškinimo, pagrįsto vien atsitiktinai panašiu kitos kalbos žodžiu.",
-        "Mägiste 1929 metų vardų sąrašo 18 puslapyje pateikiamas Pärja moterų vardų sąraše. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 18 puslapyje pateikiamas Pärja moterų vardų sąraše. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Pärja: Eesti eesnimi on moodustatud sõnast pärg, vanik. Sõnaraamat annab selle tuletuse just isikunime kohta ning kohalik nimeveerg kordab seda. See erineb seletusest, mis põhineks ainult mõne võõrkeelse sõna juhuslikul sarnasusel.",

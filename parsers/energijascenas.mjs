@@ -7,7 +7,7 @@ const fuels={e95:'95',diesel:'diesel'};
 
 export function parseCommunityFallback(rows,now=new Date().toISOString()){
  if(!Array.isArray(rows)||rows.length>10000)throw Error('Fallback price schema changed');
- const groups=new Map();let eligible=0,expired=0;
+ const groups=new Map(),latestEvidence=new Map();let eligible=0,expired=0;
  for(const row of rows){
   if(!row||typeof row!=='object')continue;
   const provider=providers[row.station_id],fuel=fuels[row.fuel_type];
@@ -17,6 +17,8 @@ export function parseCommunityFallback(rows,now=new Date().toISOString()){
   const value=Number(row.price),at=row.source_observed_at;
   if(typeof row.price!=='number'||!Number.isFinite(value)||value<.2||value>5||typeof at!=='string'||!/^\d{4}-\d\d-\d\dT.*(?:Z|[+-]\d\d:\d\d)$/.test(at)||!Number.isFinite(Date.parse(at)))continue;
   eligible++;
+  const evidenceKey=provider+':'+fuel,priorEvidence=latestEvidence.get(evidenceKey),evidenceFreshness=fuelQuoteFreshness({observed_at:at},now);
+  if(evidenceFreshness!=='unknown'&&(!priorEvidence||Date.parse(at)>Date.parse(priorEvidence.observed_at)))latestEvidence.set(evidenceKey,{provider_source:provider,fuel,observed_at:new Date(at).toISOString(),freshness:evidenceFreshness});
   if(fuelQuoteFreshness({observed_at:at},now)!=='recent'){expired++;continue;}
   const candidate={id:`energijascenas:LV:${provider}:${fuel}`,country:'LV',provider_source:provider,fuel,value,unit:'L',currency:'EUR',
    observed_at:new Date(at).toISOString(),observed_date:null,fetched_at:now,freshness:'recent',evidence:'community_reported',scope:'network_community_report',
@@ -30,7 +32,7 @@ export function parseCommunityFallback(rows,now=new Date().toISOString()){
   const latest=list.filter(q=>q.observed_at===list[0].observed_at);
   if(new Set(latest.map(q=>q.value)).size===1)quotes.push(latest[0]);
  }
- return{quotes,report:{rows:rows.length,eligible_waze_reports:eligible,expired_reports:expired,accepted_quotes:quotes.length}};
+ return{quotes,report:{rows:rows.length,eligible_waze_reports:eligible,expired_reports:expired,accepted_quotes:quotes.length,latest_evidence:[...latestEvidence.values()]}};
 }
 
 export async function collectCommunityFallback(now=new Date().toISOString(),fetcher=fetch){

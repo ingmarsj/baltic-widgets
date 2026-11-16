@@ -1,0 +1,34 @@
+{
+  "round": 117,
+  "date": "2026-11-14",
+  "scope": "Expand local exact namesakes and keep birthday celebrities below them; no name-history verification pass.",
+  "writer_version": "namedays-1.9.75",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "source_ids": ["PEOPLE-WD-CITIZENS-CACHE", "PEOPLE-WD-LOCAL117-LT", "PEOPLE-WD-LOCAL117-EE", "PEOPLE-PANTHEON2025"],
+  "records": [],
+  "selection": "Up to ten newly selected local exact namesakes, five international exact namesakes and all previously published exact namesakes; five distinct birthday people below, with ID/name deduplication across tiers.",
+  "source_outcomes": [
+    {"source_id": "PEOPLE-WD-CITIZENS-CACHE", "status": "reused_productive", "rows": 4899, "verification": "Original private collector code confirms human P31 and citizenship P27. Restore the missing generator input path; do not recollect."},
+    {"source_id": "PEOPLE-WD-LOCAL117-LT", "status": "cached_productive", "rows": 5263, "verification": "Lithuanian native labels, human P31, citizenship P27 Q37, at least two sitelinks; below LIMIT 10000."},
+    {"source_id": "PEOPLE-WD-LOCAL117-EE", "status": "cached_productive", "rows": 9035, "verification": "Estonian native labels, human P31, citizenship P27 Q191, at least two sitelinks; below LIMIT 10000."}
+  ],
+  "outcome": {
+    "profiles_with_local_exact_before": {"lv": 176, "lt": 130, "ee": 160},
+    "profiles_with_local_exact_after": {"lv": 696, "lt": 457, "ee": 726},
+    "local_person_profile_associations_added": {"lv": 2011, "lt": 1834, "ee": 2953},
+    "profiles_with_at_least_five_local": {"lv": 181, "lt": 178, "ee": 286},
+    "total_display_range": [5, 21],
+    "calendar_memberships_preserving_previous_display": 9368
+  },
+  "claim_limits": [
+    "Citizenship evidence and Pantheon birthplace evidence remain separate provenance. Neither is inferred from name spelling.",
+    "Exact spelling uses recorded native labels, not invented transliterations or related-name equivalence; labels do not independently establish a legal given name.",
+    "Occupational descriptions must map to an existing role. Absent or unsupported descriptions are skipped rather than invented.",
+    "HPI and Wikipedia sitelinks are editorial ranking proxies; two-language coverage is a discovery threshold rather than universal fame.",
+    "The counts are person/profile associations, not necessarily unique individuals; no new name etymology was verified."
+  ],
+  "private_material": "New query responses are in the shared source cache; collectors, merged citizenship rows and normalized bulk entities stay under var outside github-public.",
+  "failed_leads": "No new failed source lead. Earlier birthday-query and label-batch HTTP 429 failures were not retried.",
+  "validation": "136 tests passed; production-data audit preserves all 8677 profile identities and structured history facts and all previous five-person displays across 9368 memberships. Static build and Russian browser check show Fricis local namesakes above the retained birthday list.",
+  "next_step": "Continue targeted local-name and localized-label verification for the remaining 6798 profiles without local exact namesakes. Coverage is not declared exhaustive."
+}

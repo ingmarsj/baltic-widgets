@@ -68,15 +68,15 @@ export const historiesEstonianR25={
       ],
       "ru": [
         "Документированная семья имени Kadrin ведёт к Katariina. Её древнегреческая форма — Aikaterinē, однако первоначальная этимология достоверно не установлена. Связь с katharos «чистый» — позднейшее толкование, повлиявшее на написание и христианскую традицию; это не доказанное исходное значение.",
-        "В сборнике Юлиуса Мягисте 1929 года Kadrin есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
+        "В сборнике Юлиуса 1929 года Kadrin есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
       ],
       "en": [
         "The documented family of Kadrin leads to Katariina. Its early Greek form is Aikaterinē, whose ultimate origin is unknown. Association with katharos, pure, is a later interpretation that influenced spelling and Christian tradition; it is not a demonstrated original meaning.",
-        "Julius Mägiste’s 1929 collection lists Kadrin on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
+        "Julius the 1929 collection lists Kadrin on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
       ],
       "lt": [
         "Dokumentuota Kadrin vardų šeima veda prie Katariina. Ankstyvoji graikiška forma yra Aikaterinē, tačiau pirminė kilmė patikimai nenustatyta. Siejimas su katharos „tyras“ yra vėlesnis aiškinimas, veikęs rašybą ir krikščioniškąją tradiciją, o ne įrodyta pradinė reikšmė.",
-        "Juliaus Mägiste 1929 metų rinkinyje Kadrin pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
+        "Juliaus 1929 metų rinkinyje Kadrin pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
       ],
       "et": [
         "Kadrin dokumenteeritud nimepere viib kujuni Katariina. Selle varane kreeka kuju on Aikaterinē, mille algupärane päritolu pole kindlalt teada. Seos sõnaga katharos, puhas, on hilisem tõlgendus, mis mõjutas kirjapilti ja kristlikku traditsiooni, mitte tõestatud algtähendus.",
@@ -97,15 +97,15 @@ export const historiesEstonianR25={
       ],
       "ru": [
         "Документированная семья имени Kadi ведёт к Katariina. Её древнегреческая форма — Aikaterinē, однако первоначальная этимология достоверно не установлена. Связь с katharos «чистый» — позднейшее толкование, повлиявшее на написание и христианскую традицию; это не доказанное исходное значение.",
-        "В сборнике Юлиуса Мягисте 1929 года Kadi есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
+        "В сборнике Юлиуса 1929 года Kadi есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
       ],
       "en": [
         "The documented family of Kadi leads to Katariina. Its early Greek form is Aikaterinē, whose ultimate origin is unknown. Association with katharos, pure, is a later interpretation that influenced spelling and Christian tradition; it is not a demonstrated original meaning.",
-        "Julius Mägiste’s 1929 collection lists Kadi on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
+        "Julius the 1929 collection lists Kadi on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
       ],
       "lt": [
         "Dokumentuota Kadi vardų šeima veda prie Katariina. Ankstyvoji graikiška forma yra Aikaterinē, tačiau pirminė kilmė patikimai nenustatyta. Siejimas su katharos „tyras“ yra vėlesnis aiškinimas, veikęs rašybą ir krikščioniškąją tradiciją, o ne įrodyta pradinė reikšmė.",
-        "Juliaus Mägiste 1929 metų rinkinyje Kadi pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
+        "Juliaus 1929 metų rinkinyje Kadi pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
       ],
       "et": [
         "Kadi dokumenteeritud nimepere viib kujuni Katariina. Selle varane kreeka kuju on Aikaterinē, mille algupärane päritolu pole kindlalt teada. Seos sõnaga katharos, puhas, on hilisem tõlgendus, mis mõjutas kirjapilti ja kristlikku traditsiooni, mitte tõestatud algtähendus.",
@@ -126,15 +126,15 @@ export const historiesEstonianR25={
       ],
       "ru": [
         "Документированная семья имени Kati ведёт к Katariina. Её древнегреческая форма — Aikaterinē, однако первоначальная этимология достоверно не установлена. Связь с katharos «чистый» — позднейшее толкование, повлиявшее на написание и христианскую традицию; это не доказанное исходное значение.",
-        "В сборнике Юлиуса Мягисте 1929 года Kati есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
+        "В сборнике Юлиуса 1929 года Kati есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
       ],
       "en": [
         "The documented family of Kati leads to Katariina. Its early Greek form is Aikaterinē, whose ultimate origin is unknown. Association with katharos, pure, is a later interpretation that influenced spelling and Christian tradition; it is not a demonstrated original meaning.",
-        "Julius Mägiste’s 1929 collection lists Kati on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
+        "Julius the 1929 collection lists Kati on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
       ],
       "lt": [
         "Dokumentuota Kati vardų šeima veda prie Katariina. Ankstyvoji graikiška forma yra Aikaterinē, tačiau pirminė kilmė patikimai nenustatyta. Siejimas su katharos „tyras“ yra vėlesnis aiškinimas, veikęs rašybą ir krikščioniškąją tradiciją, o ne įrodyta pradinė reikšmė.",
-        "Juliaus Mägiste 1929 metų rinkinyje Kati pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
+        "Juliaus 1929 metų rinkinyje Kati pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
       ],
       "et": [
         "Kati dokumenteeritud nimepere viib kujuni Katariina. Selle varane kreeka kuju on Aikaterinē, mille algupärane päritolu pole kindlalt teada. Seos sõnaga katharos, puhas, on hilisem tõlgendus, mis mõjutas kirjapilti ja kristlikku traditsiooni, mitte tõestatud algtähendus.",
@@ -155,15 +155,15 @@ export const historiesEstonianR25={
       ],
       "ru": [
         "Документированная семья имени Kaarin ведёт к Katariina. Её древнегреческая форма — Aikaterinē, однако первоначальная этимология достоверно не установлена. Связь с katharos «чистый» — позднейшее толкование, повлиявшее на написание и христианскую традицию; это не доказанное исходное значение.",
-        "В сборнике Юлиуса Мягисте 1929 года Kaarin есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
+        "В сборнике Юлиуса 1929 года Kaarin есть на странице 14; Kadrin и Kadi прямо связаны с Katariina, а Kati отсылает к Kadi. Позднее колонка Лейли Кууск в Leole за ноябрь 2005 года включает эту форму в семью Katariina. Это документированная традиция, а не единственный год создания имени."
       ],
       "en": [
         "The documented family of Kaarin leads to Katariina. Its early Greek form is Aikaterinē, whose ultimate origin is unknown. Association with katharos, pure, is a later interpretation that influenced spelling and Christian tradition; it is not a demonstrated original meaning.",
-        "Julius Mägiste’s 1929 collection lists Kaarin on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
+        "Julius the 1929 collection lists Kaarin on printed page 14; Kadrin and Kadi explicitly link to Katariina, while Kati points to Kadi. Leili Kuusk’s November 2005 Leole column later includes this form in the Katariina family. These records document a tradition rather than one year of invention."
       ],
       "lt": [
         "Dokumentuota Kaarin vardų šeima veda prie Katariina. Ankstyvoji graikiška forma yra Aikaterinē, tačiau pirminė kilmė patikimai nenustatyta. Siejimas su katharos „tyras“ yra vėlesnis aiškinimas, veikęs rašybą ir krikščioniškąją tradiciją, o ne įrodyta pradinė reikšmė.",
-        "Juliaus Mägiste 1929 metų rinkinyje Kaarin pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
+        "Juliaus 1929 metų rinkinyje Kaarin pateiktas 14 puslapyje; Kadrin ir Kadi tiesiogiai siejami su Katariina, o Kati nukreipiamas į Kadi. Vėliau Leili Kuusk 2005 metų lapkričio Leole skiltyje šią formą įtraukia į Katariina šeimą. Tai dokumentuota tradicija, o ne vieni vardo sukūrimo metai."
       ],
       "et": [
         "Kaarin dokumenteeritud nimepere viib kujuni Katariina. Selle varane kreeka kuju on Aikaterinē, mille algupärane päritolu pole kindlalt teada. Seos sõnaga katharos, puhas, on hilisem tõlgendus, mis mõjutas kirjapilti ja kristlikku traditsiooni, mitte tõestatud algtähendus.",

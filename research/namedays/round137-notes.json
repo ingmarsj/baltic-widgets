@@ -1,0 +1,455 @@
+{
+ "round": 137,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.114",
+ "scope": "Registration and reading of user-supplied sources (German, Finnish, Scandinavian, Latvian, Estonian) plus the archive.org Deutsches Namenbuch; reviewed histories from Balode 2024 and Kallasmaa 2010.",
+ "source_ids": [
+  "LV-OL6-BALODE2024",
+  "EE-HIIUMAA-KN",
+  "FI-NAMES-IN-FOCUS",
+  "FI-UH12-PNS",
+  "SE-ANF2004-SIGURD",
+  "SE-SS-REGISTER33",
+  "DE-JOCHUM2015",
+  "DE-VILMAR-NB7",
+  "DE-HDV-SKIZZE",
+  "DE-ARCHIVE-BREC",
+  "EE-VI-TOIM30",
+  "RU-PETROVSKY-SRLI"
+ ],
+ "outcomes": {
+  "LV-OL6-BALODE2024": "Productive: 18 LV histories (rare-name classes, one bearer in 2022).",
+  "EE-HIIUMAA-KN": "Productive for Pent; Kärdi lead kept for hypotheses.",
+  "FI-NAMES-IN-FOCUS": "Hypothesis leads only (Leivo, Lehto, Tapper, Iiris); see var/namedays-research/leads137.json.",
+  "FI-UH12-PNS": "Hypothesis leads only (Karelian Madro, Iivo, Arto; Kauri).",
+  "SE-ANF2004-SIGURD": "Name-fashion statistics; incidental mentions only.",
+  "SE-SS-REGISTER33": "Journal index; no histories.",
+  "DE-JOCHUM2015": "Early-medieval rare Germanic names; no open calendar names.",
+  "DE-VILMAR-NB7": "Family-name book in Fraktur with poor OCR; not usable.",
+  "DE-HDV-SKIZZE": "Scanned without a text layer (14 pages); not OCRed.",
+  "DE-ARCHIVE-BREC": "archive.org deutschesnamenbu00brec full text: Fraktur OCR is garbled; not usable as text.",
+  "EE-VI-TOIM30": "Same file as LOCAL-ROUND20-VORU, already read in round 20 (EE-SAAR16).",
+  "slovar_russkih_lichnyh_imen.zip": "Extracted with scripts/djvu-text.mjs (pure JavaScript DjVu text-layer decoder) and registered as RU-PETROVSKY-SRLI; candidates in var/namedays-research/petrovsky137.json, not yet written.",
+  "Google Books WBZaK8nBZgwC": "Not downloadable; not used."
+ },
+ "records": [
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Smaidiņa",
+   "spellings": [
+    "Smaidiņa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: diminutive -iņa"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Trautiņa",
+   "spellings": [
+    "Trautiņa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: diminutive -iņa"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Norīte",
+   "spellings": [
+    "Norīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: new diminutive -īte"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Skaudris",
+   "spellings": [
+    "Skaudris"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: new Latvian formation not in Siliņš"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Dzilvars",
+   "spellings": [
+    "Dzilvars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: new compound"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Sirdsvaldis",
+   "spellings": [
+    "Sirdsvaldis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: new compound"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Amarilla",
+   "spellings": [
+    "Amarilla"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: flower name in Siliņš"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Rezēda",
+   "spellings": [
+    "Rezēda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: flower name in Siliņš"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Jāzepa",
+   "spellings": [
+    "Jāzepa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: male to female"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Amandis",
+   "spellings": [
+    "Amandis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: female to male"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Regīns",
+   "spellings": [
+    "Regīns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: female to male"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Ženijs",
+   "spellings": [
+    "Ženijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: female to male"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Juzepa",
+   "spellings": [
+    "Juzepa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: dialect/colloquial form"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Zetiņa",
+   "spellings": [
+    "Zetiņa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: dialect/colloquial form"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Ilone",
+   "spellings": [
+    "Ilone"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: changed ending (Ilona)"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Evalīna",
+   "spellings": [
+    "Evalīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: resembles Evelīna"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Anga",
+   "spellings": [
+    "Anga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: Greenlandic (Behind the Name)"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Uldive",
+   "spellings": [
+    "Uldive"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-OL6-BALODE2024"
+   ],
+   "sources": [
+    "http://hdl.handle.net/10138/589702"
+   ],
+   "facts_used": "Balode 2024, PDF pp. 8-13: unique name (one citizen bearer, 2022 data); class: foreign, origin hard to determine"
+  },
+  {
+   "batch": "user-sources-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Pent",
+   "spellings": [
+    "Pent"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-HIIUMAA-KN"
+   ],
+   "sources": [
+    "file:///user-download/hiiumaa_kohanimed.pdf"
+   ],
+   "facts_used": "Kallasmaa 2010, p. 6: Käina Kogri 1795 Peindi Iaak; Emmaste Õngu 1811 Peint (Pent)."
+  }
+ ]
+}

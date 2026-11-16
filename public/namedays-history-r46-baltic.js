@@ -127,19 +127,19 @@ export const historiesEstonianR46={
     "text": {
       "lv": [
         "Teele: Igauņu vārds saistīts ar Adelheid saimi un tās īsajām formām. Ģermāņu pilnajā vārdā savienoti adal, «cēls», un heit, «veids, būtība». Īsajās formās ne vienmēr saglabājas abi celmi; franču Adèle ir radniecīgs adal saimes vārds.",
-        "Mēgistes 1929. gada vārdu saraksta 19. lappusē ir Teele kā dialekta Adeele formu. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 19. lappusē ir Teele kā dialekta Adeele formu. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Teele: Эстонское имя связано с семьёй Adelheid и её краткими формами. Германское полное имя соединяет adal «благородный» и heit «вид, сущность». В сокращениях сохраняются не все части; французское Adèle — родственное имя семьи adal.",
-        "На странице 19 списка имён Мягисте 1929 года приведено Teele как диалектную форму Adeele. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 19 списка имён 1929 года приведено Teele как диалектную форму Adeele. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Teele: The Estonian name is linked to the Adelheid family and its short forms. The Germanic full name combines adal, noble, and heit, kind or nature. Short forms need not retain both elements; French Adèle is a related name in the adal family.",
-        "Page 19 of Mägiste’s 1929 name list gives Teele as a dialectal form of Adeele. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 19 of the 1929 name list gives Teele as a dialectal form of Adeele. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Teele: Estų vardas susijęs su Adelheid šeima ir jos trumpiniais. Germaniškame pilname varde jungiami adal „kilnus“ ir heit „rūšis, prigimtis“. Trumpiniuose ne visada išlieka abu dėmenys; prancūzų Adèle yra giminingas adal šeimos vardas.",
-        "Mägiste 1929 metų vardų sąrašo 19 puslapyje pateikiamas Teele kaip tarminę Adeele formą. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 19 puslapyje pateikiamas Teele kaip tarminę Adeele formą. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Teele: Eesti nimi seostub Adelheidi pere ja selle lühikujudega. Germaani täisnimes liituvad adal, üllas, ja heit, liik või loomus. Lühikujud ei pruugi säilitada mõlemat osist; prantsuse Adèle on adal-pere sugulasnimi.",
@@ -185,19 +185,19 @@ export const historiesEstonianR46={
     "text": {
       "lv": [
         "Aale: Igauņu vārds saistīts ar Adelheid saimi un tās īsajām formām. Ģermāņu pilnajā vārdā savienoti adal, «cēls», un heit, «veids, būtība». Īsajās formās ne vienmēr saglabājas abi celmi; franču Adèle ir radniecīgs adal saimes vārds.",
-        "Mēgistes 1929. gada vārdu saraksta 11. lappusē ir Aale sieviešu vārdu sadaļā. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 11. lappusē ir Aale sieviešu vārdu sadaļā. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Aale: Эстонское имя связано с семьёй Adelheid и её краткими формами. Германское полное имя соединяет adal «благородный» и heit «вид, сущность». В сокращениях сохраняются не все части; французское Adèle — родственное имя семьи adal.",
-        "На странице 11 списка имён Мягисте 1929 года приведено Aale в разделе женских имён. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 11 списка имён 1929 года приведено Aale в разделе женских имён. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Aale: The Estonian name is linked to the Adelheid family and its short forms. The Germanic full name combines adal, noble, and heit, kind or nature. Short forms need not retain both elements; French Adèle is a related name in the adal family.",
-        "Page 11 of Mägiste’s 1929 name list gives Aale in the female-name section. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 11 of the 1929 name list gives Aale in the female-name section. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Aale: Estų vardas susijęs su Adelheid šeima ir jos trumpiniais. Germaniškame pilname varde jungiami adal „kilnus“ ir heit „rūšis, prigimtis“. Trumpiniuose ne visada išlieka abu dėmenys; prancūzų Adèle yra giminingas adal šeimos vardas.",
-        "Mägiste 1929 metų vardų sąrašo 11 puslapyje pateikiamas Aale moterų vardų skyriuje. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 11 puslapyje pateikiamas Aale moterų vardų skyriuje. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Aale: Eesti nimi seostub Adelheidi pere ja selle lühikujudega. Germaani täisnimes liituvad adal, üllas, ja heit, liik või loomus. Lühikujud ei pruugi säilitada mõlemat osist; prantsuse Adèle on adal-pere sugulasnimi.",
@@ -214,19 +214,19 @@ export const historiesEstonianR46={
     "text": {
       "lv": [
         "Aliide: Igauņu vārds saistīts ar Adelheid saimi un tās īsajām formām. Ģermāņu pilnajā vārdā savienoti adal, «cēls», un heit, «veids, būtība». Īsajās formās ne vienmēr saglabājas abi celmi; franču Adèle ir radniecīgs adal saimes vārds.",
-        "Mēgistes 1929. gada vārdu saraksta 15. lappusē ir Aliide atsaucē pie dialekta Liide. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 15. lappusē ir Aliide atsaucē pie dialekta Liide. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Aliide: Эстонское имя связано с семьёй Adelheid и её краткими формами. Германское полное имя соединяет adal «благородный» и heit «вид, сущность». В сокращениях сохраняются не все части; французское Adèle — родственное имя семьи adal.",
-        "На странице 15 списка имён Мягисте 1929 года приведено Aliide в отсылке при диалектном Liide. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 15 списка имён 1929 года приведено Aliide в отсылке при диалектном Liide. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Aliide: The Estonian name is linked to the Adelheid family and its short forms. The Germanic full name combines adal, noble, and heit, kind or nature. Short forms need not retain both elements; French Adèle is a related name in the adal family.",
-        "Page 15 of Mägiste’s 1929 name list gives Aliide in the reference under dialectal Liide. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 15 of the 1929 name list gives Aliide in the reference under dialectal Liide. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Aliide: Estų vardas susijęs su Adelheid šeima ir jos trumpiniais. Germaniškame pilname varde jungiami adal „kilnus“ ir heit „rūšis, prigimtis“. Trumpiniuose ne visada išlieka abu dėmenys; prancūzų Adèle yra giminingas adal šeimos vardas.",
-        "Mägiste 1929 metų vardų sąrašo 15 puslapyje pateikiamas Aliide nuorodoje prie tarminio Liide. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 15 puslapyje pateikiamas Aliide nuorodoje prie tarminio Liide. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Aliide: Eesti nimi seostub Adelheidi pere ja selle lühikujudega. Germaani täisnimes liituvad adal, üllas, ja heit, liik või loomus. Lühikujud ei pruugi säilitada mõlemat osist; prantsuse Adèle on adal-pere sugulasnimi.",

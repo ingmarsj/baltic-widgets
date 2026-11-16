@@ -1,0 +1,19 @@
+{
+ "round": 140,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.117",
+ "scope": "Wording pass under the 16 November 2026 rule: displayed texts name no dictionaries, studies, research authors or the Lithuanian language commission, and do not present a name as being of Russian origin. Display only; research modules keep their wording and provenance.",
+ "records": [],
+ "changes": [
+  "Generators rewritten and rerun: round 133 (no commission intro, no “in its Russian form”), round 137 (no study, author, dictionary or portal), rounds 136/139 closing sentence (no “source known to us”), round 132 exact-form template (no “the dictionary records it”).",
+  "Estonian 1936/1929 recommended-name lists: the compiler’s name removed in all languages across the history modules (807 replacements); the lists themselves stay as historical publications.",
+  "Phonetic-formation template in namedays-content.js no longer says “the dictionary classifies”.",
+  "New display layer public/namedays-plain-r140.js: exact English research sentences are dropped or replaced with neutral five-language sentences at the same position; language-specific substring fixes cover translations that are not sentence-aligned. Applied to reviewed histories (plainHistory) and, newly, to hypotheses (plainHypothesis).",
+  "About 45 sentences that presented a name as Russian (e.g. “Kira is the Russian feminine form of Kir”, “Latvian Igors follows the Russian form”) now give the ultimate origin or a Slavic/neutral wording; cognate lists (“Russian Ivan, German Johannes”) and historical events stay.",
+  "Two tests updated to the new rule (the 1993 rendering-table sentence is no longer displayed); a rule test was added."
+ ],
+ "kept_on_purpose": [
+  "Biographies of namesakes that mention dictionaries or studies (Elmar Muuk, Asta Laugalienė, Irēna), a 2016 study of St Erik’s bones, historical events involving Russia, cognate lists, and the 1929/1936 Estonian name lists as dated publications."
+ ],
+ "scan": "English displayed texts: 9 remaining matches, all kept on purpose; non-English scans reviewed the same way (var/namedays-research/wording140*.mjs)."
+}

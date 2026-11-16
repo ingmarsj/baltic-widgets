@@ -1,0 +1,37 @@
+{
+  "round": 118,
+  "date": "2026-11-14",
+  "writer_version": "namedays-1.9.76",
+  "scope": "Continue local exact namesakes below five; preserve the full existing display and birthday list; remove Today from the compact card header.",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "source_ids": ["PEOPLE-WD-BORN118-LV", "PEOPLE-WD-BORN118-LT", "PEOPLE-WD-BORN118-EE", "PEOPLE-WD-CITIZENS-CACHE", "PEOPLE-WD-LOCAL117-LT", "PEOPLE-WD-LOCAL117-EE"],
+  "records": [],
+  "source_outcomes": [
+    {"source_id": "PEOPLE-WD-BORN118-LV", "status": "cached_productive", "rows": 4389, "under_five_rows": 1132},
+    {"source_id": "PEOPLE-WD-BORN118-LT", "status": "cached_productive", "rows": 5850, "under_five_rows": 783},
+    {"source_id": "PEOPLE-WD-BORN118-EE", "status": "cached_productive", "rows": 7594, "under_five_rows": 963},
+    {"source_id": "PEOPLE-WD-CITIZENS-CACHE", "status": "reused_productive", "claim": "Previously unmapped explicit occupational descriptions now use supported role categories."}
+  ],
+  "verification": "New source queries require human P31, birthplace P19 / country P17, native labels and at least two sitelinks. All are below LIMIT 20000. Target native-name lists come from round 117 profiles with fewer than five local exact bearers. Unsupported or absent occupations remain excluded.",
+  "outcome": {
+    "local_profiles_before": {"lv": 696, "lt": 457, "ee": 726},
+    "local_profiles_after": {"lv": 807, "lt": 506, "ee": 779},
+    "local_person_profile_links_added": {"lv": 507, "lt": 479, "ee": 630},
+    "profiles_with_five_local_after": {"lv": 217, "lt": 217, "ee": 327},
+    "additional_profiles_reaching_five_local": 116,
+    "total_display_range": [5, 25],
+    "calendar_memberships_preserving_all_previous_people": 9368,
+    "reviewed_name_histories_added": 0
+  },
+  "ui": "Remove Today only from the compact header; keep title, country selector, date and the dialog Yesterday/Today/Tomorrow controls. Browser confirms Frederiks Fībigs above five retained birthday celebrities.",
+  "claim_limits": [
+    "Birthplace/country is geographic evidence and remains distinct from citizenship P27 and nationality.",
+    "Native labels support exact spelling but not an independently established legal given name. No transliteration or related-form guess is added.",
+    "Occupation categories follow explicit structured-source descriptions. Wikipedia language counts and HPI remain popularity proxies, not universal-fame proof.",
+    "Counts are person/profile associations and may include one person in multiple profiles. Coverage remains incomplete; no name etymology is newly verified."
+  ],
+  "failed_leads": "No new failed fetches. Earlier birthday-query failures and rate-limited label collection were not retried.",
+  "private_material": "Source originals, normalized discovery rows and collectors remain under var outside github-public; only selected structured records and provenance are published as local files.",
+  "validation": "138 tests, static build, all 8677 historical-fact preservation checks, all 9368 full-display preservation checks, five birthday-tier people per membership and Russian browser checks passed.",
+  "next_step": "Continue source-backed local-name verification, especially the 6585 profiles with no local exact bearer. Do not claim exhaustive coverage or invent matches."
+}

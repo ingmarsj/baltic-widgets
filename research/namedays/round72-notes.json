@@ -1,0 +1,628 @@
+{
+  "round": 72,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-05: researched all 23 unfinished LV/LT/EE profiles before advancing. 14 histories written; 9 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Sīmanis",
+      "spellings": [
+        "Sīmanis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/S%C4%ABmanis"
+      ],
+      "facts_used": "Sīmanis belongs to the Simon/Simeon name family. The older Hebrew Šimʿōn is related to the verb for hearing or listening. This establishes a linguistic association without requiring one literal sentence such as “has been heard” as the only translation. The Siliņš catalogue records a historical detail: Mārciena, 1562; calendar 1767 (dictionary page 291). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 291. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Zintis",
+      "spellings": [
+        "Zintis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zintis"
+      ],
+      "facts_used": "Catalogue p. 339 redirects to feminine Zinta but explicitly avoids a definite masculine derivation; 1940/calendar 1938 do not establish it. Seek the original entry and an independent exact formation statement.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 339 redirects to feminine Zinta but explicitly avoids a definite masculine derivation; 1940/calendar 1938 do not establish it. Seek the original entry and an independent exact formation statement.",
+      "next_steps": "Catalogue p. 339 redirects to feminine Zinta but explicitly avoids a definite masculine derivation; 1940/calendar 1938 do not establish it. Seek the original entry and an independent exact formation statement."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Amrita",
+      "spellings": [
+        "Amrita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Amrita"
+      ],
+      "facts_used": "Catalogue gives an Indian Sanskrit amṛta comparison but no independently dated Latvian use or transmission. Seek an exact Latvian rendering and historical episode; do not treat a foreign curated name as proof of every Latvian bearer’s route.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue gives an Indian Sanskrit amṛta comparison but no independently dated Latvian use or transmission. Seek an exact Latvian rendering and historical episode; do not treat a foreign curated name as proof of every Latvian bearer’s route.",
+      "next_steps": "Catalogue gives an Indian Sanskrit amṛta comparison but no independently dated Latvian use or transmission. Seek an exact Latvian rendering and historical episode; do not treat a foreign curated name as proof of every Latvian bearer’s route."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Amunds",
+      "spellings": [
+        "Amunds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Amunds"
+      ],
+      "facts_used": "Catalogue suggests Norwegian Amund/Agmundr but explicitly lacks a direct Latvian bridge; the Norse first element has egg/agi alternatives. Seek exact Latvian rendering and a dated use, retaining the alternative roots.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue suggests Norwegian Amund/Agmundr but explicitly lacks a direct Latvian bridge; the Norse first element has egg/agi alternatives. Seek exact Latvian rendering and a dated use, retaining the alternative roots.",
+      "next_steps": "Catalogue suggests Norwegian Amund/Agmundr but explicitly lacks a direct Latvian bridge; the Norse first element has egg/agi alternatives. Seek exact Latvian rendering and a dated use, retaining the alternative roots."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Anarita",
+      "spellings": [
+        "Anarita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Anarita"
+      ],
+      "facts_used": "No exact origin in catalogue or private cache. Seek an exact onomastic entry and dated record; do not invent an Ana/Rita blend.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin in catalogue or private cache. Seek an exact onomastic entry and dated record; do not invent an Ana/Rita blend.",
+      "next_steps": "No exact origin in catalogue or private cache. Seek an exact onomastic entry and dated record; do not invent an Ana/Rita blend."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Saimona",
+      "spellings": [
+        "Saimona"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS-SIMONA",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Saimona",
+        "https://www.izpetnieks.lv/en/name/Simona"
+      ],
+      "facts_used": "Saimona belongs to the Simon/Simeon name family. The older Hebrew Šimʿōn is related to the verb for hearing or listening. This establishes a linguistic association without requiring one literal sentence such as “has been heard” as the only translation. The Siliņš catalogue records a historical detail: Cēsis district, 1973 (dictionary page 281). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 281. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Saimons",
+      "spellings": [
+        "Saimons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Saimons",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Saimons belongs to the Simon/Simeon name family. The older Hebrew Šimʿōn is related to the verb for hearing or listening. This establishes a linguistic association without requiring one literal sentence such as “has been heard” as the only translation. The Siliņš catalogue records a historical detail: Rēzekne, 1877 (dictionary page 281). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 281. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Seimanis",
+      "spellings": [
+        "Seimanis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "Exact catalogue URL returned HTTP 404; private cache has no exact hit. Find an original exact spelling entry or dated bearer, without substituting Sīmanis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact catalogue URL returned HTTP 404; private cache has no exact hit. Find an original exact spelling entry or dated bearer, without substituting Sīmanis.",
+      "next_steps": "Exact catalogue URL returned HTTP 404; private cache has no exact hit. Find an original exact spelling entry or dated bearer, without substituting Sīmanis."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Semions",
+      "spellings": [
+        "Semions"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Semions"
+      ],
+      "facts_used": "Catalogue has Semjons but not exact Semions; no accepted exact spelling correspondence. English manual's Simeon rows are Simeons and Simions, not Semions. Seek an exact missing-j/changed-vowel bridge and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue has Semjons but not exact Semions; no accepted exact spelling correspondence. English manual's Simeon rows are Simeons and Simions, not Semions. Seek an exact missing-j/changed-vowel bridge and dated use.",
+      "next_steps": "Catalogue has Semjons but not exact Semions; no accepted exact spelling correspondence. English manual's Simeon rows are Simeons and Simions, not Semions. Seek an exact missing-j/changed-vowel bridge and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Semjons",
+      "spellings": [
+        "Semjons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Semjons"
+      ],
+      "facts_used": "Semjons belongs to the Simon/Simeon name family. The older Hebrew Šimʿōn is related to the verb for hearing or listening. This establishes a linguistic association without requiring one literal sentence such as “has been heard” as the only translation. The Siliņš catalogue records a historical detail: 1695 (dictionary page 287). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 287. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Simeons",
+      "spellings": [
+        "Simeons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "EE-RAJANDI66",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Simeons",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Ahero’s English-name manual gives Simeon → Simions, Simeons. Rajandi connects Simeon with the Simon family. The exact Latvian spellings therefore have a documented rendering route, rather than a connection assumed from resemblance to Semjons. The exact row appears in the 2006 manual on printed page 86. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Ahero PDF 83 / printed 86; Rajandi PDF 154 / printed 156. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Simions",
+      "spellings": [
+        "Simions"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "EE-RAJANDI66",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Simions",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Ahero’s English-name manual gives Simeon → Simions, Simeons. Rajandi connects Simeon with the Simon family. The exact Latvian spellings therefore have a documented rendering route, rather than a connection assumed from resemblance to Semjons. The exact row appears in the 2006 manual on printed page 86. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Ahero PDF 83 / printed 86; Rajandi PDF 154 / printed 156. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Simons",
+      "spellings": [
+        "Simons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Simons"
+      ],
+      "facts_used": "Simons belongs to the Simon/Simeon name family. The older Hebrew Šimʿōn is related to the verb for hearing or listening. This establishes a linguistic association without requiring one literal sentence such as “has been heard” as the only translation. The Siliņš catalogue records a historical detail: calendar 1889 (dictionary page 291). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The bare 1385 catalogue record has no inspected original spelling/place in this pass; 1973/1975 later records are not conflated with a first use. Checked location: Siliņš catalogue, dictionary p. 291. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Zintauts",
+      "spellings": [
+        "Zintauts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zintauts"
+      ],
+      "facts_used": "No exact source origin in catalogue/cache. Seek an explicit two-stem formation analysis and dated use, rather than borrowing Zinta or Lithuanian taut-.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact source origin in catalogue/cache. Seek an explicit two-stem formation analysis and dated use, rather than borrowing Zinta or Lithuanian taut-.",
+      "next_steps": "No exact source origin in catalogue/cache. Seek an explicit two-stem formation analysis and dated use, rather than borrowing Zinta or Lithuanian taut-."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lv",
+      "name": "Zinturs",
+      "spellings": [
+        "Zinturs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Zinturs"
+      ],
+      "facts_used": "Catalogue p. 339 merely compares Zinta and does not establish derivation; second-quarter twentieth-century and calendar 1931 do not prove an etymology. Inspect original entry and seek a separate exact explanation.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 339 merely compares Zinta and does not establish derivation; second-quarter twentieth-century and calendar 1931 do not prove an etymology. Inspect original entry and seek a separate exact explanation.",
+      "next_steps": "Catalogue p. 339 merely compares Zinta and does not establish derivation; second-quarter twentieth-century and calendar 1931 do not prove an etymology. Inspect original entry and seek a separate exact explanation."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lt",
+      "name": "Gaudentas",
+      "spellings": [
+        "Gaudentas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "The dictionary explains Gaudentas as a short form of Gaudencijus and pairs that full name with Gaudentius. This establishes the Lithuanian full-name and short-name chain without needing to infer a meaning from similar-looking words. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 230 / printed 215; historical calendar PDF 301 / printed 286. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lt",
+      "name": "Simas",
+      "spellings": [
+        "Simas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys explicitly gives Simonas as the Lithuanian form of Hebrew Šimeon and Simas as its short form. The family is related to the Hebrew verb for hearing; this does not require a single literal sentence as the name’s translation. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 74 / printed 59; PDF 265–266 / printed 250–251. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lt",
+      "name": "Simonas",
+      "spellings": [
+        "Simonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys explicitly gives Simonas as the Lithuanian form of Hebrew Šimeon and Simas as its short form. The family is related to the Hebrew verb for hearing; this does not require a single literal sentence as the name’s translation. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 74 / printed 59; PDF 266 / printed 251. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lt",
+      "name": "Telesforas",
+      "spellings": [
+        "Telesforas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-MGM-RARE",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "1964 calendar PDF 301 / printed 286 gives Telesforas (Telas) on 5 January. BTN Telesforas and Gaudentius discovery pages have user submissions only and no curated definition. Seek a Lithuanian dictionary explicitly pairing Telesforas with Telesphoros/Telesphorus before assigning Greek roots.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "1964 calendar PDF 301 / printed 286 gives Telesforas (Telas) on 5 January. BTN Telesforas and Gaudentius discovery pages have user submissions only and no curated definition. Seek a Lithuanian dictionary explicitly pairing Telesforas with Telesphoros/Telesphorus before assigning Greek roots.",
+      "next_steps": "1964 calendar PDF 301 / printed 286 gives Telesforas (Telas) on 5 January. BTN Telesforas and Gaudentius discovery pages have user submissions only and no curated definition. Seek a Lithuanian dictionary explicitly pairing Telesforas with Telesphoros/Telesphorus before assigning Greek roots."
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "lt",
+      "name": "Vytautė",
+      "spellings": [
+        "Vytautė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SINKEVICIUTE06",
+        "LT-PAKERYS11",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2006~1367153016332/J.04~2006~1367153016332.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Vytautė is the feminine form in the Vytautas family. The traditional element analysis links Vyt- with vyti, “to chase”, and Taut- with tauta, “people, nation”; these elements are not a literal description of a woman bearing the name. Sinkevičiūtė’s linguistic review corrects Vitautė to Vytautė; Pakerys also discusses the exact feminine form in 2011. These scholarly records preserve the initial Vy-. They do not transfer the medieval male ruler’s life dates to the feminine name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Sinkevičiūtė PDF 3 / printed 275; Pakerys PDF 4 / printed 93; Salys PDF 296–297 / printed 281–282. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "ee",
+      "name": "Lea",
+      "spellings": [
+        "Lea"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "INT-SNL-LEA"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://snl.no/Lea_-_kvinnenamn"
+      ],
+      "facts_used": "Gulbrand Alhaug explains Lea as a Hebrew feminine name associated with the word for a wild cow. He distinguishes its early association with Latin lea, “lioness”. The Latin association is not the sole established origin of the Hebrew name. Rajandi’s 1966 Estonian dictionary records Lea as popular in 1958–1960 and groups it with Lia and Liia. His Latin explanation reflects the lioness association. Reading it alongside the Hebrew account preserves the difference between origin and later interpretation.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 102 / printed 104; Alhaug signed opening etymology, updated 28 May 2024. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "ee",
+      "name": "Leana",
+      "spellings": [
+        "Leana"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi describes Leana as an analogical development in the Lea/Lia group. He separately compares Liana and Liane, which can come from Juliane. His comparison does not make every Leana a Juliane short form. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 102 / printed 104. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-05",
+      "date": "2026-11-12",
+      "calendar_date": "01-05",
+      "country": "ee",
+      "name": "Liia",
+      "spellings": [
+        "Liia"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29",
+        "INT-SNL-LEA"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://snl.no/Lea_-_kvinnenamn"
+      ],
+      "facts_used": "Rajandi groups Liia with Lea and Lia, noting Russian Лия as an influence on the spelling. This is a documented naming relationship. The later Latin “lioness” association of Lea should not replace the Hebrew background of the wider family. Mägiste’s 1929 Estonian name list already prints the exact spelling Liia and cites Wiedemann. Rajandi discusses it again in 1966. These are dated dictionary records of Liia itself, rather than dates transferred from a different spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 102 / printed 104, PDF 107 / printed 109; Mägiste PDF 17 / printed 15. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

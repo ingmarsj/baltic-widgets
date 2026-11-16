@@ -307,13 +307,13 @@ export const hypothesesEstonianR23={
     "comparison": "possible Kleement/Leemet comparison; missing-n bridge unverified",
     "text": {
       "lv": [
-        "Kleemet varētu salīdzināt ar Kleement un Leemet, taču forma bez n vēl nav pārbaudīta. Mēgistes 1929. gada sarakstā un «Leole» 2005. gada apskatā ir Kleement, nevis precīzais Kleemet. Arī kopīga kalendāra diena nepierāda šo rakstību savstarpēju atbilsmi."
+        "Kleemet varētu salīdzināt ar Kleement un Leemet, taču forma bez n vēl nav pārbaudīta. 1929. gada sarakstā un «Leole» 2005. gada apskatā ir Kleement, nevis precīzais Kleemet. Arī kopīga kalendāra diena nepierāda šo rakstību savstarpēju atbilsmi."
       ],
       "ru": [
-        "Kleemet можно сопоставить с Kleement и Leemet, но форма без n ещё не проверена. В списке Мягисте 1929 года и обзоре «Leole» 2005 года есть Kleement, а не точное Kleemet. Общая календарная дата тоже не доказывает соответствие написаний."
+        "Kleemet можно сопоставить с Kleement и Leemet, но форма без n ещё не проверена. В списке 1929 года и обзоре «Leole» 2005 года есть Kleement, а не точное Kleemet. Общая календарная дата тоже не доказывает соответствие написаний."
       ],
       "en": [
-        "Kleemet might be compared with Kleement and Leemet, but the form without n remains unverified. Mägiste’s 1929 list and Leole’s 2005 account have Kleement, not exact Kleemet. Sharing a calendar day does not establish the correspondence between these spellings."
+        "Kleemet might be compared with Kleement and Leemet, but the form without n remains unverified. the 1929 list and Leole’s 2005 account have Kleement, not exact Kleemet. Sharing a calendar day does not establish the correspondence between these spellings."
       ],
       "lt": [
         "Kleemet galima lyginti su Kleement ir Leemet, tačiau forma be n dar nepatikrinta. Mägistės 1929 metų sąraše ir „Leole“ 2005 metų apžvalgoje yra Kleement, o ne tikslus Kleemet. Bendra kalendoriaus diena taip pat neįrodo rašybų atitikties."

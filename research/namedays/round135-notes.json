@@ -1,0 +1,365 @@
+{
+ "round": 135,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.112",
+ "scope": "Search for new Estonian name-history sources; EE histories from Estonian spellings listed inside Rajandi (1966) main-list headwords.",
+ "source_ids": [
+  "EE-RAJANDI66",
+  "EE-SIN2008-45",
+  "EE-HERGAUK-MALD",
+  "EE-OK-2016-2-16",
+  "EE-ESA64-2018-205",
+  "EE-PUSS-KK"
+ ],
+ "method": "Open EE names were matched against the headword part (before the dash or arrow) of every Rajandi main-list entry, with OCR letter-spacing undone (workspace-root var/namedays-research/raj135.mjs). 17 hits; each entry was cropped from the page image and read. Reeda (not a headword) and Võitur (only a cross-reference to Vottele) were skipped. The histories restate the entry: origin, Estonian forms and, where given, use in Estonia.",
+ "failed_leads": {
+  "EE-SIN2008-45": "User-supplied PDF “admin,+sin_2008_45-58.pdf”: P. Mikkonen on the Finnish naming law (Sprog i Norden 2008). No Estonian name histories.",
+  "DIGAR collection 20483": "Mats Tõnisson’s 1884 prayer book “Siioni teekäija Palwe raamat”, not the name calendar.",
+  "EE-HERGAUK-MALD": "Article fetched; no name histories for open names.",
+  "EE-OK-2016-2-16": "Oma Keel 2016/2 article; no name histories for open names.",
+  "EE-ESA64-2018-205": "Emakeele Seltsi aastaraamat 64 article; no name histories for open names.",
+  "EE-PUSS-KK": "Keel ja Kirjandus article; no name histories for open names."
+ },
+ "skipped": [
+  "Reeda (not a Rajandi headword)",
+  "Võitur (only a cross-reference to Vottele)"
+ ],
+ "records": [
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Armiida",
+   "spellings": [
+    "Armiida"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 28: the headword lists Armiida as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Renate",
+   "spellings": [
+    "Renate"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 145: the headword lists Renate as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Tereese",
+   "spellings": [
+    "Tereese"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 162: the headword lists Tereese as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Mirjam",
+   "spellings": [
+    "Mirjam"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 131: the headword lists Mirjam as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Erika",
+   "spellings": [
+    "Erika"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 55: the headword lists Erika as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Helle",
+   "spellings": [
+    "Helle"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 74: the headword lists Helle as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Gustav",
+   "spellings": [
+    "Gustav"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 67: the headword lists Gustav as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Priido",
+   "spellings": [
+    "Priido"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 142: the headword lists Priido as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Regiina",
+   "spellings": [
+    "Regiina"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 144: the headword lists Regiina as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Liivia",
+   "spellings": [
+    "Liivia"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 111: the headword lists Liivia as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Siimon",
+   "spellings": [
+    "Siimon"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 154: the headword lists Siimon as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Ardu",
+   "spellings": [
+    "Ardu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 27: the headword lists Ardu as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Kiira",
+   "spellings": [
+    "Kiira"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 95: the headword lists Kiira as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Teodor",
+   "spellings": [
+    "Teodor"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 161: the headword lists Teodor as an Estonian spelling or form; entry checked on the page image."
+  },
+  {
+   "batch": "rajandi-headwords-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Tuudur",
+   "spellings": [
+    "Tuudur"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rajandi 1966 main list, PDF page 165: the headword lists Tuudur as an Estonian spelling or form; entry checked on the page image."
+  }
+ ],
+ "open_after": {
+  "lv": 2116,
+  "lt": 205,
+  "ee": 306
+ },
+ "next": "EE: Tõnisson calendars on DIGAR (Eesti Rahwa Kalender 1885 and later) and the dialect-archive card file D1328 (not digitised); Rajandi entries for open names that appear only in the body text of other entries."
+}

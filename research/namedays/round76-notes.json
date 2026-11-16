@@ -1,0 +1,546 @@
+{
+  "round": 76,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-09: researched all 20 unfinished LV/LT/EE profiles before advancing. 13 histories written; 7 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lv",
+      "name": "Aksels",
+      "spellings": [
+        "Aksels"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-NORDIC03",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aksels",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Nordic-name manual gives the exact Norwegian correspondence Aksel → Aksels. This documents one route by which the name is rendered in Latvian. It does not require selecting the catalogue’s doubtful alternative etymologies as a universal explanation. The exact row appears in the 2003 manual on printed page 214. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Accepted narrative documents the Norwegian rendering and qualified competing catalogue explanations; possible 1891/1817 are not secure first dates. Checked location: Nordic manual PDF 110 / printed 214: Aksel → Aksels; catalogue p. 47. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lv",
+      "name": "Alta",
+      "spellings": [
+        "Alta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Alta"
+      ],
+      "facts_used": "The catalogue explains Alta through Latin altus «high, deep». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1973 (dictionary page 52). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The possible fourth-quarter nineteenth-century record is not promoted; 1973 is an additional dated record, not the first. Checked location: Siliņš catalogue, dictionary p. 52. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lv",
+      "name": "Aksela",
+      "spellings": [
+        "Aksela"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aksela",
+        "https://lavi.lu.lv/wp-content/uploads/2024/06/LiLe_specizlaidums_Laimutei-Balodei.pdf"
+      ],
+      "facts_used": "Catalogue p. 47 refers to Akse/Axe Kisz with a question mark, not an explicit Aksels feminine bridge. Seek exact formation and dated female use; Nordic Aksel → Aksels does not establish Aksela.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 47 refers to Akse/Axe Kisz with a question mark, not an explicit Aksels feminine bridge. Seek exact formation and dated female use; Nordic Aksel → Aksels does not establish Aksela.",
+      "next_steps": "Catalogue p. 47 refers to Akse/Axe Kisz with a question mark, not an explicit Aksels feminine bridge. Seek exact formation and dated female use; Nordic Aksel → Aksels does not establish Aksela."
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lv",
+      "name": "Akselis",
+      "spellings": [
+        "Akselis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Akselis"
+      ],
+      "facts_used": "Exact spelling absent from checked dictionary; Aksels and Akse are separate records. Seek an explicit added-i correspondence and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact spelling absent from checked dictionary; Aksels and Akse are separate records. Seek an explicit added-i correspondence and date.",
+      "next_steps": "Exact spelling absent from checked dictionary; Aksels and Akse are separate records. Seek an explicit added-i correspondence and date."
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lv",
+      "name": "Veiko",
+      "spellings": [
+        "Veiko"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-LEOLE05",
+        "EE-LEOLE05-DEC",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Veiko",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_11_november.pdf",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Estonian/Finnish family is documented but no exact Latvian borrowing route or dated Latvian use. Seek Latvian rendering/bearer evidence without transferring Estonian dates.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Estonian/Finnish family is documented but no exact Latvian borrowing route or dated Latvian use. Seek Latvian rendering/bearer evidence without transferring Estonian dates.",
+      "next_steps": "Estonian/Finnish family is documented but no exact Latvian borrowing route or dated Latvian use. Seek Latvian rendering/bearer evidence without transferring Estonian dates."
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lv",
+      "name": "Velonija",
+      "spellings": [
+        "Velonija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Velonija"
+      ],
+      "facts_used": "No exact origin in catalogue/cache. Seek an exact onomastic entry and dated bearer; do not manufacture a Velo/Onija blend.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin in catalogue/cache. Seek an exact onomastic entry and dated bearer; do not manufacture a Velo/Onija blend.",
+      "next_steps": "No exact origin in catalogue/cache. Seek an exact onomastic entry and dated bearer; do not manufacture a Velo/Onija blend."
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lt",
+      "name": "Algis",
+      "spellings": [
+        "Algis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "The dictionary explicitly identifies Algis as a short form of Algimantas and Algirdas. Salys’s calendar also lists Algis independently. The short name therefore has documented links to more than one full name. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 212 / printed 197: short form of Algimantas and Algirdas; calendar PDF 301 / printed 286. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lt",
+      "name": "Bazilė",
+      "spellings": [
+        "Bazilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "1964 calendar PDF 307 / printed 292 lists Bazilė (Žilė) on May 17. Masculine Bazilijus/Bazilius entries do not explicitly establish exact Bazilė derivation. Seek a feminine correspondence and dated use; do not transfer Basil root solely by resemblance.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "1964 calendar PDF 307 / printed 292 lists Bazilė (Žilė) on May 17. Masculine Bazilijus/Bazilius entries do not explicitly establish exact Bazilė derivation. Seek a feminine correspondence and dated use; do not transfer Basil root solely by resemblance.",
+      "next_steps": "1964 calendar PDF 307 / printed 292 lists Bazilė (Žilė) on May 17. Masculine Bazilijus/Bazilius entries do not explicitly establish exact Bazilė derivation. Seek a feminine correspondence and dated use; do not transfer Basil root solely by resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lt",
+      "name": "Gabija",
+      "spellings": [
+        "Gabija"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-MACIEJAUSKIENE94",
+        "INT-BTN-GABIJA"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://journals.lki.lt/actalinguisticalithuanica/article/download/1463/1557/",
+        "https://www.behindthename.com/name/gabija"
+      ],
+      "facts_used": "Gabija is a name from Lithuanian mythology, associated with the goddess of fire and the home. Maciejauskienė includes it among newer names in Salys’s calendar. The mythological name and its modern given-name use belong to different historical contexts. The historical calendar for 1964 prints Gabija (Gabė) on 9 January. This is direct evidence of the name’s twentieth-century calendar use and of the short form Gabė. It is not a date for the beginning of the older mythological tradition.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Do not state the proposed gaubti root as verified; history uses the documented mythological name and twentieth-century calendar adoption. Checked location: 1964 calendar PDF 301 / printed 286; Maciejauskienė PDF 2; curated Gabija mythology paragraph. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lt",
+      "name": "Julijonas",
+      "spellings": [
+        "Julijonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "The Lithuanian dictionary pairs Julijonas with Julian(us) and explicitly includes it among the full names shortened to Julius. Julijus is listed separately. These entries distinguish the longer names even though they share a short form. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 237 / printed 222: PN Julian(us), Julius a short form of Julijus and Julijonas. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "lt",
+      "name": "Marcijona",
+      "spellings": [
+        "Marcijona"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "No exact scholarly origin found. Seek an explicit Latin/international correspondence, distinguishing Marcijona, Marijona and Martijona, and dated bearer.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact scholarly origin found. Seek an explicit Latin/international correspondence, distinguishing Marcijona, Marijona and Martijona, and dated bearer.",
+      "next_steps": "No exact scholarly origin found. Seek an explicit Latin/international correspondence, distinguishing Marcijona, Marijona and Martijona, and dated bearer."
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Veli",
+      "spellings": [
+        "Veli"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi places Veli in the Estonian “brother-name” group with Vello. In this group he connects Finnish Veikko with veli, “brother”. That is a documented family association, not a personality trait assigned to the bearer. In a sample of 4,000 adult men changing names in 1935–1940, Rajandi counts three choices of Veli. The figure concerns that historical sample of name changes. It is not a total of births, all bearers or the present population.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 175 / printed 177, 3 of 4000 adult name changes 1935–40; Mägiste PDF 53 / printed 51. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Veljo",
+      "spellings": [
+        "Veljo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi places Veljo in the Estonian “brother-name” group with Vello. In this group he connects Finnish Veikko with veli, “brother”. That is a documented family association, not a personality trait assigned to the bearer. In a sample of 4,000 adult men changing names in 1935–1940, Rajandi counts three choices of Veljo. The figure concerns that historical sample of name changes. It is not a total of births, all bearers or the present population.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 175 / printed 177, 3 of 4000 adult name changes 1935–40; Mägiste PDF 53 / printed 51, dialect vennake. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Velvo",
+      "spellings": [
+        "Velvo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Mägiste compares Velvo with Votic velve, “little brother”, while listing it beside Velve. Rajandi later includes Velvo in the Vello brother-name group. The comparison is attributed to the linguists, rather than presented as every family’s naming motive. The exact form Velvo is printed in Mägiste’s 1929 name list and discussed again in Rajandi’s 1966 dictionary. These dated linguistic records show the form’s place in naming proposals; they are not an independently inspected first birth entry.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 175 / printed 177; Mägiste PDF 53 / printed 51, comparison Votic velve. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Veigo",
+      "spellings": [
+        "Veigo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi places Veigo in the Estonian “brother-name” group with Vello. In this group he connects Finnish Veikko with veli, “brother”. That is a documented family association, not a personality trait assigned to the bearer. In a sample of 4,000 adult men changing names in 1935–1940, Rajandi records one choice of Veigo. This is an exact-spelling historical example in that sample; the larger figures for Veiko and Vello belong to those other spellings.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 175 / printed 177, 1 of 4000 adult name changes 1935–40. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Veiko",
+      "spellings": [
+        "Veiko"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi places Veiko in the Estonian “brother-name” group with Vello. In this group he connects Finnish Veikko with veli, “brother”. That is a documented family association, not a personality trait assigned to the bearer. Rajandi cites Veiko in the 1883 Käsuline Talurahva Kalender on 21 July. He later describes its active use around 1962. The calendar record predates the twentieth-century revival but does not by itself establish the first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 175 / printed 177, Käsuline Talurahva Kalender 1883, July 21. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Väiko",
+      "spellings": [
+        "Väiko"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi explicitly sends Väiko to both Veigo and Vello. It therefore belongs to his brother-name discussion, but the cross-reference alone does not prove which full form stood behind any particular person’s Väiko. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 181 / printed 183: Väiko → Veigo, Vello; family PDF 175 / printed 177. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Venda",
+      "spellings": [
+        "Venda"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi places Venda in the Estonian “brother-name” group with Vello. In this group he connects Finnish Veikko with veli, “brother”. That is a documented family association, not a personality trait assigned to the bearer. Rajandi records the masculine name Venda in Tartu in 1922. The same passage discusses Vello-Taigur in that year, but the names remain separate records. The dated Venda example should not be replaced with Vello’s later popularity figures.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 175 / printed 177: male name Venda, Tartu 1922. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Vendo",
+      "spellings": [
+        "Vendo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi pairs Venda and Vendo and directs both to Vello’s brother-name family. This documents Vendo as a masculine member of the group without making it identical to every similarly spelled name. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 175 / printed 177: Venda~Vendo → Vello. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-09",
+      "date": "2026-11-12",
+      "calendar_date": "01-09",
+      "country": "ee",
+      "name": "Venno",
+      "spellings": [
+        "Venno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Only popular calendar/newsletter hit found, not an exact scholarly derivation and dated use. Seek an explicit relation to vend or another base before assigning the brother-family history.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only popular calendar/newsletter hit found, not an exact scholarly derivation and dated use. Seek an explicit relation to vend or another base before assigning the brother-family history.",
+      "next_steps": "Only popular calendar/newsletter hit found, not an exact scholarly derivation and dated use. Seek an explicit relation to vend or another base before assigning the brother-family history."
+    }
+  ]
+}

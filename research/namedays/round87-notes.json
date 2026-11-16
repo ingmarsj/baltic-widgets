@@ -1,0 +1,729 @@
+{
+  "round": 87,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-20: researched all 26 unfinished LV/LT/EE profiles before advancing (17 LV, 4 LT, 5 EE). 12 histories written (LV 7, LT 4, EE 1); 14 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Oļģerts",
+      "spellings": [
+        "Oļģerts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-LT61"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/O%C4%BC%C4%A3erts",
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3irts",
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3irds",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf"
+      ],
+      "facts_used": "Klāvs Siliņš’s dictionary places Oļģerts in the Oļģerts/Oļģirts group and refers it to Aļģirts, which the catalogue in turn identifies as a d/t variant of Aļģirds. No separate root meaning is given for Oļģerts itself, and the deeper analysis of the Aļģirds family remains uncertain. The catalogue records a group attestation from Jaunpiebalga in 1887 and calendar inclusion in 1879 (dictionary page 255). These dates belong to the grouped entry; they mark documented use and a calendar entry, not the moment the name was created.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Catalogue transcription (attributed, printed dictionary not independently inspected): Oļģerts/Oļģirts group referred to Aļģirts, p. 255; Aļģirts is the d/t variant of Aļģirds, p. 53. Group record 1887 Jaunpiebalga and calendar 1879 keep grouped-entry scope. The Polish Olgierd rows (Olgerds/Olģerts, Staltmane 1998 p. 53) are different spellings and are not used as a bridge.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Orests",
+      "spellings": [
+        "Orests"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-BTN-ORESTES"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Orests",
+        "https://www.behindthename.com/name/orestes"
+      ],
+      "facts_used": "Orests is the Latvian form of Greek Orestēs. The Siliņš catalogue connects it with Greek oros, “mountain”, and Behind the Name explains the name as “of the mountains”, from oros and histēmi, “to stand”. In Greek myth Orestes, son of Agamemnon and Clytemnestra, avenges his father’s killing; this is a mythological story, not a biography of later bearers. The catalogue records calendar inclusion in 1889 and a possible personal-name record from 1923 (dictionary page 255). The calendar date precedes the cited personal record, and neither date marks the creation of the name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Catalogue 'possible' 1923 record and calendar 1889 (p. 255) are attributed; BTN curated entry corroborates the Greek family. The catalogue's myth paraphrase is reduced to the father's-death revenge episode.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Aļģirds",
+      "spellings": [
+        "Aļģirds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-LT61",
+        "LT-PAKERYS10",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3irds",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Aļģirds is the Latvian rendering of Lithuanian Algirdas: the 1961 Lithuanian proper-name rendering manual pairs Algirdas with Aļģirds (printed page 44). The meaning of the first element is disputed — scholars compare it with Lithuanian aliai vienas, “everyone”, Gothic alls, “all”, and other words — while the second is compared with girdėti, “to hear”. No single translation of the whole name is established. In Lithuanian history Algirdas was a son of Gediminas who became grand duke; Antanas Salys notes that the chronicle of Hermann of Wartberge writes his name Algarden. In Latvia the Siliņš catalogue gives a possible record from the fourth quarter of the nineteenth century and calendar inclusion in 1889 (dictionary page 53).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "LT61 PDF/printed 44 visually checked (Algirdas → Aļģirds). Pakerys 2010 PDF 2 / printed 89 visually checked: Al- alternatives (LVKŽ aliai vienas, Salys Gothic alls with query, Zinkevičius, Sirtautas, Toporov); Algirdas is not asterisked. Salys PDF 48/printed 33 and 109/94 (Gediminas's sons, grand duke), 189/174 Wartberge 'frater Algarden ac Keinstuthen'; second element girdėti from catalogue p. 53 and Salys Gird- PDF 288/printed 273. The Lithuanian ruler is a namesake, not a Latvian bearer; the nineteenth-century Latvian record is 'possible' in the catalogue.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Aļģis",
+      "spellings": [
+        "Aļģis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-LT61",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3is",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Aļģis corresponds to Lithuanian Algis: the 1961 rendering manual pairs the two forms (printed page 44). In the Senn–Salys dictionary Algis is a short form of both Algimantas and Algirdas, and the Siliņš catalogue likewise refers the Latvian short form to Aļģimants and Aļģirds without choosing one of them. The catalogue gives calendar inclusion in 1889 and a possible record from the third quarter of the twentieth century (dictionary page 53). These are records of a calendar entry and of use, not evidence that the short form was coined at either time.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "LT61 printed 44 visually checked (Algis → Aļģis). Salys PDF 212 / printed 197: Algis KF of Algimantas and Algirdas (OCR read; page not newly rendered). Catalogue paraphrase names the head form Aļģa; dates are 'possible'.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Algarts",
+      "spellings": [
+        "Algarts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Algarts"
+      ],
+      "facts_used": "Catalogue page has no origin explanation and no dictionary citation; no cached scholarly hit for the exact form.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page has no origin explanation and no dictionary citation; no cached scholarly hit for the exact form.",
+      "next_steps": "Seek an exact Siliņš/LVA entry or a documented rendering (e.g. a Germanic or Lithuanian source form) and a dated Latvian record; do not infer from Algirds/Aļģirts by resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Algers",
+      "spellings": [
+        "Algers"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Algers"
+      ],
+      "facts_used": "Catalogue page has no origin explanation and no dictionary citation. Cached Lithuanian sources mention Algerdas only as a nineteenth-century literary form (Salys PDF 103 / printed 88) and Algerdas as a diminutive-study example; neither is the exact Latvian Algers.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page has no origin explanation and no dictionary citation. Cached Lithuanian sources mention Algerdas only as a nineteenth-century literary form (Salys PDF 103 / printed 88) and Algerdas as a diminutive-study example; neither is the exact Latvian Algers.",
+      "next_steps": "Seek an exact source-language correspondence (English Alger/Algernon rows in LV-LVA-EN06 are different names) and a dated Latvian record."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Algirds",
+      "spellings": [
+        "Algirds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-LT61"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Algirds",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf"
+      ],
+      "facts_used": "Catalogue states that its source has Aļģirds with palatal ļ/ģ, not Algirds. The 1961 manual (printed 44) renders Algirdas as Aļģirds, not Algirds.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue states that its source has Aļģirds with palatal ļ/ģ, not Algirds. The 1961 manual (printed 44) renders Algirdas as Aļģirds, not Algirds.",
+      "next_steps": "Seek an authoritative row or dated record for the unpalatalised spelling; do not transfer the Aļģirds bridge or dates."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Alģirds",
+      "spellings": [
+        "Alģirds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-LT61"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Al%C4%A3irds",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf"
+      ],
+      "facts_used": "Catalogue: checked source has Aļģirds, not Alģirds; origin of this exact form undetermined. LT61 printed 44 gives Aļģirds.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: checked source has Aļģirds, not Alģirds; origin of this exact form undetermined. LT61 printed 44 gives Aļģirds.",
+      "next_steps": "Seek an exact spelling bridge (ļ omitted) and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Alģirts",
+      "spellings": [
+        "Alģirts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Al%C4%A3irts"
+      ],
+      "facts_used": "Catalogue lists Aļģirts with palatal ļ, but not Alģirts.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue lists Aļģirts with palatal ļ, but not Alģirts.",
+      "next_steps": "Seek an exact bridge and dated record; Aļģirts itself remains open."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Aļģerts",
+      "spellings": [
+        "Aļģerts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3erts"
+      ],
+      "facts_used": "Catalogue paraphrase speaks of an entry 'Aļģerta' referring to Aļģirds and mentioning Aļģis, with a possible record from the fourth quarter of the nineteenth century in Piebalga (Bgr.) and no calendar year. The head-form spelling in the paraphrase does not match the calendar form and the root explanations are explicitly not applied.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue paraphrase speaks of an entry 'Aļģerta' referring to Aļģirds and mentioning Aļģis, with a possible record from the fourth quarter of the nineteenth century in Piebalga (Bgr.) and no calendar year. The head-form spelling in the paraphrase does not match the calendar form and the root explanations are explicitly not applied.",
+      "next_steps": "Inspect the printed Siliņš p. 53 entry to confirm the exact head form (Aļģerts vs Aļģerta) and its reference before writing a history."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Aļģimants",
+      "spellings": [
+        "Aļģimants"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-LT61",
+        "LT-PAKERYS10",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3imants",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf"
+      ],
+      "facts_used": "Aļģimants is the Latvian rendering of Lithuanian Algimantas, paired with it in the 1961 rendering manual (printed page 44). The Siliņš catalogue explains it from Lithuanian alga, “reward”, and mantus, “intelligent”. Antanas Pakerys reports the name dictionary’s link of alg- with alga, “payment, reward”, while Salys also compared the verb elgtis, so the first element has more than one scholarly proposal. The catalogue records calendar inclusion in 1908 and a possible personal record from the third quarter of the twentieth century (dictionary page 53). The calendar year documents an entry in a calendar, not the date on which the compound was formed.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "LT61 printed 44 visually checked (Algimantas → Aļģimants). Pakerys 2010 PDF 2 / printed 89 visually checked: LVKŽ alg- = alga 'atpildas, atlyginimas'; Salys alga : elgtis. Salys PDF 285 / printed 270 Alg- list and PDF 292 / printed 277 Mant- mantus 'supratingas, išmanus'. Catalogue dates are 'possible'.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Aļģirts",
+      "spellings": [
+        "Aļģirts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3irts"
+      ],
+      "facts_used": "Catalogue explicitly calls Aļģirts a d/t variant of Aļģirds (p. 53) and it is the reference target for the Oļģerts group (p. 255), but no own dated record or calendar year is given.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue explicitly calls Aļģirts a d/t variant of Aļģirds (p. 53) and it is the reference target for the Oļģerts group (p. 255), but no own dated record or calendar year is given.",
+      "next_steps": "Find a dated record of the exact t-spelling (printed dictionary or archival) to support a second paragraph; do not borrow the Oļģerts group's 1887/1879 dates."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Odisejs",
+      "spellings": [
+        "Odisejs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-GR15-ODISEJS",
+        "INT-BTN-ODYSSEUS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/words/38302,38303.pdf?locale=lv",
+        "https://www.behindthename.com/name/odysseus",
+        "https://www.izpetnieks.lv/en/name/Odisejs"
+      ],
+      "facts_used": "Odisejs is the Latvian form of the Greek name Odysseus. The Latvian Language Agency’s record from I. Rūmniece’s 2015 guide to Modern Greek names renders Οδυσσέας (Odysseas) as Odisejs. Behind the Name says that the name’s meaning is unknown and probably not Greek, while noting the traditional derivation from odyssomai, “to hate”. In Greek legend Odysseus is a hero of the Trojan War, and Homer’s Odyssey tells of his misadventures on the way home to his kingdom and his wife Penelope. This is a literary and mythological story; the 2015 guide is a modern spelling recommendation, not the first Latvian use of the name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "LVA export visually checked: two Modern Greek rows Οδυσσέας → Odisejs (transliterations Odysseas, p. 31, and Odysseys, p. 21) in Rūmniece 2015; the 2015 guide itself was not independently inspected. BTN curated Meaning & History (Beekes 2010 cited). The catalogue page for Odisejs is a BTN paraphrase, not a Siliņš entry; no early Latvian personal record found.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Olgerts",
+      "spellings": [
+        "Olgerts"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-PL98-OLGIERD"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Olgerts",
+        "https://www.personvarduatveide.lv/words/1026,1025.pdf?locale=lv"
+      ],
+      "facts_used": "Catalogue scan contains neither Olgerts nor a direct reference to it. LVA Polish Olgierd rows (Staltmane 1998 p. 53) give Olgerds and Olģerts, neither of which is exact Olgerts; the exact LVA query Olgerts returned only the Olģerts row.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue scan contains neither Olgerts nor a direct reference to it. LVA Polish Olgierd rows (Staltmane 1998 p. 53) give Olgerds and Olģerts, neither of which is exact Olgerts; the exact LVA query Olgerts returned only the Olģerts row.",
+      "next_steps": "Seek a dated Latvian record or authoritative bridge for the fully unpalatalised spelling; keep Polish-rendering spellings separate."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Oļģerds",
+      "spellings": [
+        "Oļģerds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/O%C4%BC%C4%A3erds",
+        "https://www.izpetnieks.lv/en/name/O%C4%BC%C4%A3erts",
+        "https://www.izpetnieks.lv/en/name/A%C4%BC%C4%A3irts"
+      ],
+      "facts_used": "The Siliņš catalogue includes Oļģerds in the same d/t alternation group as Oļģerts, whose reference leads to Aļģirts and from there to the Aļģirds family. The entry gives no separate root meaning for this spelling. The grouped entry records Jaunpiebalga, 1887, and calendar inclusion in 1879 (dictionary page 255). Because the record belongs to the group, it is not presented as an independently dated first use of the d-spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Grouped-entry scope (p. 255, 'grupētais šķirklis'); attributed catalogue transcription. No exact Oļģerds rendering row was found; the Polish Olgierd → Olgerds row lacks the palatal ļ/ģ and is not substituted.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Orfejs",
+      "spellings": [
+        "Orfejs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Orfejs",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=%CE%9F%CF%81%CF%86%CE%AD%CE%B1%CF%82"
+      ],
+      "facts_used": "Catalogue page is a Behind the Name paraphrase ('may be a Latvianized form' of Orpheus, orphnē only hypothetical), not a Siliņš entry. LVA searches for Orfejs and Modern Greek Ορφέας returned no given-name rows.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page is a Behind the Name paraphrase ('may be a Latvianized form' of Orpheus, orphnē only hypothetical), not a Siliņš entry. LVA searches for Orfejs and Modern Greek Ορφέας returned no given-name rows.",
+      "next_steps": "Seek an LVA or other authoritative Latvian rendering row for Orpheus/Ορφέας and a dated Latvian personal record; Rainis's Orpheus-themed play (LV-SILINA15) is a literary motif, not a bearer record."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lv",
+      "name": "Orīda",
+      "spellings": [
+        "Orīda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Or%C4%ABda"
+      ],
+      "facts_used": "Catalogue scan contains neither Orīda nor a direct reference to it; the page merely points to Orests.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue scan contains neither Orīda nor a direct reference to it; the page merely points to Orests.",
+      "next_steps": "Seek an exact onomastic entry and dated record; do not infer from Orests or Orests' Greek root."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lt",
+      "name": "Daugvydas",
+      "spellings": [
+        "Daugvydas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Daugvydas is a Lithuanian compound name. Antanas Salys lists it under the element Daug-, from daug, “much”, and under Vyd-, which he links to išvysti, “to catch sight of, see”. The element meanings explain the formation and are not a fixed sentence describing every bearer. The 1964 Lithuanian name calendar, reprinted in Salys’s collected writings in 1983, lists Daugvydas with the short form Daugas on 20 January. The Senn–Salys dictionary also marks Daugvydas as a personal name; both are dated linguistic records, not the moment of creation.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Salys PDF 301 / printed 286 visually checked (20 January: Daugvydas (Daugas), Nomeda (Noma, Meda); Fabijonas (Fabas), Sebastijonas (Sebas)). Element lists PDF 286 / printed 271 Daug- and PDF 298 / printed 283 Vyd- (pages previously visually checked in rounds 16 and 69–77; OCR reread). Dictionary PDF 224 / printed 209 PN. The 1964 calendar also lists Daugvydas (Daugas) on 4 March (PDF 304 / printed 289); project date preserved.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lt",
+      "name": "Fabijonas",
+      "spellings": [
+        "Fabijonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-FABIAN"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/fabian"
+      ],
+      "facts_used": "Fabijonas comes from the Roman cognomen Fabianus, derived from the family name Fabius. Antanas Salys explains that Lithuanian baptismal names with the Latin suffix -iānus, such as Sebastijonas and Fabijonas, were borrowed through Polish, and he records the popular form Pabijonas. Behind the Name notes that Saint Fabian was a third-century pope. In the 1964 Lithuanian name calendar, reprinted by Salys in 1983, Fabijonas with the short form Fabas appears on 20 January next to Sebastijonas; this is a dated calendar record, not the first Lithuanian use.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Salys PDF 111 / printed 96 (Kristijonas essay) visually checked: -iānus names via Polish, popular Pabijonas. Dictionary PDF 228 / printed 213 visually checked: Fabijonas PN Fabian(us). BTN curated Fabian cites Kajanto 1982 p. 146 (not independently inspected). LT-MGM-RARE compiler dates for Fabijonas were not used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lt",
+      "name": "Nomeda",
+      "spellings": [
+        "Nomeda"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-PAKERYS11",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/nomeda/"
+      ],
+      "facts_used": "Nomeda is a Lithuanian compound feminine name. Antanas Pakerys classes it among compound female names with the second element -med-, and Antanas Salys explains the elements No- through nuo, “from”, and Med- through medžias, medė, “forest”, citing the Prussian masculine name Nomedas. A popular guide reads the whole as “from the forest”; that element-based reading is an interpretation, not a historical record. The 1964 Lithuanian name calendar, reprinted by Salys in 1983, lists Nomeda with the short forms Noma and Meda on 20 January. Pakerys’s 2011 accentuation study records the stress variants Nómeda and Nomedà; both sources are linguistic records, not dates of creation.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Pakerys 2011 PDF 7 / printed 96 visually checked: Nomeda under -med- with LVKŽ6 Nómeda (1), Nomedà (2), Salys R II 239. Salys PDF 292 / printed 277 Med-: medžias, medė 'miškas' (Pr. Nómedas) and PDF 293 / printed 278 No-: nu-: nuo (Pr. Nómedas), OCR read. Salys does not explicitly derive the feminine from Nomedas; the guide's 'iš miško' gloss is attributed as interpretation. Calendar PDF 301 / printed 286 visually checked.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "lt",
+      "name": "Sebastijonas",
+      "spellings": [
+        "Sebastijonas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Sebastijonas is the Lithuanian form of Latin Sebastianus; the Senn–Salys dictionary pairs it with German Sebastian. Antanas Salys groups it with baptismal names in the Latin suffix -iānus that reached Lithuanian through Polish, and he says that it spread from the West with the cult of saints. Salys counted baptismal names in sixteenth-century records: Sebastijonas occurs 27 times in the 1539–1600 estate inventories published by K. Jablonskis and 41 times in the Raseiniai land-court acts of 1575–1587. From this difference he concluded that the name was more popular among the nobility than among peasants.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Salys PDF 52 / printed 37 visually checked (Table I, 34. Sebastijonas 27); PDF 51/36 OCR read and PDF 53/38 visually checked for table sources (Jablonskis inventories 1539–1600; Raseiniai land-court acts 1575–1587, Table II 23. Sebastijonas 41) and the nobility conclusion; PDF 55/40 spread with the cult of saints via Poland; PDF 111/96 -iānus via Polish; dictionary PDF 265/250 Sebastijonas PN Sebastian (OCR). Counts are sixteenth-century sample counts, not population statistics.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "ee",
+      "name": "Hendrika",
+      "spellings": [
+        "Hendrika"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi (PDF 75 / printed 77) has Henrike/Henrika forms of Heinrich's feminine names, not exact Hendrika. Leole (Dec 2005, p. 6) lists Hendrika among Heinrich's 'sister names' — a popular parish newsletter, not accepted alone.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi (PDF 75 / printed 77) has Henrike/Henrika forms of Heinrich's feminine names, not exact Hendrika. Leole (Dec 2005, p. 6) lists Hendrika among Heinrich's 'sister names' — a popular parish newsletter, not accepted alone.",
+      "next_steps": "Seek an exact Estonian scholarly entry (Rajandi supplementary list, EKI name data) and a dated record for Hendrika."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "ee",
+      "name": "Henna",
+      "spellings": [
+        "Henna"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 53 / printed 55 mentions Henna only as the eighth of eight possible bases for Enna ('Enni ~ Henni ~ Hennie ~ Henny paralleelvorm Enna ~ Henna'), i.e. inside a hypothesis list.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi PDF 53 / printed 55 mentions Henna only as the eighth of eight possible bases for Enna ('Enni ~ Henni ~ Hennie ~ Henny paralleelvorm Enna ~ Henna'), i.e. inside a hypothesis list.",
+      "next_steps": "Seek a direct exact Henna entry (Rajandi supplementary list, Estonian name dictionary) and a dated record before stating the Heinrich-feminine route."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "ee",
+      "name": "Henni",
+      "spellings": [
+        "Henni"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi PDF 75 / printed 77 lists masculine Henni → Heinrich/Enn/Enni/Enno; PDF 53 / printed 55 has Henni only inside the Enna hypothesis chain. Mägiste PDF 27 records historical masculine Henni (SB 1927). The calendar profile appears among feminine names; the gender scope is unresolved.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi PDF 75 / printed 77 lists masculine Henni → Heinrich/Enn/Enni/Enno; PDF 53 / printed 55 has Henni only inside the Enna hypothesis chain. Mägiste PDF 27 records historical masculine Henni (SB 1927). The calendar profile appears among feminine names; the gender scope is unresolved.",
+      "next_steps": "Confirm the Estonian Henni profile's gender and find a direct feminine Henni entry and dated record; do not transfer masculine records."
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "ee",
+      "name": "Henriette",
+      "spellings": [
+        "Henriette"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Edgar Rajandi describes Henriette as a feminine name formed from Heinrich (also in the form Henrike), in the same way as Harriet, with the short forms Henny, Jette and Jetti. He adds that Jetta and Jete may also rest on other base names, so not every similar short form is automatically derived from Henriette. According to Rajandi, the name became fashionable in the eighteenth and nineteenth centuries, encouraged by Samuel Richardson’s novel Grandison; in Estonia it was used around the turn of the century, often in double names such as Henriette-Amalie. His 1966 dictionary describes historical usage, not a first registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Rajandi PDF 75 / printed 77 visually checked (*Henriette entry). The novel is named only as «Grandison» in the source; no exact first Estonian bearer or count is claimed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-20",
+      "date": "2026-11-12",
+      "calendar_date": "01-20",
+      "country": "ee",
+      "name": "Jete",
+      "spellings": [
+        "Jete"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 75 / printed 77, under Henriette: short forms Henny, Jette, Jetti, and 'Jetta (Wied.), Jete võivad ka muudel alusnimedel põhineda' — Jete may rest on other base names, so the Henriette link is explicitly not exclusive.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi PDF 75 / printed 77, under Henriette: short forms Henny, Jette, Jetti, and 'Jetta (Wied.), Jete võivad ka muudel alusnimedel põhineda' — Jete may rest on other base names, so the Henriette link is explicitly not exclusive.",
+      "next_steps": "Seek an exact Jete entry with its base name(s) and a dated record (Rajandi supplementary list, EKI); do not present Henriette as the sole origin."
+    }
+  ]
+}

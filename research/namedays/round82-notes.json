@@ -1,0 +1,734 @@
+{
+  "round": 82,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-15: researched all 27 unfinished LV/LT/EE profiles before advancing. 10 histories written; 17 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Fēlikss",
+      "spellings": [
+        "Fēlikss"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/F%C4%93likss"
+      ],
+      "facts_used": "The catalogue explains Fēlikss through Latin fēlix «successful, happy». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Valmiera, 1523 (catalogue report); calendar 1767 (dictionary page 125). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The reported 1523 record is not an independently inspected birth register or first exact modern spelling. Checked location: Siliņš catalogue, dictionary p. 125. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felicita",
+      "spellings": [
+        "Felicita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felicita"
+      ],
+      "facts_used": "The catalogue explains Felicita through Latin felicitas «happiness». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Rēzekne, 1877; calendar 1767 (dictionary page 125). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 125. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Asola",
+      "spellings": [
+        "Asola"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Asola"
+      ],
+      "facts_used": "No exact onomastic origin or historical record found. Seek an exact Latvian rendering/source entry; do not assume a literary Assol connection from resemblance.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact onomastic origin or historical record found. Seek an exact Latvian rendering/source entry; do not assume a literary Assol connection from resemblance.",
+      "next_steps": "No exact onomastic origin or historical record found. Seek an exact Latvian rendering/source entry; do not assume a literary Assol connection from resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Aspazija",
+      "spellings": [
+        "Aspazija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LNB-ZELTITE",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aspazija",
+        "https://dom.lndb.lv/data/obj/60960.html"
+      ],
+      "facts_used": "The catalogue connects Aspazija with Greek aspasios, explained as “longed for, pleasant, beloved”. In Latvian cultural history it is also a literary pseudonym. A writer’s pseudonym and the later use of the same spelling as a given name are distinct kinds of evidence. The Latvian National Library records Aspazija as the author of the 1904 edition of Zeltīte, a drama in two acts published by Gulbis in St Petersburg. That bibliographic record already predates the catalogue’s 1925 personal-name example; the latter cannot be treated as the first occurrence of the literary name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The established 1904 bibliographic claim is reused from round21, not fetched/researched again. The catalogue’s 1925 record is not claimed as earliest use: it postdates the literary pseudonym. The unsupported wife-of-Pericles wording is omitted. Checked location: Catalogue p. 72 for aspasios; previously reviewed round21 LNB object60960 bibliography (1904 edition of Zeltīte). Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Aspāzija",
+      "spellings": [
+        "Aspāzija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Asp%C4%81zija"
+      ],
+      "facts_used": "Only proposed long-ā variant of Aspazija; dictionary exact form is short-a. Seek an authoritative long-vowel correspondence and dated bearer; the poet’s pseudonym is not automatically this spelling.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only proposed long-ā variant of Aspazija; dictionary exact form is short-a. Seek an authoritative long-vowel correspondence and dated bearer; the poet’s pseudonym is not automatically this spelling.",
+      "next_steps": "Only proposed long-ā variant of Aspazija; dictionary exact form is short-a. Seek an authoritative long-vowel correspondence and dated bearer; the poet’s pseudonym is not automatically this spelling."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Asunta",
+      "spellings": [
+        "Asunta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Asunta"
+      ],
+      "facts_used": "The catalogue explains Asunta through Italian assunta «taken up (into heaven)». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Jelgava, 1971 (dictionary page 73). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 73. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Atēna",
+      "spellings": [
+        "Atēna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/At%C4%93na"
+      ],
+      "facts_used": "Greek Athena comparison remains possible, with no exact Latvian historical episode verified. Seek an explicit Latvian rendering and date; do not invent a meaning for the Greek goddess’s uncertain name.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Greek Athena comparison remains possible, with no exact Latvian historical episode verified. Seek an explicit Latvian rendering and date; do not invent a meaning for the Greek goddess’s uncertain name.",
+      "next_steps": "Greek Athena comparison remains possible, with no exact Latvian historical episode verified. Seek an explicit Latvian rendering and date; do not invent a meaning for the Greek goddess’s uncertain name."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Feliciana",
+      "spellings": [
+        "Feliciana"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LT-MGM-RARE"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Feliciana",
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas"
+      ],
+      "facts_used": "Checked printed forms are Feliciāna/Felicijāna, not exact Feliciana. Seek an explicit short-vowel correspondence and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Checked printed forms are Feliciāna/Felicijāna, not exact Feliciana. Seek an explicit short-vowel correspondence and dated use.",
+      "next_steps": "Checked printed forms are Feliciāna/Felicijāna, not exact Feliciana. Seek an explicit short-vowel correspondence and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Feliciāna",
+      "spellings": [
+        "Feliciāna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felici%C4%81na",
+        "https://www.izpetnieks.lv/en/name/Feliciana"
+      ],
+      "facts_used": "Exact spelling has Rēzekne 1877/calendar 1937 but catalogue has only related Fēlikss and no formation explanation. Seek an explicit feminine Felicianus-family bridge before promoting a see-also link.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact spelling has Rēzekne 1877/calendar 1937 but catalogue has only related Fēlikss and no formation explanation. Seek an explicit feminine Felicianus-family bridge before promoting a see-also link.",
+      "next_steps": "Exact spelling has Rēzekne 1877/calendar 1937 but catalogue has only related Fēlikss and no formation explanation. Seek an explicit feminine Felicianus-family bridge before promoting a see-also link."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felicianna",
+      "spellings": [
+        "Felicianna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felicianna"
+      ],
+      "facts_used": "Exact double-n form absent from checked source. Seek authoritative variant correspondence and dated record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact double-n form absent from checked source. Seek authoritative variant correspondence and dated record.",
+      "next_steps": "Exact double-n form absent from checked source. Seek authoritative variant correspondence and dated record."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felicians",
+      "spellings": [
+        "Felicians"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felicians"
+      ],
+      "facts_used": "Source has Felicijans with j, not Felicians. Seek an exact correspondence and date without silently deleting j.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Source has Felicijans with j, not Felicians. Seek an exact correspondence and date without silently deleting j.",
+      "next_steps": "Source has Felicijans with j, not Felicians. Seek an exact correspondence and date without silently deleting j."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felicija",
+      "spellings": [
+        "Felicija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felicija",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Felicia → Felicija. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 101. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "This establishes an exact rendering recommendation; no long-vowel or missing-j forms inherit it. Checked location: PDF 98 / printed 101, exact target in rendering table. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felīcija",
+      "spellings": [
+        "Felīcija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-EN06"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Fel%C4%ABcija",
+        "https://www.izpetnieks.lv/en/name/Felicija",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Exact long-ī spelling absent in checked dictionary and English manual; Ahero PDF 98 gives short-i Felicija. Seek a direct long-vowel row and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact long-ī spelling absent in checked dictionary and English manual; Ahero PDF 98 gives short-i Felicija. Seek a direct long-vowel row and dated use.",
+      "next_steps": "Exact long-ī spelling absent in checked dictionary and English manual; Ahero PDF 98 gives short-i Felicija. Seek a direct long-vowel row and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felicijana",
+      "spellings": [
+        "Felicijana"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felicijana"
+      ],
+      "facts_used": "Source gives long-ā Felicijāna, not exact Felicijana. Seek a short-vowel feminine correspondence and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Source gives long-ā Felicijāna, not exact Felicijana. Seek a short-vowel feminine correspondence and date.",
+      "next_steps": "Source gives long-ā Felicijāna, not exact Felicijana. Seek a short-vowel feminine correspondence and date."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felicijans",
+      "spellings": [
+        "Felicijans"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felicijans",
+        "https://www.izpetnieks.lv/en/name/Felicians"
+      ],
+      "facts_used": "Catalogue records exact use at Rēzekne 1877/calendar 1932 but only lists Fēlikss as related. An explicit Felicianus-family etymological link remains needed.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue records exact use at Rēzekne 1877/calendar 1932 but only lists Fēlikss as related. An explicit Felicianus-family etymological link remains needed.",
+      "next_steps": "Catalogue records exact use at Rēzekne 1877/calendar 1932 but only lists Fēlikss as related. An explicit Felicianus-family etymological link remains needed."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felicjana",
+      "spellings": [
+        "Felicjana"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felicjana"
+      ],
+      "facts_used": "Exact missing-i spelling absent from checked scans. Seek an explicit variant relationship and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact missing-i spelling absent from checked scans. Seek an explicit variant relationship and dated use.",
+      "next_steps": "Exact missing-i spelling absent from checked scans. Seek an explicit variant relationship and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felikarmena",
+      "spellings": [
+        "Felikarmena"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felikarmena"
+      ],
+      "facts_used": "No exact origin or historical record. Seek original exact-name documentation; do not infer an unrecorded Felikss/Karmena blend.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin or historical record. Seek original exact-name documentation; do not infer an unrecorded Felikss/Karmena blend.",
+      "next_steps": "No exact origin or historical record. Seek original exact-name documentation; do not infer an unrecorded Felikss/Karmena blend."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felikss",
+      "spellings": [
+        "Felikss"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Felikss",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Felix → Felikss. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 2006 manual on printed page 69. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "This establishes an exact rendering recommendation; no long-vowel or missing-j forms inherit it. Checked location: PDF 66 / printed 69, exact target in rendering table. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Felīsija",
+      "spellings": [
+        "Felīsija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-NORDIC03"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Fel%C4%ABsija",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf"
+      ],
+      "facts_used": "Swedish manual PDF 204 / printed 327 prints Felīsia/*Felīsija. The book explicitly labels starred spellings as erroneous (PDF169/printed273); this is not an accepted exact rendering. Seek a separate authoritative exact spelling/history before promotion.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Swedish manual PDF 204 / printed 327 prints Felīsia/*Felīsija. The book explicitly labels starred spellings as erroneous (PDF169/printed273); this is not an accepted exact rendering. Seek a separate authoritative exact spelling/history before promotion.",
+      "next_steps": "Swedish manual PDF 204 / printed 327 prints Felīsia/*Felīsija. The book explicitly labels starred spellings as erroneous (PDF169/printed273); this is not an accepted exact rendering. Seek a separate authoritative exact spelling/history before promotion."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lv",
+      "name": "Filicija",
+      "spellings": [
+        "Filicija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Filicija"
+      ],
+      "facts_used": "The reported Lithuanian variant of Felicija does not establish Latvian borrowing or exact dated local use. Seek explicit Latvian transmission and original scholarly passage; do not transfer foreign roots by spelling alone.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "The reported Lithuanian variant of Felicija does not establish Latvian borrowing or exact dated local use. Seek explicit Latvian transmission and original scholarly passage; do not transfer foreign roots by spelling alone.",
+      "next_steps": "The reported Lithuanian variant of Felicija does not establish Latvian borrowing or exact dated local use. Seek explicit Latvian transmission and original scholarly passage; do not transfer foreign roots by spelling alone."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lt",
+      "name": "Meda",
+      "spellings": [
+        "Meda"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "The Lithuanian calendar records Meda independently and as a short form of Nomeda. These are explicit naming contexts. They do not require all Medas to have the same full name or justify choosing a word meaning merely from the spelling. In the historical 1964 calendar Meda appears on 15 January; Nomeda (Noma, Meda) appears on 20 January. The independent name and the proposed calendar short form coexist in that publication. Neither date is a documented date of coinage.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The full/short relationship is one documented context; no generic honey/tree meaning or unique root claimed. Checked location: 1964 calendar PDF 301 / printed 286, independent Meda January 15 and Nomeda (Noma,Meda) January 20. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lt",
+      "name": "Paulius",
+      "spellings": [
+        "Paulius"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys explains Paulius as a Lithuanian form connected directly with Latin Paulus, alongside the older Povilas tradition transmitted through Slavic forms. He explicitly rejects treating Paulius as a modern purist invention: it already occurs in early Lithuanian records. He quotes the exact first name Paulius in the 1570 Babtai inventory, in the record Paulius Rimuidowicz. He also cites Klein’s 1653 grammar. These are dated records reported by a later linguistic study, rather than a first birth registration or newly inspected archival originals.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "1570 is an inventory record quoted by Salys, not independently inspected archive or first birth; surname not modernized in quotation. Checked location: PDF 144 / printed 129: Latin-form versus Povilas discussion, 1653 grammar and 1570 Babtai inventory Paulius Rimuidowicz. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lt",
+      "name": "Skirgaila",
+      "spellings": [
+        "Skirgaila"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-MACIEJAUSKIENE04"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2004~1367158427446/J.04~2004~1367158427446.pdf"
+      ],
+      "facts_used": "Skirgaila is an older Lithuanian personal name. Maciejauskienė places it among Lithuanian-origin names with a second component gail- and discusses Gailas as a conversational short form. This records the name’s structure without imposing a single literal translation on the whole compound. Salys discusses the medieval prince Skirgaila acquiring the Christian name Ivan, keeping the two names in their historical context. His calendar for 1964 separately prints Skirgaila (Skiras) on 15 January. The modern calendar entry does not date the beginning of the older personal name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Accepted text is an attested historical personal-name and renaming account, not a new lexical compound derivation; no forced strong/pity or battle translation. Salys’s baptism chronology remains attributed/qualified. Checked location: Salys PDF 48 / printed 33: older personal name and Christian name Ivan before 1384 (qualified); dictionary PDF 266 / printed 251; Maciejauskienė PDF 7 / printed 90. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "lt",
+      "name": "Snieguolė",
+      "spellings": [
+        "Snieguolė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-SNIEGUOLE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/snieguole20"
+      ],
+      "facts_used": "Snieguolė is formed from Lithuanian sniegas, “snow”, with a diminutive suffix. The word also has a flower-name use, and Snieguolė is the Lithuanian name for Snow White. These associations do not identify which one motivated every individual family’s choice. The dictionary explicitly gives Sniega as a short form of Snieguolė; the historical calendar for 1964 prints Snieguolė (Sniega) on 15 January. Together they document the exact long and short names, without claiming that the name was invented in 1964.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Word, flower and Snow White contexts do not establish every family’s naming motive; no date of invention asserted. Checked location: Dictionary PDF 267 / printed 252, Sniega short of Snieguolė; calendar PDF 301 / printed 286; curated exact entry sniegas + diminutive suffix. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "ee",
+      "name": "Salve",
+      "spellings": [
+        "Salve"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Only popular Leole 2005 derivation from salv found; no exact scholarly given-name formation or dated use. Seek a name-specific original rather than assigning a Latin greeting or Estonian common word by inference.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only popular Leole 2005 derivation from salv found; no exact scholarly given-name formation or dated use. Seek a name-specific original rather than assigning a Latin greeting or Estonian common word by inference.",
+      "next_steps": "Only popular Leole 2005 derivation from salv found; no exact scholarly given-name formation or dated use. Seek a name-specific original rather than assigning a Latin greeting or Estonian common word by inference."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "ee",
+      "name": "Salvi",
+      "spellings": [
+        "Salvi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF22 cache hit is the common inflected word salvi in an Ambrosius explanation, not the personal name Salvi. Leole alone is insufficient. Seek an exact scholarly name entry and dated episode.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi PDF22 cache hit is the common inflected word salvi in an Ambrosius explanation, not the personal name Salvi. Leole alone is insufficient. Seek an exact scholarly name entry and dated episode.",
+      "next_steps": "Rajandi PDF22 cache hit is the common inflected word salvi in an Ambrosius explanation, not the personal name Salvi. Leole alone is insufficient. Seek an exact scholarly name entry and dated episode."
+    },
+    {
+      "batch": "calendar-2027-01-15",
+      "date": "2026-11-12",
+      "calendar_date": "01-15",
+      "country": "ee",
+      "name": "Sõlmi",
+      "spellings": [
+        "Sõlmi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05",
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_11_november.pdf",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Only popular Leole calendar explanation found. Seek an exact name-specific derivation and dated use; ordinary inflected sõlmi occurrences do not count as personal-name evidence.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only popular Leole calendar explanation found. Seek an exact name-specific derivation and dated use; ordinary inflected sõlmi occurrences do not count as personal-name evidence.",
+      "next_steps": "Only popular Leole calendar explanation found. Seek an exact name-specific derivation and dated use; ordinary inflected sõlmi occurrences do not count as personal-name evidence."
+    }
+  ]
+}

@@ -152,19 +152,19 @@ export const historiesEstonianR54={
     "text": {
       "lv": [
         "Aadam: Vārds pieder Adam / Ādams / Adomas / Aadam saimei. Tās valodas pamatu skaidro ar senebreju adam, «cilvēks», un tā saikni ar adamah, «zeme». Vēsturiskā saikne saglabājas arī tad, kad dažādās valodās mainās rakstība un galotnes. Atsevišķas vietējās formas lietojuma sākums jānošķir no visas saimes senākās vēstures.",
-        "Mēgistes 1929. gada vārdu saraksta 21. lappusē ir Aadam vīriešu vārdu daļā. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 21. lappusē ir Aadam vīriešu vārdu daļā. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Aadam: Имя относится к семье Adam / Ādams / Adomas / Aadam. Её языковую основу объясняют через древнееврейское adam «человек» и его связь с adamah «земля». Историческая связь сохраняется при изменении написания и окончаний в разных языках. Начало употребления отдельной местной формы следует отличать от более ранней истории всей семьи.",
-        "На странице 21 списка имён Мягисте 1929 года приведено Aadam в разделе мужских имён. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 21 списка имён 1929 года приведено Aadam в разделе мужских имён. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Aadam: The name belongs to the Adam / Ādams / Adomas / Aadam family. Its linguistic basis is explained through Hebrew adam, human or man, and its connection with adamah, ground. The historical connection survives changes of spelling and endings across languages. The beginning of a particular local form’s use must be distinguished from the earlier history of the whole family.",
-        "Page 21 of Mägiste’s 1929 name list gives Aadam in the male-name section. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 21 of the 1929 name list gives Aadam in the male-name section. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Aadam: Vardas priklauso Adam / Ādams / Adomas / Aadam šeimai. Jos kalbinis pamatas aiškinamas per hebrajų adam „žmogus“ ir jo ryšį su adamah „žemė“. Istorinis ryšys išlieka įvairioms kalboms keičiant rašybą ir galūnes. Atskiros vietinės formos vartojimo pradžią reikia skirti nuo ankstesnės visos šeimos istorijos.",
-        "Mägiste 1929 metų vardų sąrašo 21 puslapyje pateikiamas Aadam vyrų vardų skyriuje. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 21 puslapyje pateikiamas Aadam vyrų vardų skyriuje. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Aadam: Nimi kuulub Adam / Ādams / Adomas / Aadam perre. Selle keelelist alust seletatakse sõnadega heebrea adam, inimene, ning selle seosega sõnaga adamah, maapind. Ajalooline seos säilib kirjapildi ja lõppude muutumisel eri keeltes. Kohaliku nimekuju kasutuse algust tuleb eristada kogu nimepere varasemast ajaloost.",

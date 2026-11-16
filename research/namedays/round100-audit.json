@@ -1,0 +1,521 @@
+{
+  "round": 100,
+  "calendar_dates": [
+    "04-06",
+    "04-07",
+    "04-08",
+    "04-09",
+    "04-10",
+    "04-11",
+    "04-12",
+    "04-13",
+    "04-14",
+    "04-15",
+    "04-16",
+    "04-17",
+    "04-18",
+    "04-19",
+    "04-20"
+  ],
+  "calendar_records_covered": 375,
+  "existing_reviewed_calendar_records_preserved": 52,
+  "unfinished_calendar_records_examined": 323,
+  "distinct_unfinished_profiles": 322,
+  "new_reviewed_histories": 111,
+  "translations": 555,
+  "paragraphs": 1110,
+  "unverified_calendar_records": 212,
+  "distinct_unverified_profiles": 211,
+  "summary": [
+    {
+      "country": "lv",
+      "calendar_records": 213,
+      "existing_reviewed_calendar_records_preserved": 12,
+      "unfinished_calendar_records_examined": 201,
+      "new_reviewed_histories": 64,
+      "prior_profile_histories_preserved": 5492,
+      "unrelated_profiles_with_inherited_provenance_updates": 0,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    },
+    {
+      "country": "lt",
+      "calendar_records": 98,
+      "existing_reviewed_calendar_records_preserved": 26,
+      "unfinished_calendar_records_examined": 72,
+      "new_reviewed_histories": 29,
+      "prior_profile_histories_preserved": 1539,
+      "unrelated_profiles_with_inherited_provenance_updates": 0,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    },
+    {
+      "country": "ee",
+      "calendar_records": 64,
+      "existing_reviewed_calendar_records_preserved": 14,
+      "unfinished_calendar_records_examined": 50,
+      "new_reviewed_histories": 18,
+      "prior_profile_histories_preserved": 1535,
+      "unrelated_profiles_with_inherited_provenance_updates": 0,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    }
+  ],
+  "validation": {
+    "full_tests": {
+      "command": "npm test",
+      "passed": 129,
+      "failed": 0
+    },
+    "static_build": {
+      "command": "npm run build",
+      "status": "passed"
+    },
+    "whitespace_check": {
+      "command": "git diff --check",
+      "status": "passed"
+    },
+    "research_audit": {
+      "status": "passed",
+      "all_dates_and_profiles_accounted_for": true,
+      "existing_five_language_histories_preserved": true,
+      "new_text_has_no_source_urls": true,
+      "all_source_ids_registered": true,
+      "all_open_profiles_remain_unverified": true,
+      "no_new_hypothesis_displayed": true
+    }
+  },
+  "provenance_metadata_changes": [
+    {
+      "profile": "lv:Zinta",
+      "url": "https://www.izpetnieks.lv/en/name/zinta",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Vīlips",
+      "url": "https://www.izpetnieks.lv/en/name/v%C4%ABlips",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Elmuts",
+      "url": "https://www.izpetnieks.lv/en/name/elmuts",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Dana",
+      "url": "https://www.izpetnieks.lv/en/name/dana",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Danija",
+      "url": "https://www.izpetnieks.lv/en/name/danija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Danijs",
+      "url": "https://www.izpetnieks.lv/en/name/danijs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Danis",
+      "url": "https://www.izpetnieks.lv/en/name/danis",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Danita",
+      "url": "https://www.izpetnieks.lv/en/name/danita",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Denija",
+      "url": "https://www.izpetnieks.lv/en/name/denija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Žubīte",
+      "url": "https://www.izpetnieks.lv/en/name/%C5%BEub%C4%ABte",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Matrona",
+      "url": "https://www.izpetnieks.lv/en/name/matrona",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Valerija",
+      "url": "https://www.izpetnieks.lv/en/name/valerija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Annika",
+      "url": "https://www.izpetnieks.lv/en/name/annika",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Anija",
+      "url": "https://www.izpetnieks.lv/en/name/anija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Anika",
+      "url": "https://www.izpetnieks.lv/en/name/anika",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Zīlīte",
+      "url": "https://www.izpetnieks.lv/en/name/z%C4%ABl%C4%ABte",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Hermanis",
+      "url": "https://www.izpetnieks.lv/en/name/hermanis",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Ermanis",
+      "url": "https://www.izpetnieks.lv/en/name/ermanis",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Jūlijans",
+      "url": "https://www.izpetnieks.lv/en/name/j%C5%ABlijans",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Egils",
+      "url": "https://www.izpetnieks.lv/en/name/egils",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Naula",
+      "url": "https://www.izpetnieks.lv/en/name/naula",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Strauja",
+      "url": "https://www.izpetnieks.lv/en/name/strauja",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Engelīna",
+      "url": "https://www.izpetnieks.lv/en/name/engel%C4%ABna",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Sigute",
+      "url": "https://www.izpetnieks.lv/en/name/sigute",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Haide",
+      "url": "https://www.izpetnieks.lv/en/name/haide",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Mintauts",
+      "url": "https://www.izpetnieks.lv/en/name/mintauts",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Alfs",
+      "url": "https://www.izpetnieks.lv/en/name/alfs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Bernadeta",
+      "url": "https://www.izpetnieks.lv/en/name/bernadeta",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Alfa",
+      "url": "https://www.izpetnieks.lv/en/name/alfa",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Bernade",
+      "url": "https://www.izpetnieks.lv/en/name/bernade",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Mindaugs",
+      "url": "https://www.izpetnieks.lv/en/name/mindaugs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Rūdolfs",
+      "url": "https://www.izpetnieks.lv/en/name/r%C5%ABdolfs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Viviāna",
+      "url": "https://www.izpetnieks.lv/en/name/vivi%C4%81na",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Rūdis",
+      "url": "https://www.izpetnieks.lv/en/name/r%C5%ABdis",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Hardija",
+      "url": "https://www.izpetnieks.lv/en/name/hardija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Hardis",
+      "url": "https://www.izpetnieks.lv/en/name/hardis",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Jadviga",
+      "url": "https://www.izpetnieks.lv/en/name/jadviga",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Jedviga",
+      "url": "https://www.izpetnieks.lv/en/name/jedviga",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Laurentīna",
+      "url": "https://www.izpetnieks.lv/en/name/laurent%C4%ABna",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Laureta",
+      "url": "https://www.izpetnieks.lv/en/name/laureta",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Fanija",
+      "url": "https://www.izpetnieks.lv/en/name/fanija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Fannija",
+      "url": "https://www.izpetnieks.lv/en/name/fannija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Feona",
+      "url": "https://www.izpetnieks.lv/en/name/feona",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Flēra",
+      "url": "https://www.izpetnieks.lv/en/name/fl%C4%93ra",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Helju",
+      "url": "https://www.izpetnieks.lv/en/name/helju",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Hella",
+      "url": "https://www.izpetnieks.lv/en/name/hella",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Hellija",
+      "url": "https://www.izpetnieks.lv/en/name/hellija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Vēsmiņa",
+      "url": "https://www.izpetnieks.lv/en/name/v%C4%93smi%C5%86a",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Mirta",
+      "url": "https://www.izpetnieks.lv/en/name/mirta",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Ziedīte",
+      "url": "https://www.izpetnieks.lv/en/name/zied%C4%ABte",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Bitīte",
+      "url": "https://www.izpetnieks.lv/en/name/bit%C4%ABte",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Flora",
+      "url": "https://www.izpetnieks.lv/en/name/flora",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Florence",
+      "url": "https://www.izpetnieks.lv/en/name/florence",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Florentīna",
+      "url": "https://www.izpetnieks.lv/en/name/florent%C4%ABna",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Florentīne",
+      "url": "https://www.izpetnieks.lv/en/name/florent%C4%ABne",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Florians",
+      "url": "https://www.izpetnieks.lv/en/name/florians",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Florijans",
+      "url": "https://www.izpetnieks.lv/en/name/florijans",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Henija",
+      "url": "https://www.izpetnieks.lv/en/name/henija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Henisa",
+      "url": "https://www.izpetnieks.lv/en/name/henisa",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Hennija",
+      "url": "https://www.izpetnieks.lv/en/name/hennija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Orions",
+      "url": "https://www.izpetnieks.lv/en/name/orions",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    }
+  ],
+  "note": "The generator may add inherited provenance or retype a source by URL deduplication. All established-source URLs, structured facts, namesakes and existing rendered histories are preserved; superseded hypothesis-only URLs may be removed only on newly reviewed profiles under the existing generator policy. Readiness uses actual rendered narratives, including family narratives, rather than inherited provenance type. Each calendar membership is accounted for; distinct profile and calendar-record totals are reported separately. Historical source dates never change supplied calendar dates. Raw originals, extracted text and images remain private. No push or publication performed."
+}

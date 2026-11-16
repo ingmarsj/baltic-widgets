@@ -1,0 +1,178 @@
+{
+ "round": 121,
+ "date": "2026-11-15",
+ "writer_version": "namedays-1.9.99",
+ "scope": "Calendar-order closure pass, 16 November: local exact namesakes and open name histories in LV, LT and EE.",
+ "source_directory": "NAMEDAYS_SOURCES.md",
+ "source_ids": [
+  "PEOPLE-WIKI120-LV-*",
+  "PEOPLE-WIKI120-LT-*",
+  "PEOPLE-WIKIINTRO120-LV-JEFIMS121",
+  "PEOPLE-WIKIINTRO120-LT-GERTRUDA121",
+  "LV-PERIODIKA-LV-2001-10-23",
+  "LV-SILINS90",
+  "LT-SALYS83"
+ ],
+ "people": [
+  {
+   "country": "lv",
+   "name": "Jefims",
+   "accepted": [
+    {
+     "id": "Q48945174",
+     "name": "Jefims Grodzinskis",
+     "source_id": "PEOPLE-WIKIINTRO120-LV-JEFIMS121",
+     "claim": "1871–1934; physician, first chairman of the Rēzekne city council, founder of the Rēzekne Jewish Gymnasium; the lv.wikipedia lead gives the alternative name Jefims."
+    }
+   ],
+   "rejected": [
+    "Jefims Šifrins (Q1342277): born in Magadan oblast, Soviet/Russian actor; no Latvian citizenship or birthplace in the lead",
+    "Jefims Ruhliss (Q1296361): Soviet/Israeli chess composer",
+    "Jefims Kogans (Q4225985): born and died in Odesa",
+    "Jefims Bogoļubovs, Jefims Hellers, Juhims Zvjahiļskis: not Latvian"
+   ]
+  },
+  {
+   "country": "lv",
+   "name": "Glorija",
+   "accepted": [],
+   "rejected": [
+    "Other lv.wikipedia Glorija titles are foreign people or films; Glorija Grevcova already displayed"
+   ]
+  },
+  {
+   "country": "lt",
+   "name": "Gertrūda",
+   "accepted": [],
+   "rejected": [
+    "Gertrūda Benzė (Q16451405): German linguist",
+    "Gertrūda Helftietė (Q61934): medieval German saint"
+   ]
+  },
+  {
+   "country": "lv",
+   "name": "Banga/Ganda/Jefimija/Landa/Landijs/Vētra",
+   "accepted": [],
+   "rejected": [
+    "No person article with these exact first names on lv.wikipedia (PEOPLE-WIKI120-LV-*)"
+   ]
+  },
+  {
+   "country": "lt",
+   "name": "Gerdvilė/Vaišvydas",
+   "accepted": [],
+   "rejected": [
+    "No person article with these exact first names on lt.wikipedia"
+   ]
+  }
+ ],
+ "records": [
+  {
+   "batch": "calendar-closure-2026-11-16",
+   "date": "2026-11-15",
+   "calendar_date": "11-16",
+   "country": "lv",
+   "name": "Landijs",
+   "spellings": [
+    "Landijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-PERIODIKA-LV-2001-10-23",
+    "LV-SILINS90"
+   ],
+   "sources": [
+    "https://periodika.lv/periodika2-viewer/?lang=fr#panel:pa|issue:418231|article:DIVL808",
+    "https://www.izpetnieks.lv/en/name/Landijs"
+   ],
+   "facts_used": "Latvijas Vēstnesis No. 151, 23 Oct 2001, “Likvidācijas, bankroti”: SIA “1.V.A.” (Ķekava parish), “Ieceltas: Danilevičs Landijs … likvidators” (scan visually checked). LV-SILINS90 PDF p. 210 / printed p. 207: “Land/is, -ijs, vc. Land 'zeme' MG 324 (?); — Rolands vai fnd. (?); V 20. gs. 1c.” (text layer read).",
+   "reason": "Exact-spelling dated use plus the dictionary’s questioned suggestions; the reviewed text states the origin as unsettled.",
+   "uncertainties": "Origin unresolved; the 2001 bearer is a private person and is not named in the widget.",
+   "next_steps": "Replaces the round 16 displayed hypothesis; keep the origin open if a naming study appears."
+  },
+  {
+   "batch": "calendar-closure-2026-11-16",
+   "date": "2026-11-15",
+   "calendar_date": "11-16",
+   "country": "lv",
+   "name": "Landa",
+   "spellings": [
+    "Landa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90",
+    "LV-PERIODIKA"
+   ],
+   "sources": [
+    "https://periodika.lv/#searchResults:%23Landa"
+   ],
+   "facts_used": "LV-SILINS90 printed p. 207: “Landa — Jolanda (?) vai fnd.; V Madonas r. 1973”. Periodika search (80,333 hits): surnames (Landa), the Polish word landa ‘landau’, a growers’ association and firm names; no given-name context found.",
+   "reason": "No new evidence beyond the dictionary.",
+   "uncertainties": "Periodika route unusable for this spelling.",
+   "next_steps": "Closed for Periodika; only a signed naming study could resolve the Jolanda link."
+  },
+  {
+   "batch": "calendar-closure-2026-11-16",
+   "date": "2026-11-15",
+   "calendar_date": "11-16",
+   "country": "lv",
+   "name": "Ganda",
+   "spellings": [
+    "Ganda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LV-SILINS90",
+    "LV-PERIODIKA"
+   ],
+   "sources": [
+    "https://periodika.lv/#searchResults:%23Ganda"
+   ],
+   "facts_used": "No Ganda entry in the printed Siliņš text. Periodika search (46,673 hits) returns fragments of propa-ganda and Gandi (Gandhi); unusable.",
+   "reason": "No usable evidence.",
+   "uncertainties": "Origin and early use unknown.",
+   "next_steps": "Closed for Periodika and Siliņš; leave the ordinary missing-history state."
+  },
+  {
+   "batch": "calendar-closure-2026-11-16",
+   "date": "2026-11-15",
+   "calendar_date": "11-16",
+   "country": "lt",
+   "name": "Gerdvilė",
+   "spellings": [
+    "Gerdvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "needs_more",
+   "verification_status": "unverified",
+   "source_ids": [
+    "LT-SALYS83",
+    "LT-VLKK"
+   ],
+   "sources": [
+    "https://vardai.vlkk.lt/"
+   ],
+   "facts_used": "Salys 1983 PDF p. 231 lists Gerdvilė as a feminine name (rechecked in cache). vardai.vlkk.lt still behind the bot check; not bypassed.",
+   "reason": "No new evidence.",
+   "uncertainties": "Explanation of gerd-/vil- for this exact name still missing.",
+   "next_steps": "Needs a human browser visit to vardai.vlkk.lt/vardas/Gerdvilė; the user can copy the entry text for indexing."
+  }
+ ],
+ "negative_evidence": "16 November LV names Banga, Ganda, Jefimija, Landa, Landijs and Vētra and LT Gerdvilė and Vaišvydas have no local exact bearer with a national Wikipedia article. EE names (Arnold, Arno, Arne, Aarne) all already have five or more local bearers.",
+ "next": "17 November"
+}

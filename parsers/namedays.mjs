@@ -5,10 +5,11 @@ import {reviewedHistory} from '../public/namedays-history.js';
 import {unverifiedHistory} from '../public/namedays-hypotheses.js';
 import {attestationRange} from '../public/namedays-attestation.js';
 import {catalogFacts,calendarEntry} from './nameday-reference.mjs';
+import {compareFame} from '../public/namedays-people.js';
 // Reviewed spelling corrections for the supplied calendar. Each misspelling is absent from the official
 // VLKK name registry (data.gov.lt dataset 2664), while the corrected form is registered:
 // Arnasd -> Arnas (stray "d"), Felidta -> Felicita, Binifacas -> Bonifacas (also listed for 14 May by day.lt).
-export const CALENDAR_CORRECTIONS={lt:{Arnasd:'Arnas',Felidta:'Felicita',Binifacas:'Bonifacas'}};
+export const CALENDAR_CORRECTIONS={lv:{'Emīlija.':'Emīlija'},lt:{Arnasd:'Arnas',Felidta:'Felicita',Binifacas:'Bonifacas'}};
 export function correctCalendarName(country,name){const clean=name.normalize('NFC').replace(/\s+/g,' ').trim();return CALENDAR_CORRECTIONS[country]?.[clean]||clean;}
 export function parseCalendar(input){
  const lines=input.replace(/^\uFEFF/,'').trim().split(/\r?\n/);
@@ -29,20 +30,28 @@ const familyNames={charlotte:['Šarlote','Šarlota','Charlotte','Charlotta','Ša
 const familySources={charlotte:'https://www.behindthename.com/name/charlotte',leonard:'https://www.behindthename.com/name/leonard',leo:'https://www.behindthename.com/name/leo',alexandra:'https://en.wiktionary.org/wiki/Alexandra'};
 export function roleFromDescription(description){
  for(const [regex,role] of [[/composer/i,'composer'],[/astronaut|cosmonaut/i,'astronaut'],[/film director|filmmaker/i,'director'],[/actor|actress/i,'actor'],[/writer|novelist|author/i,'writer'],[/poet/i,'poet'],[/physicist|chemist|scientist|mathematician|astronomer|inventor|engineer/i,'scientist'],[/painter|sculptor|artist|architect|polymath/i,'artist'],[/singer|musician|pianist|violinist|guitarist/i,'musician'],[/player|athlete|swimmer|skater|racing driver|gymnast|sprinter|tennis|cyclist|footballer/i,'athlete']])if(regex.test(description))return role;
- if(/politician|president|minister|diplomat|journalist|businessperson|entrepreneur|military|historian|sociologist|philosopher/i.test(description))return 'public_figure';
+ if(/rower|canoeist|kayaker|boxer|wrestler|judoka|skier|biathlete|weightlifter|athletics competitor|runner|jumper|thrower|racewalker|sport shooter|sailor|fencer|orienteer|triathlete|pentathlete|decathlete|heptathlete|hurdler|pole vaulter|bicycle racer|rally driver|sports? coach|basketball coach|football coach|ice hockey coach/i.test(description))return 'athlete';
+ if(/conductor|organist|cellist|clarinetist|saxophonist|accordionist|percussionist|drummer|bassist|harpsichordist|opera singer/i.test(description))return 'musician';
+ if(/photographer|choreographer|ballet dancer|dancer|illustrator|graphic designer|ceramicist|printmaker|engraver|scenographer/i.test(description))return 'artist';
+ if(/linguist|philologist|biologist|botanist|zoologist|geologist|geographer|archaeologist|economist|psychologist|physician|surgeon|medical researcher/i.test(description))return 'scientist';
+ if(/translator|playwright|screenwriter/i.test(description))return 'writer';
+ if(/politician|president|minister|diplomat|journalist|businessperson|businessman|businesswoman|entrepreneur|military|historian|sociologist|philosopher|university teacher|professor|jurist|judge|lawyer|publisher|librarian|archivist|bishop|priest|rabbi|theologian|general|admiral/i.test(description))return 'public_figure';
+ // Checked last so earlier, more specific roles are unchanged; 'university teacher' stays a public figure above.
+ if(/\b(school ?teacher|teacher|educator|pedagogue|schoolmaster|headmaster|school principal)\b/i.test(description))return 'educator';
  return null;
 }
 function reviewedPerson(person,review){return{...person,labels:{...review.labels,...person.labels},countries:[...new Set([...person.countries,...review.countries])],prominence:Math.max(person.prominence||0,review.prominence||100),reviewed_source:review.source};}
-export function namesakeIndex(entities={},localRows=[]){
- const index=new Map(),citizenships=new Map(),prominence=new Map();
+export function namesakeIndex(entities={},localRows=[],allowedNames,extraReviewed=[]){
+ const index=new Map(),citizenships=new Map(),prominence=new Map(),countrySources=new Map();
+ const allowedIdentities=allowedNames?new Set([...allowedNames].map(nameIdentity)):null;
  const countryCodes={Q211:'lv',Q37:'lt',Q191:'ee'};
- for(const row of localRows){const id=row.person.value.split('/').pop(),c=countryCodes[row.country.value.split('/').pop()];const set=citizenships.get(id)||new Set();set.add(c);citizenships.set(id,set);prominence.set(id,Number(row.links?.value)||0);}
+ for(const row of localRows){const id=row.person.value.split('/').pop(),c=countryCodes[row.country.value.split('/').pop()];if(!c)continue;const set=citizenships.get(id)||new Set();set.add(c);citizenships.set(id,set);prominence.set(id,Math.max(prominence.get(id)||0,Number(row.links?.value)||0));const evidence=countrySources.get(id)||[];if(!evidence.some(s=>s.country===c))evidence.push({country:c,property:row.country_property||'P27',...(row.birthplace?{birthplace:row.birthplace.value}:{}),url:'https://www.wikidata.org/wiki/'+id,source_id:row.source_id||'PEOPLE-WD-CITIZENS-CACHE',license:'CC0'});countrySources.set(id,evidence);}
  for(const [id,entity] of Object.entries(entities)){
   if(!/^Q\d+$/.test(id)||entity.missing!==undefined)continue;
-  const description=entity.descriptions?.en?.value||'',role=roleFromDescription(description);if(!role)continue;
+  const description=entity.descriptions?.en?.value||'',role=entity.person_role||roleFromDescription(description);if(!role)continue;
   const labels=Object.fromEntries(Object.entries(entity.labels||{}).map(([lang,v])=>[lang,v.value]));const canonical=labels.en||Object.values(labels)[0];if(!canonical)continue;
   const aliases=new Set(Object.values(labels).map(n=>n.split(' ')[0]).filter(n=>n.length>1));
-  for(const first of aliases){const list=index.get(first)||[];if(!list.some(p=>p.id===id))list.push({id,name:canonical,labels,role,prominence:prominence.get(id)??180,countries:[...(citizenships.get(id)||[])],source:{url:'https://www.wikidata.org/wiki/'+id,type:'structured_biography',license:'CC0'}});index.set(first,list);}
+  for(const first of aliases){if(allowedNames&&!allowedNames.has(first)&&!allowedIdentities.has(nameIdentity(first)))continue;const list=index.get(first)||[];if(!list.some(p=>p.id===id))list.push({id,name:canonical,labels,role,prominence:prominence.get(id)??entity.prominence??180,...(Number.isFinite(entity.fame_score)?{fame_score:entity.fame_score}:{}),countries:[...new Set([...(citizenships.get(id)||[]),...(entity.countries||[])])],...(countrySources.has(id)?{country_sources:countrySources.get(id)}:{}),source:entity.people_source||{url:'https://www.wikidata.org/wiki/'+id,type:'structured_biography',license:'CC0'}});index.set(first,list);}
  }
  const reviewed=[
   {id:'reviewed:fedot-sychkov',name:'Fedot Sychkov',labels:{ru:'Федот Сычков',lv:'Fedots Sičkovs'},role:'artist',countries:[],aliases:['Fedot','Федот'],source:{url:'https://rusmuseumvrm.ru/reference/classifier/author/sichkov_f_v/index.php?lang=ru',type:'reviewed_biography'}},
@@ -51,8 +60,10 @@ export function namesakeIndex(entities={},localRows=[]){
   {id:'reviewed:rainis',name:'Rainis (Jānis Pliekšāns)',labels:{lv:'Rainis (Jānis Pliekšāns)',ru:'Райнис (Янис Плиекшанс)'},role:'writer',countries:['lv'],aliases:['Jānis'],source:{url:'https://www.literatura.lv/personas/rainis',type:'reviewed_biography'}},
   {id:'reviewed:aadu-hint',name:'Aadu Hint',labels:{et:'Aadu Hint',ru:'Ааду Хинт'},role:'writer',countries:['ee'],aliases:['Aadu'],source:{url:'https://www.nommemuuseum.ee/helifail/aadu-hint/',type:'reviewed_biography'}}
  ];
- for(const {aliases,...person} of reviewed)for(const first of aliases){const list=index.get(first)||[],existing=list.findIndex(p=>p.name===person.name);if(existing<0)list.unshift({...person,prominence:100});else list[existing]=reviewedPerson(list[existing],person);index.set(first,list);}
- for(const list of index.values())list.sort((a,b)=>(b.prominence||0)-(a.prominence||0));
+ // Hand-checked biographies from research/namedays/reviewed-people.json add local bearers missing from structured data.
+ for(const {aliases,...person} of [...reviewed,...extraReviewed])for(const first of aliases){const list=index.get(first)||[],existing=list.findIndex(p=>p.id===person.id||p.name===person.name);if(existing<0)list.unshift({...person,prominence:person.prominence??100});else list[existing]=reviewedPerson(list[existing],person);index.set(first,list);}
+ for(const list of index.values())list.sort(compareFame);
+ index.variants=new Map();for(const [form,list] of index){const key=nameIdentity(form),forms=index.variants.get(key)||[];forms.push({form,list});index.variants.set(key,forms);}
  return index;
 }
 // Share reference evidence across Baltic spellings without changing calendar identities.
@@ -80,8 +91,9 @@ export function buildProfile(name,country,research={},people=new Map(),previous,
  if(family)sources.push({url:familySources[family],type:'reviewed_name_family'});
  if(family==='alexandra')sources.push({url:'https://www.rct.uk/collection/stories/queen-alexandra',type:'reviewed_name_history'});
  const exact=(people.get(name)||[]).map(p=>({...p,match:'exact'}));
- const candidates=exact.sort((a,b)=>Number(b.countries.includes(country))-Number(a.countries.includes(country))||(b.prominence||0)-(a.prominence||0));
- let chosen=candidates.slice(0,3);
+ const candidates=exact.sort((a,b)=>Number(b.countries.includes(country))-Number(a.countries.includes(country))||compareFame(a,b));
+ // Keep a useful local selection and international context without letting one tier displace the other.
+ let chosen=[...candidates.filter(p=>p.countries.includes(country)).slice(0,10),...candidates.filter(p=>!p.countries.includes(country)).slice(0,5)];
  if(!chosen.length&&family){const reference={charlotte:'Charlotte',leo:'Leo',leonard:'Leonardo',alexandra:'Alexandra'}[family];chosen=(people.get(reference)||[]).slice(0,2).map(p=>({...p,match:'related_form'}));}
  if(!entry&&!registry&&previous){facts.origins=previous.facts.origins;facts.first_recorded=previous.facts.first_recorded;facts.related=previous.facts.related;if(previous.facts.registry_kind)facts.registry_kind=previous.facts.registry_kind;sources.push(...previous.provenance);}
  const evidence=index.get(nameIdentity(name))||[];
@@ -107,11 +119,15 @@ export function buildProfile(name,country,research={},people=new Map(),previous,
  if(!chosen.length&&root){const candidates=root.aliases.flatMap(alias=>people.get(alias)||[]);chosen=[...new Map(candidates.map(p=>[p.id,{...p,match:'related_form'}])).values()].slice(0,3);}
  if(family)sources.push({url:familySources[family],type:'reviewed_name_family'});
  if(family==='alexandra')sources.push({url:'https://www.rct.uk/collection/stories/queen-alexandra',type:'reviewed_name_history'});
- if(!chosen.length){const variants=[...people].filter(([form])=>form!==name&&nameIdentity(form)===nameIdentity(name)).flatMap(([,list])=>list).sort((a,b)=>Number(b.countries.includes(country))-Number(a.countries.includes(country))||(b.prominence||0)-(a.prominence||0));chosen=[...new Map(variants.map(p=>[p.id,{...p,match:'related_form'}])).values()].slice(0,3);}
+ if(!chosen.length){const forms=people.variants?.get(nameIdentity(name)),variants=(forms?forms.filter(x=>x.form!==name).flatMap(x=>x.list):[...people].filter(([form])=>form!==name&&nameIdentity(form)===nameIdentity(name)).flatMap(([,list])=>list)).sort((a,b)=>Number(b.countries.includes(country))-Number(a.countries.includes(country))||compareFame(a,b));chosen=[...new Map(variants.map(p=>[p.id,{...p,match:'related_form'}])).values()].slice(0,3);}
  if(!chosen.length&&previous?.people)chosen=previous.people;
- if(previous?.people?.length)chosen=[...new Map([...previous.people,...chosen].map(p=>[p.id,p])).values()];
+ if(previous?.people?.length){
+  const merged=new Map(previous.people.map(p=>[p.id,p]));
+  for(const person of chosen){const prior=merged.get(person.id);if(!prior){merged.set(person.id,person);continue;}const country_sources=[...new Map([...(prior.country_sources||[]),...(person.country_sources||[])].map(s=>[s.country+':'+s.property+':'+s.source_id,s])).values()];merged.set(person.id,{...prior,...person,labels:{...prior.labels,...person.labels},countries:[...new Set([...prior.countries,...person.countries])],...(country_sources.length?{country_sources}:{})});}
+  chosen=[...merged.values()];
+ }
  for(const person of [...chosen])if(person.id.startsWith('reviewed:')){const original=chosen.findIndex(p=>p.id!==person.id&&p.name===person.name);if(original>=0){chosen[original]=reviewedPerson(chosen[original],person);chosen=chosen.filter(p=>p.id!==person.id);}}
- chosen=[...chosen].sort((a,b)=>Number(b.match==='exact')-Number(a.match==='exact')||Number(b.countries.includes(country))-Number(a.countries.includes(country))||(b.prominence||0)-(a.prominence||0)).slice(0,3);
+ chosen=[...chosen].sort((a,b)=>Number(b.match==='exact')-Number(a.match==='exact')||Number(b.countries.includes(country))-Number(a.countries.includes(country))||compareFame(a,b));
  if(history?.related)facts.related=[...new Set([...facts.related,...history.related])];
  const formation=research.catalog?.[name]?.raw_origin;
  if(/phonetic formation/i.test(formation||'')||previous?.facts?.formation==='phonetic')facts.formation='phonetic';

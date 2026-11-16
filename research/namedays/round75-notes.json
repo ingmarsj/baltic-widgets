@@ -1,0 +1,765 @@
+{
+  "round": 75,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-08: researched all 28 unfinished LV/LT/EE profiles before advancing. 8 histories written; 20 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Ivanda",
+      "spellings": [
+        "Ivanda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivanda"
+      ],
+      "facts_used": "Catalogue p. 170–171 offers competing uncertain Ivonna/place-name Īvande associations. Seek an explicit exact formation and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 170–171 offers competing uncertain Ivonna/place-name Īvande associations. Seek an explicit exact formation and dated use.",
+      "next_steps": "Catalogue p. 170–171 offers competing uncertain Ivonna/place-name Īvande associations. Seek an explicit exact formation and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Ants",
+      "spellings": [
+        "Ants"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-KALLASMAA17",
+        "EE-LEOLE05",
+        "EE-LEOLE05-DEC",
+        "EE-MAGISTE29",
+        "EE-MAGISTE29-AES",
+        "EE-MUST62",
+        "EE-RAJANDI66",
+        "LV-LVA-EN06",
+        "LV-LVA-NORDIC03",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ants",
+        "https://www.justdigi.ee/media/210/download",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_11_november.pdf",
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://ans-names.pitt.edu/ans/article/download/406/405",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/40/pdf/danu_norvegu_zviedru_un_somu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "Catalogue only proposes Antons; foreign exact Ants material is Estonian, not proof of the Latvian name route. Seek a Latvian rendering and dated Latvian bearer, distinguishing Antonius and Hans/Johannes contexts.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue only proposes Antons; foreign exact Ants material is Estonian, not proof of the Latvian name route. Seek a Latvian rendering and dated Latvian bearer, distinguishing Antonius and Hans/Johannes contexts.",
+      "next_steps": "Catalogue only proposes Antons; foreign exact Ants material is Estonian, not proof of the Latvian name route. Seek a Latvian rendering and dated Latvian bearer, distinguishing Antonius and Hans/Johannes contexts."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Aristarhs",
+      "spellings": [
+        "Aristarhs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-RU93",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aristarhs",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact Russian correspondence Аристарх → Aristarhs. This is a documented spelling relationship between a source-language personal name and its Latvian adaptation; it does not establish every individual bearer’s naming route. The exact row appears in the 1993 manual on printed page 193. This dates the published rendering recommendation. It does not identify the first Latvian birth registration, and earlier dates for other spellings are not transferred to this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The accepted text establishes the exact Russian-to-Latvian rendering only; the catalogue's proposed Greek derivation is not promoted. Checked location: PDF 86 / printed 193: Аристáрх → Aristarhs. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Aristida",
+      "spellings": [
+        "Aristida"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aristida"
+      ],
+      "facts_used": "Only proposed relation to Aristīda; exact missing-macron bridge and historical use remain unverified.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only proposed relation to Aristīda; exact missing-macron bridge and historical use remain unverified.",
+      "next_steps": "Only proposed relation to Aristīda; exact missing-macron bridge and historical use remain unverified."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Aristīda",
+      "spellings": [
+        "Aristīda"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arist%C4%ABda",
+        "https://www.izpetnieks.lv/en/name/Aristida"
+      ],
+      "facts_used": "Only possible feminine Aristīds relationship and no independently dated exact historical use. Seek explicit feminine formation and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only possible feminine Aristīds relationship and no independently dated exact historical use. Seek explicit feminine formation and date.",
+      "next_steps": "Only possible feminine Aristīds relationship and no independently dated exact historical use. Seek explicit feminine formation and date."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Aristids",
+      "spellings": [
+        "Aristids"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aristids"
+      ],
+      "facts_used": "Only proposed variant of Aristīds; no exact macronless correspondence or dated historical record. Seek both before transferring Greek roots.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only proposed variant of Aristīds; no exact macronless correspondence or dated historical record. Seek both before transferring Greek roots.",
+      "next_steps": "Only proposed variant of Aristīds; no exact macronless correspondence or dated historical record. Seek both before transferring Greek roots."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Aristīds",
+      "spellings": [
+        "Aristīds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arist%C4%ABds"
+      ],
+      "facts_used": "The catalogue explains Aristīds through Aristeidēs: Greek aristos «best». These are the source words or name elements used in the explanation. Their dictionary senses describe the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: 1922; calendar 1937 (dictionary page 67). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 67. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Aristons",
+      "spellings": [
+        "Aristons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aristons"
+      ],
+      "facts_used": "Ancient Greek Ariston comparison is possible, but Latvian borrowing route and dated episode are absent. Seek exact onomastic/agency evidence.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Ancient Greek Ariston comparison is possible, but Latvian borrowing route and dated episode are absent. Seek exact onomastic/agency evidence.",
+      "next_steps": "Ancient Greek Ariston comparison is possible, but Latvian borrowing route and dated episode are absent. Seek exact onomastic/agency evidence."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Aristrīds",
+      "spellings": [
+        "Aristrīds"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Aristr%C4%ABds"
+      ],
+      "facts_used": "No exact origin in catalogue/cache. Seek an original exact spelling record, not a presumed typo for Aristīds.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin in catalogue/cache. Seek an original exact spelling record, not a presumed typo for Aristīds.",
+      "next_steps": "No exact origin in catalogue/cache. Seek an original exact spelling record, not a presumed typo for Aristīds."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Arjana",
+      "spellings": [
+        "Arjana"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arjana"
+      ],
+      "facts_used": "Catalogue connects Arijana/Ariāna but leaves competing Ariadna/Ariana families. Seek a decisive exact analysis and date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue connects Arijana/Ariāna but leaves competing Ariadna/Ariana families. Seek a decisive exact analysis and date.",
+      "next_steps": "Catalogue connects Arijana/Ariāna but leaves competing Ariadna/Ariana families. Seek a decisive exact analysis and date."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Arlands",
+      "spellings": [
+        "Arlands"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arlands"
+      ],
+      "facts_used": "No exact derivation established. Seek a historical name entry and dated bearer; do not infer Germanic elements.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact derivation established. Seek a historical name entry and dated bearer; do not infer Germanic elements.",
+      "next_steps": "No exact derivation established. Seek a historical name entry and dated bearer; do not infer Germanic elements."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Arleta",
+      "spellings": [
+        "Arleta"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arleta"
+      ],
+      "facts_used": "Catalogue p. 68 retains unresolved fnd.(?) and merely compares German Arleth/aro. Seek original abbreviation/context and an explicit exact derivation.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 68 retains unresolved fnd.(?) and merely compares German Arleth/aro. Seek original abbreviation/context and an explicit exact derivation.",
+      "next_steps": "Catalogue p. 68 retains unresolved fnd.(?) and merely compares German Arleth/aro. Seek original abbreviation/context and an explicit exact derivation."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Arlēna",
+      "spellings": [
+        "Arlēna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arl%C4%93na"
+      ],
+      "facts_used": "Possible Marlēna association and unresolved fnd.(?) do not establish origin. Seek original entry and date, retaining Maria/Magdalena/Helena alternatives.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Possible Marlēna association and unresolved fnd.(?) do not establish origin. Seek original entry and date, retaining Maria/Magdalena/Helena alternatives.",
+      "next_steps": "Possible Marlēna association and unresolved fnd.(?) do not establish origin. Seek original entry and date, retaining Maria/Magdalena/Helena alternatives."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Arlijs",
+      "spellings": [
+        "Arlijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arlijs"
+      ],
+      "facts_used": "No exact onomastic derivation or dated use. Seek a direct Latvian correspondence rather than an English sound-alike.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact onomastic derivation or dated use. Seek a direct Latvian correspondence rather than an English sound-alike.",
+      "next_steps": "No exact onomastic derivation or dated use. Seek a direct Latvian correspondence rather than an English sound-alike."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Arlita",
+      "spellings": [
+        "Arlita"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Arlita"
+      ],
+      "facts_used": "Catalogue comparison with Arleta/Arlitt/aro is not a confirmed formation. Seek an explicit exact analysis and historical date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue comparison with Arleta/Arlitt/aro is not a confirmed formation. Seek an explicit exact analysis and historical date.",
+      "next_steps": "Catalogue comparison with Arleta/Arlitt/aro is not a confirmed formation. Seek an explicit exact analysis and historical date."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Gatiņš",
+      "spellings": [
+        "Gatiņš"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Gati%C5%86%C5%A1"
+      ],
+      "facts_used": "Catalogue only points to Gatis without an exact derivation. Seek explicit diminutive formation and dated personal-name record; do not infer suffix history alone.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue only points to Gatis without an exact derivation. Seek explicit diminutive formation and dated personal-name record; do not infer suffix history alone.",
+      "next_steps": "Catalogue only points to Gatis without an exact derivation. Seek explicit diminutive formation and dated personal-name record; do not infer suffix history alone."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Īvande",
+      "spellings": [
+        "Īvande"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%AAvande",
+        "https://www.izpetnieks.lv/en/name/Ivanda"
+      ],
+      "facts_used": "Checked dictionary mentions Īvande as a place name only. Seek exact evidence for adoption as a personal name and date; do not transfer Ivanda hypotheses.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Checked dictionary mentions Īvande as a place name only. Seek exact evidence for adoption as a personal name and date; do not transfer Ivanda hypotheses.",
+      "next_steps": "Checked dictionary mentions Īvande as a place name only. Seek exact evidence for adoption as a personal name and date; do not transfer Ivanda hypotheses."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Ivanna",
+      "spellings": [
+        "Ivanna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivanna",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "Russian manual PDF 79 has a related feminine context requiring exact reading; checked Latvian dictionary has Ivans but not Ivanna. Seek exact given-name rendering and dated Latvian use, not a masculine genitive.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Russian manual PDF 79 has a related feminine context requiring exact reading; checked Latvian dictionary has Ivans but not Ivanna. Seek exact given-name rendering and dated Latvian use, not a masculine genitive.",
+      "next_steps": "Russian manual PDF 79 has a related feminine context requiring exact reading; checked Latvian dictionary has Ivans but not Ivanna. Seek exact given-name rendering and dated Latvian use, not a masculine genitive."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Ivase",
+      "spellings": [
+        "Ivase"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivase"
+      ],
+      "facts_used": "No exact origin or history found. Seek an exact personal-name entry and dated bearer.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin or history found. Seek an exact personal-name entry and dated bearer.",
+      "next_steps": "No exact origin or history found. Seek an exact personal-name entry and dated bearer."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lv",
+      "name": "Ivena",
+      "spellings": [
+        "Ivena"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivena"
+      ],
+      "facts_used": "No exact origin or history found. Seek an exact personal-name entry and dated bearer, distinguishing Ivonna/Ieva.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "No exact origin or history found. Seek an exact personal-name entry and dated bearer, distinguishing Ivonna/Ieva.",
+      "next_steps": "No exact origin or history found. Seek an exact personal-name entry and dated bearer, distinguishing Ivonna/Ieva."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lt",
+      "name": "Apolinaras",
+      "spellings": [
+        "Apolinaras"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-APOLLINARIS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/apollinaris"
+      ],
+      "facts_used": "Apolinaras is paired with Apollinaris in the dictionary. The international name is derived from Apollo, the Greek god’s name. This is a name-family explanation; it does not imply that a modern bearer follows the ancient cult. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 214 / printed 199; calendar PDF 301 / printed 286; curated Apollinaris opening. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lt",
+      "name": "Gintė",
+      "spellings": [
+        "Gintė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-PAKERYS11",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Exact PN in dictionary PDF 231 / printed 216 and January 8 in 1964 calendar PDF 301 / printed 286. Compound-name hits do not establish an exact short form or derivation. Seek an explicit Gintė analysis before assigning ginti.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact PN in dictionary PDF 231 / printed 216 and January 8 in 1964 calendar PDF 301 / printed 286. Compound-name hits do not establish an exact short form or derivation. Seek an explicit Gintė analysis before assigning ginti.",
+      "next_steps": "Exact PN in dictionary PDF 231 / printed 216 and January 8 in 1964 calendar PDF 301 / printed 286. Compound-name hits do not establish an exact short form or derivation. Seek an explicit Gintė analysis before assigning ginti."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lt",
+      "name": "Severinas",
+      "spellings": [
+        "Severinas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-SEVERINUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/severinus"
+      ],
+      "facts_used": "The dictionary pairs Severinas with Severin(us). The older Roman Severinus is a derivative of Severus. The exact Lithuanian connection is thus recorded without treating an unrelated similar word as its source. The exact form is documented in the Senn–Salys Lithuanian–German dictionary of 1968, reprinted in Salys’s collected writings in 1983. This is a dated linguistic record of the name and its relationships; it does not identify the first child registered with this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "No deeper Latin gloss or ambiguous saint biography is used. Checked location: PDF 265 / printed 250; curated Severinus opening, derivative of Severus. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lt",
+      "name": "Teofilius",
+      "spellings": [
+        "Teofilius"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [],
+      "sources": [],
+      "facts_used": "Exact spelling absent in checked Lithuanian scholarly cache; Teofilis/Teofilė records do not establish Teofilius. Seek exact correspondence before transferring Theophilus roots.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact spelling absent in checked Lithuanian scholarly cache; Teofilis/Teofilė records do not establish Teofilius. Seek exact correspondence before transferring Theophilus roots.",
+      "next_steps": "Exact spelling absent in checked Lithuanian scholarly cache; Teofilis/Teofilė records do not establish Teofilius. Seek exact correspondence before transferring Theophilus roots."
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "lt",
+      "name": "Vilintas",
+      "spellings": [
+        "Vilintas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys lists Vilintas in the Prussian branch of the Vil- name group, which he connects with viltis, “hope”. His classification preserves a Baltic name tradition while distinguishing the Prussian form from the Lithuanian examples. His Lithuanian calendar for 1964 prints Vilintas (Vilys) on 8 January. This is a dated twentieth-century calendar record of the exact name. The older Prussian classification does not by itself provide an individually dated medieval bearer.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 298 / printed 283, IV Pr. Vilintas under Vil-: viltis; 1964 calendar PDF 301 / printed 286. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "ee",
+      "name": "Gunnar",
+      "spellings": [
+        "Gunnar"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi places Gunnar in the same older Germanic family as Gunther and Günther, distinguishing its Scandinavian and German forms. He connects the family with saga and Nibelungen traditions, without treating literary characters as Estonian birth records. In his account of use around 1962, Gunnar is the more frequent spelling and Kunnar the rarer one, approximately nine to one. This is a historical comparison in a 1966 book, not a current population count and not the first appearance of either form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 67 / printed 69: shared Gunnar/Kunnar history, 1962 frequency. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "ee",
+      "name": "Kunnar",
+      "spellings": [
+        "Kunnar"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi explicitly lists Kunnar beside Gunnar in the Gunther/Günther name family. The initial K- is a documented Estonian adaptation in his account, not evidence that Kunnar must have an unrelated origin from Gunnar. In his account of use around 1962, Gunnar is the more frequent spelling and Kunnar the rarer one, approximately nine to one. This is a historical comparison in a 1966 book, not a current population count and not the first appearance of either form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 67 / printed 69: Gunnar:Kunnar = 9:1, shared 1962 context. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-08",
+      "date": "2026-11-12",
+      "calendar_date": "01-08",
+      "country": "ee",
+      "name": "Kunder",
+      "spellings": [
+        "Kunder"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi associates Kunder with the German branch of the Gunnar/Gunther family and also records Kunter. He distinguishes the form’s earlier given-name use from its continued occurrence as a surname. He finds Kunder/Kunter among fathers’ given names in Tallinn records of 1961–1962. This is evidence from the fathers’ generation. It cannot be reported as the number of babies named Kunder during those years.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 67 / printed 69: 1961–62 Tallinn fathers' given names, not infant frequency. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    }
+  ]
+}

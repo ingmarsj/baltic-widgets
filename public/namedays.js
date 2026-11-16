@@ -3,6 +3,7 @@ import {resolveLanguage,locales} from './i18n-core.js';
 import {calendarDate,calendarNames,validateCountryCalendar,fittingNameCount} from './namedays-core.js';
 import {text,describeName,roleLabel} from './namedays-content.js';
 import {populationCopy,validatePopulation,POPULATION_METRICS} from './namedays-population.js';
+import {peopleForDay,validateBirthdays} from './namedays-people.js';
 
 const params=new URLSearchParams(location.search),lang=resolveLanguage(params.get('lang')||document.documentElement.lang||'lv');
 const tr=(key,values)=>text(lang,key,values),locale=locales[lang];
@@ -10,6 +11,8 @@ document.documentElement.lang=lang;
 const roots=[...document.querySelectorAll('[data-namedays]')];
 const dataBase=new URL('./data/namedays/',import.meta.url);
 const profileRequests=new Map(),calendarRequests=new Map(),copyCache=new WeakMap(),panelCache=new WeakMap();
+let birthdayRequest;
+function birthdays(){if(!birthdayRequest)birthdayRequest=readJSON(new URL('people-birthdays.json',dataBase)).then(validateBirthdays).catch(()=>{birthdayRequest=null;return null;});return birthdayRequest;}
 const populationRequests=new Map();
 async function population(country){if(!POPULATION_METRICS[country])return null;if(!populationRequests.has(country))populationRequests.set(country,readJSON(new URL('population-'+country+'.json',dataBase)).then(doc=>validatePopulation(doc,country)).catch(()=>{populationRequests.delete(country);return null;}));return populationRequests.get(country);}
 function element(tag,className,content){const e=document.createElement(tag);if(className)e.className=className;if(content!==undefined)e.textContent=content;return e;}
@@ -46,7 +49,8 @@ async function renderDialog(){
  dialog.querySelectorAll('[data-offset]').forEach(b=>b.setAttribute('aria-pressed',String(Number(b.dataset.offset)===state.offset)));
  content.replaceChildren(element('p','nameday-state',tr('loading')));dialog.querySelector('.nameday-names').replaceChildren();
  try{
-  const [doc,entries,statistics]=await Promise.all([calendar(state.country),profiles(state.country),population(state.country)]);if(ticket!==renderTicket||!dialog.open)return;
+  const [doc,entries,statistics,birthdayData]=await Promise.all([calendar(state.country),profiles(state.country),population(state.country),birthdays()]);if(ticket!==renderTicket||!dialog.open)return;
+  state.date=date;state.birthdays=birthdayData;
   state.population=statistics;
   state.profiles=entries;const names=calendarNames(doc,state.country,date);state.selected=names.some(n=>n.key===state.selected)?state.selected:names[0]?.key;
   const cloud=dialog.querySelector('.nameday-names');cloud.setAttribute('role','group');cloud.setAttribute('aria-label',tr('all'));cloud.scrollTop=0;names.forEach(n=>{const b=button('nameday-name',n.name,()=>{state.selected=n.key;state.variant=0;renderSelection();renderContent();});b.dataset.key=n.key;cloud.append(b);});
@@ -79,8 +83,15 @@ function renderContent(){
  }else if(state.tab==='people'){
   const populationText=populationCopy(state.population,profile.name,state.country,lang);
   if(populationText){const box=element('div','nameday-population');box.append(element('strong','',populationText.title));content.append(box);}
-  if(!profile.people?.length)return;
-  profile.people.forEach(person=>{const row=element('div','nameday-person');const penName={lv:'literārais pseidonīms',ru:'литературный псевдоним',en:'literary pseudonym',lt:'literatūrinis slapyvardis',et:'kirjanikunimi'};const role=roleLabel(person.role,lang)+(person.match==='related_form'?' · '+tr('variant'):person.match==='pseudonym'?' · '+penName[lang]:'');row.append(element('strong','',person.labels?.[lang]||person.name),element('small','',role));content.append(row);});
+  const people=peopleForDay(profile,state.birthdays,state.date);
+  if(!people.length){content.append(element('p','nameday-state',tr('noPeople')));return;}
+  let tier;
+  for(const person of people){
+   if(tier!==person.tier){tier=person.tier;content.append(element('h3','',tr(tier==='birthday'?'birthdayPeople':tier==='local'?'local':'international')));}
+   const row=element('div','nameday-person');
+   const detail=roleLabel(person.role,lang)+(person.tier==='birthday'?' · '+tr('bornOn',{date:formatDate(state.date),year:person.birth_year}):'');
+   row.append(element('strong','',person.labels?.[lang]||person.name),element('small','',detail));content.append(row);
+  }
  }else{
   const moods=element('div','nameday-moods');for(const key of ['serious','humor']){const b=button('',tr(key),()=>{state.mood=key;state.variant=0;renderContent();});b.setAttribute('aria-pressed',String(state.mood===key));moods.append(b);}
   const greeting=element('p','nameday-greeting',copy.wishes[state.mood][state.variant%3]);
@@ -112,7 +123,7 @@ function fit(root){
 }
 async function loadRoot(root){
  const country=countryOf(root),date=calendarDate();root.setAttribute('aria-label',tr('title'));root.replaceChildren(element('p','nameday-state',tr('loading')));
- try{const doc=await calendar(country),names=calendarNames(doc,country,date);const heading=element('h3','nameday-heading');const time=element('time','',formatDate(date));time.dateTime=date;const select=element('select','nameday-country');select.setAttribute('aria-label',tr('country'));for(const c of ['lv','lt','ee']){const option=element('option','',tr(c));option.value=c;select.append(option);}select.value=country;select.addEventListener('change',()=>{for(const item of roots)item.dataset.namedayCountry=select.value;const url=new URL(location.href);url.searchParams.set('country',select.value);history.replaceState(null,'',url);params.set('country',select.value);roots.forEach(loadRoot);});heading.append(element('span','nameday-title',tr('title')),element('span','nameday-today',tr('today')),select,time);const cloud=element('div','nameday-clouds');const old=observed.get(root);if(old)resizeObserver?.unobserve(old.cloud);root.replaceChildren(heading,cloud);if(!names.length)cloud.append(element('p','nameday-state',tr('empty')));else{observed.set(root,{names,cloud});cloudOwners.set(cloud,root);resizeObserver?.observe(cloud);fit(root);}}
+ try{const doc=await calendar(country),names=calendarNames(doc,country,date);const heading=element('h3','nameday-heading');const time=element('time','',formatDate(date));time.dateTime=date;const select=element('select','nameday-country');select.setAttribute('aria-label',tr('country'));for(const c of ['lv','lt','ee']){const option=element('option','',tr(c));option.value=c;select.append(option);}select.value=country;select.addEventListener('change',()=>{for(const item of roots)item.dataset.namedayCountry=select.value;const url=new URL(location.href);url.searchParams.set('country',select.value);history.replaceState(null,'',url);params.set('country',select.value);roots.forEach(loadRoot);});heading.append(element('span','nameday-title',tr('title')),select,time);const cloud=element('div','nameday-clouds');const old=observed.get(root);if(old)resizeObserver?.unobserve(old.cloud);root.replaceChildren(heading,cloud);if(!names.length)cloud.append(element('p','nameday-state',tr('empty')));else{observed.set(root,{names,cloud});cloudOwners.set(cloud,root);resizeObserver?.observe(cloud);fit(root);}}
  catch{root.replaceChildren(element('p','nameday-state',tr('error')),button('nameday-retry',tr('retry'),()=>loadRoot(root)));}
 }
 if(roots.length){

@@ -1,0 +1,618 @@
+{
+  "round": 86,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-19: researched all 22 unfinished LV/LT/EE profiles before advancing (LV 8, LT 5, EE 9). 12 histories written (LV 0, LT 3, EE 9); 10 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Andulis",
+      "spellings": [
+        "Andulis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Andulis"
+      ],
+      "facts_used": "Catalogue p. 57: tentatively referred to Andrejs (?); Mārciena 1562; possible calendar 1964.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 57: tentatively referred to Andrejs (?); Mārciena 1562; possible calendar 1964.",
+      "next_steps": "The questioned Andrejs link remains unverified; the dated record does not prove it. Inspect the printed entry p. 57 and seek an explicit formation statement."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Alnis",
+      "spellings": [
+        "Alnis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LILE24"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Alnis"
+      ],
+      "facts_used": "Catalogue p. 52: Piebalga 1902; possible calendar 1925; no origin statement. LV-LILE24 hits for alnis concern the common nouns briedis/alnis, not the personal name.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 52: Piebalga 1902; possible calendar 1925; no origin statement. LV-LILE24 hits for alnis concern the common nouns briedis/alnis, not the personal name.",
+      "next_steps": "Resemblance to the common noun alnis “elk” is not accepted as the origin. Inspect printed Siliņš p. 52 or a scholarly name study for an explicit derivation."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Alna",
+      "spellings": [
+        "Alna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Alna"
+      ],
+      "facts_used": "Catalogue: Lithuanian river-name and alnė/alnis explanations, explicitly not establishing the origin of Latvian Alna; not in the official calendar; 0 registered.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: Lithuanian river-name and alnė/alnis explanations, explicitly not establishing the origin of Latvian Alna; not in the official calendar; 0 registered.",
+      "next_steps": "Seek a Latvian-specific source; Lithuanian hydronym evidence cannot be transferred."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Alnars",
+      "spellings": [
+        "Alnars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Alnars"
+      ],
+      "facts_used": "Catalogue: origin not established; 1 registered bearer; no dictionary page or date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: origin not established; 1 registered bearer; no dictionary page or date.",
+      "next_steps": "No supported proposal; seek an exact dictionary or registry record."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Alnors",
+      "spellings": [
+        "Alnors"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Alnors"
+      ],
+      "facts_used": "Catalogue: origin not established; 0 registered; no dictionary page or date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: origin not established; 0 registered; no dictionary page or date.",
+      "next_steps": "No supported proposal; seek an exact dictionary or registry record."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Džeida",
+      "spellings": [
+        "Džeida"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-JADE-R85"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C5%BEeida",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Jade"
+      ],
+      "facts_used": "Catalogue: may be a rendering of English Jade (Behind the Name based); no date. LVA Jade search returned no given-name row (only unrelated surname matches).",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: may be a rendering of English Jade (Behind the Name based); no date. LVA Jade search returned no given-name row (only unrelated surname matches).",
+      "next_steps": "Seek an exact Jade → Džeida rendering row (e.g. later LVA material) and a dated Latvian use before writing."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Džellija",
+      "spellings": [
+        "Džellija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-JELLIE-R85"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C5%BEellija",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Jellie"
+      ],
+      "facts_used": "Catalogue: origin not established; 2 registered. LVA Jellie search: no records.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: origin not established; 2 registered. LVA Jellie search: no records.",
+      "next_steps": "No supported proposal; seek an exact source-language spelling and rendering row."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lv",
+      "name": "Džozelīna",
+      "spellings": [
+        "Džozelīna"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-EN06",
+        "LV-LVA-JOCELYN-R85"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/D%C5%BEozel%C4%ABna",
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf#page=103",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Jocelyn"
+      ],
+      "facts_used": "Catalogue: may be Jocelyn. Ahero 2006 PDF 103 / printed 106 (visually checked) and the LVA row give Jocelin(e)/Jocelyn → Džos(e)lina, with s and short i, not Džozelīna.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: may be Jocelyn. Ahero 2006 PDF 103 / printed 106 (visually checked) and the LVA row give Jocelin(e)/Jocelyn → Džos(e)lina, with s and short i, not Džozelīna.",
+      "next_steps": "The checked rendering is a different spelling and is not transferred. Seek an exact Džozelīna source (e.g. French Joséline) and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lt",
+      "name": "Gedvilė",
+      "spellings": [
+        "Gedvilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS11",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=287",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=298"
+      ],
+      "facts_used": "Gedvilė is a Lithuanian two-stem feminine name paired with masculine Gedvilas, which Salys lists among names with the element vil-. In his stem list he compares ged- with (pasi)gesti, gedėti and gedauti, verbs of longing or missing, and vil- with viltis “hope”. These comparisons explain the separate elements, not a single literal sentence. Pakerys reports that the 1934 “Didysis kalendorius” included about fifty two-stem feminine names, naming Gedvilė among its examples. This dates a printed calendar record; it does not identify the first girl to receive the name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Pakerys 2011, PDF 1 / printed 90, visually checked: Gedvilė among examples in the 1934 “Didysis kalendorius”; PDF 2 / printed 91 cites the 1948 spelling dictionary Gedvilas, -ė. Salys stem list PDF 287 / printed 272: Ged-, Ges- : (pasi)gesti : gedėti : gedauti; PDF 298 / printed 283: Vil- : viltis, with Lithuanian Gedvilas.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lt",
+      "name": "Kanutas",
+      "spellings": [
+        "Kanutas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN-KNUT"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=301",
+        "https://www.behindthename.com/name/knut"
+      ],
+      "facts_used": "1964 calendar PDF 301 / printed 286, visually checked: 19 January Kanutas (Kanas). No Senn–Salys entry; Behind the Name kanutas returned 404; curated Knut does not list a Lithuanian form. The Estonian Kanut history (Rajandi) and the unlocated compiler claim in LT-MGM-RARE are not transferred.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "1964 calendar PDF 301 / printed 286, visually checked: 19 January Kanutas (Kanas). No Senn–Salys entry; Behind the Name kanutas returned 404; curated Knut does not list a Lithuanian form. The Estonian Kanut history (Rajandi) and the unlocated compiler claim in LT-MGM-RARE are not transferred.",
+      "next_steps": "Seek an exact Lithuanian correspondence Kanutas = Knut/Canutus in a dictionary or VLE before writing."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lt",
+      "name": "Marijus",
+      "spellings": [
+        "Marijus"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SENNSALYS68",
+        "LT-SALYS83",
+        "INT-BTN-MARIUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=250",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=301",
+        "https://www.behindthename.com/name/marius"
+      ],
+      "facts_used": "The Senn–Salys Lithuanian–German dictionary gives Marijus as the personal name corresponding to Marius and Mario, with Marius as its short form. Behind the Name lists Marijus as the Lithuanian variant of Marius, a Roman family name derived either from Mars or from Latin mas, maris “male”; the alternatives are kept open. The 1964 Lithuanian name calendar compiled by Yla and Salys, reprinted in Salys’s 1983 collected writings, lists Marijus (with short form Marys) on 19 January beside Kanutas and Pija. This is a dated calendar record; it does not mark the first Lithuanian bearer.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Senn–Salys dictionary in Salys 1983, PDF 250 / printed 235, visually checked: Marijus PN Marius, Mario; Marius KF of Marijus. 1964 calendar PDF 301 / printed 286, visually checked: 19 January Kanutas (Kanas), Marijus (Marys), Pija. Behind the Name Marius lists Marijus (Lithuanian); Mars / mas, maris alternatives kept.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lt",
+      "name": "Raivedys",
+      "spellings": [
+        "Raivedys"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=301"
+      ],
+      "facts_used": "1964 calendar PDF 301 / printed 286, visually checked: 19 January Raivedys (Raivys), native-name section. Salys’s stem lists (PDF 284–299) contain no Rai- or -ved- analysis; a surname dictionary’s Raivydas with rai- (?) is a different name.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "1964 calendar PDF 301 / printed 286, visually checked: 19 January Raivedys (Raivys), native-name section. Salys’s stem lists (PDF 284–299) contain no Rai- or -ved- analysis; a surname dictionary’s Raivydas with rai- (?) is a different name.",
+      "next_steps": "Seek a scholarly analysis of Raivedys’s elements; do not assemble an etymology from similar stems."
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "lt",
+      "name": "Kleopatra",
+      "spellings": [
+        "Kleopatra"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SENNSALYS68",
+        "LT-SALYS83",
+        "INT-BTN-CLEOPATRA"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=241",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=315",
+        "https://www.behindthename.com/name/cleopatra"
+      ],
+      "facts_used": "The Senn–Salys dictionary records Kleopatra as a personal name corresponding to German Kleopatra. Behind the Name explains the Greek name Kleopatra as “glory of the father”, from kleos “glory” and pater “father”. It was borne by queens of Ptolemaic Egypt, but those ancient bearers do not date the Lithuanian spelling. The 1964 Lithuanian name calendar reprinted by Salys in 1983 lists Kleopatra, with short forms Kleopa and Patra, on 19 October. That historical date differs from the project calendar’s 19 January and is kept as a separate dated record, not a correction.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Senn–Salys PDF 241 / printed 226, visually checked: Kleopatrà PN Kleopatra. 1964 calendar PDF 315 / printed 300 (October section), visually checked: 19 Kleopatra (Kleopa, Patra). Behind the Name Cleopatra: kleos + pater. Historical 19 October date kept distinct from project 19 January.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Hendrik",
+      "spellings": [
+        "Hendrik"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Edgar Rajandi refers Hendrik to Heinrich and lists Endrik ~ Hendrik among the usual Estonian forms of that name. He derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear; a derivation from Hagenrich, “ruler of the court”, is also cited. Julius Mägiste’s 1929 collection of Estonian personal names already lists Hendrik among its men’s names, citing Wiedemann’s dictionary. Rajandi’s 1966 book adds that the Heinrich family spread more widely in Estonia from the fifteenth century. Neither date marks the first Hendrik.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 75 / printed 77 (Hendo, Hendrik → Heinrich) and PDF 71–72 / printed 73–74 (Heinrich article: Haimrich, Hagenrich alternative, Endrik ~ Hendrik, spread from the 15th century), visually checked. Mägiste 1929 PDF 27 / printed 25, visually checked: Hendrik -u (Wd., Rnm.).",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Henri",
+      "spellings": [
+        "Henri"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "POP-EE-HENRI-R86"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.stat.ee/nimed/HENRI"
+      ],
+      "facts_used": "Rajandi lists Henri ~ Henry as forms that refer back to Heinrich, and mentions Henriette as the sister name of French Henri. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear. The family link does not make every Henri a borrowing from one particular language. Statistics Estonia counted 2,055 men named Henri on 1 January 2026. The oldest were in the 75–79 age group, while the name was most frequent relative to population among boys aged 5–9, documenting both earlier use and a recent rise.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 75 / printed 77: Henri ~ Henry → Heinrich (visually checked); PDF 71 / printed 73: Harriet formed like French Henri’s sister name Henriette. Statistics Estonia name page (1 Jan 2026): 2,055 men; oldest 75–79; highest frequency at age 5–9 (35.02 per 10,000).",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Heino",
+      "spellings": [
+        "Heino"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi gives Heino two documented contexts: it stands beside Eino, which he links with the old German Einewald, but he states that Heino is much older than Eino and mostly derives from Heinrich. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear. Rajandi’s 1966 book names Enn, Heino and Harri as the favourite Heinrich variants a generation earlier, and lists Heino among the forms still preferred, with Harri, Heiki and Indrek, at a combined 20–25 per thousand. Mägiste’s 1929 list already records Hein ~ Heino.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 47 / printed 49 (Einewald article: Heino much older than Eino, mostly from Heinrich), PDF 71 / printed 73 (Heino = Eino → Einewald, → Heinrich), PDF 72 / printed 74 (Enn, Heino, Harri favourites a generation earlier; Harri, Heiki, Heino, Indrek 20–25‰). Mägiste 1929 PDF 27 / printed 25: Hein ~ Heino.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Henn",
+      "spellings": [
+        "Henn"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi groups Henn ~ Henno ~ Hennu with Heinrich and with the related short forms Enn, Enni and Enno. He presents Heinrich as having produced an exceptional number of Estonian variants. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear. Rajandi reports that names such as Enn, Henn, Henu, Eno, Henno and Henni occur often in Estonian documents of the fourteenth to sixteenth centuries. In his analysis of 10,000 names given in 1935–1955, Henn occurred 15 times, compared with 63 for Enn.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 75 / printed 77, visually checked: Henn ~ Henno ~ Hennu → Heinrich, Enn, Enni, Enno; PDF 53 / printed 55, visually checked: 1935–1955 sample of 10,000 names Enn 63, Henn 15, Enno 37, Henno 7; 14th–16th-century documents list Enn, Henn, Henu, Eno, Henno, Henni. The sample is not exact current statistics.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Henno",
+      "spellings": [
+        "Henno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+      ],
+      "facts_used": "Rajandi lists Henno in the series Henn ~ Henno ~ Hennu, referred to Heinrich and connected with Enn, Enni and Enno. Mägiste’s 1929 collection also records Henno beside Henn, citing Wiedemann’s dictionary. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear. In Rajandi’s analysis of 10,000 names given in Estonia in 1935–1955, Henno appeared seven times, while Enno appeared 37 times and Enn 63 times. These figures describe that sample, not today’s population or the first Henno.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 75 / printed 77 and PDF 53 / printed 55 (sample count Henno 7), visually checked. Mägiste 1929 PDF 27 / printed 25, visually checked: Henn ~ Henno (Wd., Rnm.).",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Enno",
+      "spellings": [
+        "Enno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi treats Enno as a form of Enn and compares it with Henno ~ Hennu, all within the large Estonian family of Heinrich forms. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear. According to Rajandi, Enno appeared regularly in nineteenth-century calendars on 5 and 7 November and was popular from the fourteenth to the eighteenth century, as its use in surnames and place names also shows. Those historical calendar dates differ from the project’s 19 January.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 54 / printed 56, visually checked: Enno ~ Ennu → Enn, cf. Henno ~ Hennu; 19th-century calendars on 5 and 7 November; popular 14th–18th century; surname example Ernst Enno. Historical calendar dates kept distinct from the project date.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Eno",
+      "spellings": [
+        "Eno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-MAGISTE29",
+        "POP-EE-ENO-R86"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://www.stat.ee/nimed/ENO"
+      ],
+      "facts_used": "Rajandi gives Eno ~ Enu two separate uses: as a woman’s name it belongs with Ene, and as a man’s name it equals Enn, a short form from the Heinrich family. Mägiste’s 1929 list likewise places Eno next to Enn for comparison. The masculine Heinrich link therefore does not cover every bearer. Rajandi names Eno among forms such as Enn, Henn, Henu, Henno and Henni found in Estonian documents of the fourteenth to sixteenth centuries. Statistics Estonia counted 70 men and fewer than five women named Eno on 1 January 2026, so both uses continue.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 54 / printed 56, visually checked: Eno ~ Enu, as women’s name → Ene, as men’s name = Enn; PDF 53 / printed 55: Eno among 14th–16th-century document forms. Mägiste 1929 PDF 25 / printed 23: [Eno vrd. eelm.] after Enn. Statistics Estonia (1 Jan 2026): 70 men, fewer than 5 women.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Heiko",
+      "spellings": [
+        "Heiko"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "INT-BTN-HEIKO",
+        "EE-RAJANDI66",
+        "POP-EE-HEIKO-R86"
+      ],
+      "sources": [
+        "https://www.behindthename.com/name/heiko",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.stat.ee/nimed/HEIKO"
+      ],
+      "facts_used": "Behind the Name describes Heiko as a Low German and Frisian diminutive of Henrik, within the Heinrich family. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear. The checked Estonian name dictionaries do not list Heiko itself, so no older Estonian record is claimed. Statistics Estonia counted 282 men named Heiko on 1 January 2026. The oldest were in the 70–74 age group, so living bearers include men born in 1951–1955, while the name was most frequent among men aged 35–39.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Behind the Name Heiko (curated): Low German and Frisian diminutive of Henrik. Rajandi Heinrich article PDF 71–72 / printed 73–74 for the family; no Heiko entry found in Rajandi or Mägiste. Statistics Estonia (1 Jan 2026): 282 men, oldest age group 70–74, most frequent at 35–39.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-19",
+      "date": "2026-11-12",
+      "calendar_date": "01-19",
+      "country": "ee",
+      "name": "Heigo",
+      "spellings": [
+        "Heigo"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi refers Heigo to Heinrich, with a cross-reference to Heik, which he lists with Heiki and Heikki among Heinrich forms. Rajandi derives Heinrich from East Frankish Haimrich, “master in his own home”, while noting that the original form and meaning are not entirely clear. Rajandi’s index records Heigo in Tallinn in 1961 (abbreviated Tln 61). He also notes that Heik and Heiki were common in Tallinn church books in the eighteenth century, so they are not new loans from Finland; that note concerns the related forms, not Heigo itself.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Rajandi PDF 71 / printed 73, visually checked: Heigo → Heinrich (→ Heik); Heik ~ Heiki ~ Heikki common in 18th-century Tallinn church books. Index PDF 199 / printed 201, visually checked: Heigo Tln 61. The index abbreviation is read as a Tallinn 1961 record, not an inspected birth entry.",
+      "next_steps": ""
+    }
+  ]
+}

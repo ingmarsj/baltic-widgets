@@ -1,0 +1,1536 @@
+{
+ "round": 138,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.115",
+ "scope": "Name origins from RU-PETROVSKY-SRLI for open names matched by spelling.",
+ "decision": "User, 16 November 2026: the widget text must not mention dictionaries or a Russian origin; state the ultimate origin of the name only. If unsure, do not write it.",
+ "method": "Transliteration match (var/namedays-research/petrovsky137.mjs), full entries (petro-entries138.mjs), base-name notes for “feminine of …” entries (petro-lookup138.mjs). Latin and Greek words corrected from OCR noise (feHx -> felix, tSresis -> tērēsis, eugen^s -> eugenēs).",
+ "left_out": {
+  "soviet_coinages": [
+   "Vilens",
+   "Kima",
+   "Rema",
+   "Revs"
+  ],
+  "no_origin_note": [
+   "Āriks",
+   "Izolde",
+   "Izolda",
+   "Ida",
+   "Īda",
+   "Polina",
+   "Polīna",
+   "Poļina",
+   "Luiza",
+   "Luīza",
+   "Eveline",
+   "Evelīne",
+   "Avelina",
+   "Avelīna",
+   "Nida",
+   "Adelaide",
+   "Azella",
+   "Manefa",
+   "Aleksandris",
+   "lt:Anželika",
+   "lt:Melchioras",
+   "ee:Iida",
+   "ee:Mariann"
+  ],
+  "uncertain_match": [
+   "Inge",
+   "Irme",
+   "Dīvs",
+   "Vitis",
+   "Selīne",
+   "Karine",
+   "Karinē",
+   "Karīne",
+   "Klementine",
+   "Milica",
+   "Emiliana",
+   "Emilians",
+   "lt:Martys",
+   "lt:Galė",
+   "lt:Mina",
+   "ee:Veronika",
+   "ee:Veroonika"
+  ],
+  "root_history": [
+   "Daniils",
+   "Daņiils"
+  ],
+  "held_existing_hypothesis_or_facts": [
+   "Jevgēņija",
+   "Jevģenija",
+   "Jevģēnija",
+   "Evgenijs",
+   "Evgēnijs",
+   "Evģenijs",
+   "Evģēnijs",
+   "Jevģenijs",
+   "Elizavete",
+   "Jelizavete",
+   "Jeļizavete",
+   "Ignātijs",
+   "Virģīnija",
+   "Andrējs",
+   "Sabine",
+   "Artēmijs"
+  ]
+ },
+ "records": [
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Felicians",
+   "spellings": [
+    "Felicians"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ФЕЛИЦИАН (PDF page 278), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Felicians goes back to Latin felix (felicis), “happy”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Deņiss",
+   "spellings": [
+    "Deņiss"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ДЕНИС (PDF page 111), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Deņiss is a form of Dionīsijs. Dionīsijs goes back to the Greek personal name Dionysios, from Dionysos, god of the vital forces of nature and of wine."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Valerijs",
+   "spellings": [
+    "Valerijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ВАЛЕРИЙ (PDF page 76), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Valerijs goes back to the Roman family name Valerius, from Latin valeo, “to be strong, healthy”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Valentine",
+   "spellings": [
+    "Valentine"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ВАЛЕНТИНА (PDF page 75), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Valentine is the feminine form of Valentīns. Valentīns goes back to Latin valens (valentis), “strong, healthy”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Valentīne",
+   "spellings": [
+    "Valentīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ВАЛЕНТИНА (PDF page 75), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Valentīne is the feminine form of Valentīns. Valentīns goes back to Latin valens (valentis), “strong, healthy”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Agāte",
+   "spellings": [
+    "Agāte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword АГАТА (PDF page 39), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Agāte goes back to Greek agathē, “good, kind”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Dārijs",
+   "spellings": [
+    "Dārijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ДАРИЙ (PDF page 109), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Dārijs goes back to Greek Dareios, the name of three kings of ancient Persia in the sixth to fourth centuries BC."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Pavlina",
+   "spellings": [
+    "Pavlina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ПАВЛИНА (PDF page 218), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Pavlina is the feminine form of Paulīns. Paulīns goes back to Latin Paulinus, “belonging to Paulus”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Pavlīna",
+   "spellings": [
+    "Pavlīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ПАВЛИНА (PDF page 218), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Pavlīna is the feminine form of Paulīns. Paulīns goes back to Latin Paulinus, “belonging to Paulus”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Pavlīne",
+   "spellings": [
+    "Pavlīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ПАВЛИНА (PDF page 218), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Pavlīne is the feminine form of Paulīns. Paulīns goes back to Latin Paulinus, “belonging to Paulus”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Fortunata",
+   "spellings": [
+    "Fortunata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ФОРТУНАТА (PDF page 293), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Fortunata goes back to Latin fortunatus, “fortunate”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Lins",
+   "spellings": [
+    "Lins"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЛИН (PDF page 178), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Lins goes back to the Greek personal name Linos, from linos, “song of lament”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Julianija",
+   "spellings": [
+    "Julianija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЮЛИАНИЯ (PDF page 305), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Julianija goes back to the Roman personal name Julianus."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Donāte",
+   "spellings": [
+    "Donāte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ДОНАТА (PDF page 117), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Donāte goes back to Latin donatus, “given, presented”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Ellada",
+   "spellings": [
+    "Ellada"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЭЛЛАДА (PDF page 302), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Ellada goes back to Greek Hellas (genitive Hellados), Greece."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Fabiāns",
+   "spellings": [
+    "Fabiāns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ФАБИАН (PDF page 273), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Fabiāns goes back to Latin Fabianus, “belonging to Fabius”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Venedikts",
+   "spellings": [
+    "Venedikts"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ВЕНЕДИКТ (PDF page 83), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Venedikts is a form of Benedikts. Benedikts goes back to Latin benedictus, “blessed”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Evgenija",
+   "spellings": [
+    "Evgenija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЕВГЕНИЯ (PDF page 121), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Evgenija is the feminine form of Eugēnijs. Eugēnijs goes back to Greek eugenēs, “noble, well-born”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Evgēnija",
+   "spellings": [
+    "Evgēnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЕВГЕНИЯ (PDF page 121), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Evgēnija is the feminine form of Eugēnijs. Eugēnijs goes back to Greek eugenēs, “noble, well-born”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Evģenija",
+   "spellings": [
+    "Evģenija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЕВГЕНИЯ (PDF page 121), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Evģenija is the feminine form of Eugēnijs. Eugēnijs goes back to Greek eugenēs, “noble, well-born”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Evģēnija",
+   "spellings": [
+    "Evģēnija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЕВГЕНИЯ (PDF page 121), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Evģēnija is the feminine form of Eugēnijs. Eugēnijs goes back to Greek eugenēs, “noble, well-born”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Laure",
+   "spellings": [
+    "Laure"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЛАУРА (PDF page 174), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Laure is a form of Laura. Laura goes back to Latin laurea, “laurel tree”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Florijs",
+   "spellings": [
+    "Florijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ФЛОРИЙ (PDF page 292), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Florijs goes back to Latin floreus, “covered with flowers”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Anastāsija",
+   "spellings": [
+    "Anastāsija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword АНАСТАСИЯ (PDF page 52), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Anastāsija goes back to Greek anastas, “risen again”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Terēze",
+   "spellings": [
+    "Terēze"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ТЕРЕЗА (PDF page 266), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Terēze goes back to probably Greek tērēsis, “guarding, protection”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Tereza",
+   "spellings": [
+    "Tereza"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ТЕРЕЗА (PDF page 266), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Tereza goes back to probably Greek tērēsis, “guarding, protection”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Terēza",
+   "spellings": [
+    "Terēza"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ТЕРЕЗА (PDF page 266), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Terēza goes back to probably Greek tērēsis, “guarding, protection”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Tereze",
+   "spellings": [
+    "Tereze"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ТЕРЕЗА (PDF page 266), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Tereze goes back to probably Greek tērēsis, “guarding, protection”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Irinejs",
+   "spellings": [
+    "Irinejs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ИРИНЕЙ (PDF page 153), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Irinejs goes back to Greek eirēnaios, “peaceful”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Sofja",
+   "spellings": [
+    "Sofja"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword СОФЬЯ (PDF page 261), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Sofja goes back to Greek sophia, “wisdom”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Maksimilians",
+   "spellings": [
+    "Maksimilians"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword МАКСИМИЛИАН (PDF page 186), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Maksimilians goes back to probably a blend of the Latin family name Maximus and Aemilianus, “of the Aemilii”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Maksimiliāns",
+   "spellings": [
+    "Maksimiliāns"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword МАКСИМИЛИАН (PDF page 186), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Maksimiliāns goes back to probably a blend of the Latin family name Maximus and Aemilianus, “of the Aemilii”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Bonifatijs",
+   "spellings": [
+    "Bonifatijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword БОНИФАТИЙ (PDF page 73), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Bonifatijs goes back to Latin bonum, “good”, and fatum, “fate”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Bonifātijs",
+   "spellings": [
+    "Bonifātijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword БОНИФАТИЙ (PDF page 73), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Bonifātijs goes back to Latin bonum, “good”, and fatum, “fate”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Solomonija",
+   "spellings": [
+    "Solomonija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword СОЛОМОНИЯ (PDF page 259), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Solomonija is the feminine form of Salamans. Salamans goes back to Hebrew Shelomo, “peaceful”, from shalom, “peace”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Anatolija",
+   "spellings": [
+    "Anatolija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword АНАТОЛИЯ (PDF page 52), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Anatolija is the feminine form of Anatolijs. Anatolijs goes back to Greek anatolē, “east, sunrise”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Modesta",
+   "spellings": [
+    "Modesta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword МОДЕСТА (PDF page 202), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Modesta is the feminine form of Modests. Modests goes back to Latin modestus, “modest”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Justīne",
+   "spellings": [
+    "Justīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЮСТИНА (PDF page 307), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Justīne is the feminine form of Justīns. Justīns goes back to the Latin personal name Justinus, from Justus, “just”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Justine",
+   "spellings": [
+    "Justine"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЮСТИНА (PDF page 307), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Justine is the feminine form of Justīns. Justīns goes back to the Latin personal name Justinus, from Justus, “just”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Pavels",
+   "spellings": [
+    "Pavels"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ПАВЕЛ (PDF page 218), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Pavels is a form of Pāvils. Pāvils goes back to Latin paulus, “small”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Kirills",
+   "spellings": [
+    "Kirills"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword КИРИЛЛ (PDF page 165), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Kirills goes back to probably Greek kyrios, “lord, master”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Hristiāna",
+   "spellings": [
+    "Hristiāna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ХРИСТИАНА (PDF page 297), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Hristiāna is the feminine form of Kristiāns. Kristiāns goes back to Greek christianos, “Christian”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Oktavians",
+   "spellings": [
+    "Oktavians"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ОКТАВИАН (PDF page 213), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Oktavians goes back to the Latin personal name Octavianus, from octavus, “eighth”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Lavrentijs",
+   "spellings": [
+    "Lavrentijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЛАВРЕНТИЙ (PDF page 172), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Lavrentijs is a form of Laurencijs. Laurencijs goes back to Latin Laurens (Laurentis), “of Laurentum”, a man from the town of Laurentum."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Astērijs",
+   "spellings": [
+    "Astērijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword АСТЕРИЙ (PDF page 67), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Astērijs goes back to Greek asterios, “starry”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Vitāls",
+   "spellings": [
+    "Vitāls"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ВИТАЛ (PDF page 89), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Vitāls goes back to Latin vitalis, “vital, full of life”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Varfolomejs",
+   "spellings": [
+    "Varfolomejs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ВАРФОЛОМЕЙ (PDF page 79), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Varfolomejs is a form of Bartolomejs. Bartolomejs goes back to Aramaic Bar-Talmai, “son of Talmai”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Serafims",
+   "spellings": [
+    "Serafims"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword СЕРАФИМ (PDF page 254), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Serafims goes back to Hebrew seraphim, the name of an order of angels."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Gennadijs",
+   "spellings": [
+    "Gennadijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ГЕННАДИЙ (PDF page 98), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Gennadijs goes back to Greek gennadas, “noble”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Gennādijs",
+   "spellings": [
+    "Gennādijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ГЕННАДИЙ (PDF page 98), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Gennādijs goes back to Greek gennadas, “noble”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Leonide",
+   "spellings": [
+    "Leonide"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЛЕОНИДА (PDF page 175), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Leonide is the feminine form of Leonīds. Leonīds goes back to the Greek personal name Leonidas, from leōn, “lion”, and idea, “appearance”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Severins",
+   "spellings": [
+    "Severins"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword СЕВЕРИН (PDF page 252), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Severins goes back to Latin severus, “strict, stern”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Severjans",
+   "spellings": [
+    "Severjans"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword СЕВЕРЬЯН (PDF page 252), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Severjans goes back to Latin severus, “strict, stern”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Uršule",
+   "spellings": [
+    "Uršule"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword УРСУЛА (PDF page 272), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Uršule goes back to Latin ursa, “she-bear”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Beatrisa",
+   "spellings": [
+    "Beatrisa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword БЕАТРИСА (PDF page 71), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Beatrisa goes back to Latin beata, “happy, blessed”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Fedots",
+   "spellings": [
+    "Fedots"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ФЕДОТ (PDF page 277), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Fedots goes back to the Greek personal name Theodotos, “given by the gods”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Ariadne",
+   "spellings": [
+    "Ariadne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword АРИАДНА (PDF page 61), origin note; base-name note followed where the entry says 'feminine of'. Widget text: In Greek mythology Ariadne is the daughter of Minos who helped Theseus out of the labyrinth. The name is explained from Greek ari-, “very”, and handanō, “to please”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Ļeda",
+   "spellings": [
+    "Ļeda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ЛЕДА (PDF page 174), origin note; base-name note followed where the entry says 'feminine of'. Widget text: In Greek mythology Leda is the heroine whose beauty captivated Zeus, who came to her in the form of a swan."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Adoniss",
+   "spellings": [
+    "Adoniss"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword АДОНИС (PDF page 42), origin note; base-name note followed where the entry says 'feminine of'. Widget text: In ancient mythology Adonis is a Phoenician nature deity, the embodiment of vegetation that dies and is reborn. The name goes back to Hebrew adon, “lord, master”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Magdalina",
+   "spellings": [
+    "Magdalina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword МАГДАЛИНА (PDF page 183), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Magdalina was first an epithet of Mary of Magdala (Mary Magdalene); later, among Catholics, it came into use as a given name."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Silvana",
+   "spellings": [
+    "Silvana"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword СИЛЬВАНА (PDF page 256), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Silvana is the feminine form of Silvanus, in ancient mythology the god of forests, fields and herds; the name goes back to Latin silva, “forest”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Martė",
+   "spellings": [
+    "Martė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword МАРТА (PDF page 192), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Martė is a form of Morta. Morta goes back to Aramaic marta, “lady, mistress”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Fortunata",
+   "spellings": [
+    "Fortunata"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ФОРТУНАТА (PDF page 293), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Fortunata goes back to Latin fortunatus, “fortunate”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Vivian",
+   "spellings": [
+    "Vivian"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ВИВИАН (PDF page 85), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Vivian goes back to Latin vivus, “alive”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Deboora",
+   "spellings": [
+    "Deboora"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword ДЕБОРА (PDF page 110), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Deboora goes back to Hebrew dəbōrā, “bee”."
+  },
+  {
+   "batch": "petrovsky-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Mariina",
+   "spellings": [
+    "Mariina"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "RU-PETROVSKY-SRLI"
+   ],
+   "sources": [
+    "file:///user-download/slovar_russkih_lichnyh_imen.zip"
+   ],
+   "facts_used": "Headword МАРИНА (PDF page 190), origin note; base-name note followed where the entry says 'feminine of'. Widget text: Mariina is a form of Marina. Marina goes back to Latin marinus, “of the sea”."
+  }
+ ]
+}

@@ -1,0 +1,628 @@
+{
+  "round": 84,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-17: researched all 22 unfinished LV/LT/EE profiles before advancing. 16 histories written; 6 remain open (written/researched: LV 11/13, LT 1/4, EE 4/5). No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Tenis",
+      "spellings": [
+        "Tenis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Tenis"
+      ],
+      "facts_used": "The Siliņš dictionary refers Tenis to Antons. It separately mentions a mythological Tenis, a guardian of pigs. The catalogue does not establish which of these routes explains the personal name, so neither is presented here as its certain origin. The Siliņš catalogue records a historical detail: Koknese, 1599; calendar 1817 (dictionary page 304). This dates an attributed record of use and calendar inclusion. It does not mean that the name was created then, and the dates for Antons are not transferred to Tenis.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue (cached LV-SILINS-TENIS-R83), dictionary p. 304. Both the Antons cross-reference and the mythological pig-guardian Tenis are reported without choosing either; Antons’ 1752/1767 dates were not transferred. Rajandi’s note that St Anthony was invoked against pig diseases (EE-RAJANDI66 PDF 26) was deliberately not used to bridge the two routes: that would be an unverified inference.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Dravis",
+      "spellings": [
+        "Dravis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dravis"
+      ],
+      "facts_used": "The catalogue explains Dravis through Latvian drava «a group of beehives, a place for beekeeping». This is the source word used in the explanation. Its dictionary sense describes the linguistic formation, without supplying a fixed sentence or a trait shared by everyone bearing the name. The Siliņš catalogue records a historical detail: Ugāle, Kurzeme, 1582 (dictionary page 102). This dates an attributed record of use. It does not mean that the name was created then, and no calendar year is given for this form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue (cached LV-SILINS-DRAVIS-R83), dictionary p. 102. The 1582 Ugāle record is a catalogue transcription, not an inspected original register; attestation-only calendar name.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Denisa",
+      "spellings": [
+        "Denisa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93",
+        "LV-LVA-SEARCH-DENIZA"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Denisa",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "Catalogue (cached LV-SILINS-DENISA-R83) states origin not established. LV-LVA-RU93 printed p. 197 “Deniss Denisa d., m.” is the genitive of masculine Deniss, not the feminine name. The agency database renders Portuguese Denisa as Denīza / Deniza, not as Denisa.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue (cached LV-SILINS-DENISA-R83) states origin not established. LV-LVA-RU93 printed p. 197 “Deniss Denisa d., m.” is the genitive of masculine Deniss, not the feminine name. The agency database renders Portuguese Denisa as Denīza / Deniza, not as Denisa.",
+      "next_steps": "Seek an exact Latvian rendering or onomastic source for feminine Denisa (e.g. Czech/Slovak/Romanian rendering rows) and a dated Latvian use; do not reuse the Russian genitive row."
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Denise",
+      "spellings": [
+        "Denise"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Denise",
+        "https://www.behindthename.com/name/denise"
+      ],
+      "facts_used": "The catalogue treats Denise as the feminine form of Dionīss, a name family connected with Greek Dionysios. Behind the Name likewise describes Denise as the French feminine form of Denis. The link is to the name family, not a meaning predicted for each bearer. The Siliņš catalogue gives calendar inclusion in 1915 and a recorded use in 1929 (dictionary pages 97; 99). These date the calendar entry and an attributed use. They do not mean that the name was created then, and they are not transferred to the related Latvian spellings Denīza or Denīze.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue (cached LV-SILINS-DENISE-R83), pp. 97; 99: calendar 1915, record 1929. INT-BTN Denise cached as INT-BTN-DENISE. Dates are not transferred to Denīza/Denīze.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Denīza",
+      "spellings": [
+        "Denīza"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-LVA-SEARCH-DENIZA",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&sources=on&q=Den%C4%ABza",
+        "https://www.behindthename.com/name/denise"
+      ],
+      "facts_used": "The Latvian name-rendering manual gives the exact English correspondence Denise → Denīza. The Language Agency database also renders Portuguese Denisa as Denīza. Denise is a French feminine form of Denis in the Dionysios family; the documented rows show how the spelling is adapted, not every bearer’s naming route. The English row appears in the 2006 manual on printed page 98; the Portuguese recommendation is dated 2015 (page 134). These date published rendering recommendations. They do not identify the first Latvian birth registration, and the older calendar dates of Denise are not transferred to Denīza.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked LV-LVA-EN06 PDF p. 95 / printed p. 98: Denise [də´ni:z] → Denīza. Portuguese Denisa → Denīza (Placinska 2015 p. 134) read in the Language Agency search result only (cached WEB-PERSONVARDUATVEIDE-…-Q-DEN-C4-ABZA); that PDF page was not inspected. No Latvian first-use date.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Denīze",
+      "spellings": [
+        "Denīze"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-SEARCH-DENIZE",
+        "LV-IDENTITY25",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&sources=on&q=Den%C4%ABze",
+        "https://helda.helsinki.fi/server/api/core/bitstreams/fd84c3d3-6e27-4933-a25a-0fa177849054/content",
+        "https://www.behindthename.com/name/denise"
+      ],
+      "facts_used": "The Language Agency database gives the exact French correspondence Denise → Denīze, citing Ceplītis’s 1963 guidance (page 76), and the same Latvian form for Portuguese Denise (2015). Denise is the French feminine form of Denis, in the family of Greek Dionysios. Laimute Balode and Renāte Siliņa-Piņķe (2025, printed page 148) list Denīze among the top 200 newborn names registered in Latvia in 2018–2022, as an international name adapted to Latvian spelling. This dates recent popularity, not the name’s first Latvian use.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "French Denise → Denīze (Ceplītis 1963 p. 76) and Portuguese Denise → Denīze (Placinska 2015 p. 134) read in the Language Agency search result (cached WEB-PERSONVARDUATVEIDE-…-Q-DEN-C4-ABZE); the 1963 printed page was not independently inspected. LV-IDENTITY25 PDF p. 11 / printed p. 148 visually checked: Denīze among top-200 newborn names 2018–2022. LV-ALL93 / LV-LILE24 also list Denīze among Western European names adapted to Latvian spelling. No first Latvian use date.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Deņiss",
+      "spellings": [
+        "Deņiss"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93",
+        "LV-LVA-SEARCH-DENISS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/De%C5%86iss",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf"
+      ],
+      "facts_used": "Catalogue (cached LV-SILINS-DENISS-R83) states origin not established. All rendering rows found give Deniss (Russian Денис, English, French, Portuguese, Romanian), never palatal Deņiss; the agency search for Deņiss (cached WEB-PERSONVARDUATVEIDE-…-Q-DE-C5-86ISS) returned only Deniss rows.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue (cached LV-SILINS-DENISS-R83) states origin not established. All rendering rows found give Deniss (Russian Денис, English, French, Portuguese, Romanian), never palatal Deņiss; the agency search for Deņiss (cached WEB-PERSONVARDUATVEIDE-…-Q-DE-C5-86ISS) returned only Deniss rows.",
+      "next_steps": "Find a source that explicitly treats the palatalised spelling Deņiss (e.g. a study of Russian-name rendering variants like LV-IDENTITY25) and a dated use; do not transfer Deniss data."
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Dionisijs",
+      "spellings": [
+        "Dionisijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dionisijs",
+        "https://www.izpetnieks.lv/en/name/Dionizijs",
+        "https://www.izpetnieks.lv/en/name/Dioniss"
+      ],
+      "facts_used": "The catalogue refers Dionisijs to Dionizijs and that form to Dioniss, a form of the Greek personal name Dionysios. In Greek mythology Dionysos is the god of ecstasy and wine. The chain links the spellings; it does not give Dionisijs a separate meaning. The Siliņš catalogue records a historical detail: Rīga, 1366 (dictionary page 99). The same year is attached to the linked Dionizijs entry, so it keeps that shared scope. It dates an attributed record of use, not the creation of this modern spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue (cached LV-SILINS-DIONISIJS-R83), p. 99. The 1366 Rīga date is shared with Dionizijs; the catalogue states the chain does not give a separate meaning.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Dioniss",
+      "spellings": [
+        "Dioniss"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dioniss",
+        "https://www.behindthename.com/name/dionysius"
+      ],
+      "facts_used": "The catalogue explains Dioniss as a form of the Greek personal name Dionysios; in Greek mythology Dionysos is the god of ecstasy and wine. Behind the Name notes that the Latin form Dionysius was borne by Dionysius the Areopagite in the New Testament and by many early saints. The Siliņš catalogue records a historical detail: Rīga, first quarter of the twentieth century (dictionary page 99). This dates an attributed record of use. It does not mean that the name was created then, and the 1366 date of the linked Dionizijs entry is not transferred to Dioniss.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue (cached LV-SILINS-DIONISS-R83), p. 99. INT-BTN Dionysius cached as INT-BTN-DIONYSIUS. 1366 not transferred.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Dionizijs",
+      "spellings": [
+        "Dionizijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Dionizijs",
+        "https://www.izpetnieks.lv/en/name/Dioniss"
+      ],
+      "facts_used": "The catalogue connects Dionizijs directly with Dioniss, a form of Greek Dionysios; in Greek mythology Dionysos is the god of ecstasy and wine. The mythological figure explains the background of the name family, not a quality expected of its bearers. The Siliņš catalogue records a historical detail: 1366 (dictionary page 99). The same year also appears with the linked Dionisijs entry, located in Rīga, so it retains that shared scope. It dates an attributed record of use, not the creation of the modern Latvian spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue (cached LV-SILINS-DIONIZIJS-R83), p. 99; 1366 retains shared scope with Dionisijs.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Radions",
+      "spellings": [
+        "Radions"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-UA23",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf",
+        "https://www.izpetnieks.lv/en/name/Radions",
+        "https://www.izpetnieks.lv/en/name/Rodions"
+      ],
+      "facts_used": "The Ukrainian name-rendering manual gives the exact correspondence Радіон → Radions, beside Родіон → Rodions. The Siliņš dictionary also refers Radions to Rodions, which it compares with Greek Rhodion, “inhabitant of the island of Rhodes”; its alternative link with rhodon, “rose”, is question-marked. The Siliņš catalogue records a historical detail: Umurga, 1906 (dictionary page 265); no calendar year is given. The manual row is dated 2023 (printed page 152). Neither date is a creation date, and the Rodions dates are not transferred to Radions.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked LV-LVA-UA23 PDF/printed p. 152: Радіон → Radions and Родіон → Rodions. Siliņš catalogue (cached LV-SILINS-RADIONS-R83), p. 265: refers to Rodions, Umurga 1906, no calendar year. The rhodon “rose” link is question-marked in the source.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Rodions",
+      "spellings": [
+        "Rodions"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93",
+        "LV-LVA-UA23"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Rodions",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/76/pdf/ukrainuIpasvarduAtveideLatviesuValoda.pdf"
+      ],
+      "facts_used": "The Latvian rendering manuals give the exact correspondences Russian Родион → Rodions and Ukrainian Родіон → Rodions. The Siliņš dictionary compares the name with Greek Rhodion, “inhabitant of the island of Rhodes”; a link with rhodon, “rose”, is marked with a question mark and remains uncertain. The Siliņš catalogue records a historical detail: third quarter of the nineteenth century; calendar 1889 (dictionary page 276). The rendering rows are dated 1993 (printed page 208) and 2023 (page 152). These are records of use and recommendations, not the name’s creation.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked LV-LVA-RU93 PDF p. 101 / printed p. 208 (Родион → Rodions) and LV-LVA-UA23 p. 152 (Родіон → Rodions). Siliņš catalogue (cached LV-SILINS-RODIONS-R83), p. 276: third quarter of the 19th century; calendar 1889. Greek Rhodion is presented as a comparison, rhodon as question-marked.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lv",
+      "name": "Trofims",
+      "spellings": [
+        "Trofims"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Trofims",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.behindthename.com/name/trophimus"
+      ],
+      "facts_used": "The catalogue connects Trofims with Greek Trophimos and records several explanations: “nourisher”, as well as “nourished, brought up”. Behind the Name derives Trophimos from trophe, “nourishment”, and notes a companion of Paul of this name in the New Testament. The 1993 manual gives Russian Трофим → Trofims. The Siliņš catalogue records a historical detail: Abrene, first quarter of the twentieth century; calendar 1851 (dictionary page 309). The rendering row is on printed page 211 of the 1993 manual. These date use, calendar inclusion and a recommendation, not the name’s creation.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Siliņš catalogue (cached LV-SILINS-TROFIMS-R83), p. 309; the origin sentence on the Trofims page is worded for “Trofima”, so the Trophimos explanation may belong to a shared Trofims/Trofima entry; only the dates shown for Trofims were used. Visually checked LV-LVA-RU93 PDF p. 104 / printed p. 211 (Трофим → Trofims). INT-BTN Trophimus cached as INT-BTN-TROPHIMUS.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lt",
+      "name": "Dovainis",
+      "spellings": [
+        "Dovainis"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Calendar-spelling discrepancy: LT-SALYS83 PDF 301 / printed 286 prints Dovainas (Dovas) on 17 January 1964, not Dovainis. The Senn–Salys dictionary (PDF 225) labels exact Dovainis as a family name (FN), and the surname study LOCAL-ROUND7-LT-SURNAMES p. 41 explains Dovainis from do- (cf. Domantas) and vain- (cf. Tarvainas) as a surname. No given-name origin or dated given-name use for Dovainis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Calendar-spelling discrepancy: LT-SALYS83 PDF 301 / printed 286 prints Dovainas (Dovas) on 17 January 1964, not Dovainis. The Senn–Salys dictionary (PDF 225) labels exact Dovainis as a family name (FN), and the surname study LOCAL-ROUND7-LT-SURNAMES p. 41 explains Dovainis from do- (cf. Domantas) and vain- (cf. Tarvainas) as a surname. No given-name origin or dated given-name use for Dovainis.",
+      "next_steps": "Open vardai.vlkk.lt manually to confirm whether Dovainis is an accepted given name and how it relates to Dovainas; check the current Lithuanian calendar spelling."
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lt",
+      "name": "Leonilė",
+      "spellings": [
+        "Leonilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/leonilla"
+      ],
+      "facts_used": "LT-SALYS83 PDF 301 / printed 286 prints Leonilė (Leona, Leonė) on 17 January 1964 (same date), visually checked. No dictionary entry for Leonilė; Behind the Name has no curated definition for Leonilla (user-submitted only, cached INT-BTN-LEONILLA). Origin not established.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "LT-SALYS83 PDF 301 / printed 286 prints Leonilė (Leona, Leonė) on 17 January 1964 (same date), visually checked. No dictionary entry for Leonilė; Behind the Name has no curated definition for Leonilla (user-submitted only, cached INT-BTN-LEONILLA). Origin not established.",
+      "next_steps": "Seek a curated source for Leonilla/Leonilė (Lithuanian name dictionary manually at vardai.vlkk.lt, or a hagiographic reference for Saint Leonilla) before writing the origin."
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lt",
+      "name": "Vilda",
+      "spellings": [
+        "Vilda"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "LT-SALYS83 PDF 301 / printed 286 prints Vilda on 17 January 1964 in the Lithuanian-name part of the day. Salys’s surname essay (PDF 75) mentions Vilda only as a family name corresponding to Prussian Wildies = Vildys. No given-name origin statement.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "LT-SALYS83 PDF 301 / printed 286 prints Vilda on 17 January 1964 in the Lithuanian-name part of the day. Salys’s surname essay (PDF 75) mentions Vilda only as a family name corresponding to Prussian Wildies = Vildys. No given-name origin statement.",
+      "next_steps": "Open vardai.vlkk.lt manually for Vilda; do not derive it from viltis by resemblance or from the surname comparison."
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "lt",
+      "name": "Beatričė",
+      "spellings": [
+        "Beatričė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/beatrice"
+      ],
+      "facts_used": "The Senn–Salys dictionary pairs Beatričė with Beatrice. Behind the Name describes Beatrice as the Italian form of Beatrix; its best-known bearer is Beatrice Portinari (1266–1290), loved by the poet Dante Alighieri. That literary history belongs to the Italian name, not to any Lithuanian bearer. Salys’s Lithuanian calendar for 1964, reprinted in 1983, prints Beatričė (Beata) on 18 August. This documents the exact name and a short form in a modern calendar; that older date does not replace the name’s date in the present calendar.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked LT-SALYS83 PDF p. 218 / printed p. 203 (Beatričė PN Beatrice; separate Beatrisà = Beatrix) and PDF p. 312 / printed p. 297 (18 August: Beatričė (Beata)); August heading on PDF 311. Project date 17 January differs from the 1964 calendar; the Dante episode concerns the Italian name.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "ee",
+      "name": "Anto",
+      "spellings": [
+        "Anto"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Edgar Rajandi lists Anto as a short form with two possible full names, Andreas and Antonius. Under Antonius he gives Anto ~ Antu among the Estonian shortenings of Anton. The exact full name of an individual Anto therefore cannot be inferred from the short form alone. Rajandi’s Raamat nimedest was published in Tallinn in 1966 (printed page 28). It records Anto in both name families; this dates the linguistic description, not the first Estonian bearer, and dates for Tõnis or Tõnu are not transferred to Anto.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked EE-RAJANDI66 PDF p. 26 / printed p. 28: “Ant, Anti, Anto → Andreas, → Antonius” and under Antonius “Anto ~ Antu”. No dated Estonian birth record of Anto established.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "ee",
+      "name": "Antu",
+      "spellings": [
+        "Antu"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Edgar Rajandi gives Antu, beside Anto, among the Estonian shortenings of Anton/Antonius. He describes Antonius as Greco-Roman, from a word of unclear meaning, so no single literal sense is asserted for Antu; its supplementary list also points Antu back to Antonius. The book was published in Tallinn in 1966 (printed pages 28 and 194). It documents Antu as an Estonian short form; it does not date the first Estonian bearer, and the long history of Tõnis and Tõnu is not transferred to this rare form.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked EE-RAJANDI66 PDF p. 26 / printed p. 28 (Anto ~ Antu under Antonius) and PDF p. 192 / printed p. 194 supplementary list “Antu OKS-u (< Antonius ← Neum)”. The OKS source abbreviation was not resolved with certainty (the key on PDF 239 mixes O. Kallas lists of 1911 and 1921), so no year is claimed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "ee",
+      "name": "Tõnis",
+      "spellings": [
+        "Tõnis"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-MAGISTE29",
+        "EE-RAJANDI66",
+        "EE-SAAR16",
+        "EE-KALLASMAA17"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://wi.ee/wp-content/uploads/2017/06/VItoim16sisu.pdf"
+      ],
+      "facts_used": "Tõnis is an Estonian form of Antonius. Julius Mägiste (1929) equates it with Antonius and cites older written spellings such as Tönis, Tönies and Denis. Edgar Rajandi notes that the medieval veneration of Saint Anthony the hermit and Anthony of Padua supported the name’s spread. Rajandi writes that Tõnis and Tõnu spread very widely in Estonia from the fifteenth century and remained among preferred names until the mid-nineteenth century (printed page 28). Evar Saar finds the form recorded as Denis frequent in South Tartumaa in the 1580s.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Visually checked EE-MAGISTE29 cached copy PDF p. 51 / printed p. 49 (Tõnis = Antonius; KA Tönis, Tönies, Tönijes, Tonies; P 218 Denis); EE-RAJANDI66 PDF 26–27 / printed 28–29 (spread from the 15th century, preferred names until the mid-19th century; saint cult and supposed ancient Tõnn); EE-SAAR16 (local copy LOCAL-ROUND20-VORU) PDF 19 / printed 20 (1580s Denis (Tõnis ~ Tennüs) very frequent elsewhere in South Tartumaa, not in Rõuge/Vastseliina). EE-KALLASMAA17 p. 3 lists Tõnis among short forms that arrived ready-made from German areas (not used in text).",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "ee",
+      "name": "Tõnn",
+      "spellings": [
+        "Tõnn"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-KALLASMAA17",
+        "EE-SAAR16",
+        "EE-MAGISTE29"
+      ],
+      "sources": [
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://www.justdigi.ee/media/210/download",
+        "https://wi.ee/wp-content/uploads/2017/06/VItoim16sisu.pdf"
+      ],
+      "facts_used": "The origin of Tõnn is debated. Edgar Rajandi and Marja Kallasmaa mention it as a name regarded as ancient Estonian, possibly replaced or merged with adaptations of Antonius; Evar Saar’s table instead places Tõnn among Antonius forms via Low German Tönnies. The question remains open. Saar notes that the written form Tyn, which he identifies with Tõnn, was very frequent in South Tartumaa in the 1580s, though not in Rõuge and Vastseliina. Julius Mägiste (1929) lists Tõnn with Saaremaa examples such as Thonj and compares it with Tõnis; these are written records, not proof of either origin.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Competing views kept open: EE-RAJANDI66 PDF 27 / printed 29 “oletatud muistne eesti nimi Tõnn”; EE-KALLASMAA17 PDF p. 3, paragraph beginning “Tõenäoliselt”, “muinasnimeks peetud Tõnn Antoniuse muganditega” (explicitly a proposal); EE-SAAR16 Appendix 1 (PDF 40 / printed 41, all Tartumaa 1582–1588) row Tyn … (Tõnn, Tõnu, Tõnis) | Tönnies, Tönne | Antonius, and PDF 19 / printed 20 “Tyn (Tõnn)” frequent in South Tartumaa in the 1580s. EE-MAGISTE29 printed p. 49: Tõnn (SB 1927 131 Thomas Thonj, 133 Thoni Janusßon, Srm., Wd.); vrd. Tõnis. All visually checked.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-17",
+      "date": "2026-11-12",
+      "calendar_date": "01-17",
+      "country": "ee",
+      "name": "Tõnno",
+      "spellings": [
+        "Tõnno"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-RAJANDI66",
+        "EE-SAAR16"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Exact Tõnno not found. Rajandi PDF 26 lists Tõnu ~ Tõno and the old spelling Tenno; Saar’s 1580s table has “Tonno” among Antonius spellings, but neither is the exact modern spelling Tõnno.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Exact Tõnno not found. Rajandi PDF 26 lists Tõnu ~ Tõno and the old spelling Tenno; Saar’s 1580s table has “Tonno” among Antonius spellings, but neither is the exact modern spelling Tõnno.",
+      "next_steps": "Find an exact Tõnno entry (EKI name database, Estonian name-day calendar commentary) before using the Antonius family history; do not transfer Tõno/Tenno/Tonno."
+    }
+  ]
+}

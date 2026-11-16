@@ -1,0 +1,31 @@
+// Hand-rewritten plain histories, 16–20 May (plain-language pass).
+// E(lv, ru, en, lt, et): ' ¶ ' separates paragraphs.
+import {plainCalendar0205} from './namedays-plain-cal-0205.js';
+const E=(lv,ru,en,lt,et)=>Object.fromEntries(Object.entries({lv,ru,en,lt,et}).map(([k,v])=>[k,v.split(' ¶ ').map(x=>x.trim())]));
+const S=(o,r)=>E(`${o.lv} ¶ ${r.lv}`,`${o.ru} ¶ ${r.ru}`,`${o.en} ¶ ${r.en}`,`${o.lt} ¶ ${r.lt}`,`${o.et} ¶ ${r.et}`);
+const plus=(a,b)=>Object.fromEntries(Object.keys(a).map(k=>[k,`${a[k]} ${b[k]}`]));
+const cal=y=>({lv:`Kalendārā kopš ${y}. gada.`,ru:`В календаре с ${y} года.`,en:`In the calendar since ${y}.`,lt:`Kalendoriuje nuo ${y} metų.`,et:`Kalendris alates ${y}. aastast.`});
+const at=(lv,ru,en,lt,et,y)=>({lv:`${lv} vārds pierakstīts ${y}. gadā.`,ru:`${ru} имя записано в ${y} году.`,en:`It is recorded in ${en} in ${y}.`,lt:`${lt} vardas užrašytas ${y} metais.`,et:`${et} on nimi kirja pandud ${y}. aastal.`});
+const riga=y=>at('Rīgā','В Риге','Riga','Rygoje','Riias',y);
+// The Erik family shares the rewritten history first written for Lithuanian Erikas.
+const erik=plainCalendar0205.lt.Erikas;
+
+export const plainCalendar0516={
+ lv:{
+  Kleopatra:S({lv:'Kleopatra darināta no grieķu kleos — «slava» — un patēr — «tēvs».',ru:'Kleopatra образовано от греческих kleos — «слава» — и patēr — «отец».',en:'Kleopatra is formed from Greek kleos, “glory”, and patēr, “father”.',lt:'Kleopatra sudaryta iš graikų kleos – „šlovė“ – ir patēr – „tėvas“.',et:'Kleopatra on moodustatud kreeka sõnadest kleos, „kuulsus”, ja patēr, „isa”.'},plus({lv:'Rīgā vārds pierakstīts 19. gadsimta pēdējā ceturksnī.',ru:'В Риге имя записано в последней четверти XIX века.',en:'It is recorded in Riga in the last quarter of the nineteenth century.',lt:'Rygoje vardas užrašytas XIX amžiaus paskutiniajame ketvirtyje.',et:'Riias on nimi kirja pandud 19. sajandi viimasel veerandil.'},cal(1899))),
+  Dailis:E(`Dailis ir Dailas vīriešu pāris; tā pamatā ir latviešu daile — «skaistums». ¶ Mākslinieks Dailis Rožlapa kino darbu sāka kā grimētājs, arī filmā «Zvejnieka dēls» (1957). 1972. gadā viņš sāka strādāt Rīgas kinostudijā kā filmas «Vella kalpi Vella dzirnavās» mākslinieks — no seju pārvēršanas viņš pārgāja uz filmu redzamās pasaules radīšanu.`,`Dailis — мужская пара к Daila; в основе — латышское daile — «красота». ¶ Художник Дайлис Рожлапа начинал в кино как гримёр, в том числе на фильме «Zvejnieka dēls» (1957). В 1972 году он пришёл на Рижскую киностудию художником-постановщиком фильма «Vella kalpi Vella dzirnavās» — от преображения лиц он перешёл к созданию видимого мира фильмов.`,`Dailis is the masculine counterpart of Daila, based on Latvian daile, “beauty”. ¶ The artist Dailis Rožlapa began in film as a make-up artist, including on Zvejnieka dēls (1957). In 1972 he joined Riga Film Studio as production designer for Vella kalpi Vella dzirnavās, moving from transforming faces to creating the visible world of films.`,`Dailis – vyriška Daila pora; jo pagrindas – latvių daile – „grožis“. ¶ Dailininkas Dailis Rožlapa kine pradėjo kaip grimuotojas, taip pat filme „Zvejnieka dēls“ (1957). 1972 metais jis pradėjo dirbti Rygos kino studijoje kaip filmo „Vella kalpi Vella dzirnavās“ dailininkas-dekoratorius – nuo veidų keitimo jis perėjo prie regimojo filmų pasaulio kūrimo.`,`Dailis on nime Daila mehelik paariline; selle aluseks on läti sõna daile, „ilu”. ¶ Kunstnik Dailis Rožlapa alustas filmis grimeerijana, sealhulgas filmis „Zvejnieka dēls” (1957). 1972. aastal asus ta Riia Kinostuudiosse filmi „Vella kalpi Vella dzirnavās” kunstnikuks – nägude muutmiselt liikus ta filmide nähtava maailma loomise juurde.`),
+  Umberts:S({lv:'Umberts darināts no hunn — «lāča mazulis» — un beraht — «spožs, slavens».',ru:'Umberts образовано от hunn — «медвежонок» — и beraht — «светлый, знаменитый».',en:'Umberts is formed from hunn, “bear cub”, and beraht, “bright, famous”.',lt:'Umberts sudarytas iš hunn – „meškiukas“ – ir beraht – „šviesus, garsus“.',et:'Umberts on moodustatud sõnadest hunn, „karupoeg”, ja beraht, „hiilgav, kuulus”.'},riga(1932)),
+  Deja:S({lv:'Deja darināta no latviešu deja.',ru:'Deja образовано от латышского deja — «танец».',en:'Deja comes from Latvian deja, “dance”.',lt:'Deja sudaryta iš latvių deja – „šokis“.',et:'Deja pärineb läti sõnast deja, „tants”.'},plus(riga(1929),cal(1879))),
+  Erhards:S({lv:'Erhards cēlies no senaugšvācu ēra — «gods» — un hart — «stiprs, drosmīgs».',ru:'Erhards восходит к древневерхненемецким ēra — «честь» — и hart — «сильный, смелый».',en:'Erhards comes from Old High German ēra, “honour”, and hart, “strong, brave”.',lt:'Erhards kilęs iš senosios aukštaičių vokiečių ēra – „garbė“ – ir hart – „stiprus, drąsus“.',et:'Erhards pärineb vanaülemsaksa sõnadest ēra, „au”, ja hart, „tugev, julge”.'},plus(at('Skultē','В Скулте','Skulte','Skultėje','Skultes',1898),cal(1817))),
+  Ēriks:erik,
+  Eriks:erik,
+  Konsuela:S({lv:'Konsuela cēlusies no spāņu consuelo — «mierinājums» (Mierinājuma Dievmāte).',ru:'Konsuela восходит к испанскому consuelo — «утешение» (Богоматерь Утешения).',en:'Konsuela comes from Spanish consuelo, “consolation”, as in Our Lady of Consolation.',lt:'Konsuela kilusi iš ispanų consuelo – „paguoda“ (Paguodos Dievo Motina).',et:'Konsuela pärineb hispaania sõnast consuelo, „lohutus” (Lohutuse Jumalaema).'},riga(1922)),
+  Teika:S({lv:'Teika darināta no latviešu teika.',ru:'Teika образовано от латышского teika — «предание, сказание».',en:'Teika comes from Latvian teika, “legend, tale”.',lt:'Teika sudaryta iš latvių teika – „padavimas, sakmė“.',et:'Teika pärineb läti sõnast teika, „muistend, pärimus”.'},plus({lv:'Valmierā vārds pierakstīts 20. gadsimta otrajā ceturksnī.',ru:'В Валмиере имя записано во второй четверти XX века.',en:'It is recorded in Valmiera in the second quarter of the twentieth century.',lt:'Valmieroje vardas užrašytas XX amžiaus antrajame ketvirtyje.',et:'Valmieras on nimi kirja pandud 20. sajandi teisel veerandil.'},cal(1925))),
+  Venta:S({lv:'Venta ir Kurzemes upes Ventas nosaukums.',ru:'Venta — название реки Вента в Курземе.',en:'Venta is the name of the river Venta in Kurzeme.',lt:'Venta – Kuršo upės Ventos pavadinimas.',et:'Venta on Kuramaa jõe Venta nimi.'},plus(riga(1539),cal(1882)))
+ },
+ lt:{},
+ ee:{
+  Erik:erik,
+  Erich:erik
+ }
+};

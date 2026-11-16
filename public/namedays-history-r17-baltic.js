@@ -63,8 +63,8 @@ add(historiesEstonianR17,'Aino',['https://en.wiktionary.org/wiki/Aino#Estonian',
 ],[
  'Megistes «Eestipäraseid isikunimesid» 1929. gada sieviešu vārdu sarakstā Aino dots kopā ar radniecīgām formām un vācu skaidrojumu die einzige, «vienīgā». Tas ir konkrēts drukāts piemērs Igaunijas vārdu krājumā, nevis pierādījums, ka vārds radīts tieši 1929. gadā.',
  'В списке женских имён сборника Мягисте «Eestipäraseid isikunimesid» 1929 года Aino дано вместе с родственными формами и немецким пояснением die einzige, «единственная». Это конкретный печатный пример в эстонском сборнике, а не создание имени в 1929 году.',
- 'In the feminine-name list of Mägiste’s 1929 Eestipäraseid isikunimesid, Aino appears with related forms and the German gloss die einzige, the only one. This is a specific printed example in an Estonian name collection, not evidence that the name was created in 1929.',
- 'Mägiste 1929 metų „Eestipäraseid isikunimesid“ moterų vardų sąraše Aino pateiktas su giminingomis formomis ir vokišku aiškinimu die einzige „vienintelė“. Tai konkretus spausdintas pavyzdys Estijos vardų rinkinyje, o ne vardo sukūrimas 1929 metais.',
+ 'In the feminine-name list of the 1929 Eestipäraseid isikunimesid, Aino appears with related forms and the German gloss die einzige, the only one. This is a specific printed example in an Estonian name collection, not evidence that the name was created in 1929.',
+ '1929 metų „Eestipäraseid isikunimesid“ moterų vardų sąraše Aino pateiktas su giminingomis formomis ir vokišku aiškinimu die einzige „vienintelė“. Tai konkretus spausdintas pavyzdys Estijos vardų rinkinyje, o ne vardo sukūrimas 1929 metais.',
  'Mägiste 1929. aasta Eestipäraseid isikunimesid naisenimede loendis on Aino koos seotud kujudega ja saksa seletusega die einzige, ainus. See on konkreetne trükinäide eesti nimekogumikus, mitte tõend nime loomisest 1929. aastal.'
 ]);
 add(historiesEstonianR17,'Egon',['https://en.wiktionary.org/wiki/Egon#Estonian',btn('egon'),'https://ewod.ut.ee/et/r/egon-rannet/'],[

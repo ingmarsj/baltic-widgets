@@ -1,0 +1,782 @@
+{
+ "round": 131,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.109",
+ "scope": "Second pass over the leads queue (open-leads131.json, refreshed after rounds 129–130; names with a labelled hypothesis excluded).",
+ "source_ids": [
+  "EE-RAJANDI66",
+  "EE-MAGISTE29-AES",
+  "LT-ZINKEVICIUS77",
+  "LV-BALODIS08",
+  "LV-SILINS90"
+ ],
+ "method": {
+  "ee": "Rajandi main list (PDF 11–187): open EE names that are headwords there, checked on page images (16). Mägiste 1929: exact headwords with sm. Alm. (Finnish almanac) or t. tarv. labels (4).",
+  "lt": "Zinkevičius 1977: uppercase headword entries giving the two-stem analysis and the early-17th-century Vilnius record (6). Only analyses stated without question marks were used; Dovaidas keeps both stated alternatives.",
+  "lv": "Balodis 2008: four entries; where Siliņš marks the origin as questioned (Īģe) the origin is not used, only the first record. Balodis largely repeats Siliņš, so it adds little beyond round 129."
+ },
+ "rejected": [
+  "Rajandi: Reio (tentative explanation), Maano (tentative), Kerman, Marvo, Maurits, Reinhard, Erla, Vivian (no clear own entry or relation in the checked line)",
+  "Mägiste 1929: Tali and Sanne (questioned), Kermo and Hasso (record only, no clear label), Asse and Miia (already covered by Rajandi)",
+  "Zinkevičius: Galminas, Domantas, Girmantas (cross-reference entries without their own analysis on the checked line)",
+  "Balodis: entries without a first-record sentence in the same entry"
+ ],
+ "records": [
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Āra",
+   "spellings": [
+    "Āra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-SILINS90"
+   ],
+   "sources": [
+    "https://periodika.lv/periodika2-viewer/#issue:/696041"
+   ],
+   "facts_used": "Its origin is not certain. It is recorded in Riga in 1954.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Indra",
+   "spellings": [
+    "Indra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-SILINS90"
+   ],
+   "sources": [
+    "https://periodika.lv/periodika2-viewer/#issue:/696041"
+   ],
+   "facts_used": "Its origin is not certain. It is recorded in Kurzeme in the first quarter of the twentieth century.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Īģe",
+   "spellings": [
+    "Īģe"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-SILINS90"
+   ],
+   "sources": [
+    "https://periodika.lv/periodika2-viewer/#issue:/696041"
+   ],
+   "facts_used": "Its origin is not certain. It is recorded in Riga in 1971.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lv",
+   "name": "Līgotnis",
+   "spellings": [
+    "Līgotnis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LV-SILINS90"
+   ],
+   "sources": [
+    "https://periodika.lv/periodika2-viewer/#issue:/696041"
+   ],
+   "facts_used": "Līgotnis is formed from Latvian līgot, “to sing Midsummer songs”, and līgotne. It is recorded in Vidzeme in 1940. In the calendar since 1908.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Vydminas",
+   "spellings": [
+    "Vydminas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-ZINKEVICIUS77"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/lituanistika/zinkevicius-lietuviu-antroponimika-1977"
+   ],
+   "facts_used": "Vydminas is an old Lithuanian two-stem personal name: Vyd- (from iš-vysti, “to catch sight of”). In Vilnius records of Lithuanians from the early seventeenth century it appears as wiedminowna, Wydzminianka.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Eimantas",
+   "spellings": [
+    "Eimantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-ZINKEVICIUS77"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/lituanistika/zinkevicius-lietuviu-antroponimika-1977"
+   ],
+   "facts_used": "Eimantas is an old Lithuanian two-stem personal name: Ei- and -mant-. In Vilnius records of Lithuanians from the early seventeenth century it appears as Eymuntowicz.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Mintaras",
+   "spellings": [
+    "Mintaras"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-ZINKEVICIUS77"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/lituanistika/zinkevicius-lietuviu-antroponimika-1977"
+   ],
+   "facts_used": "Mintaras is an old Lithuanian two-stem personal name: Min- and -tar- (from tarti, “to say”). In Vilnius records of Lithuanians from the early seventeenth century it appears as Mintarz.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Viešvilas",
+   "spellings": [
+    "Viešvilas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-ZINKEVICIUS77"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/lituanistika/zinkevicius-lietuviu-antroponimika-1977"
+   ],
+   "facts_used": "Viešvilas is an old Lithuanian two-stem personal name: Vieš- (from viešėti, “to stay as a guest”) and -vil-. In Vilnius records of Lithuanians from the early seventeenth century it appears as Wieswilowa.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Eismantas",
+   "spellings": [
+    "Eismantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-ZINKEVICIUS77"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/lituanistika/zinkevicius-lietuviu-antroponimika-1977"
+   ],
+   "facts_used": "Eismantas is an old Lithuanian two-stem personal name: Eis- (from eiti, “to go”) and -mant-. In Vilnius records of Lithuanians from the early seventeenth century it appears as Eysmont.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "lt",
+   "name": "Dovaidas",
+   "spellings": [
+    "Dovaidas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "LT-ZINKEVICIUS77"
+   ],
+   "sources": [
+    "https://tautosmenta.lt/lituanistika/zinkevicius-lietuviu-antroponimika-1977"
+   ],
+   "facts_used": "Dovaidas is an old Lithuanian two-stem personal name: Do- and -vad- or -vaid-. In Vilnius records of Lithuanians from the early seventeenth century it appears as Dowadaytis.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Tali",
+   "spellings": [
+    "Tali"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Tali is a form of Taima and Taimi.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Hardo",
+   "spellings": [
+    "Hardo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Hardo is a form of Harda and Hartwig.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Häli",
+   "spellings": [
+    "Häli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Häli is a form of Heli and Helena.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Tuule",
+   "spellings": [
+    "Tuule"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Tuule, like Tuuli and Tuulike, is linked with Taimi.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Rudolf",
+   "spellings": [
+    "Rudolf"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Rudolf (short forms Rolf, Rudi) comes from Old Germanic Hrothwulf, “wolf of great fame”; Danish has Rode, French Raoul, and Estonian Raul, Ruudi, Ruudo, Ruudu and Ruut.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Helda",
+   "spellings": [
+    "Helda"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Helda (Heldi) is a form of Heldur.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Vanda",
+   "spellings": [
+    "Vanda"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Vanda is either 1) Polish, “Vandal woman”, or 2) Old Germanic, “wanderer”, “protector of the Vandals” (a short form of Wandelgart); Russian has Vanda. In Estonia it was used in the first quarter of the twentieth century (up to 2 in every thousand births) and is now rare.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Miia",
+   "spellings": [
+    "Miia"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Miia is a form of Maria.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Valli",
+   "spellings": [
+    "Valli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Valli is a form of Walburga, Valentina and Valeria.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Asse",
+   "spellings": [
+    "Asse"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Asse is a form of Ats.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Milla",
+   "spellings": [
+    "Milla"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Milla (Mille, Milli) is a form of Emilia and Ludmilla. Milla also appears in Mats Tõnisson’s calendar of 1884 (17 September).",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Velli",
+   "spellings": [
+    "Velli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Velli (Velly) is a short form of Wilhelmina, used in Estonia in the twentieth century.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Klaudia",
+   "spellings": [
+    "Klaudia"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Klaudia is a form of Claudia.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Meila",
+   "spellings": [
+    "Meila"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Meila is a form of Melania.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Ebe",
+   "spellings": [
+    "Ebe"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Ebe is a form of Eba.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Dolores",
+   "spellings": [
+    "Dolores"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [
+    "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+   ],
+   "facts_used": "Dolores (short forms Lola, Lore) is a Spanish adaptation of Latin dolorosa (mater dolorosa, “sorrowful mother”, that is, Mary); one of the substitute names for Maria, rare in Estonia. It is known from Dolores Ibárruri.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Sulo",
+   "spellings": [
+    "Sulo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE29-AES"
+   ],
+   "sources": [
+    "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+   ],
+   "facts_used": "Sulo already appears in an Estonian name guide of 1929 as a Finnish calendar name.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Laina",
+   "spellings": [
+    "Laina"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE29-AES"
+   ],
+   "sources": [
+    "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+   ],
+   "facts_used": "Laina already appears in an Estonian name guide of 1929 as a Finnish calendar name.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Ilma",
+   "spellings": [
+    "Ilma"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE29-AES"
+   ],
+   "sources": [
+    "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+   ],
+   "facts_used": "Ilma already appears in an Estonian name guide of 1929 as a Finnish calendar name.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  },
+  {
+   "batch": "leads-2-2026-11-16",
+   "date": "2026-11-16",
+   "calendar_date": "",
+   "country": "ee",
+   "name": "Imma",
+   "spellings": [
+    "Imma"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "verification_status": "reviewed",
+   "source_ids": [
+    "EE-MAGISTE29-AES"
+   ],
+   "sources": [
+    "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf"
+   ],
+   "facts_used": "Imma already appears in an Estonian name guide of 1929 as a name in use.",
+   "reason": "Checked on the page image.",
+   "uncertainties": "",
+   "next_steps": ""
+  }
+ ],
+ "open_after": {
+  "lv": 2141,
+  "lt": 599,
+  "ee": 321
+ },
+ "next": "Remaining leads are mostly mentions without an own entry. Productive next steps need new sources: Kuzavinis & Savukynas (2009) for LT; Tõnisson calendars and Teppo–Vilkuna (1947) for EE; for LV, LV-LPVV (browser only) and the Latvian Language Agency manuals for Nordic, Russian and Lithuanian names (OCR-heavy, row-by-row checking). Hypothesis review for the 56 held names."
+}

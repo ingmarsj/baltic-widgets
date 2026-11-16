@@ -328,19 +328,19 @@ export const historiesEstonianR61={
     "text": {
       "en": [
         "Iivi: Edgar Rajandi’s Estonian name book (1966) places Iivi among the long-vowel variants of the Ive, Ivi and Ivika name group. He notes that some forms of this group were dialect variants of Eva in earlier centuries, while Julius Mägiste presented the commonest form, Ivi, in 1929 as an artificially created name. Iivi therefore belongs to this group, but its exact route is not settled, and Rajandi warns that names grouped this way may differ in origin.",
-        "Rajandi records Iivi, alongside Hivi and Hiivi, as a less frequent variant in use in the 1960s, when Ivi was the preferred form. Mägiste’s 1929 date refers to Ivi, not to Iivi, and the book gives no first registration for Iivi."
+        "Rajandi records Iivi, alongside Hivi and Hiivi, as a less frequent variant in use in the 1960s, when Ivi was the preferred form. the 1929 date refers to Ivi, not to Iivi, and the book gives no first registration for Iivi."
       ],
       "lv": [
         "Iivi: Edgara Rajandi igauņu vārdu grāmata (1966) Iivi ieskaita Ive, Ivi un Ivika vārdu grupas variantos ar garu sākuma patskani. Viņš atzīmē, ka dažas šīs grupas formas agrākajos gadsimtos bija Eva izloksnes varianti, bet Jūliuss Mēgiste izplatītāko formu Ivi 1929. gadā pasniedza kā mākslīgi radītu vārdu. Tātad Iivi pieder šai grupai, taču tā precīzais ceļš nav noskaidrots, un Rajandi brīdina, ka šādi grupētiem vārdiem izcelsme var atšķirties.",
-        "Rajandi Iivi kopā ar Hivi un Hiivi fiksē kā retāk lietotu variantu 20. gs. sešdesmitajos gados, kad priekšroka tika dota formai Ivi. Mēgistes 1929. gads attiecas uz Ivi, nevis uz Iivi, un grāmatā nav minēta Iivi pirmā reģistrācija."
+        "Rajandi Iivi kopā ar Hivi un Hiivi fiksē kā retāk lietotu variantu 20. gs. sešdesmitajos gados, kad priekšroka tika dota formai Ivi. 1929. gads attiecas uz Ivi, nevis uz Iivi, un grāmatā nav minēta Iivi pirmā reģistrācija."
       ],
       "ru": [
         "Iivi: Книга Эдгара Раянди об эстонских именах (1966) относит Iivi к вариантам с долгим начальным гласным в группе имён Ive, Ivi и Ivika. Он отмечает, что некоторые формы этой группы в прежние века были диалектными вариантами имени Eva, тогда как Юлиус Мягисте в 1929 году представил самую распространённую форму Ivi как искусственно созданное имя. Таким образом, Iivi принадлежит к этой группе, но её точный путь не установлен, и Раянди предупреждает, что объединённые так имена могут иметь разное происхождение.",
-        "Раянди фиксирует Iivi вместе с Hivi и Hiivi как более редкий вариант, употреблявшийся в 1960-х годах, когда предпочтение отдавалось форме Ivi. Дата Мягисте 1929 года относится к Ivi, а не к Iivi, и книга не указывает первую регистрацию Iivi."
+        "Раянди фиксирует Iivi вместе с Hivi и Hiivi как более редкий вариант, употреблявшийся в 1960-х годах, когда предпочтение отдавалось форме Ivi. Дата 1929 года относится к Ivi, а не к Iivi, и книга не указывает первую регистрацию Iivi."
       ],
       "lt": [
         "Iivi: Edgaro Rajandi estų vardų knyga (1966) Iivi priskiria Ive, Ivi ir Ivika vardų grupės variantams su ilgu pradiniu balsiu. Jis pažymi, kad kai kurios šios grupės formos ankstesniais amžiais buvo tarminiai Eva variantai, o Juliusas Mägiste labiausiai paplitusią formą Ivi 1929 metais pateikė kaip dirbtinai sukurtą vardą. Taigi Iivi priklauso šiai grupei, tačiau tikslus jos kelias nenustatytas, o Rajandi įspėja, kad taip sugrupuotų vardų kilmė gali skirtis.",
-        "Rajandi Iivi kartu su Hivi ir Hiivi fiksuoja kaip rečiau vartotą variantą septintajame dešimtmetyje, kai pirmenybė buvo teikiama formai Ivi. Mägiste 1929 metų data susijusi su Ivi, o ne su Iivi, ir knygoje nenurodyta pirmoji Iivi registracija."
+        "Rajandi Iivi kartu su Hivi ir Hiivi fiksuoja kaip rečiau vartotą variantą septintajame dešimtmetyje, kai pirmenybė buvo teikiama formai Ivi. 1929 metų data susijusi su Ivi, o ne su Iivi, ir knygoje nenurodyta pirmoji Iivi registracija."
       ],
       "et": [
         "Iivi: Edgar Rajandi „Raamat nimedest“ (1966) paigutab Iivi Ive, Ivi ja Ivika nimerühma pika algusvokaaliga teisendite hulka. Ta märgib, et mõned selle rühma kujud olid möödunud sajanditel Eva murdelised teisendid, kuid Julius Mägiste esitas levinuima kuju Ivi 1929. aastal kunstlikult loodud nimena. Iivi kuulub seega sellesse rühma, kuid selle täpne tee pole selge, ning Rajandi hoiatab, et niiviisi koondatud nimed võivad olla eri päritolu.",

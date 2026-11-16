@@ -1,0 +1,252 @@
+{
+  "round": 102,
+  "calendar_dates": [
+    "05-06",
+    "05-07",
+    "05-08",
+    "05-09",
+    "05-10"
+  ],
+  "calendar_records_covered": 143,
+  "existing_reviewed_calendar_records_preserved": 21,
+  "unfinished_calendar_records_examined": 122,
+  "distinct_unfinished_profiles": 122,
+  "new_reviewed_histories": 35,
+  "translations": 175,
+  "paragraphs": 350,
+  "unverified_calendar_records": 87,
+  "distinct_unverified_profiles": 87,
+  "summary": [
+    {
+      "country": "lv",
+      "calendar_records": 91,
+      "existing_reviewed_calendar_records_preserved": 3,
+      "unfinished_calendar_records_examined": 88,
+      "new_reviewed_histories": 23,
+      "prior_profile_histories_preserved": 5533,
+      "unrelated_profiles_with_inherited_provenance_updates": 5,
+      "inherited_source_records_retyped": 1,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    },
+    {
+      "country": "lt",
+      "calendar_records": 34,
+      "existing_reviewed_calendar_records_preserved": 16,
+      "unfinished_calendar_records_examined": 18,
+      "new_reviewed_histories": 4,
+      "prior_profile_histories_preserved": 1564,
+      "unrelated_profiles_with_inherited_provenance_updates": 1,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    },
+    {
+      "country": "ee",
+      "calendar_records": 18,
+      "existing_reviewed_calendar_records_preserved": 2,
+      "unfinished_calendar_records_examined": 16,
+      "new_reviewed_histories": 8,
+      "prior_profile_histories_preserved": 1545,
+      "unrelated_profiles_with_inherited_provenance_updates": 0,
+      "inherited_source_records_retyped": 0,
+      "calendar_unchanged": true,
+      "structured_facts_and_namesakes_unchanged": true
+    }
+  ],
+  "validation": {
+    "full_tests": {
+      "command": "npm test",
+      "passed": 129,
+      "failed": 0
+    },
+    "static_build": {
+      "command": "npm run build",
+      "status": "passed"
+    },
+    "whitespace_check": {
+      "command": "git diff --check",
+      "status": "passed"
+    },
+    "research_audit": {
+      "status": "passed",
+      "all_dates_and_profiles_accounted_for": true,
+      "existing_five_language_histories_preserved": true,
+      "new_text_has_no_source_urls": true,
+      "all_source_ids_registered": true,
+      "all_open_profiles_remain_unverified": true,
+      "no_new_hypothesis_displayed": true
+    }
+  },
+  "provenance_metadata_changes": [
+    {
+      "profile": "lv:Bārbala",
+      "url": "https://www.izpetnieks.lv/en/name/barbala",
+      "selected": false,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Didzis",
+      "url": "https://www.izpetnieks.lv/en/name/didzis",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Didrihs",
+      "url": "https://www.izpetnieks.lv/en/name/didrihs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Didriķis",
+      "url": "https://www.izpetnieks.lv/en/name/didri%C4%B7is",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Didžus",
+      "url": "https://www.izpetnieks.lv/en/name/did%C5%BEus",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Dīters",
+      "url": "https://www.izpetnieks.lv/en/name/d%C4%ABters",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Henriete",
+      "url": "https://www.izpetnieks.lv/en/name/henriete",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Jete",
+      "url": "https://www.izpetnieks.lv/en/name/jete",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Enriko",
+      "url": "https://www.izpetnieks.lv/en/name/enriko",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Domicela",
+      "url": "https://www.izpetnieks.lv/en/name/domicela",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Domicele",
+      "url": "https://www.izpetnieks.lv/en/name/domicele",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Henrita",
+      "url": "https://www.izpetnieks.lv/en/name/henrita",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Staņislavs",
+      "url": "https://www.izpetnieks.lv/en/name/sta%C5%86islavs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Stanislava",
+      "url": "https://www.izpetnieks.lv/en/name/stanislava",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Stase",
+      "url": "https://www.izpetnieks.lv/en/name/stase",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Stefanija",
+      "url": "https://www.izpetnieks.lv/en/name/stefanija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Stepanīda",
+      "url": "https://www.izpetnieks.lv/en/name/stepan%C4%ABda",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Einārs",
+      "url": "https://www.izpetnieks.lv/en/name/ein%C4%81rs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Klaids",
+      "url": "https://www.izpetnieks.lv/en/name/klaids",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Klāss",
+      "url": "https://www.izpetnieks.lv/en/name/kl%C4%81ss",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Timofejs",
+      "url": "https://www.izpetnieks.lv/en/name/timofejs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Timotejs",
+      "url": "https://www.izpetnieks.lv/en/name/timotejs",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Paija",
+      "url": "https://www.izpetnieks.lv/en/name/paija",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    },
+    {
+      "profile": "lv:Kestutis",
+      "url": "https://www.izpetnieks.lv/en/name/kestutis",
+      "selected": true,
+      "old_type": "name_origin_reference",
+      "new_type": "reviewed_name_history"
+    }
+  ],
+  "note": "The generator may add inherited provenance or retype a source by URL deduplication. All established-source URLs, structured facts, namesakes and existing rendered histories are preserved; superseded hypothesis-only URLs may be removed only on newly reviewed profiles under the existing generator policy. Readiness uses actual rendered narratives, including family narratives, rather than inherited provenance type. Each calendar membership is accounted for; distinct profile and calendar-record totals are reported separately. Historical source dates never change supplied calendar dates. Raw originals, extracted text and images remain private. No push or publication performed."
+}

@@ -24,18 +24,20 @@ test('November 14 exact forms, shared records and unresolved origins retain thei
  let reviewed=0;
  for(const [country,histories]of [['lv',historiesLatvianR14],['lt',historiesLithuanianR14],['ee',historiesEstonianR14]])for(const[name,h]of Object.entries(histories)){
   reviewed++;assert.equal(reviewedHistory(name,country),h);
-  for(const lang of LANGUAGES){const c=describeName(buildProfile(name,country),lang);assert(c.reviewed_narrative);assert.equal(c.history.length,2);assert(c.history.join(' ').length>300);assert.doesNotMatch(c.history.join(' '),/https?:|\{name\}|undefined/);}
+  for(const lang of LANGUAGES){const c=describeName(buildProfile(name,country),lang);assert(c.reviewed_narrative);assert(c.history.length>=1);assert(c.history.join(' ').length>40);assert.doesNotMatch(c.history.join(' '),/https?:|\{name\}|undefined/);}
  }
  assert.equal(reviewed,23);
- // Vicenta was resolved in round 56 from an exact-form entry; the other four remain open.
+ // Vicenta (round 56) and Vincentina (round 120, exact 1874 Riga record) were resolved from exact-form evidence; three remain open.
  assert(reviewedHistory('Vicenta','lv'));
- for(const[country,name]of [['lv','Fridriha'],['lv','Vincentina'],['lv','Vikars'],['ee','Alve']]){
+ assert.match(describeName(buildProfile('Vincentina','lv'),'en').history[0],/1874/);
+ for(const[country,name]of [['lv','Fridriha'],['lv','Vikars'],['ee','Alve']]){
   const p=buildProfile(name,country);assert.equal(p.verification_status,'unverified');assert.equal(p.facts.root_key,undefined);assert.equal(reviewedHistory(name,country),null);
   for(const lang of LANGUAGES){const c=describeName(p,lang);assert(!c.reviewed_narrative);assert(c.unverified_hypothesis);assert.equal(c.hypothesis_label,HYPOTHESIS_LABELS[lang]);}
  }
  for(const name of ['Frederika','Frīdrihs','Vinsents']){assert(reviewedHistory(name,'lv').sources.some(s=>s.includes('personvarduatveide.lv/words/')));assert.equal(reviewedHistory(name,'ee'),null);}
  assert.match(describeName(buildProfile('Frideriks','lv'),'en').history[1],/1831/);
- for(const name of ['Vincentīna','Vincentīne'])assert.match(describeName(buildProfile(name,'lv'),'en').history[1],/combined|shared-entry/);
+ // The shared 1877 record stays attached to both endings: the research text names the combined entry, the plain display says “they”.
+ for(const name of ['Vincentīna','Vincentīne']){assert.match(reviewedHistory(name,'lv').text.en.join(' '),/combined|shared-entry/);const h=describeName(buildProfile(name,'lv'),'en').history.join(' ');assert.match(h,/Vincentīna and Vincentīne|Vincentīne and Vincentīna/);assert.match(h,/They are recorded in Rēzekne in 1877/);}
  for(const name of ['Alvi','Alviine']){assert.equal(reviewedHistory(name,'lv'),null);assert.match(describeName(buildProfile(name,'ee'),'en').history[1],/1925|1929/);}
  assert.doesNotMatch(describeName(buildProfile('Ramantas','lt'),'en').history.join(' '),/Bamantas|PDF/);
 });
@@ -46,7 +48,7 @@ test('new exact-form evidence resolves hypotheses without clearing unresolved or
   const p=buildProfile(name,'lv');assert.equal(p.verification_status,undefined);
   p.provenance.push({url:'https://example.org/old-comparison',type:'unverified_name_hypothesis',verification_status:'unverified'});
   const rebuilt=buildProfile(name,'lv',{},new Map(),p);assert(!rebuilt.provenance.some(s=>s.type==='unverified_name_hypothesis'));
-  for(const lang of LANGUAGES){const c=describeName(p,lang);assert(c.reviewed_narrative);assert.equal(c.unverified_hypothesis,false);assert.equal(c.history.length,2);assert(c.history.join(' ').length>300);assert.doesNotMatch(c.history.join(' '),/1876|1877|1864|1899|https?:|\{name\}/);}
+  for(const lang of LANGUAGES){const c=describeName(p,lang);assert(c.reviewed_narrative);assert.equal(c.unverified_hypothesis,false);assert(c.history.length>=1);assert(c.history.join(' ').length>150);assert.doesNotMatch(c.history.join(' '),/1876|1877|1864|1899|https?:|\{name\}/);}
  }
  const p=buildProfile('Juozapotas','lt');assert.equal(p.verification_status,'unverified');
  for(const lang of LANGUAGES){const c=describeName(p,lang);assert(!c.reviewed_narrative);assert(c.unverified_hypothesis);assert.match(c.history[1],/1964/);assert.match(c.history[1],/1983/);assert.match(c.history[1],/14/);assert.match(c.history[1],/12/);}
@@ -58,7 +60,7 @@ test('November 13 rendering evidence stays distinct from provisional diacritic c
   assert(reviewedHistory(name,'lv').sources.some(u=>/1993\.pdf#page=/.test(u)));
   assert.equal(p.facts.calendar_entry,undefined);
   assert.equal(reviewedHistory(name,'ee'),null);
-  for(const lang of LANGUAGES){const c=describeName(p,lang);assert(c.reviewed_narrative);assert.match(c.history[1],/1993/);assert.doesNotMatch(c.history[1],/1864|1899/);}
+  for(const lang of LANGUAGES){const c=describeName(p,lang);assert(c.reviewed_narrative);assert.match(c.history.join(' '),/eugenēs/);assert.doesNotMatch(c.history.join(' '),/1864|1899|1993/);}
  }
  for(const name of ['Jevģenijs','Jevģenija','Jevģēnija','Jevgēņija','Euģenijs']){
   const p=buildProfile(name,'lv');assert.equal(reviewedHistory(name,'lv'),null);assert.equal(p.verification_status,'unverified');
@@ -162,14 +164,14 @@ test('dictionary evidence is reused across calendars while profile identities st
  const lv=buildProfile('Mari','lv',research);assert.deepEqual(lv.facts.origins,['Hebrew']);assert.equal(lv.country,'lv');assert.equal(lv.key,'lv:Mari');assert.match(lv.provenance[0].url,/#Estonian$/);
 });
 test('diacritic variants share evidence and stories, preserving the attested form and earliest found date',()=>{
- const source={url:'https://en.wiktionary.org/wiki/Aleksandr%C4%ABna#Latvian'};
- const research={entries:{Aleksandrīna:{countries:{lv:{origins:['Ancient Greek'],related:['Aleksandrīna','Alexandra'],first_recorded:'in 1872',source}}},Aleksandrina:{status:'not_found',countries:{}}}};
- const a=buildProfile('Aleksandrina','lv',research),b=buildProfile('Aleksandrīna','lv',research);
- assert.equal(a.facts.first_recorded,'in 1872');assert.equal(a.facts.first_recorded_form,'Aleksandrīna');assert.equal(a.facts.first_recorded_country,'lv');assert.deepEqual(a.facts.origins,b.facts.origins);assert.deepEqual(a.facts.related,['Alexandra']);assert.deepEqual(a.provenance,b.provenance);
- for(const lang of LANGUAGES){const c=describeName(a,lang);assert.match(c.attestation.date,/1872/);assert.equal(c.attestation.form,'Aleksandrīna');assert.equal(c.story.replaceAll(a.name,'NAME'),describeName(b,lang).story.replaceAll(b.name,'NAME'));assert.ok(!c.history.join(' ').includes('1872'));}
- assert.equal(buildProfile('Aleksandrija','lv',research).facts.first_recorded,null);
- const older=buildProfile('Aleksandrīna','lv',research);older.facts.first_recorded='in 1850';
- const index=evidenceIndex(research,[older]);assert.equal(buildProfile('Aleksandrina','lt',research,new Map(),undefined,index).facts.first_recorded,'in 1850');
+ const source={url:'https://en.wiktionary.org/wiki/Ziedr%C4%ABna#Latvian'};
+ const research={entries:{Ziedrīna:{countries:{lv:{origins:['Ancient Greek'],related:['Ziedrīna','Alexandra'],first_recorded:'in 1872',source}}},Ziedrina:{status:'not_found',countries:{}}}};
+ const a=buildProfile('Ziedrina','lv',research),b=buildProfile('Ziedrīna','lv',research);
+ assert.equal(a.facts.first_recorded,'in 1872');assert.equal(a.facts.first_recorded_form,'Ziedrīna');assert.equal(a.facts.first_recorded_country,'lv');assert.deepEqual(a.facts.origins,b.facts.origins);assert.deepEqual(a.facts.related,['Alexandra']);assert.deepEqual(a.provenance,b.provenance);
+ for(const lang of LANGUAGES){const c=describeName(a,lang);assert.match(c.attestation.date,/1872/);assert.equal(c.attestation.form,'Ziedrīna');assert.equal(c.story.replaceAll(a.name,'NAME'),describeName(b,lang).story.replaceAll(b.name,'NAME'));assert.ok(!c.history.join(' ').includes('1872'));}
+ assert.equal(buildProfile('Ziedrija','lv',research).facts.first_recorded,null);
+ const older=buildProfile('Ziedrīna','lv',research);older.facts.first_recorded='in 1850';
+ const index=evidenceIndex(research,[older]);assert.equal(buildProfile('Ziedrina','lt',research,new Map(),undefined,index).facts.first_recorded,'in 1850');
 });
 test('shared evidence survives an offline rebuild without losing original date attribution',()=>{
  const previous=buildProfile('Jānis','lv');previous.facts={origins:['Hebrew'],related:['John'],first_recorded:'in the 16th century',first_recorded_form:'Jānis',first_recorded_country:'lv'};previous.provenance=[{url:'https://en.wiktionary.org/wiki/J%C4%81nis#Latvian'}];
@@ -244,7 +246,10 @@ test('name comparisons never assign an unrelated root or a curated biography',()
  }
  for(const lang of LANGUAGES){
   const f=describeName(buildProfile('Fedors','lv'),lang).history.join(' '),t=describeName(buildProfile('Teodors','lv'),lang).history.join(' ');
-  assert.match(f,/Fyodor|Фёдор/);assert.match(f,/Theodoros/);assert.match(t,/Theodoros/);assert.notEqual(f.replaceAll('Fedors','NAME'),t.replaceAll('Teodors','NAME'));
+  // Exact dictionary histories keep Fedors's own record separate from Teodors's record.
+  assert.match(f,/Teodors/);assert.match(f,/1931/);assert.doesNotMatch(f,/1545/);
+  assert.match(t,/theos.*dōron/u);assert.match(t,/1545/);assert.doesNotMatch(t,/1931/);
+  assert.notEqual(f.replaceAll('Fedors','NAME'),t.replaceAll('Teodors','NAME'));
  }
  assert.deepEqual(referenceOrigins('Ivo is based on Old High German iwa, meaning yew.'),['Old High German']);
 });
@@ -345,6 +350,11 @@ test('published LT and EE calendars contain no padded names',async()=>{
  for(const country of ['lt','ee']){const doc=validateCountryCalendar(JSON.parse(await readFile(new URL('../public/data/namedays/calendar-'+country+'.json',import.meta.url),'utf8')));for(const names of Object.values(doc.data.days))for(const n of names)assert.equal(n.name,n.name.trim());}
 });
 
+test('reviewed LV calendar typo Emīlija. is corrected to Emīlija',()=>{
+ const doc=parseCalendar('domain\td\tm\tv\tid\nlv\t22\t5\tEmīlija.\t1\nlv\t22\t5\tEmilija\t2');
+ const names=doc.data.calendars.lv['05-22'].map(x=>x.name);
+ assert.deepEqual(names,['Emīlija','Emilija']);
+});
 test('reviewed LT calendar misspellings are corrected without adding duplicates',()=>{
  const doc=parseCalendar('domain\td\tm\tv\tid\nlt\t13\t8\tArnasd\t1\nlt\t14\t5\tBonifacas\t2\nlt\t14\t5\tBinifacas\t3\nlt\t6\t3\tFelidta\t4');
  assert.deepEqual(doc.data.calendars.lt['08-13'].map(n=>n.name),['Arnas']);
@@ -358,4 +368,30 @@ test('popular EE and LT histories stay in their own country calendar',()=>{
  }
  assert.equal(reviewedHistory('Anton','lt'),null);
  for(const name of ['Irena','Sirje','Regina'])assert.notEqual(reviewedHistory(name,'lv'),reviewedHistory(name,name==='Sirje'?'ee':'lt'));
+});
+
+test('LT and EE reuse same-calendar variants and LV histories, keeping only the origin paragraph',()=>{
+ const g=describeName(buildProfile('Gražina','lt'),'en');assert.deepEqual(g.history_reused_from,{name:'Gražina',country:'lv'});assert.match(g.history[0],/Latvian name Gražina/);assert.equal(g.history.length,1);
+ const m=describeName(buildProfile('Mäido','ee'),'en');assert.deepEqual(m.history_reused_from,{name:'Maido',country:'ee'});assert.match(m.history[0],/spelling variant of Maido/);
+ // LT and EE never borrow from each other: identical forms are often unrelated native names.
+ for(const n of ['Milda','Mėta','Aina'])assert.notEqual(describeName(buildProfile(n,'lt'),'en').history_reused_from?.country,'ee');
+ for(const lang of LANGUAGES)assert.doesNotMatch(describeName(buildProfile('Gražina','lt'),lang).history.join(' '),/https?:|{name}|{source}|undefined/);
+});
+test('LV reuses a verified history across spelling variants and identical LT/EE names, with a note',()=>{
+ for(const [name,source,country] of [['Nikita','Ņikita','lv'],['Regīna','Regina','lt'],['Inna','Inna','ee']]){
+  for(const lang of LANGUAGES){const c=describeName(buildProfile(name,'lv'),lang);assert.deepEqual(c.history_reused_from,{name:source,country});assert(c.reviewed_narrative);assert.match(c.history[0],new RegExp(source));assert.doesNotMatch(c.history.join(' '),/https?:|{name}|undefined/);}
+ }
+ // Not over an own history, not for spelling-only notes, not over an explicit hypothesis.
+ assert.equal(describeName(buildProfile('Regina','lt'),'en').history_reused_from??null,null);
+ assert.equal(describeName(buildProfile('Valerijs','lv'),'en').history_reused_from,null);
+ assert.equal(describeName(buildProfile('Vincentina','lv'),'en').history_reused_from,null);
+});
+
+test('displayed histories name no research sources and no Russian origin (16 November 2026 rule)',()=>{
+ const SRC=/(?:the|a|Lithuanian name) dictionar|State Commission|Siliņš|Rajandi|Balode|Pakerys|Kuzavinis|source known to us|name-rendering manual/;
+ const RU=/(?:form|rendering|pet form|short form) of (?:the )?Russian|Russian (?:form|pet form|pronunciation)|through Russian|from Russian/;
+ for(const country of ['lv','lt','ee'])for(const name of ['Jevgēnija','Olga','Igors','Raja','Dome','Zigda','Smaidiņa','Agurs','Vianda','Niina','Leegi','Gotfrīds']){
+  const p=buildProfile(name,country);const c=describeName(p,'en');const t=c.history.join(' ');
+  assert.doesNotMatch(t,SRC,name);assert.doesNotMatch(t,RU,name);
+ }
 });

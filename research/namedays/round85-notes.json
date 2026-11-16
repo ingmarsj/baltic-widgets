@@ -1,0 +1,474 @@
+{
+  "round": 85,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-18: researched all 17 unfinished LV/LT/EE profiles before advancing (LV 12, LT 4, EE 1). 10 histories written (LV 9, LT 1, EE 0); 7 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antons",
+      "spellings": [
+        "Antons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-BTN-ANTONIUS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Antons",
+        "https://www.behindthename.com/name/antonius"
+      ],
+      "facts_used": "The Siliņš catalogue refers Antons to the masculine name Antonijs, and Behind the Name lists Antons as the Latvian form of Latin Antonius. The Roman family name Antonius is old, but its further meaning is uncertain, so no literal translation is given here. The Siliņš catalogue records a historical detail: Kalkūne, 1752; calendar 1767 (dictionary page 62; 63). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Catalogue dictionary pp. 62; 63: Kalkūne 1752, calendar 1767. Behind the Name Antonius lists Antons (Latvian). Siliņš catalogue page cached as LV-SILINS-<NAME>-R85; catalogue paragraphs are attributed online transcriptions, not newly inspected printed pages.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antis",
+      "spellings": [
+        "Antis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Antis"
+      ],
+      "facts_used": "The catalogue treats Antis as a form of Antons and lists both Antons and Antonijs as related names. Antons is connected with Latin Antonius, whose further meaning is uncertain; the short form does not acquire a separate literal meaning. The Siliņš catalogue records a historical detail: Ļaudona, 1590; calendar 1928 (dictionary page 62; 63). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Catalogue pp. 62; 63: form of Antons, Ļaudona 1590, calendar 1928. Siliņš catalogue page cached as LV-SILINS-<NAME>-R85; catalogue paragraphs are attributed online transcriptions, not newly inspected printed pages.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antonijs",
+      "spellings": [
+        "Antonijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Antonijs"
+      ],
+      "facts_used": "The catalogue derives Antonijs from the Latin family name Antonius. It mentions a possible connection with Latin antius, “one who stands in front, leader”, but states that the exact meaning is not known with certainty; that comparison is therefore not presented as the name’s settled meaning. The Siliņš catalogue records a historical detail: 1442; calendar 1851 (dictionary page 62; 63). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Catalogue pp. 62; 63: Latin Antonius, possible antius comparison explicitly uncertain; 1442, calendar 1851. Siliņš catalogue page cached as LV-SILINS-<NAME>-R85; catalogue paragraphs are attributed online transcriptions, not newly inspected printed pages.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Acons",
+      "spellings": [
+        "Acons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Acons"
+      ],
+      "facts_used": "Catalogue page (cached LV-SILINS-ACONS-R85): not in the official calendar, 0 registered bearers, origin not established; no dictionary page or date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page (cached LV-SILINS-ACONS-R85): not in the official calendar, 0 registered bearers, origin not established; no dictionary page or date.",
+      "next_steps": "No supported origin proposal. Seek an exact Latvian dictionary or rendering source for Acons; do not derive it from resemblance to other names."
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antans",
+      "spellings": [
+        "Antans"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-LT61",
+        "INT-BTN-ANTANAS",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf#page=45",
+        "https://www.behindthename.com/name/antanas",
+        "https://www.izpetnieks.lv/en/name/Antans"
+      ],
+      "facts_used": "The Latvian rendering manual for Lithuanian names gives the exact correspondence Antanas → Antans. Behind the Name describes Lithuanian Antanas as the Lithuanian form of Latin Antonius. The row documents a spelling relationship; it does not decide the naming route of every individual Antans. The exact row appears in T. Porīte’s 1961 manual of Lithuanian proper names on printed page 45, which was visually checked. This dates a published rendering recommendation, not the first Latvian bearer; the catalogue gives no separate dated Latvian record for Antans.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Porīte 1961, PDF 45 / printed 45, visually checked exact row Antanas → Antans. Catalogue p. 62 only says “may be connected” and gives no Latvian date; the history rests on the exact rendering row. Behind the Name Antanas = Lithuanian form of Antonius.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antars",
+      "spellings": [
+        "Antars"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Antars"
+      ],
+      "facts_used": "Catalogue p. 62: may be connected with the star name Antares, explicitly uncertain; a record in Talsi district, third quarter of the 20th century.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 62: may be connected with the star name Antares, explicitly uncertain; a record in Talsi district, third quarter of the 20th century.",
+      "next_steps": "The dated record does not prove the Antares derivation. Inspect the printed Siliņš entry p. 62 or find an explicit formation statement before writing a history."
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antonio",
+      "spellings": [
+        "Antonio"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-ANTONIO-R85",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Antonio",
+        "https://www.izpetnieks.lv/en/name/Antonio"
+      ],
+      "facts_used": "Latvian Language Agency records give both Italian and Spanish Antonio unchanged as the Latvian masculine given name Antonio. The Siliņš catalogue links Antonio to the Antonius family; the further meaning of Antonius remains uncertain. The records document a spelling correspondence, not every bearer’s family background. The agency cites the Spanish row from L. Ceplītis’s 1961 manual of Spanish proper names, page 50, and the Italian row from A. Stelle’s 1967 manual, page 36. These are dated rendering recommendations; they do not identify the first Antonio registered in Latvia.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: LVA database: Spanish Antonio → Antonio, Ceplītis 1961 p. 50; Italian Antonio → Antonio [..ō..], Stelle 1967 p. 36 (database citations, manual pages not separately opened). Portuguese Antoniu and Romanian rows not used. Catalogue p. 62.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antuans",
+      "spellings": [
+        "Antuans"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-ANTOINE-R85"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Antuans",
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Antoine"
+      ],
+      "facts_used": "Catalogue p. 62: “may be a spelling variant of Antuāns”. Agency rows give only long-ā Antuāns for French Antoine.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 62: “may be a spelling variant of Antuāns”. Agency rows give only long-ā Antuāns for French Antoine.",
+      "next_steps": "Seek an exact macronless Antuans rendering or dated use; do not transfer the Antuāns rows."
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Antuāns",
+      "spellings": [
+        "Antuāns"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-ANTOINE-R85",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/search?locale=lv&words=on&q=Antoine",
+        "https://www.izpetnieks.lv/en/name/Antu%C4%81ns"
+      ],
+      "facts_used": "Latvian Language Agency rendering records give French Antoine → Antuāns as a masculine given name. French Antoine belongs to the Antonius family, as the Siliņš catalogue also notes; the further meaning of Antonius remains uncertain. The rows establish a spelling correspondence, not every bearer’s naming route. The agency cites the given-name row from L. Ceplītis’s 1963 manual of French proper names, page 69, and B. Bankava’s 2004 French rendering manual, page 97. These dates mark published rendering recommendations, not the first Latvian Antuāns; the macronless Antuans is not covered by this evidence.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: LVA database (fetched 12 Nov 2026): French Antoine → Antuāns, masculine given name, Ceplītis 1963 p. 69 and Bankava 2004 p. 97 (database citations; the printed manual pages were not separately opened). A separate surname row and feminine Antuāna row are not used. Catalogue p. 62.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Entonijs",
+      "spellings": [
+        "Entonijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-LVA-EN06",
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.personvarduatveide.lv/uploads/sources/32/pdf/anglu_ipasvardu_atveide_latviesu_valoda.pdf#page=60",
+        "https://www.izpetnieks.lv/en/name/Entonijs"
+      ],
+      "facts_used": "A. Ahero’s English rendering manual gives English Ant(h)ony → Entonijs, with Antonijs as a second Latvian form. The Siliņš catalogue describes Anthony as coming from the Roman family name Antonius, whose further root is unknown; the link with Greek anthos “flower” is a later folk etymology. The row is on printed page 63 of the 2006 manual, in the list of masculine given names, and was visually checked. The date marks a published rendering recommendation, not the first Latvian Entonijs, and the Antonijs alternative does not transfer Antonijs’s older dates to this spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Ahero 2006, PDF 60 / printed 63, visually checked: Ant(h)ony → Entonijs, Antonijs¹ (masculine given names); PDF 44 / printed 47 repeats Anthony → Entonijs, Antonijs. Catalogue gives the Antonius/anthos explanation via Behind the Name.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Ontons",
+      "spellings": [
+        "Ontons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ontons"
+      ],
+      "facts_used": "The catalogue compares Ontons with Antons and gives no separate literal meaning for it. Antons is in turn referred to Antonijs and Latin Antonius, but the entry does not state a direct Latin derivation for Ontons; the comparison remains a documented relationship between forms. The Siliņš catalogue records a possible historical detail: 18th century; calendar 1864 (dictionary page 255). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Catalogue p. 255: compared with Antons only; possible 18th-century attestation; calendar 1864. No direct Latin derivation for Ontons is claimed. Siliņš catalogue page cached as LV-SILINS-<NAME>-R85; catalogue paragraphs are attributed online transcriptions, not newly inspected printed pages.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lv",
+      "name": "Tonijs",
+      "spellings": [
+        "Tonijs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Tonijs"
+      ],
+      "facts_used": "Tonijs belongs to the shared dictionary entry Ton/i, -ijs, which the catalogue refers to the masculine name Antonijs. Antonijs comes from the Latin family name Antonius, whose exact meaning is uncertain; the shared entry does not make Tonis and Tonijs identical in every record. The Siliņš catalogue records a historical detail: Koknese, 1599; calendar 1915 (dictionary page 308). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Catalogue p. 308: shared entry Ton/i, -ijs → Antonijs; Koknese 1599; calendar 1915. Shared-entry scope retained. Siliņš catalogue page cached as LV-SILINS-<NAME>-R85; catalogue paragraphs are attributed online transcriptions, not newly inspected printed pages.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lt",
+      "name": "Gedgaudas",
+      "spellings": [
+        "Gedgaudas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-PAKERYS10",
+        "LT-SALYS83",
+        "LT-DRAUGAS"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=301",
+        "https://www.draugas.org/archive/1960_reg/1960-03-12-PRIEDAS-DRAUGAS.pdf"
+      ],
+      "facts_used": "Earlier round 67 status kept: Pakerys 2010 PDF 6 / printed 93 questions Salys’s gauti comparison for Gaud-. New: the 1964 calendar (Salys PDF 301 / printed 286, visually checked) prints “Gedi-/gaudas (Gedys)” across a line break on 18 January, i.e. Gedigaudas, not the exact Gedgaudas spelling. Kralikauskas’s 1960 Draugas list of 13th–15th-century personal names (local copy LOCAL-ROUND11-ASMANTAS-1960-RETRY, PDF 2) includes Gedgaudas without an individual source citation.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Earlier round 67 status kept: Pakerys 2010 PDF 6 / printed 93 questions Salys’s gauti comparison for Gaud-. New: the 1964 calendar (Salys PDF 301 / printed 286, visually checked) prints “Gedi-/gaudas (Gedys)” across a line break on 18 January, i.e. Gedigaudas, not the exact Gedgaudas spelling. Kralikauskas’s 1960 Draugas list of 13th–15th-century personal names (local copy LOCAL-ROUND11-ASMANTAS-1960-RETRY, PDF 2) includes Gedgaudas without an individual source citation.",
+      "next_steps": "Second-stem etymology remains contested. Find a scholarly analysis of -gaud- for this name and the historical source behind Kralikauskas’s list; do not substitute Gedigaudas for Gedgaudas."
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lt",
+      "name": "Jogailė",
+      "spellings": [
+        "Jogailė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS11",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2011~1367179641935/J.04~2011~1367179641935.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=90"
+      ],
+      "facts_used": "Antanas Pakerys studies Jogailė among Lithuanian two-stem feminine names, which he describes as usually formed after the corresponding masculine names. Its masculine counterpart is Jogaila, the name of the fourteenth-century grand duke. Antanas Salys called the first element hitherto unexplained, tentatively linking it with riding, and connected gail- with gailas “fierce, vehement”; these are scholarly proposals, not a settled translation. In his 2011 article Pakerys cites Lithuanian population-register data showing Jogailė among the most popular two-stem girls’ names: 164 girls born in 1999–2010 had it. This is a dated record of modern use; it does not date the name’s first appearance.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Pakerys 2011, PDF 1 / printed 90 (compound feminine names usually formed after masculine names) and PDF 2 / printed 91, visually checked: Jogailė (164) among popular two-stem girls’ names, 1999–2010 register data. Salys 1983, Jogaila article (reprint of Lietuvių Enciklopedija IX), PDF 90–91 / printed 75–76, visually checked: first element “iki šiol neišaiškintas”, tentatively *jot(i)- / jóti; gail- with gailas. Salys’s stem list PDF 289 / printed 274 instead says “Jo- : plg. jau”, so the first element is explicitly kept uncertain.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lt",
+      "name": "Jolita",
+      "spellings": [
+        "Jolita"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "INT-BTN-JOLITA"
+      ],
+      "sources": [
+        "https://www.behindthename.com/name/jolita"
+      ],
+      "facts_used": "Behind the Name has no curated definition (user submission only). No exact hit in cached scholarly PDFs. Jolanta has a separate curated entry but no source links it to Jolita.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Behind the Name has no curated definition (user submission only). No exact hit in cached scholarly PDFs. Jolanta has a separate curated entry but no source links it to Jolita.",
+      "next_steps": "Consult VLKK/vardai.vlkk.lt interactively or a Lithuanian name dictionary for an exact Jolita origin; do not assume a Jolanta derivation."
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "lt",
+      "name": "Liberta",
+      "spellings": [
+        "Liberta"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "INT-BTN-LIBERTA"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf#page=301",
+        "https://www.behindthename.com/name/liberta"
+      ],
+      "facts_used": "1964 calendar Salys PDF 301 / printed 286, visually checked: 18 January Liberta (Liba). No Senn–Salys dictionary entry found; Behind the Name has only a user submission. Masculine Libertas (Libas) on 14 July (PDF 310) is a different name.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "1964 calendar Salys PDF 301 / printed 286, visually checked: 18 January Liberta (Liba). No Senn–Salys dictionary entry found; Behind the Name has only a user submission. Masculine Libertas (Libas) on 14 July (PDF 310) is a different name.",
+      "next_steps": "Find an exact scholarly origin for Liberta; the calendar record alone does not establish the derivation, and Latin libertas or Libertas cannot be transferred by resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-18",
+      "date": "2026-11-12",
+      "calendar_date": "01-18",
+      "country": "ee",
+      "name": "Lauli",
+      "spellings": [
+        "Lauli"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "POP-EE-LAULI-R86"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://www.stat.ee/nimed/LAULI"
+      ],
+      "facts_used": "Leole, December 2005, PDF 6 (popular municipal column): “Lauli tuleb sõnast laul.” No Rajandi or Mägiste entry found. Statistics Estonia: fewer than 5 bearers, no statistics shown.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Leole, December 2005, PDF 6 (popular municipal column): “Lauli tuleb sõnast laul.” No Rajandi or Mägiste entry found. Statistics Estonia: fewer than 5 bearers, no statistics shown.",
+      "next_steps": "Seek a scholarly Estonian source or dated record for Lauli; the popular column alone was not accepted (same limit as Salve/Salvi)."
+    }
+  ]
+}

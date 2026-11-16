@@ -97,19 +97,19 @@ export const historiesEstonianR40={
     "text": {
       "lv": [
         "Juta: Vārds pieder Judith/Judīte saimei no senebreju Yehudit, «jūdu sieviete, sieviete no Jūdejas». Tas vēsturiski saistīts ar Judah/Jūdas nosaukumu. Skaidrojums «Dieva slava» avotos parādās kā papildu interpretācija, nevis vienīgais vārda burtiskais tulkojums.",
-        "Mēgistes 1929. gada vārdu saraksta 4. lappusē ir Juta ar piezīmi par Juudit un vācu dialekta formu. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 4. lappusē ir Juta ar piezīmi par Juudit un vācu dialekta formu. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Juta: Имя относится к семье Judith/Judīte от древнееврейского Yehudit «иудейка, женщина из Иудеи». Исторически оно связано с названием Judah/Иуда. Толкование «хвала Богу» встречается как дополнительная интерпретация, а не единственный буквальный перевод имени.",
-        "На странице 4 списка имён Мягисте 1929 года приведено Juta с примечанием о Juudit и немецкой диалектной форме. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 4 списка имён 1929 года приведено Juta с примечанием о Juudit и немецкой диалектной форме. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Juta: The name belongs to the Judith/Judīte family from Hebrew Yehudit, Jewish woman or woman from Judea. Historically it is related to Judah. Praise of God occurs in sources as an additional interpretation rather than the name’s sole literal translation.",
-        "Page 4 of Mägiste’s 1929 name list gives Juta with a note about Juudit and a German dialect form. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 4 of the 1929 name list gives Juta with a note about Juudit and a German dialect form. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Juta: Vardas priklauso Judith/Judīte šeimai iš hebrajų Yehudit „žydė, moteris iš Judėjos“. Istoriškai jis susijęs su Judah/Judo pavadinimu. Aiškinimas „Dievo šlovė“ šaltiniuose pateikiamas kaip papildoma interpretacija, o ne vienintelis pažodinis vardo vertimas.",
-        "Mägiste 1929 metų vardų sąrašo 4 puslapyje pateikiamas Juta su pastaba apie Juudit ir vokiečių tarmės formą. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 4 puslapyje pateikiamas Juta su pastaba apie Juudit ir vokiečių tarmės formą. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Juta: Nimi kuulub Judith/Judīte perre heebrea nimest Yehudit, juudi naine või Juudamaalt pärit naine. Ajalooliselt seostub see Juuda nimega. Jumala kiitus esineb allikates lisatõlgendusena, mitte nime ainsa sõnasõnalise tõlkena.",

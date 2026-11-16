@@ -276,16 +276,16 @@ export const hypothesesEstonianR38={
     ],
     "text": {
       "lv": [
-        "Mēgistes 1929. gada saraksts Külvi salīdzina ar igauņu külv un külvama, «sēja, sēt». Savukārt Leole 2005. gada sleja to ievieto somu Kyllikki un pārpilnības vārdu lokā. Vienas cilmes izvēle paliek nepārbaudīta; abi avoti dokumentēti, tos nesapludinot."
+        "1929. gada saraksts Külvi salīdzina ar igauņu külv un külvama, «sēja, sēt». Savukārt Leole 2005. gada sleja to ievieto somu Kyllikki un pārpilnības vārdu lokā. Vienas cilmes izvēle paliek nepārbaudīta; abi avoti dokumentēti, tos nesapludinot."
       ],
       "ru": [
-        "Список Мягисте 1929 года сопоставляет Külvi с эстонскими külv и külvama «сев, сеять». Колонка Leole 2005 года, напротив, относит его к финскому Kyllikki и словам изобилия. Выбор одного происхождения остаётся непроверенным; оба источника сохранены раздельно."
+        "Список 1929 года сопоставляет Külvi с эстонскими külv и külvama «сев, сеять». Колонка Leole 2005 года, напротив, относит его к финскому Kyllikki и словам изобилия. Выбор одного происхождения остаётся непроверенным; оба источника сохранены раздельно."
       ],
       "en": [
-        "Mägiste’s 1929 list compares Külvi with Estonian külv and külvama, sowing and to sow. Leole’s 2005 column instead groups it with Finnish Kyllikki and abundance words. Selecting one origin remains unverified; both sources are recorded without merging their explanations."
+        "the 1929 list compares Külvi with Estonian külv and külvama, sowing and to sow. Leole’s 2005 column instead groups it with Finnish Kyllikki and abundance words. Selecting one origin remains unverified; both sources are recorded without merging their explanations."
       ],
       "lt": [
-        "Mägiste 1929 metų sąrašas lygina Külvi su estų külv ir külvama „sėja, sėti“. Leole 2005 metų skiltis jį priskiria suomių Kyllikki ir gausos žodžiams. Vienos kilmės pasirinkimas lieka nepatikrintas; abu šaltiniai išsaugoti nesuliejant jų aiškinimų."
+        "1929 metų sąrašas lygina Külvi su estų külv ir külvama „sėja, sėti“. Leole 2005 metų skiltis jį priskiria suomių Kyllikki ir gausos žodžiams. Vienos kilmės pasirinkimas lieka nepatikrintas; abu šaltiniai išsaugoti nesuliejant jų aiškinimų."
       ],
       "et": [
         "Mägiste 1929. aasta nimekiri võrdleb Külvit sõnadega külv ja külvama. Leole 2005. aasta veerg paigutab selle aga soome Kyllikki ja küllust tähistavate sõnade juurde. Ühe päritolu valimine jääb kontrollimata oletuseks; mõlemad allikad on kirjas seletusi ühendamata."

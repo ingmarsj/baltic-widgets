@@ -1,0 +1,120 @@
+{
+ "round": 132,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.110",
+ "scope": "Review of the 56 hypotheses whose names had a checked fact held back in rounds 129–130.",
+ "decisions": {
+  "resolved_to_reviewed": {
+   "lt": [
+    "Adas",
+    "Nina",
+    "Fortunatas",
+    "Odilija",
+    "Otilija"
+   ]
+  },
+  "added_exact_form_paragraph": {
+   "lv": [
+    "Andrians",
+    "Gunefa",
+    "Iverta",
+    "Janeka",
+    "Jonita",
+    "Jugita",
+    "Manefa",
+    "Tots",
+    "Velita",
+    "Vinija",
+    "Vinta",
+    "Vintra",
+    "Vints",
+    "Vintārs",
+    "Voicehs",
+    "Zanza",
+    "Zezostrs",
+    "Zigda",
+    "Zira",
+    "Zēra"
+   ],
+   "lt": [
+    "Girenė",
+    "Norgaudas",
+    "Daugardas",
+    "Guntilda",
+    "Ilma",
+    "Kintvilė",
+    "Vygaudas",
+    "Veliuona",
+    "Austė"
+   ],
+   "ee": [
+    "Andro",
+    "Raidu",
+    "Raiko",
+    "Kelli",
+    "Tamur",
+    "Raid",
+    "Ele",
+    "Osmar",
+    "Helmur",
+    "Aire",
+    "Hele",
+    "Hengo",
+    "Tammo"
+   ]
+  },
+  "kept_unchanged": {
+   "lv": [
+    "Igo",
+    "Vigda",
+    "Vigeta",
+    "Vigija",
+    "Vigita",
+    "Vigurds"
+   ],
+   "lt": [
+    "Gilvilė",
+    "Mantvinas",
+    "Juozapotas"
+   ],
+   "reason": "The hypothesis text already contains the same checked record."
+  }
+ },
+ "rule": "A source that states the relation the hypothesis asked about (Senn–Salys: Adas and Nina as short forms, Fortunatas, Odilija and Otilija as Lithuanian forms) resolves it into a reviewed history. A record that only documents the exact form (date, place, calendar day, guide listing) is added as a separate paragraph and the Hypothesis label stays, following the existing Juozapotas pattern. Hypothesis objects shared between names are copied before the paragraph is added.",
+ "correction": {
+  "issue": "Round 129 period parser read II/III/IV quarters as the first quarter (regex alternation order).",
+  "fixed_in": "var/namedays-research/build-r129.mjs",
+  "changed": [
+   "Afra: c19q1 → c19q4",
+   "Ainārs: c20q1 → c20q2",
+   "Allija: c20q1 → c20q2",
+   "Alīdija: c19q1 → c19q4",
+   "Amilda: c19q1 → c19q4",
+   "Armida: c20q1 → c20q2",
+   "Daimonds: c19q1 → c19q4",
+   "Domija: c20q1 → c20q2",
+   "Egita: c20q1 → c20q2",
+   "Eina: c20q1 → c20q2",
+   "Elis: c19q1 → c19q4",
+   "Elvars: c20q1 → c20q2",
+   "Ermionija: c19q1 → c19q4",
+   "Erēna: c20q1 → c20q2",
+   "Frementijs: c20q1 → c20q2",
+   "Livars: c20q1 → c20q2",
+   "Maina: c20q1 → c20q2",
+   "Manefa: c19q1 → c19q4",
+   "Nelda: c19q1 → c19q4",
+   "Nilija: c19q1 → c19q4",
+   "Norvalda: c20q1 → c20q2",
+   "Raisa: c19q1 → c19q4",
+   "Sella: c20q1 → c20q2",
+   "Velita: c20q1 → c20q2",
+   "Večella: c20q1 → c20q2",
+   "Vilenta: c20q1 → c20q2",
+   "Zanza: c20q1 → c20q2",
+   "Ārijs: c19q1 → c19q4"
+  ]
+ },
+ "next": "New sources are needed for the ~3,060 names still without a history (see NAMEDAYS_TASKS.md).",
+ "records": []
+}

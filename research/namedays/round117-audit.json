@@ -1,0 +1,432 @@
+{
+  "round": 117,
+  "date": "2026-11-14",
+  "writer_version": "namedays-1.9.75",
+  "countries": {
+    "lv": {
+      "profiles": 5556,
+      "local_profiles_before": 176,
+      "local_profiles_after": 696,
+      "local_exact_links_added": 2011,
+      "new_exact_person_profile_links": 1392,
+      "with_exact_namesakes": 1498,
+      "with_five_local": 181,
+      "calendar_memberships": 5557,
+      "display_min": 5,
+      "display_max": 21,
+      "birthday_list_of_five": 5557,
+      "old_display_preserved": 5557,
+      "facts_preserved": 5556,
+      "examples": [
+        {
+          "name": "Indulis",
+          "before": 1,
+          "after": 6,
+          "people": [
+            {
+              "id": "Q540255",
+              "name": "Indulis Emsis"
+            },
+            {
+              "id": "Q1661904",
+              "name": "Indulis Bērziņš"
+            },
+            {
+              "id": "Q1661903",
+              "name": "Indulis Bekmanis"
+            }
+          ]
+        },
+        {
+          "name": "Ivo",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q4118775",
+              "name": "Ivo Lakučs"
+            },
+            {
+              "id": "Q43774954",
+              "name": "Ivo Minkevičs"
+            }
+          ]
+        },
+        {
+          "name": "Miervaldis",
+          "before": 0,
+          "after": 7,
+          "people": [
+            {
+              "id": "Q4992750",
+              "name": "Miervaldis Birze"
+            },
+            {
+              "id": "Q2576381",
+              "name": "Miervaldis Ādamsons"
+            },
+            {
+              "id": "Q6843866",
+              "name": "Miervaldis Jurševskis"
+            }
+          ]
+        },
+        {
+          "name": "Ringolds",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q16350717",
+              "name": "Ringolds Balodis"
+            },
+            {
+              "id": "Q7166721",
+              "name": "Ringolds Ore"
+            }
+          ]
+        },
+        {
+          "name": "Sīmanis",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q20565121",
+              "name": "Sīmanis Simanovičs"
+            }
+          ]
+        },
+        {
+          "name": "Semjons",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q4314688",
+              "name": "Semjons Nahimsons"
+            },
+            {
+              "id": "Q18741256",
+              "name": "Semjons Haņins"
+            }
+          ]
+        },
+        {
+          "name": "Zigmārs",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q100907217",
+              "name": "Zigmārs Raimo"
+            }
+          ]
+        },
+        {
+          "name": "Zigmars",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q8071800",
+              "name": "Zigmars Liepiņš"
+            }
+          ]
+        }
+      ]
+    },
+    "lt": {
+      "profiles": 1568,
+      "local_profiles_before": 130,
+      "local_profiles_after": 457,
+      "local_exact_links_added": 1834,
+      "new_exact_person_profile_links": 1869,
+      "with_exact_namesakes": 537,
+      "with_five_local": 178,
+      "calendar_memberships": 2253,
+      "display_min": 5,
+      "display_max": 21,
+      "birthday_list_of_five": 2253,
+      "old_display_preserved": 2253,
+      "facts_preserved": 1568,
+      "examples": [
+        {
+          "name": "Radvilė",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q459191",
+              "name": "Radvilė Morkūnaitė"
+            }
+          ]
+        },
+        {
+          "name": "Nerijus",
+          "before": 0,
+          "after": 10,
+          "people": [
+            {
+              "id": "Q15577730",
+              "name": "Nerijus Valskis"
+            },
+            {
+              "id": "Q4352155",
+              "name": "Nerijus Ališauskas"
+            },
+            {
+              "id": "Q2562716",
+              "name": "Nerijus Vasiliauskas"
+            }
+          ]
+        },
+        {
+          "name": "Vaidutis",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q556447",
+              "name": "Vaidutis Laurėnas"
+            }
+          ]
+        },
+        {
+          "name": "Vytas",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q48963524",
+              "name": "Vytas Gašpuitis"
+            },
+            {
+              "id": "Q2535630",
+              "name": "Vytas Navickas"
+            }
+          ]
+        },
+        {
+          "name": "Jurgis",
+          "before": 3,
+          "after": 10,
+          "people": [
+            {
+              "id": "Q455931",
+              "name": "Jurgis Mačiūnas"
+            },
+            {
+              "id": "Q559765",
+              "name": "Jurgis Matulaitis"
+            },
+            {
+              "id": "Q2378046",
+              "name": "Jurgis Baltrušaitis"
+            }
+          ]
+        },
+        {
+          "name": "Jurgita",
+          "before": 0,
+          "after": 6,
+          "people": [
+            {
+              "id": "Q3190174",
+              "name": "Jurgita Štreimikytė-Virbickienė"
+            },
+            {
+              "id": "Q101429324",
+              "name": "Jurgita Šiugždinienė"
+            },
+            {
+              "id": "Q27977685",
+              "name": "Jurgita Petrauskienė"
+            }
+          ]
+        },
+        {
+          "name": "Daugilė",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q56339583",
+              "name": "Daugilė Šarauskaitė"
+            }
+          ]
+        },
+        {
+          "name": "Vincentas",
+          "before": 1,
+          "after": 7,
+          "people": [
+            {
+              "id": "Q765454",
+              "name": "Vincentas Sladkevičius"
+            },
+            {
+              "id": "Q15472357",
+              "name": "Vincentas Dienys"
+            },
+            {
+              "id": "Q924438",
+              "name": "Vincentas Pranevičius"
+            }
+          ]
+        }
+      ]
+    },
+    "ee": {
+      "profiles": 1553,
+      "local_profiles_before": 160,
+      "local_profiles_after": 726,
+      "local_exact_links_added": 2953,
+      "new_exact_person_profile_links": 3088,
+      "with_exact_namesakes": 891,
+      "with_five_local": 286,
+      "calendar_memberships": 1558,
+      "display_min": 5,
+      "display_max": 20,
+      "birthday_list_of_five": 1558,
+      "old_display_preserved": 1558,
+      "facts_preserved": 1553,
+      "examples": [
+        {
+          "name": "Brigitta",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q24545832",
+              "name": "Brigitta Davidjants"
+            }
+          ]
+        },
+        {
+          "name": "Piret",
+          "before": 1,
+          "after": 10,
+          "people": [
+            {
+              "id": "Q235042",
+              "name": "Piret Järvis-Milder"
+            },
+            {
+              "id": "Q113090056",
+              "name": "Piret Hartman"
+            },
+            {
+              "id": "Q14483665",
+              "name": "Piret Kalda"
+            }
+          ]
+        },
+        {
+          "name": "Gita",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q16405877",
+              "name": "Gita Kalmet"
+            }
+          ]
+        },
+        {
+          "name": "Hugo",
+          "before": 0,
+          "after": 10,
+          "people": [
+            {
+              "id": "Q920207",
+              "name": "Hugo Raudsepp"
+            },
+            {
+              "id": "Q3440340",
+              "name": "Hugo Bernhard Rahamägi"
+            },
+            {
+              "id": "Q937470",
+              "name": "Hugo Lepnurm"
+            }
+          ]
+        },
+        {
+          "name": "Agaate",
+          "before": 0,
+          "after": 1,
+          "people": [
+            {
+              "id": "Q12358315",
+              "name": "Agaate Veeber"
+            }
+          ]
+        },
+        {
+          "name": "Aet",
+          "before": 0,
+          "after": 3,
+          "people": [
+            {
+              "id": "Q16407380",
+              "name": "Aet Maatee"
+            },
+            {
+              "id": "Q16405901",
+              "name": "Aet Ollisaar"
+            },
+            {
+              "id": "Q96333058",
+              "name": "Aet Süvari"
+            }
+          ]
+        },
+        {
+          "name": "Aita",
+          "before": 0,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q12358467",
+              "name": "Aita Kivi"
+            },
+            {
+              "id": "Q111345215",
+              "name": "Aita Põldma"
+            }
+          ]
+        },
+        {
+          "name": "Doris",
+          "before": 1,
+          "after": 2,
+          "people": [
+            {
+              "id": "Q546926",
+              "name": "Doris Kareva"
+            },
+            {
+              "id": "Q12360917",
+              "name": "Doris Tislar"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "sources": {
+    "reused_country_rows": 4899,
+    "new_lithuanian_rows": 5263,
+    "new_estonian_rows": 9035,
+    "local_query": "P31 human, P27 citizenship, native label, at least two Wikipedia sitelinks; LIMIT 10000 not reached in either new response."
+  },
+  "validation": {
+    "unit_tests": 136,
+    "static_build": "passed",
+    "browser": "Passed: Russian Fricis view shows ten local namesakes, one international namesake and all five birthday people below them; no source URLs in the interface.",
+    "history_facts": "All 8677 profiles unchanged",
+    "display": "All 9368 memberships preserve the previous five displayed people and show five distinct birthday people below exact namesakes."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "round": 93,
+  "date": "2026-11-13",
+  "writer_version": "namedays-1.9.50",
+  "calendar_span": "01-26 through 02-04",
+  "calendar_profile_records": 197,
+  "distinct_country_name_identities": 196,
+  "reviewed_histories": 76,
+  "reviewed_by_country": {
+    "lv": 29,
+    "lt": 27,
+    "ee": 20
+  },
+  "translations": 380,
+  "authored_paragraphs": 760,
+  "unverified_calendar_records": 121,
+  "unverified_distinct_identities": 120,
+  "new_displayed_hypotheses": 0,
+  "calendar_membership_and_dates_unchanged": true,
+  "unrelated_profile_content_and_provenance_unchanged": true,
+  "generated_public_and_data_copies_match": true,
+  "verification": {
+    "nameday_tests": "40 passed",
+    "full_test_suite": "129 passed",
+    "static_build": "passed",
+    "semantic_audit": "passed for all 76 histories in all five languages; country scope and calendar membership preserved"
+  },
+  "notes": "Existing source originals were reused. The generic generator’s inherited provenance-only additions to 28 unrelated profiles were restored to their baseline values; the global writer-version update is retained. The existing Algina hypothesis remains unverified with its earlier source basis. A completed pass is not a verified-complete day."
+}

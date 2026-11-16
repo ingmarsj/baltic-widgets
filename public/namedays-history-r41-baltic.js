@@ -94,19 +94,19 @@ export const historiesEstonianR41={
     "text": {
       "lv": [
         "Taaniel: Vārdu saime turpina senebreju Daniyyel, «Dievs ir mans tiesnesis». Taaniel ir igauņu pilnā forma, bet Tani dokumentēts kā tās saimes īsais vārds. Saīsināšana maina formu, nevis atdala vārdu no tā vēsturiskā pamata.",
-        "Mēgistes 1929. gada vārdu saraksta 47. lappusē ir Taaniel kā Tanel un Tanil pamatforma. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
+        "1929. gada vārdu saraksta 47. lappusē ir Taaniel kā Tanel un Tanil pamatforma. Tā ir konkrēta datēta liecība par vietējo vārda formu. Vārdnīcas publicēšanas gads nav vārda izgudrošanas vai pirmā dzimšanas ieraksta datums."
       ],
       "ru": [
         "Taaniel: Семья продолжает древнееврейское Daniyyel «Бог — мой судья». Taaniel — эстонская полная форма, а Tani документировано как краткое имя той же семьи. Сокращение меняет форму, сохраняя связь с её исторической основой.",
-        "На странице 47 списка имён Мягисте 1929 года приведено Taaniel как полная форма для Tanel и Tanil. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
+        "На странице 47 списка имён 1929 года приведено Taaniel как полная форма для Tanel и Tanil. Это конкретное датированное свидетельство местной формы. Год публикации словаря не является датой создания имени или первой записи о рождении."
       ],
       "en": [
         "Taaniel: The family continues Hebrew Daniyyel, God is my judge. Taaniel is an Estonian full form, while Tani is documented as a short name in that family. Shortening changes the form while retaining its connection to the historical base.",
-        "Page 47 of Mägiste’s 1929 name list gives Taaniel as the full form linked to Tanel and Tanil. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
+        "Page 47 of the 1929 name list gives Taaniel as the full form linked to Tanel and Tanil. This is specific dated evidence for the local form. The dictionary’s publication year is not the name’s invention date or a first birth record."
       ],
       "lt": [
         "Taaniel: Vardų šeima tęsia hebrajų Daniyyel „Dievas yra mano teisėjas“. Taaniel yra estiška pilnoji forma, o Tani dokumentuotas kaip tos šeimos trumpinys. Trumpinimas keičia formą, išlaikydamas ryšį su istoriniu pamatu.",
-        "Mägiste 1929 metų vardų sąrašo 47 puslapyje pateikiamas Taaniel kaip pilnoji Tanel ir Tanil forma. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
+        "1929 metų vardų sąrašo 47 puslapyje pateikiamas Taaniel kaip pilnoji Tanel ir Tanil forma. Tai konkretus datuotas vietinės formos liudijimas. Žodyno išleidimo metai nėra vardo sukūrimo ar pirmo gimimo įrašo data."
       ],
       "et": [
         "Taaniel: Nimepere jätkab heebrea Daniyyeli, Jumal on mu kohtunik. Taaniel on eesti täiskuju, Tani aga on dokumenteeritud sama pere lühinimena. Lühendamine muudab kuju, säilitades seose ajaloolise alusega.",

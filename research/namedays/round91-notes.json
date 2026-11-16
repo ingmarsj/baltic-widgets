@@ -1,0 +1,387 @@
+{
+  "round": 91,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-24: researched all 14 unfinished LV/LT/EE profiles before advancing (researched/written: LV 8/4, LT 4/3, EE 2/2). 9 histories written; 5 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Krišs",
+      "spellings": [
+        "Krišs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Kri%C5%A1s"
+      ],
+      "facts_used": "Catalogue (pp. 202; 201) gives a 1743 record and calendar entry 1783 but states that the root of the similar form does not establish Krišs’s etymology; only a see-also link to Kristiāns. LVA-NORDIC03 PDF p. 111 hit is an unrelated table neighbour, not a Krišs source row.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue (pp. 202; 201) gives a 1743 record and calendar entry 1783 but states that the root of the similar form does not establish Krišs’s etymology; only a see-also link to Kristiāns. LVA-NORDIC03 PDF p. 111 hit is an unrelated table neighbour, not a Krišs source row.",
+      "next_steps": "Inspect printed Siliņš pp. 201–202 for the exact Krišs entry and any explicit Kristiāns/Krišjānis derivation; do not promote the see-also link or reuse Krišus’s dates."
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Ksenija",
+      "spellings": [
+        "Ksenija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ksenija"
+      ],
+      "facts_used": "Greek xenia “hospitality”; Rūjiena, second quarter of the 19th century; calendar 1851 (dictionary p. 203).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited. LVA-UA23 PDF p. 157 renders Ukrainian Ксенія as Kseņija with Ksenija starred; not used.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Eglons",
+      "spellings": [
+        "Eglons"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Eglons"
+      ],
+      "facts_used": "Connected with Latvian egle “spruce” (no question mark); Riga, first quarter of the 20th century; calendar 1915 (dictionary p. 108).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Egle",
+      "spellings": [
+        "Egle"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-LT61",
+        "INT-BTN-EGLE"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Egle",
+        "https://www.personvarduatveide.lv/uploads/sources/27/pdf/noradijumi_par_citvalodu_ipasvardu_pareizrakstibu_un_pareizrunu_latviesu_literaraja_valoda_4._lietuviesu_valodas_ipasvardi.pdf",
+        "https://www.behindthename.com/name/egle20"
+      ],
+      "facts_used": "Porīte 1961 Lithuanian-name rendering manual, PDF/printed p. 51 visually checked: Eglė → Egle. Curated BTN Eglė: “spruce tree”, folktale of Eglė and the grass snake. Siliņš p. 108 compares Latvian egle with a question mark; Dundaga 1582 record.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The 1582 Dundaga record is not explained by the 1961 rendering rule; both routes are kept explicit and no bearer-specific route is asserted. Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Eglis",
+      "spellings": [
+        "Eglis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Eglis"
+      ],
+      "facts_used": "Catalogue only compares Eglis with Egle, whose Latvian egle link is questioned; Bauska 1925, calendar 1933 document use only. The Lithuanian Eglė rendering applies to feminine Egle, not masculine Eglis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue only compares Eglis with Egle, whose Latvian egle link is questioned; Bauska 1925, calendar 1933 document use only. The Lithuanian Eglė rendering applies to feminine Egle, not masculine Eglis.",
+      "next_steps": "Find an onomastic source explicitly deriving masculine Eglis (e.g. LV-LAVI publications or printed Siliņš p. 108); do not transfer Egle’s routes."
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Krišus",
+      "spellings": [
+        "Krišus"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Kri%C5%A1us"
+      ],
+      "facts_used": "Listed as a form of Kristiāns < Latin christiānus; Embūte 1857; calendar 1879 (dictionary pp. 202; 201).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Siliņš catalogue pages are attributed online transcriptions, not newly inspected printed pages. Original PDF pages were visually read where cited.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Ksendija",
+      "spellings": [
+        "Ksendija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ksendija"
+      ],
+      "facts_used": "Catalogue page has no origin text or citation; no cache hit in any registered source.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue page has no origin text or citation; no cache hit in any registered source.",
+      "next_steps": "Seek an explicit rendering (e.g. Russian/Ukrainian Ксендия or similar) or onomastic entry; do not assume a Ksenija link from resemblance."
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lv",
+      "name": "Ksēnija",
+      "spellings": [
+        "Ksēnija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ks%C4%93nija"
+      ],
+      "facts_used": "Catalogue: origin not established for long-ē Ksēnija; Greek xenia is given for Ksenija only. No LVA long-ē rendering found in cached manuals (UA23 gives Kseņija/*Ksenija).",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue: origin not established for long-ē Ksēnija; Greek xenia is given for Ksenija only. No LVA long-ē rendering found in cached manuals (UA23 gives Kseņija/*Ksenija).",
+      "next_steps": "Search LVA/Russian 1993 manual for an explicit Ксения → Ksēnija row; keep separate from Ksenija until then."
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lt",
+      "name": "Felicija",
+      "spellings": [
+        "Felicija"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/felicija/"
+      ],
+      "facts_used": "Senn–Salys PDF 228 / printed 213: Felicija PN = Felizia. Salys PDF 54 / printed 39: Poles translated Latin Felix/Felicia as Szczęsny/Szczęsna. PDF 57 / printed 42 with tables PDF 53, 56: Felicija occurs once among noblewomen in the 1575–1587 Raseiniai land-court records. Guide: Latin felix.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Pages visually checked. The court-record count is Salys’s compilation; the original acts were not inspected. Not a first attestation.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lt",
+      "name": "Gaivilė",
+      "spellings": [
+        "Gaivilė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/gaivile/"
+      ],
+      "facts_used": "Senn–Salys PDF 229 / printed 214: Gaivilė PN. 1964 calendar PDF 302 / printed 287 (January, before VASARIS): 24 January “Gaivilė (Gaiva)”. Guide: gai- = gaivus, vil- = viltis; Salys PDF 298 / printed 283: Vil- = viltis.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The gai-/gaivus element rests on the popular guide only; no Gai(v)- element was found in Salys’s list. Salys PDF 315 has a second Gaivilė (Gaiva) entry in another month; not used. The guide gives 8 October.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lt",
+      "name": "Vilgaudas",
+      "spellings": [
+        "Vilgaudas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE",
+        "LT-PAKERYS10"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/vilgaudas/"
+      ],
+      "facts_used": "Guide: vil- = viltis + gaud- = gaudus “resonant”. Salys explains Gaud- by gauti, which Pakerys challenges on accent grounds (same unresolved conflict as Rimgaudė/Gaudvilas). No exact Vilgaudas entry or dated record in Salys (only Žvilgaudas, a different name, p. 111).",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Guide: vil- = viltis + gaud- = gaudus “resonant”. Salys explains Gaud- by gauti, which Pakerys challenges on accent grounds (same unresolved conflict as Rimgaudė/Gaudvilas). No exact Vilgaudas entry or dated record in Salys (only Žvilgaudas, a different name, p. 111).",
+      "next_steps": "Find an authoritative exact-name analysis (LT-LKI/VLKK dataset) and a dated record; do not substitute Žvilgaudas."
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "lt",
+      "name": "Šarūnas",
+      "spellings": [
+        "Šarūnas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-GUIDE",
+        "LT-VLE-KREVE"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.tevu-darzelis.lt/vaiku-vardai/sarunas/",
+        "https://www.vle.lt/straipsnis/vincas-kreve/"
+      ],
+      "facts_used": "Senn–Salys PDF 268 / printed 253: Šarūnas PN, Šarūnė PN. Guide: from šarus “agile, quick”. VLE Krėvė, Kūryba: drama Šarūnas (1911; staged 1924, 1929, 1966, 1980). 1964 calendar PDF 303 / printed 288 (February): 19 February Šarūnas (Šaras).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Etymology from the popular guide only, stated as such. Literary character, not a real bearer. Historical 19 February calendar date differs from project 24 January; project date preserved. Guessed VLE URLs sarunas, vincas-kreve-mickevicius and sarunas-dainavos-kunigaikstis returned 404.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "ee",
+      "name": "Naima",
+      "spellings": [
+        "Naima"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi PDF 132 / printed 134 visually checked: *Naima ~ Naimi ~ Naema ~ Naama, Hebrew “ilus” or via Noomi “mu armsake, minu rõõm”; given since the beginning of the 20th century, but rarely.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "The asterisk is not interpreted. Leole Dec 2005 p. 6 popular gloss not used. No first bearer identified.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-24",
+      "date": "2026-11-12",
+      "calendar_date": "01-24",
+      "country": "ee",
+      "name": "Naimi",
+      "spellings": [
+        "Naimi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Same shared Rajandi entry PDF 132 / printed 134 (Naima ~ Naimi ~ Naema ~ Naama).",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "All claims keep shared-entry scope; no separate Naimi date.",
+      "next_steps": ""
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "round": 69,
+  "date": "2026-11-12",
+  "source_directory": "NAMEDAYS_SOURCES.md",
+  "note": "01-02: researched all 20 unfinished LV/LT/EE profiles before advancing. 4 histories written; 16 remain open. No new unverified hypothesis is displayed. A completed pass is not a verified-complete day.",
+  "records": [
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Ivo",
+      "spellings": [
+        "Ivo"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivo"
+      ],
+      "facts_used": "The dictionary explains Ivo through Old High German iwa, ‘yew bow’, also glossed as ‘archer’. It also cross-refers to Ivars; the explanation concerns the given name rather than a place with similar spelling. The Siliņš catalogue records a historical detail: 1962; calendar 1937 (dictionary page 171). This dates an attributed record of use or calendar inclusion. It does not mean that the name was created then; a date attached to a shared entry retains that shared scope.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Siliņš catalogue, dictionary p. 171. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Iva",
+      "spellings": [
+        "Iva"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-MAGISTE29",
+        "EE-MAGISTE29-AES",
+        "EE-RAJANDI66",
+        "LT-SALYS83",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Iva",
+        "https://www.emakeeleselts.ee/wp-content/uploads/2020/07/17-AEStoimetised-XVIII.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.izpetnieks.lv/en/name/Ivita",
+        "https://www.izpetnieks.lv/en/name/Ivo"
+      ],
+      "facts_used": "Siliņš pp. 170–171/121 gives Ivonna/Ieva connections and separate Russian ива / Germanic iwa comparisons; Ķirupe 1761 and calendar 1927 do not choose the route. Inspect the original complete entry and an independent exact-form analysis before selecting a meaning.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Siliņš pp. 170–171/121 gives Ivonna/Ieva connections and separate Russian ива / Germanic iwa comparisons; Ķirupe 1761 and calendar 1927 do not choose the route. Inspect the original complete entry and an independent exact-form analysis before selecting a meaning.",
+      "next_steps": "Siliņš pp. 170–171/121 gives Ivonna/Ieva connections and separate Russian ива / Germanic iwa comparisons; Ķirupe 1761 and calendar 1927 do not choose the route. Inspect the original complete entry and an independent exact-form analysis before selecting a meaning."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Ivis",
+      "spellings": [
+        "Ivis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "INT-KRAUS13"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivis",
+        "https://api.pageplace.de/preview/DT0400.9783110314052_A20903989/preview-9783110314052_A20903989.pdf"
+      ],
+      "facts_used": "Catalogue p. 171 redirects to Ivs and gives competing French/Breton/if/Ivo comparisons without a separate dated record. LVA Yves gives Īvs (long ī), not Ivis. Seek an explicit exact spelling bridge and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 171 redirects to Ivs and gives competing French/Breton/if/Ivo comparisons without a separate dated record. LVA Yves gives Īvs (long ī), not Ivis. Seek an explicit exact spelling bridge and dated use.",
+      "next_steps": "Catalogue p. 171 redirects to Ivs and gives competing French/Breton/if/Ivo comparisons without a separate dated record. LVA Yves gives Īvs (long ī), not Ivis. Seek an explicit exact spelling bridge and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Induls",
+      "spellings": [
+        "Induls"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Induls"
+      ],
+      "facts_used": "Catalogue explicitly has Indulis, not Induls. No exact cache hit. Seek an exact name-entry or rendering correspondence and dated bearer; do not drop i silently.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue explicitly has Indulis, not Induls. No exact cache hit. Seek an exact name-entry or rendering correspondence and dated bearer; do not drop i silently.",
+      "next_steps": "Catalogue explicitly has Indulis, not Induls. No exact cache hit. Seek an exact name-entry or rendering correspondence and dated bearer; do not drop i silently."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Īva",
+      "spellings": [
+        "Īva"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%AAva"
+      ],
+      "facts_used": "Catalogue attests Iva rather than exact long-ī Īva. No exact cache hit. Find a rendering rule or scholarly exact spelling entry and historical record; do not borrow Iva's Ķirupe date.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue attests Iva rather than exact long-ī Īva. No exact cache hit. Find a rendering rule or scholarly exact spelling entry and historical record; do not borrow Iva's Ķirupe date.",
+      "next_steps": "Catalogue attests Iva rather than exact long-ī Īva. No exact cache hit. Find a rendering rule or scholarly exact spelling entry and historical record; do not borrow Iva's Ķirupe date."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Ivaise",
+      "spellings": [
+        "Ivaise"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivaise"
+      ],
+      "facts_used": "Catalogue p. 170 question-marks Iva; 1971 and calendar 1964 do not establish a derivation. Seek an exact onomastic bridge and original dictionary context.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 170 question-marks Iva; 1971 and calendar 1964 do not establish a derivation. Seek an exact onomastic bridge and original dictionary context.",
+      "next_steps": "Catalogue p. 170 question-marks Iva; 1971 and calendar 1964 do not establish a derivation. Seek an exact onomastic bridge and original dictionary context."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Īve",
+      "spellings": [
+        "Īve"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%AAve"
+      ],
+      "facts_used": "Catalogue points to French Yve/if but does not establish exact Īve. LVA Yves row gives masculine Īvs, not Īve. Seek an exact feminine entry and dated use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue points to French Yve/if but does not establish exact Īve. LVA Yves row gives masculine Īvs, not Īve. Seek an exact feminine entry and dated use.",
+      "next_steps": "Catalogue points to French Yve/if but does not establish exact Īve. LVA Yves row gives masculine Īvs, not Īve. Seek an exact feminine entry and dated use."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Ivija",
+      "spellings": [
+        "Ivija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivija"
+      ],
+      "facts_used": "Catalogue p. 171 refers both to Iva and Evija; 1823 R is not a resolved etymology or a safely decoded place. Inspect printed entries and abbreviation before choosing a route.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue p. 171 refers both to Iva and Evija; 1823 R is not a resolved etymology or a safely decoded place. Inspect printed entries and abbreviation before choosing a route.",
+      "next_steps": "Catalogue p. 171 refers both to Iva and Evija; 1823 R is not a resolved etymology or a safely decoded place. Inspect printed entries and abbreviation before choosing a route."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Īvija",
+      "spellings": [
+        "Īvija"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%AAvija"
+      ],
+      "facts_used": "Catalogue attests short-i Ivija, not exact Īvija. Find an exact long-vowel bridge and dated record, keeping Iva/Evija alternatives qualified.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue attests short-i Ivija, not exact Īvija. Find an exact long-vowel bridge and dated record, keeping Iva/Evija alternatives qualified.",
+      "next_steps": "Catalogue attests short-i Ivija, not exact Īvija. Find an exact long-vowel bridge and dated record, keeping Iva/Evija alternatives qualified."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Ivika",
+      "spellings": [
+        "Ivika"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivika",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Catalogue gives Iva/Evika alternatives and a third-quarter twentieth-century record with Pēr. abbreviation. Estonian Ivika cannot establish Latvian transmission. Seek exact origin and decode the original place abbreviation.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue gives Iva/Evika alternatives and a third-quarter twentieth-century record with Pēr. abbreviation. Estonian Ivika cannot establish Latvian transmission. Seek exact origin and decode the original place abbreviation.",
+      "next_steps": "Catalogue gives Iva/Evika alternatives and a third-quarter twentieth-century record with Pēr. abbreviation. Estonian Ivika cannot establish Latvian transmission. Seek exact origin and decode the original place abbreviation."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Īvis",
+      "spellings": [
+        "Īvis"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/%C4%AAvis"
+      ],
+      "facts_used": "Catalogue has Ivis, not Īvis, and even its generated explanation changes the name to Īvja. Seek the original p. 171 and an exact long-vowel given-name row; do not infer from Īvs.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue has Ivis, not Īvis, and even its generated explanation changes the name to Īvja. Seek the original p. 171 and an exact long-vowel given-name row; do not infer from Īvs.",
+      "next_steps": "Catalogue has Ivis, not Īvis, and even its generated explanation changes the name to Īvja. Seek the original p. 171 and an exact long-vowel given-name row; do not infer from Īvs."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Ivisa",
+      "spellings": [
+        "Ivisa"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivisa"
+      ],
+      "facts_used": "Catalogue explicitly supplies no exact origin; Iva/Ivis/Ivs are see-also forms only. Seek an exact onomastic entry and dated record.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue explicitly supplies no exact origin; Iva/Ivis/Ivs are see-also forms only. Seek an exact onomastic entry and dated record.",
+      "next_steps": "Catalogue explicitly supplies no exact origin; Iva/Ivis/Ivs are see-also forms only. Seek an exact onomastic entry and dated record."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lv",
+      "name": "Ivs",
+      "spellings": [
+        "Ivs"
+      ],
+      "countries": [
+        "lv"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LV-SILINS",
+        "LV-LVA-RU93"
+      ],
+      "sources": [
+        "https://www.izpetnieks.lv/en/name/Ivs",
+        "https://www.personvarduatveide.lv/uploads/sources/30/pdf/krievu_ipasvardu_pareizrakstiba_un_pareizruna_latviesu_valoda_1993.pdf",
+        "https://www.izpetnieks.lv/en/name/%C4%AAve",
+        "https://www.izpetnieks.lv/en/name/Ivis",
+        "https://www.izpetnieks.lv/en/name/%C4%AAvis",
+        "https://www.izpetnieks.lv/en/name/Ivisa"
+      ],
+      "facts_used": "Catalogue's French/Breton/if/Ivo comparisons do not settle the root. LVA Ivs substring search returned unrelated rows; exact Yves query gives Īvs, not Ivs, citing Bankava 2004 p. 103. Seek an explicit short-i bridge and exact historical use.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Catalogue's French/Breton/if/Ivo comparisons do not settle the root. LVA Ivs substring search returned unrelated rows; exact Yves query gives Īvs, not Ivs, citing Bankava 2004 p. 103. Seek an explicit short-i bridge and exact historical use.",
+      "next_steps": "Catalogue's French/Breton/if/Ivo comparisons do not settle the root. LVA Ivs substring search returned unrelated rows; exact Yves query gives Īvs, not Ivs, citing Bankava 2004 p. 103. Seek an explicit short-i bridge and exact historical use."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lt",
+      "name": "Bazilijus",
+      "spellings": [
+        "Bazilijus"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-SALYS83",
+        "LT-SENNSALYS68",
+        "INT-BTN-BASIL1",
+        "LT-VLE-BAZILIJUS"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf",
+        "https://www.behindthename.com/name/basil-1",
+        "https://www.vle.lt/straipsnis/bazilijus-didysis/"
+      ],
+      "facts_used": "Bazilijus is the Lithuanian form paired with Basilius in the Senn–Salys dictionary. The family goes back to Greek Basileios, “royal”, related to basileus, “king”. An early historical bearer is Basil the Great, called Bazilijus Didysis in Lithuanian: he became bishop of Caesarea in 370 and died on 1 January 379. These dates concern the ancient bearer; they do not date the arrival of this Lithuanian spelling.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Salys PDF 218 / printed 203; VLE opening biography. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lt",
+      "name": "Fulgentas",
+      "spellings": [
+        "Fulgentas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-MGM-RARE",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://musugiminesmedis.lt/blogs/apie-lietuviskus-vardus/retesniu-xvii-xx-a-kriksto-vardu-sarasas",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Salys PDF 300 / printed 285 lists Fulgentas (Fulgas, Pulgis) on historical 1 January in 1964, not supplied 2 January. Genealogy compiler's Fulgentius explanation and Fulgenty/Fulgienty transcriptions lack inspected originals. Seek a scholarly exact Lithuanian Latin correspondence.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Salys PDF 300 / printed 285 lists Fulgentas (Fulgas, Pulgis) on historical 1 January in 1964, not supplied 2 January. Genealogy compiler's Fulgentius explanation and Fulgenty/Fulgienty transcriptions lack inspected originals. Seek a scholarly exact Lithuanian Latin correspondence.",
+      "next_steps": "Salys PDF 300 / printed 285 lists Fulgentas (Fulgas, Pulgis) on historical 1 January in 1964, not supplied 2 January. Genealogy compiler's Fulgentius explanation and Fulgenty/Fulgienty transcriptions lack inspected originals. Seek a scholarly exact Lithuanian Latin correspondence."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lt",
+      "name": "Gailutė",
+      "spellings": [
+        "Gailutė"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Visually checked Salys PDF 284 / printed 269 classifies Gailutė among names formed from ordinary nouns/adjectives; PDF 300 lists Gailutė (Gaila) on 2 January in 1964. Neither supplies a unique exact lexical gloss. Seek an explicit derivation rather than choosing a sense of gailus.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Visually checked Salys PDF 284 / printed 269 classifies Gailutė among names formed from ordinary nouns/adjectives; PDF 300 lists Gailutė (Gaila) on 2 January in 1964. Neither supplies a unique exact lexical gloss. Seek an explicit derivation rather than choosing a sense of gailus.",
+      "next_steps": "Visually checked Salys PDF 284 / printed 269 classifies Gailutė among names formed from ordinary nouns/adjectives; PDF 300 lists Gailutė (Gaila) on 2 January in 1964. Neither supplies a unique exact lexical gloss. Seek an explicit derivation rather than choosing a sense of gailus."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "lt",
+      "name": "Mažvydas",
+      "spellings": [
+        "Mažvydas"
+      ],
+      "countries": [
+        "lt"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "LT-PAKERYS10",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://etalpykla.lituanistika.lt/object/LT-LDB-0001%3AJ.04~2010~1367171236926/J.04~2010~1367171236926.pdf",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Pakerys treats Mažvydas as a Lithuanian compound with maž-, “small”. Salys connects vyd- with išvysti, “to see”. The elements need not form a literal sentence or describe the bearer. The exact given name is discussed in Pakerys’s 2010 linguistic study. That publication documents the form and its accentuation. A surname entry or a famous surname bearer does not supply the first birth registration of this given name.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: Pakerys PDF 10 / printed 97; Salys PDF 298 / printed 283. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "ee",
+      "name": "Algi",
+      "spellings": [
+        "Algi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC",
+        "EE-RAJANDI66",
+        "LT-SALYS83"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf",
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download",
+        "https://tautosmenta.lt/wp-content/uploads/lituanistika/Salys_1983_LT.pdf"
+      ],
+      "facts_used": "Rajandi PDF 20 / printed 22 links Algi to Algo/Algu but offers competing Algot/Algaut and alku/Algus bases; index PDF 190 has Algi Tln 62. A dated use does not settle the origin. Inspect the 1936 source and an exact scholarly analysis.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Rajandi PDF 20 / printed 22 links Algi to Algo/Algu but offers competing Algot/Algaut and alku/Algus bases; index PDF 190 has Algi Tln 62. A dated use does not settle the origin. Inspect the 1936 source and an exact scholarly analysis.",
+      "next_steps": "Rajandi PDF 20 / printed 22 links Algi to Algo/Algu but offers competing Algot/Algaut and alku/Algus bases; index PDF 190 has Algi Tln 62. A dated use does not settle the origin. Inspect the 1936 source and an exact scholarly analysis."
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "ee",
+      "name": "Esme",
+      "spellings": [
+        "Esme"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "written",
+      "verification_status": "verified_history",
+      "source_ids": [
+        "EE-RAJANDI66"
+      ],
+      "sources": [
+        "https://dspace.ut.ee/bitstreams/87883b84-6f77-4dfe-b2ac-95447f6f436a/download"
+      ],
+      "facts_used": "Rajandi places Esme among Estonian feminine names and compares its meaning with Prima, “first, firstborn”. This is a semantic comparison, not a statement that Esme was borrowed from Latin or that it is the French name Esmé. The form and its relationships are documented in Edgar Rajandi’s Raamat nimedest, published in Tallinn in 1966. The book records the naming traditions known at that time. Its publication date documents a linguistic treatment, rather than the name’s invention or its first birth registration.",
+      "hypothesis": "",
+      "reason": "Exact-form evidence supports a reviewed history in five languages.",
+      "uncertainties": "Checked location: PDF 56 / printed 58. Original PDF pages were visually read where used; catalogue transcriptions remain attributed.",
+      "next_steps": ""
+    },
+    {
+      "batch": "calendar-2027-01-02",
+      "date": "2026-11-12",
+      "calendar_date": "01-02",
+      "country": "ee",
+      "name": "Esmi",
+      "spellings": [
+        "Esmi"
+      ],
+      "countries": [
+        "ee"
+      ],
+      "status": "needs_more",
+      "verification_status": "unverified",
+      "source_ids": [
+        "EE-LEOLE05-DEC"
+      ],
+      "sources": [
+        "https://suure-jaani.ee/userfiles/leole/LEOLE_2005_12_detsember.pdf"
+      ],
+      "facts_used": "Only Leole December 2005 PDF 6 lists Esmi with Esme; no exact Rajandi entry found. Seek an independent exact short-form origin and dated use before transferring esimene or Esme's story.",
+      "hypothesis": "",
+      "reason": "Calendar research pass completed; the exact origin or dated history remains unverified.",
+      "uncertainties": "Only Leole December 2005 PDF 6 lists Esmi with Esme; no exact Rajandi entry found. Seek an independent exact short-form origin and dated use before transferring esimene or Esme's story.",
+      "next_steps": "Only Leole December 2005 PDF 6 lists Esmi with Esme; no exact Rajandi entry found. Seek an independent exact short-form origin and dated use before transferring esimene or Esme's story."
+    }
+  ]
+}

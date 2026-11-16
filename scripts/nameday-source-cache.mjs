@@ -1,11 +1,12 @@
 // Private, content-addressed cache of research sources (PDFs and opened web pages) with searchable text.
 // Originals and extracted text never enter the repository. Commands:
 //   fetch  --url URL [--id ID --title T]   download once, extract text, register; reuses an already cached URL
-//   index  --id ID --file F --url URL --title T [--ocr-json J]   register a PDF already on disk
+//   index  --id ID --file F --url URL --title T [--ocr-json J]   register a PDF (or a DjVu file with --ocr-json) already on disk
 //   search --query Q [--id ID|all] [--word true] [--limit N]
 //   list
 import {readFile,writeFile,mkdir,copyFile,access,readdir} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
+import {gunzipSync} from 'node:zlib';
 import {spawnSync} from 'node:child_process';
 import {resolve,dirname,join} from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -40,11 +41,13 @@ function htmlText(html){
 const slugId=u=>{const x=new URL(u);return ('WEB-'+(x.hostname.replace(/^www\./,'')+x.pathname+(x.search||'')).normalize('NFD').replace(/[̀-ͯ]/g,'').toUpperCase().replace(/[^A-Z0-9]+/g,'-').replace(/^-|-$/g,'')).slice(0,80).replace(/-$/,'');};
 async function indexPdf(id,file,url,title,ocrJson){
  const bytes=await readFile(file);
- if(!bytes.subarray(0,1024).includes(Buffer.from('%PDF-')))throw Error('Input is not a PDF');
+ const djvu=bytes.subarray(0,8).toString('latin1')==='AT&TFORM';
+ if(djvu&&!ocrJson)throw Error('A DjVu file needs --ocr-json from scripts/djvu-text.mjs');
+ if(!djvu&&!bytes.subarray(0,1024).includes(Buffer.from('%PDF-')))throw Error('Input is not a PDF or DjVu file');
  const sha256=createHash('sha256').update(bytes).digest('hex'),folder=join(cache,'objects',sha256),pagesPath=join(folder,'pages-v'+parserVersion+'.json');
  await mkdir(folder,{recursive:true});let reused=false;
  try{await access(pagesPath);reused=true;}catch{
-  await copyFile(file,join(folder,'source.pdf'));
+  await copyFile(file,join(folder,djvu?'source.djvu':'source.pdf'));
   let chunks,extraction='pdftotext -layout UTF-8';
   if(ocrJson){
    const ocr=JSON.parse((await readFile(resolve(ocrJson),'utf8')).replace(/^\uFEFF/,''));
@@ -63,7 +66,7 @@ async function indexPdf(id,file,url,title,ocrJson){
   await writeFile(pagesPath,JSON.stringify({parserVersion,sha256,extraction,pages},null,2)+'\n');
  }
  const parsed=JSON.parse(await readFile(pagesPath,'utf8'));
- const info={id,kind:'pdf',title,url,sha256,parserVersion,extraction:parsed.extraction||'pdftotext -layout UTF-8',pdf_pages:parsed.pages.length,object:sha256,limitations:LIMITS};
+ const info={id,kind:djvu?'djvu':'pdf',title,url,sha256,parserVersion,extraction:parsed.extraction||'pdftotext -layout UTF-8',pdf_pages:parsed.pages.length,object:sha256,limitations:LIMITS};
  await mkdir(join(cache,id),{recursive:true});await writeFile(manifestFor(id),JSON.stringify(info,null,2)+'\n');
  return {id,reused,pdf_pages:info.pdf_pages,sha256};
 }
@@ -79,6 +82,42 @@ async function indexHtml(id,bytes,url,title){
  await mkdir(join(cache,id),{recursive:true});await writeFile(manifestFor(id),JSON.stringify(info,null,2)+'\n');
  return {id,kind:'html',reused:false,chars:text.length,sha256};
 }
+async function indexGzipText(id,bytes,url,title,plain=false){
+ // Gzip-compressed plain-text lists (for example Wikipedia all-titles dumps): keep the original, store the text once.
+ // plain=true: an uncompressed CSV or text export (for example an open-data CSV), stored the same way.
+ const sha256=createHash('sha256').update(bytes).digest('hex'),folder=join(cache,'objects',sha256),pagesPath=join(folder,'pages-v'+parserVersion+'.json');
+ const text=(plain?bytes:gunzipSync(bytes)).toString('utf8'),extraction=plain?'plain-text':'gunzip-plain-text';
+ if(text.length<40)throw Error('Compressed file has no readable text; nothing cached');
+ await mkdir(folder,{recursive:true});
+ await writeFile(join(folder,plain?'source.txt':'source.gz'),bytes);
+ await writeFile(join(folder,'text-v'+parserVersion+'.txt'),text);
+ await writeFile(pagesPath,JSON.stringify({parserVersion,sha256,extraction,pages:[{pdf_page:1,text:text.slice(0,2000)}]},null,2)+'\n');
+ const info={id,kind:'text',title:title||url,url,sha256,parserVersion,extraction,pdf_pages:1,object:sha256,fetched_at:new Date().toISOString(),limitations:LIMITS+' Full text is in text-v'+parserVersion+'.txt; the search index holds only the first 2,000 characters.'};
+ await mkdir(join(cache,id),{recursive:true});await writeFile(manifestFor(id),JSON.stringify(info,null,2)+'\n');
+ return {id,kind:'text',reused:false,chars:text.length,sha256};
+}
+async function indexJson(id,bytes,url,title){
+ const value=JSON.parse(bytes.toString('utf8'));
+ if(!value||typeof value!=='object'||value.error)throw Error('Invalid JSON source or API error; nothing cached');
+ const sha256=createHash('sha256').update(bytes).digest('hex'),folder=join(cache,'objects',sha256);
+ const text=JSON.stringify(value,null,2).normalize('NFC');
+ await mkdir(folder,{recursive:true});await writeFile(join(folder,'source.json'),bytes);
+ await writeFile(join(folder,'pages-v'+parserVersion+'.json'),JSON.stringify({parserVersion,sha256,extraction:'json-structured-data',pages:[{pdf_page:1,text}]}));
+ const info={id,kind:'json',title:title||url,url,sha256,parserVersion,extraction:'json-structured-data',pdf_pages:1,object:sha256,fetched_at:new Date().toISOString(),limitations:'Structured API snapshot. Preserve entity identity, precision, calendar model, statement rank and provenance; labels alone do not establish relationships.'};
+ await mkdir(join(cache,id),{recursive:true});await writeFile(manifestFor(id),JSON.stringify(info,null,2)+'\n');
+ return {id,kind:'json',reused:false,chars:text.length,sha256};
+}
+async function indexCompressedCsv(id,bytes,url,title){
+ const result=spawnSync('bzip2',['-dc'],{input:bytes,maxBuffer:128*1024*1024,windowsHide:true});
+ if(result.error||result.status!==0)throw Error('Cannot decode bzip2 CSV: '+(result.error?.message||result.stderr));
+ const text=result.stdout.toString('utf8').normalize('NFC');if(!text.includes('\n')||!text.includes(','))throw Error('Invalid CSV source');
+ const sha256=createHash('sha256').update(bytes).digest('hex'),folder=join(cache,'objects',sha256);await mkdir(folder,{recursive:true});
+ await writeFile(join(folder,'source.csv.bz2'),bytes);await writeFile(join(folder,'source.csv'),text);
+ const lines=text.split('\n'),pages=[];for(let i=0;i<lines.length;i+=500)pages.push({pdf_page:pages.length+1,text:lines.slice(i,i+500).join('\n')});
+ await writeFile(join(folder,'pages-v'+parserVersion+'.json'),JSON.stringify({parserVersion,sha256,extraction:'bzip2-csv',pages}));
+ const info={id,kind:'csv',title:title||url,url,sha256,parserVersion,extraction:'bzip2-csv',pdf_pages:pages.length,object:sha256,fetched_at:new Date().toISOString(),limitations:'Structured dataset snapshot; preserve row identity, date precision and provenance. Search-page numbers are groups of500 CSV lines, not printed pages.'};
+ await mkdir(join(cache,id),{recursive:true});await writeFile(manifestFor(id),JSON.stringify(info,null,2)+'\n');return {id,kind:'csv',reused:false,rows:lines.length-1,sha256};
+}
 if(command==='index'){
  if(!options.file||!options.url||!options.title)throw Error('index requires --file, --url and --title');
  console.log(JSON.stringify(await indexPdf(id,resolve(options.file),options.url,options.title,options['ocr-json'])));
@@ -87,16 +126,35 @@ if(command==='index'){
  await (async()=>{try{
  if(!/^https?:\/\//.test(options.url||''))throw Error('fetch requires --url http(s)://…');
  const known=(await manifests()).find(m=>urlKey(m.url)===urlKey(options.url));
- if(known){console.log(JSON.stringify({id:known.id,kind:known.kind||'pdf',reused:true,pdf_pages:known.pdf_pages,title:known.title}));return;}
+ if(known){
+  let reused=known;
+  if(id&&id!==known.id){
+   let prior;try{prior=JSON.parse(await readFile(manifestFor(id),'utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
+   if(prior&&urlKey(prior.url)!==urlKey(options.url))throw Error('Source ID '+id+' already belongs to another URL; choose a distinct ID');
+   reused={...known,id,title:options.title||known.title};
+   await mkdir(join(cache,id),{recursive:true});await writeFile(manifestFor(id),JSON.stringify(reused,null,2)+'\n');
+  }
+  console.log(JSON.stringify({id:reused.id,kind:reused.kind||'pdf',reused:true,pdf_pages:reused.pdf_pages,title:reused.title}));return;
+ }
  const sourceId=id||slugId(options.url);
- const response=await fetch(options.url,{redirect:'follow',headers:{'user-agent':'Mozilla/5.0 (compatible; research-source-cache)','accept':'application/pdf,text/html;q=0.9,*/*;q=0.5'},signal:AbortSignal.timeout(Number(options.timeout||120000))});
+ let prior;try{prior=JSON.parse(await readFile(manifestFor(sourceId),'utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
+ if(prior&&urlKey(prior.url)!==urlKey(options.url))throw Error('Source ID '+sourceId+' already belongs to another URL; choose a distinct ID');
+ const response=await fetch(options.url,{redirect:'follow',headers:{'user-agent':/(^|\.)(wikipedia|wikidata)\.org$/.test(new URL(options.url).hostname)?'NamedaysWidgetResearch/1.0 (name-day widget research; low-rate cached API lookups) node-fetch':'Mozilla/5.0 (compatible; research-source-cache)','accept':'application/pdf,text/html;q=0.9,*/*;q=0.5'},signal:AbortSignal.timeout(Number(options.timeout||120000))});
  if(!response.ok)throw Error('HTTP '+response.status+' for '+options.url+'; nothing cached');
  const bytes=Buffer.from(await response.arrayBuffer());
- if(bytes.subarray(0,1024).includes(Buffer.from('%PDF-'))){
+ if(bytes[0]===0x1f&&bytes[1]===0x8b){
+  console.log(JSON.stringify(await indexGzipText(sourceId,bytes,options.url,options.title)));
+ }else if(bytes.subarray(0,3).toString()==='BZh'){
+  console.log(JSON.stringify(await indexCompressedCsv(sourceId,bytes,options.url,options.title)));
+ }else if(bytes.subarray(0,1024).includes(Buffer.from('%PDF-'))){
   const folder=join(project,'../var/namedays-research/fetched');await mkdir(folder,{recursive:true});
   const file=join(folder,createHash('sha256').update(bytes).digest('hex').slice(0,16)+'.pdf');await writeFile(file,bytes);
   const title=options.title||decodeURIComponent(new URL(options.url).pathname.split('/').pop()||options.url);
   console.log(JSON.stringify({...await indexPdf(sourceId,file,options.url,title),kind:'pdf'}));
+ }else if(/text\/csv/i.test(response.headers.get('content-type')||'')){
+  console.log(JSON.stringify(await indexGzipText(sourceId,bytes,options.url,options.title,true)));
+ }else if(/\bjson\b/i.test(response.headers.get('content-type')||'')){
+  console.log(JSON.stringify(await indexJson(sourceId,bytes,options.url,options.title)));
  }else if(/html|xml|text\/plain/i.test(response.headers.get('content-type')||'')||/<html|<body|<!doctype/i.test(bytes.subarray(0,2048).toString('utf8'))){
   console.log(JSON.stringify(await indexHtml(sourceId,bytes,options.url,options.title)));
  }else throw Error('Unsupported content type '+(response.headers.get('content-type')||'unknown')+'; nothing cached');

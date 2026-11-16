@@ -1,0 +1,19 @@
+{
+ "round": 150,
+ "date": "2026-11-16",
+ "writer_version": "namedays-1.9.127",
+ "scope": "User check of Ingmārs and Velga: supplement hypotheses after short reviewed histories; richer reviewed history for Velga.",
+ "findings": {
+  "Ingmārs": "Had a short reviewed history (form of Ingomārs; Riga 1965). Hypotheses were shown only for names without any reviewed history, so the Old Norse origin written for its variants (Ingomars, Inmārs, Ingemāra in round 144) never reached Ingmārs itself.",
+  "Velga": "The displayed reviewed text was short although the cached sources hold more: Siliņš 1990 p. 320 (pet forms, calendar 1915, Valmiera 1933) and Balodis 2008 pp. 97–98 (popularity 1920–1944 and especially 1945–1970, 1,339 bearers in 2008, among the most popular names from abstract words). No cached source links Velga with Rainis; Balodis links the similar name Velta with a character in Aspazija's play Zaudētās tiesības."
+ },
+ "changes": [
+  "New module public/namedays-hypotheses-supplements.js: a labelled hypothesis paragraph appended after a reviewed history (each paragraph opens with the translated Hypothesis label). First entry: LV Ingmārs.",
+  "public/namedays-history-r150-calendar.js: richer reviewed history for LV Velga."
+ ],
+ "measurement": "About 430 reviewed histories contain no origin wording at all and about 890 are only “X is a form of Y” with a record; they are candidates for supplement hypotheses.",
+ "records": [
+  {"batch":"user-check-2026-11-16","date":"2026-11-16","calendar_date":"05-21","country":"lv","name":"Ingmārs","spellings":["Ingmārs"],"countries":["lv"],"status":"written","verification_status":"unverified","source_ids":[],"sources":[],"facts_used":"Supplement hypothesis: form of Scandinavian Ingmar (Old Norse Ing + mærr, “famous”); not documented for the Latvian form.","basis":"General onomastic knowledge; the reviewed history (form of Ingomārs, Riga 1965) is unchanged.","next_step":"Find a source that links Ingmārs/Ingomārs with Scandinavian Ingmar."},
+  {"batch":"user-check-2026-11-16","date":"2026-11-16","calendar_date":"08-13","country":"lv","name":"Velga","spellings":["Velga"],"countries":["lv"],"status":"written","verification_status":"reviewed","source_ids":["LV-SILINS90","LV-BALODIS08"],"sources":["https://periodika.lv/periodika2-viewer/#issue:/696041","https://dspace.lu.lv/dspace/bitstream/handle/7/4776/28936-Pauls_Balodis_2008.pdf?isAllowed=y&sequence=1"],"facts_used":"Siliņš 1990 p. 320: Velga, la. veldze; dem. Veldziņa, -išs, Velgišs, -ucis, Veļuks; Valmiera 1933; calendar 1915. Balodis 2008 pp. 97–98: popular 1920–1944 and especially 1945–1970; 1,339 bearers in 2008; among the most popular abstract-word names."}
+ ]
+}
