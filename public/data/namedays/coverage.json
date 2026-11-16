@@ -1,5 +1,5 @@
 {
-  "writer_version": "namedays-1.9.133",
+  "writer_version": "namedays-1.9.134",
   "enabled_countries": [
     "lv",
     "lt",
@@ -16,10 +16,10 @@
       "research_pending": 1,
       "editorial": {
         "reviewed_narratives": 3517,
-        "factual_summaries": 81,
+        "factual_summaries": 78,
         "attestation_only": 0,
-        "needs_research": 1958,
-        "unverified_hypotheses": 1947,
+        "needs_research": 1961,
+        "unverified_hypotheses": 1961,
         "fictional_stories": 0,
         "translated_languages": [
           "lv",
@@ -44,7 +44,7 @@
         "factual_summaries": 3,
         "attestation_only": 0,
         "needs_research": 201,
-        "unverified_hypotheses": 192,
+        "unverified_hypotheses": 201,
         "fictional_stories": 0,
         "translated_languages": [
           "lv",
@@ -66,10 +66,10 @@
       "research_pending": 0,
       "editorial": {
         "reviewed_narratives": 1248,
-        "factual_summaries": 10,
+        "factual_summaries": 5,
         "attestation_only": 0,
-        "needs_research": 295,
-        "unverified_hypotheses": 287,
+        "needs_research": 300,
+        "unverified_hypotheses": 297,
         "fictional_stories": 0,
         "translated_languages": [
           "lv",

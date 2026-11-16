@@ -17,7 +17,7 @@ Select-String -Path research/namedays/source-index.csv -Pattern "Heinar"
 
 A text hit is a discovery aid. Inspect the rendered original page before using it as evidence.
 
-**2397 source IDs**; 114 with a cached PDF. 545 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
+**2397 source IDs**; 114 with a cached PDF. 546 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
 
 ## Estonia
 
@@ -55,7 +55,7 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | EE-PAEVALEHT-19281025 | *Päevaleht*, 25 October 1928, PDF5: article “Oskar Kallas ja eestiline kultuur” for Kallas’s sixtieth birthday. Indexed from the user’s download (DIGAR newspaper issue;… | 102–111 (6) | 1 / 13 | 10 |
 | EE-POMOZI16 | Péter Pomozi and Eszter Földesi, Az észt névtervezés az észt nyelvpolitikai modell tükrében, *Névtani Értesítő* 38 (2016), pp. 193–207, DOI 10.29178/NevtErt.2016.15.… | 19 | 6 / 0 |  |
 | EE-PRESIDENCY | Estonian presidential office, Arnold Rüütel biography, term dates and election paragraphs. | 16 | 1 / 0 |  |
-| EE-RAJANDI66 | Edgar Rajandi, *Raamat nimedest*, Tallinn: Eesti Raamat, 1966. University of Tartu DSpace PDF (138 MB, text layer present but OCR is unreliable; inspect page images).… | 56–141 (68) | 820 / 565 | 247 |
+| EE-RAJANDI66 | Edgar Rajandi, *Raamat nimedest*, Tallinn: Eesti Raamat, 1966. University of Tartu DSpace PDF (138 MB, text layer present but OCR is unreliable; inspect page images).… | 56–164 (69) | 837 / 565 | 247 |
 | EE-REZOLD1869 | J. R. Rezold, Nimede seletus (Tallinn 1869), DIGAR item page. | 102 | 0 / 1 | 10 |
 | EE-RIIGIKOGU | Parliament of Estonia, Helmer Jõgi biography, parliamentary service line. | 20 | 1 / 0 |  |
 | EE-SAAR16 | Evar Saar, Rõuge ja Vastseliina talupoegade eesnimed XVI ja XVII sajandil, in *Õdagumeresuumlaisi nimeq / Läänemeresoomlaste nimed / Names of Finnic People*,… | 20, 57, 84 | 4 / 3 |  |

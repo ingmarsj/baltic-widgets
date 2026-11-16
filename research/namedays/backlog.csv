@@ -12,7 +12,7 @@ ee,Asta,unresearched,863,Statistics Estonia exact first name,11-27,unverified,ne
 ee,Ilme,unresearched,809,Statistics Estonia exact first name,08-26,unverified,,
 ee,Lenna,unresearched,804,Statistics Estonia exact first name,06-25,unverified,,
 ee,Janika,unresearched,775,Statistics Estonia exact first name,08-15,unverified,,
-ee,Kirke,summary,726,Statistics Estonia exact first name,11-07,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
+ee,Kirke,unresearched,726,Statistics Estonia exact first name,11-07,unverified,,
 ee,Egle,unresearched,715,Statistics Estonia exact first name,03-03,unverified,,
 ee,Aire,unresearched,708,Statistics Estonia exact first name,12-02,unverified,needs_more,Find an exact Estonian explanation of Aire.
 ee,Karolin,unresearched,643,Statistics Estonia exact first name,06-20,unverified,,
@@ -49,7 +49,7 @@ ee,Raino,unresearched,159,Statistics Estonia exact first name,10-01,unverified,,
 ee,Marita,unresearched,157,Statistics Estonia exact first name,07-13,unverified,,
 ee,Fredi,unresearched,155,Statistics Estonia exact first name,10-29,unverified,,
 ee,Kenno,unresearched,155,Statistics Estonia exact first name,06-17,unverified,,
-ee,Kairo,summary,149,Statistics Estonia exact first name,11-03,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Rajandi PDF 90 places Kairo in the Kaira/Kaire/Kairi group. The 1951 and 1955 records belong to Kairi and Kaire, not Kairo. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
+ee,Kairo,unresearched,149,Statistics Estonia exact first name,11-03,unverified,,
 ee,Ingvar,unresearched,145,Statistics Estonia exact first name,02-26,unverified,,
 ee,Ülari,unresearched,137,Statistics Estonia exact first name,09-01,unverified,,
 ee,Verner,unresearched,135,Statistics Estonia exact first name,04-15,unverified,,
@@ -89,8 +89,8 @@ ee,Tamur,unresearched,56,Statistics Estonia exact first name,12-24,unverified,he
 ee,Riine,unresearched,55,Statistics Estonia exact first name,10-09,unverified,,
 ee,Maivi,unresearched,53,Statistics Estonia exact first name,09-02,unverified,,
 ee,Milja,unresearched,53,Statistics Estonia exact first name,05-19,unverified,,
-ee,Kaidu,summary,52,Statistics Estonia exact first name,11-03,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Rajandi PDF 90 has Kaido (~Kaidu), but the dated 1936 recommendation refers to Kaido; no separate exact Kaidu episode is established. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
-ee,Elvo,unresearched,50,Statistics Estonia exact first name,11-11,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
+ee,Kaidu,unresearched,52,Statistics Estonia exact first name,11-03,unverified,,
+ee,Elvo,unresearched,50,Statistics Estonia exact first name,11-11,unverified,,
 ee,Kimmo,unresearched,48,Statistics Estonia exact first name,03-29,unverified,,
 ee,Helger,unresearched,47,Statistics Estonia exact first name,08-02,unverified,,
 ee,Säsil,unresearched,47,Statistics Estonia exact first name,11-22,unverified,needs_more,"Find an Estonian name dictionary (Seppo 1994, EE-EKI bibliography) with an exact Säsil entry and its Cécile/Cecilia bridge."
@@ -176,8 +176,8 @@ ee,Imant,unresearched,8,Statistics Estonia exact first name,03-26,unverified,,
 ee,Jaako,unresearched,8,Statistics Estonia exact first name,07-25,unverified,,
 ee,Malev,unresearched,8,Statistics Estonia exact first name,06-23,unverified,,
 ee,Meino,unresearched,8,Statistics Estonia exact first name,02-20,unverified,,
-ee,Siimu,summary,8,Statistics Estonia exact first name,10-28,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
-ee,Simmu,summary,8,Statistics Estonia exact first name,10-28,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
+ee,Siimu,unresearched,8,Statistics Estonia exact first name,10-28,unverified,,
+ee,Simmu,unresearched,8,Statistics Estonia exact first name,10-28,unverified,,
 ee,Ervi,unresearched,7,Statistics Estonia exact first name,09-13,unverified,,
 ee,Haili,unresearched,7,Statistics Estonia exact first name,03-03,unverified,,
 ee,Helend,unresearched,7,Statistics Estonia exact first name,06-30,unverified,,
@@ -185,7 +185,7 @@ ee,Helmu,unresearched,7,Statistics Estonia exact first name,11-20,unverified,nee
 ee,Ike,unresearched,7,Statistics Estonia exact first name,02-13,unverified,,
 ee,Veevi,unresearched,7,Statistics Estonia exact first name,06-02,unverified,,
 ee,Alvo,unresearched,6,Statistics Estonia exact first name,09-24,unverified,,
-ee,Erla,unresearched,6,Statistics Estonia exact first name,11-04,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
+ee,Erla,unresearched,6,Statistics Estonia exact first name,11-04,unverified,,
 ee,Ervo,unresearched,6,Statistics Estonia exact first name,09-13,unverified,,
 ee,Helliki,unresearched,6,Statistics Estonia exact first name,03-03,unverified,,
 ee,Kaaro,unresearched,6,Statistics Estonia exact first name,01-28,unverified,,
@@ -219,7 +219,7 @@ ee,Helmur,unresearched,< 5,Statistics Estonia exact first name,11-20,unverified,
 ee,Hendrika,unresearched,< 5,Statistics Estonia exact first name,01-20,unverified,,
 ee,Herbi,unresearched,< 5,Statistics Estonia exact first name,03-16,unverified,,
 ee,Hiljo,unresearched,< 5,Statistics Estonia exact first name,08-07,unverified,,
-ee,Hingi,unresearched,< 5,Statistics Estonia exact first name,11-02,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
+ee,Hingi,unresearched,< 5,Statistics Estonia exact first name,11-02,unverified,,
 ee,Hingo,unresearched,< 5,Statistics Estonia exact first name,12-14,unverified,needs_more,Same as Hengo.
 ee,Hrm,unresearched,< 5,Statistics Estonia exact first name,07-12,unverified,,
 ee,Hurme,unresearched,< 5,Statistics Estonia exact first name,04-11,unverified,,
@@ -246,7 +246,7 @@ ee,Leido,unresearched,< 5,Statistics Estonia exact first name,05-29,unverified,,
 ee,Leidur,unresearched,< 5,Statistics Estonia exact first name,05-29,unverified,,
 ee,Leine,unresearched,< 5,Statistics Estonia exact first name,06-14,unverified,,
 ee,Lemmert,unresearched,< 5,Statistics Estonia exact first name,09-21,unverified,,
-ee,Madro,unresearched,< 5,Statistics Estonia exact first name,11-10,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect the exact Rajandi/Mägiste entry and a separately scoped dated Estonian use; do not transfer the dates or historical spellings of a neighbouring form."
+ee,Madro,unresearched,< 5,Statistics Estonia exact first name,11-10,unverified,,
 ee,Mainmi,unresearched,< 5,Statistics Estonia exact first name,08-27,unverified,,
 ee,Malde,unresearched,< 5,Statistics Estonia exact first name,03-14,unverified,,
 ee,Marna,unresearched,< 5,Statistics Estonia exact first name,09-19,unverified,,
@@ -289,7 +289,7 @@ ee,Tiino,unresearched,< 5,Statistics Estonia exact first name,05-21,unverified,,
 ee,Truude,unresearched,< 5,Statistics Estonia exact first name,03-17,unverified,,
 ee,Üar,unresearched,< 5,Statistics Estonia exact first name,09-01,unverified,,
 ee,Uljo,unresearched,< 5,Statistics Estonia exact first name,04-15,unverified,,
-ee,Ulmi,unresearched,< 5,Statistics Estonia exact first name,02-29,unverified,needs_more,Inspect the exact primary entry and a separately dated episode. Rajandi index search PDF219/printed221 points to EK37:128. Inspect that original 1937 reference; the index alone does not prove a dream-word derivation.
+ee,Ulmi,unresearched,< 5,Statistics Estonia exact first name,02-29,unverified,,
 ee,Ulrik,unresearched,< 5,Statistics Estonia exact first name,04-12,unverified,,
 ee,Une,summary,< 5,Statistics Estonia exact first name,02-29,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Cache hits are common-word sleep contexts or a Norwegian rendering row, not an Estonian given-name etymology. No exact human historical episode established."
 ee,Urbe,unresearched,< 5,Statistics Estonia exact first name,04-20,unverified,,
@@ -304,7 +304,7 @@ ee,Virma,unresearched,< 5,Statistics Estonia exact first name,03-02,unverified,,
 ee,Virvi,unresearched,< 5,Statistics Estonia exact first name,03-02,unverified,,
 ee,Virvo,unresearched,< 5,Statistics Estonia exact first name,07-04,unverified,,
 ee,Võitur,unresearched,< 5,Statistics Estonia exact first name,05-12,unverified,,
-lt,Agrikola,unresearched,,,11-04,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Agrikola,unresearched,,,11-04,unverified,,
 lt,Aina,unresearched,,,10-08,unverified,,
 lt,Aiškutė,unresearched,,,08-12,unverified,,
 lt,Akvilma,unresearched,,,06-13,unverified,,
@@ -340,7 +340,7 @@ lt,Cezarė,unresearched,,,01-12,unverified,,
 lt,Dagailė,unresearched,,,06-21,unverified,,
 lt,Dagmara,unresearched,,,12-12,unverified,needs_more,Find a Lithuanian scholarly entry for Dagmara choosing the route.
 lt,Dargailas,unresearched,,,05-04,unverified,,
-lt,Dargintas,unresearched,,,11-09,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Dargintas,unresearched,,,11-09,unverified,,
 lt,Dargintė,unresearched,,,11-22,unverified,needs_more,Follow the exact Dargintė references LVEŽ69/CA102/VKn75/VKat4 and inspect original first-stem analysis.
 lt,Dargvitė,unresearched,,,07-24,unverified,,
 lt,Daugailas,unresearched,,,10-24,unverified,,
@@ -371,11 +371,11 @@ lt,Galindė,unresearched,,,06-01,unverified,,
 lt,Galinta,unresearched,,,09-23,unverified,,
 lt,Galintė,unresearched,,,09-23,unverified,,
 lt,Galmantė,unresearched,,,03-07 09-18,unverified,,
-lt,Galvydė,unresearched,,,11-10,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Galvydė,unresearched,,,11-10,unverified,,
 lt,Ganvilė,unresearched,,,03-24,unverified,,
 lt,Gatigintas,unresearched,,,03-23,unverified,,
 lt,Gaydvilė,unresearched,,,03-08,unverified,,
-lt,Gedardas,unresearched,,,11-02,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Gedardas,unresearched,,,11-02,unverified,,
 lt,Gedėtas,unresearched,,,10-09,unverified,,
 lt,Gedgailė,unresearched,,,07-04,unverified,,
 lt,Gedgaudė,unresearched,,,03-22,unverified,,
@@ -385,7 +385,7 @@ lt,Geisvilas,unresearched,,,10-19,unverified,,
 lt,Geisvilė,unresearched,,,12-05,unverified,needs_more,Search Pakerys 2011 / LVKŽ for exact Geisvilė; keep geis- + vil- labelled.
 lt,Geisvinė,unresearched,,,12-05,unverified,needs_more,Search Pakerys 2011 for -vin- female forms including Geisvinė.
 lt,Geisvyda,unresearched,,,06-25,unverified,,
-lt,Gelvydė,unresearched,,,11-10,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Gelvydė,unresearched,,,11-10,unverified,,
 lt,Gentvainas,unresearched,,,12-29,unverified,,
 lt,Gentvila,unresearched,,,03-17,unverified,,
 lt,Gerdvilas,unresearched,,,12-19,unverified,needs_more,Find an exact Gerdvilas attestation and a scholarly analysis of gerd-/gird-.
@@ -452,7 +452,7 @@ lt,Norgailis,unresearched,,,01-16,unverified,,
 lt,Norgaudas,unresearched,,,11-21 12-21,unverified,needs_more,Find a scholarly element analysis for Norgaudas.
 lt,Norgaudė,unresearched,,,12-21,unverified,needs_more,Find an exact Norgaudė attestation.
 lt,Norvaidė,unresearched,,,04-22,unverified,,
-lt,Norvainė,unresearched,,,11-03,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Norvainė,unresearched,,,11-03,unverified,,
 lt,Norvaldė,unresearched,,,03-16,unverified,,
 lt,Norvydė,unresearched,,,12-06,unverified,needs_more,Find exact feminine Norvydė in Pakerys 2011 with a dated calendar entry.
 lt,Panteleonas,unresearched,,,07-27,unverified,,
@@ -465,12 +465,12 @@ lt,Romula,unresearched,,,07-23,unverified,,
 lt,Roželė,unresearched,,,09-14,unverified,,
 lt,Saturnas,unresearched,,,11-29,unverified,needs_more,Find a dated Lithuanian given-name record for Saturnas.
 lt,Seragina,unresearched,,,09-09,unverified,,
-lt,Severijonas,unresearched,,,11-08,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Severijonas,unresearched,,,11-08,unverified,,
 lt,Sigisbertas,unresearched,,,07-12,unverified,,
 lt,Sigutis,unresearched,,,03-24,unverified,,
 lt,Simplicijus,unresearched,,,07-29 03-02,unverified,,
-lt,Sitvija,unresearched,,,11-03,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. The inspected calendar reads Silvija (Silva), not exact Sitvija. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
-lt,Skirtautė,unresearched,,,11-09,unverified,needs_more,"Inspect the exact primary entry and a separately dated episode. Exact cache search did not establish both a formation or explicit form relationship and an independently scoped dated episode. Dictionary/index/related-form hits remain leads, not verified roots. Inspect Kuzavinis–Savukynas or the exact VLKK/academic entry, keeping Salys calendar pairs distinct from a distant etymology; verify a separate dated use."
+lt,Sitvija,unresearched,,,11-03,unverified,,
+lt,Skirtautė,unresearched,,,11-09,unverified,,
 lt,Skirvydė,unresearched,,,10-30,unverified,,
 lt,Steigintas,unresearched,,,11-22,unverified,needs_more,Inspect exact Steigintas in authoritative dictionary and establish an explicit Steigintas/Steikintas bridge if one exists.
 lt,Svalia,unresearched,,,07-27,unverified,,
@@ -1118,7 +1118,7 @@ lv,Katri,unresearched,9,PMLP registered name component,11-25,unverified,needs_mo
 lv,Levijs,unresearched,9,PMLP registered name component,05-30,unverified,,
 lv,Madeleina,unresearched,9,PMLP registered name component,07-23,unverified,,
 lv,Mārica,unresearched,9,PMLP registered name component,09-22,unverified,,
-lv,Nelima,unresearched,9,PMLP registered name component,11-11,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Nelima,unresearched,9,PMLP registered name component,11-11,unverified,,
 lv,Nikolla,unresearched,9,PMLP registered name component,12-06,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Normands,unresearched,9,PMLP registered name component,08-02,unverified,,
 lv,Olija,unresearched,9,PMLP registered name component,11-28,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
@@ -1212,7 +1212,7 @@ lv,Romēns,unresearched,7,PMLP registered name component,08-04,unverified,,
 lv,Šelbija,unresearched,7,PMLP registered name component,09-26,unverified,,
 lv,Sigmunds,unresearched,7,PMLP registered name component,05-02,unverified,,
 lv,Silvers,unresearched,7,PMLP registered name component,10-11,unverified,,
-lv,Teovils,summary,7,PMLP registered name component,11-09,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Teovils,unresearched,7,PMLP registered name component,11-09,unverified,,
 lv,Terēsa,unresearched,7,PMLP registered name component,04-28,unverified,,
 lv,Terijs,unresearched,7,PMLP registered name component,10-02,unverified,,
 lv,Torija,unresearched,7,PMLP registered name component,10-04,unverified,,
@@ -1494,7 +1494,7 @@ lv,Vigija,unresearched,4,PMLP registered name component,11-20,unverified,held,
 lv,Vitalisa,unresearched,4,PMLP registered name component,08-23,unverified,,
 lv,Zanza,unresearched,4,PMLP registered name component,12-05,unverified,held,
 lv,Zigne,unresearched,4,PMLP registered name component,09-11,unverified,,
-lv,Agrija,unresearched,3,PMLP registered name component,11-08,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Agrija,unresearched,3,PMLP registered name component,11-08,unverified,,
 lv,Aigijs,unresearched,3,PMLP registered name component,08-29,unverified,,
 lv,Alaida,unresearched,3,PMLP registered name component,02-03,unverified,,
 lv,Albertina,unresearched,3,PMLP registered name component,09-10,unverified,,
@@ -1647,7 +1647,7 @@ lv,Vairīte,unresearched,3,PMLP registered name component,09-17,unverified,,
 lv,Vaits,unresearched,3,PMLP registered name component,10-31,unverified,,
 lv,Valeriana,unresearched,3,PMLP registered name component,04-09,unverified,,
 lv,Valijs,unresearched,3,PMLP registered name component,05-12,unverified,,
-lv,Vegita,unresearched,3,PMLP registered name component,11-04,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Vegita,unresearched,3,PMLP registered name component,11-04,unverified,,
 lv,Veners,unresearched,3,PMLP registered name component,09-23,unverified,,
 lv,Vidmunds,unresearched,3,PMLP registered name component,07-29,unverified,,
 lv,Vigeta,unresearched,3,PMLP registered name component,11-20,unverified,held,
@@ -1662,7 +1662,7 @@ lv,Virgenija,unresearched,3,PMLP registered name component,11-29,unverified,need
 lv,Vitija,unresearched,3,PMLP registered name component,11-28,unverified,,
 lv,Vitis,unresearched,3,PMLP registered name component,06-15,unverified,,
 lv,Vitors,unresearched,3,PMLP registered name component,06-19,unverified,,
-lv,Vivanta,unresearched,3,PMLP registered name component,11-02,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Vivanta,unresearched,3,PMLP registered name component,11-02,unverified,,
 lv,Vizbule,unresearched,3,PMLP registered name component,05-04,unverified,,
 lv,Voiceks,unresearched,3,PMLP registered name component,12-02,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Žermena,unresearched,3,PMLP registered name component,06-15,unverified,,
@@ -1672,7 +1672,7 @@ lv,Zigvards,unresearched,3,PMLP registered name component,01-25,unverified,,
 lv,Zosja,unresearched,3,PMLP registered name component,05-15,unverified,,
 lv,Aģis,unresearched,2,PMLP registered name component,03-11,unverified,,
 lv,Aglikerija,unresearched,2,PMLP registered name component,05-27,unverified,,
-lv,Agreda,unresearched,2,PMLP registered name component,11-08,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Agreda,unresearched,2,PMLP registered name component,11-08,unverified,,
 lv,Aigula,unresearched,2,PMLP registered name component,08-29,unverified,,
 lv,Aigvars,unresearched,2,PMLP registered name component,08-31,unverified,,
 lv,Ainards,unresearched,2,PMLP registered name component,06-13,unverified,,
@@ -1884,10 +1884,10 @@ lv,Valfrīda,unresearched,2,PMLP registered name component,10-12,unverified,,
 lv,Valta,unresearched,2,PMLP registered name component,10-31,unverified,,
 lv,Varīte,unresearched,2,PMLP registered name component,05-26,unverified,,
 lv,Vasilika,unresearched,2,PMLP registered name component,01-23,unverified,,
-lv,Veimārs,unresearched,2,PMLP registered name component,11-05,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Veimārs,unresearched,2,PMLP registered name component,11-05,unverified,,
 lv,Veldza,unresearched,2,PMLP registered name component,12-13,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Venīna,unresearched,2,PMLP registered name component,09-23,unverified,,
-lv,Veno,unresearched,2,PMLP registered name component,11-07,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Veno,unresearched,2,PMLP registered name component,11-07,unverified,,
 lv,Vidarts,unresearched,2,PMLP registered name component,11-12,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Vīdega,unresearched,2,PMLP registered name component,04-05,unverified,,
 lv,Vidulis,unresearched,2,PMLP registered name component,06-11,unverified,,
@@ -2049,9 +2049,9 @@ lv,Higo,unresearched,1,PMLP registered name component,11-17,unverified,needs_mor
 lv,Honorads,unresearched,1,PMLP registered name component,04-24,unverified,,
 lv,Igmārs,unresearched,1,PMLP registered name component,03-30,unverified,,
 lv,Ignars,unresearched,1,PMLP registered name component,03-30,unverified,,
-lv,Ikola,unresearched,1,PMLP registered name component,11-01,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
-lv,Ildefons,summary,1,PMLP registered name component,11-01,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
-lv,Ildra,unresearched,1,PMLP registered name component,11-01,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Ikola,unresearched,1,PMLP registered name component,11-01,unverified,,
+lv,Ildefons,unresearched,1,PMLP registered name component,11-01,unverified,,
+lv,Ildra,unresearched,1,PMLP registered name component,11-01,unverified,,
 lv,Ilgvards,unresearched,1,PMLP registered name component,03-01,unverified,,
 lv,Ilgvaris,unresearched,1,PMLP registered name component,03-01,unverified,,
 lv,Ilmija,unresearched,1,PMLP registered name component,10-02,unverified,,
@@ -2123,7 +2123,7 @@ lv,Narajana,unresearched,1,PMLP registered name component,06-29,unverified,,
 lv,Nilda,unresearched,1,PMLP registered name component,02-07,unverified,,
 lv,Nimmija,unresearched,1,PMLP registered name component,07-08,unverified,,
 lv,Nimue,unresearched,1,PMLP registered name component,07-08,unverified,,
-lv,Niseta,unresearched,1,PMLP registered name component,10-28,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Niseta,unresearched,1,PMLP registered name component,10-28,unverified,,
 lv,Nominanda,unresearched,1,PMLP registered name component,07-09,unverified,,
 lv,Norika,unresearched,1,PMLP registered name component,06-12,unverified,,
 lv,Normants,unresearched,1,PMLP registered name component,08-02,unverified,,
@@ -2187,7 +2187,7 @@ lv,Trūta,unresearched,1,PMLP registered name component,03-17,unverified,,
 lv,Ulams,unresearched,1,PMLP registered name component,10-05,unverified,,
 lv,Ulda,unresearched,1,PMLP registered name component,10-30,unverified,,
 lv,Undita,unresearched,1,PMLP registered name component,11-15,unverified,needs_more,No further source; leave open.
-lv,Ungars,summary,1,PMLP registered name component,11-01,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Ungars,unresearched,1,PMLP registered name component,11-01,unverified,,
 lv,Valdeks,unresearched,1,PMLP registered name component,12-11,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Valdimārts,unresearched,1,PMLP registered name component,12-11,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Valdmiers,unresearched,1,PMLP registered name component,12-11,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
@@ -2218,7 +2218,7 @@ lv,Virgīne,unresearched,1,PMLP registered name component,11-29,unverified,needs
 lv,Virģīnija,unresearched,1,PMLP registered name component,11-29,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Vismands,unresearched,1,PMLP registered name component,08-29,unverified,,
 lv,Vitars,unresearched,1,PMLP registered name component,08-23,unverified,,
-lv,Vivanto,unresearched,1,PMLP registered name component,11-02,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
+lv,Vivanto,unresearched,1,PMLP registered name component,11-02,unverified,,
 lv,Voicihs,unresearched,1,PMLP registered name component,12-02,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Voitiks,unresearched,1,PMLP registered name component,12-02,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.
 lv,Volfreds,unresearched,1,PMLP registered name component,12-03,unverified,needs_more,Keep the existing hypothesis or missing-history state; look for an exact-spelling dated source (LV-PERIODIKA) or a naming study.

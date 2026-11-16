@@ -1,0 +1,2971 @@
+{
+ "round": 164,
+ "date": "2026-11-17",
+ "writer_version": "namedays-1.9.134",
+ "scope": "User request: every calendar name should show at least an unverified part. Names whose displayed text had no origin part at all (only a calendar date, a register record or a namesake) got a labelled supplement (reviewed text) or hypothesis (no text).",
+ "measurement": "var/namedays-research/empty164.mjs plus a stricter filter (empty164b.json): 142 names (LV 15, LT 26, EE 101); Kalli already had a word link. After this round only three malformed Estonian calendar entries remain without text.",
+ "sources": "Rajandi 1966 body text (EE-RAJANDI66, pages before the index) for name groups (nature names, sister and brother names), variants and base names; Estonian Wikipedia name articles were checked (Halliki) and give only bearer counts and namesakes, so they were not used for origins.",
+ "left_open": [
+  "Antonia Ande, Kullar Kullo, Snno: malformed entries in the source file namedays.txt (two names joined or a misspelling); fix at the source."
+ ],
+ "records": [
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-15",
+   "country": "lv",
+   "name": "Amalda",
+   "spellings": [
+    "Amalda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Amalda may be a newer name formed for its sound; compare Amālija, Imalda, Valda. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-23",
+   "country": "lt",
+   "name": "Vaida",
+   "spellings": [
+    "Vaida"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vaida is probably a short form of names such as Vaidotė, Vaidilutė.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-08",
+   "country": "lt",
+   "name": "Daugas",
+   "spellings": [
+    "Daugas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Daugas may be linked with Lithuanian daug, “much”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "01-29",
+   "country": "lt",
+   "name": "Aivaras",
+   "spellings": [
+    "Aivaras"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ivars is usually explained from Old Norse ýr + herr, “yew (bow) + army”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-17",
+   "country": "lt",
+   "name": "Vaiga",
+   "spellings": [
+    "Vaiga"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vaiga may be a newer name formed for its sound; compare Vaida, Vaiva. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-09",
+   "country": "lt",
+   "name": "Algė",
+   "spellings": [
+    "Algė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Algė may be linked with Lithuanian alga, “reward, wages”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-25",
+   "country": "lt",
+   "name": "Bedas",
+   "spellings": [
+    "Bedas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Bedas is the name of the Anglo-Saxon monk and scholar Bede; its origin is uncertain.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-11",
+   "country": "lt",
+   "name": "Aluona",
+   "spellings": [
+    "Aluona"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aluona may be linked with the Lithuanian river name Aluona.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-13",
+   "country": "lt",
+   "name": "Milda",
+   "spellings": [
+    "Milda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "In nineteenth-century accounts of Lithuanian mythology Milda is a goddess of love; the name is usually linked with mylėti, “to love”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-11",
+   "country": "lt",
+   "name": "Gytė",
+   "spellings": [
+    "Gytė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gytė may be linked with Lithuanian gyti, “to heal”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-31",
+   "country": "lt",
+   "name": "Gina",
+   "spellings": [
+    "Gina"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gina may be linked with Lithuanian ginti, “to defend”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-18",
+   "country": "lt",
+   "name": "Gendrė",
+   "spellings": [
+    "Gendrė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gendrė may be a newer name formed for its sound; compare Gendvilė, Giedrė. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-03",
+   "country": "lt",
+   "name": "Mirga",
+   "spellings": [
+    "Mirga"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Mirga may be linked with Lithuanian mirgėti, “to twinkle”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-12",
+   "country": "lt",
+   "name": "Gantas",
+   "spellings": [
+    "Gantas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gantas is probably a short form of names beginning with Gan-.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-24",
+   "country": "lt",
+   "name": "Goda",
+   "spellings": [
+    "Goda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Goda may be linked with Lithuanian goda, “honour, fame”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-14",
+   "country": "lt",
+   "name": "Vydas",
+   "spellings": [
+    "Vydas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vydas may be linked with Lithuanian išvysti, “to see”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-30",
+   "country": "lt",
+   "name": "Kernius",
+   "spellings": [
+    "Kernius"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "In Lithuanian legend Kernius is a descendant of Palemon who founded Kernavė.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "12-29",
+   "country": "lt",
+   "name": "Gaja",
+   "spellings": [
+    "Gaja"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gaja is usually explained from Greek Gaia, “earth”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-04",
+   "country": "ee",
+   "name": "Miida",
+   "spellings": [
+    "Miida"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Miida may be a newer name formed for its sound; compare Miia, Leida. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-04",
+   "country": "ee",
+   "name": "Meida",
+   "spellings": [
+    "Meida"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Meida is probably a form of Leida.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-13",
+   "country": "ee",
+   "name": "Eke",
+   "spellings": [
+    "Eke"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eke may be a newer name formed for its sound; compare Ekke, Ege. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-21",
+   "country": "ee",
+   "name": "Aavo",
+   "spellings": [
+    "Aavo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Aavo is probably a form of Aabo. Ābrams is usually explained from Hebrew ʾAḇrāhām, “father of many nations”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-23",
+   "country": "ee",
+   "name": "Lehar",
+   "spellings": [
+    "Lehar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lehar may be linked with the name of the operetta composer Franz Lehár.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-26",
+   "country": "ee",
+   "name": "Selmar",
+   "spellings": [
+    "Selmar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Selmar is probably a name of Germanic type, built like Selma with the ending -mar, “famous”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-27",
+   "country": "ee",
+   "name": "Helbe",
+   "spellings": [
+    "Helbe"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helbe is probably a form of Helve. Helbe may be linked with the Estonian word helves, “flake”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-03",
+   "country": "ee",
+   "name": "Halliki",
+   "spellings": [
+    "Halliki"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Halliki belongs to the Estonian “nature names” made in the twentieth century from words for natural phenomena (Tormi, Tähti, Pilvi, Laine). Halliki may be linked with the Estonian word hall, “hoar-frost; grey”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-05",
+   "country": "ee",
+   "name": "Laili",
+   "spellings": [
+    "Laili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Laili is probably a form of Leili.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-08",
+   "country": "ee",
+   "name": "Viilup",
+   "spellings": [
+    "Viilup"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Viilup may be a newer name formed for its sound; compare Viljo, Vilbo. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-09",
+   "country": "ee",
+   "name": "Heido",
+   "spellings": [
+    "Heido"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Heido may be a newer name formed for its sound; compare Heidi, Heino. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-09",
+   "country": "ee",
+   "name": "Heivo",
+   "spellings": [
+    "Heivo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Heivo may be a newer name formed for its sound; compare Heiki, Heino. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-11",
+   "country": "ee",
+   "name": "Innar",
+   "spellings": [
+    "Innar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Innar may be a newer name formed for its sound; compare Ingvar, Indrek. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-20",
+   "country": "ee",
+   "name": "Malve",
+   "spellings": [
+    "Malve"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Malve may be linked with the Estonian word malva, “mallow”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "03-26",
+   "country": "ee",
+   "name": "Immo",
+   "spellings": [
+    "Immo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Immo is probably formed after Germanic names beginning with Irmen-, or it is a short form of Immanuel.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-01",
+   "country": "ee",
+   "name": "Harro",
+   "spellings": [
+    "Harro"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Harro is a Frisian and German short form of names beginning with Har- (Germanic heri, “army”).",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-02",
+   "country": "ee",
+   "name": "Enel",
+   "spellings": [
+    "Enel"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Enel may be an anagram of Helene: the same letters in another order.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-02",
+   "country": "ee",
+   "name": "Eneli",
+   "spellings": [
+    "Eneli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eneli is probably a form of Ene.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-09",
+   "country": "ee",
+   "name": "Kaira",
+   "spellings": [
+    "Kaira"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kaira may be a newer name formed for its sound; compare Kaire, Kairi, Kai. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-11",
+   "country": "ee",
+   "name": "Hurmi",
+   "spellings": [
+    "Hurmi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hurmi may be linked with the Estonian word hurm, “charm, enchantment”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-16",
+   "country": "ee",
+   "name": "Olvi",
+   "spellings": [
+    "Olvi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Olvi is probably a variant of Olev (Olaf); as a woman’s name it was sometimes taken instead of Olga. Olafs is usually explained from Old Norse anu + leifr, “ancestor + heir”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-17",
+   "country": "ee",
+   "name": "Ege",
+   "spellings": [
+    "Ege"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Ege is probably a form of Agaate. Agata is usually explained from Greek agathos, “good”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-21",
+   "country": "ee",
+   "name": "Aimo",
+   "spellings": [
+    "Aimo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aimo may be linked with the Finnish word aimo, “proper, abundant”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-26",
+   "country": "ee",
+   "name": "Eesi",
+   "spellings": [
+    "Eesi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eesi may be a newer name formed for its sound; compare Eeva, Esti. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-27",
+   "country": "ee",
+   "name": "Halja",
+   "spellings": [
+    "Halja"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Halja may be linked with the Estonian word haljas, “green, verdant”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "04-29",
+   "country": "ee",
+   "name": "Kalmer",
+   "spellings": [
+    "Kalmer"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kalmer may be a newer name formed for its sound; compare Kalmo, Elmer. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-04",
+   "country": "ee",
+   "name": "Saale",
+   "spellings": [
+    "Saale"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Saale may be a newer name formed for its sound; compare Saali, Salme. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-04",
+   "country": "ee",
+   "name": "Sale",
+   "spellings": [
+    "Sale"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sale may be a newer name formed for its sound; compare Saali, Salme. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-06",
+   "country": "ee",
+   "name": "Aasa",
+   "spellings": [
+    "Aasa"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Aasa matches the biblical name Asa, the name of a king of Judah.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-12",
+   "country": "ee",
+   "name": "Rünno",
+   "spellings": [
+    "Rünno"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Rünno may be a newer name formed for its sound; compare Rünk, Rein. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-14",
+   "country": "ee",
+   "name": "Eede",
+   "spellings": [
+    "Eede"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Eede is probably a form of Edith. Edīte is usually explained from Germanic ēad + gūþ, “wealth + battle”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-17",
+   "country": "ee",
+   "name": "Taimar",
+   "spellings": [
+    "Taimar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Taimar is probably built from Taim- (compare Taimi, from Estonian taim, “plant”) with the ending -ar.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-17",
+   "country": "ee",
+   "name": "Taivo",
+   "spellings": [
+    "Taivo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Taivo belongs to the Estonian “nature names” made in the twentieth century from words for natural phenomena (Tormi, Tähti, Pilvi, Laine). Taivo may be linked with the Estonian word taevas, “sky”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "05-30",
+   "country": "ee",
+   "name": "Arro",
+   "spellings": [
+    "Arro"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Arro is probably a form of Aaro. The origin of Aaron is uncertain; it is linked with Hebrew or Egyptian words.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-03",
+   "country": "ee",
+   "name": "Kanni",
+   "spellings": [
+    "Kanni"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kanni may be linked with the Estonian word kannike, “violet”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-06",
+   "country": "ee",
+   "name": "Piibe",
+   "spellings": [
+    "Piibe"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Piibe may be linked with the Estonian word piibeleht, “lily of the valley”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-08",
+   "country": "ee",
+   "name": "Enne",
+   "spellings": [
+    "Enne"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Enne may be linked with the Estonian word enne, “omen”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-09",
+   "country": "ee",
+   "name": "Hallar",
+   "spellings": [
+    "Hallar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hallar may be a newer name formed for its sound; compare Hellar, Allar. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-09",
+   "country": "ee",
+   "name": "Hellar",
+   "spellings": [
+    "Hellar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hellar may be linked with the Estonian word hell, “tender, gentle”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-09",
+   "country": "ee",
+   "name": "Helari",
+   "spellings": [
+    "Helari"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Helari is probably a form of Hilarius. Hilārijs is usually explained from Latin hilaris, “cheerful”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-10",
+   "country": "ee",
+   "name": "Maile",
+   "spellings": [
+    "Maile"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Maile is probably a form of Mai. Marija is usually explained from Hebrew Miryām, “origin debated”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-14",
+   "country": "ee",
+   "name": "Leini",
+   "spellings": [
+    "Leini"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Leini is probably a form of Leili.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-18",
+   "country": "ee",
+   "name": "Reili",
+   "spellings": [
+    "Reili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Reili may be a newer name formed for its sound; compare Reet, Leili. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-20",
+   "country": "ee",
+   "name": "Kaari",
+   "spellings": [
+    "Kaari"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Kaari is probably a form of Kaarin. Katarīna is usually explained from Greek Aikaterinē, “origin debated”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "06-27",
+   "country": "ee",
+   "name": "Viire",
+   "spellings": [
+    "Viire"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Viire may be linked with the Estonian word viir, “streak, light haze”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "08-09",
+   "country": "ee",
+   "name": "Imma",
+   "spellings": [
+    "Imma"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Imma is a variant of Irma; in old Germanic it also meant “bee”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "08-09",
+   "country": "ee",
+   "name": "Mesike",
+   "spellings": [
+    "Mesike"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Mesike may be linked with the Estonian word mesi, “honey”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "08-10",
+   "country": "ee",
+   "name": "Lauro",
+   "spellings": [
+    "Lauro"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Lauro is probably a form of Laurentius. Laurencijs is usually explained from Latin Laurentius, “from the town of Laurentum”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "08-25",
+   "country": "ee",
+   "name": "Tunne",
+   "spellings": [
+    "Tunne"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tunne may be linked with the Estonian word tunne, “feeling”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "08-29",
+   "country": "ee",
+   "name": "Õnne",
+   "spellings": [
+    "Õnne"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Õnne may be linked with the Estonian word õnn, “happiness, luck”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-03",
+   "country": "ee",
+   "name": "Aulik",
+   "spellings": [
+    "Aulik"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Aulik is probably linked with the Finnish new name Aulikki (Auli), used in Finland since 1904.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-04",
+   "country": "ee",
+   "name": "Virmo",
+   "spellings": [
+    "Virmo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Virmo may be a newer name formed for its sound; compare Virve, Vello. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-15",
+   "country": "ee",
+   "name": "Raina",
+   "spellings": [
+    "Raina"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Raina is probably a newer sister name to Rain (Rainer).",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-15",
+   "country": "ee",
+   "name": "Raini",
+   "spellings": [
+    "Raini"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Raini is probably a newer sister name to Rain (Rainer).",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-21",
+   "country": "ee",
+   "name": "Tambet",
+   "spellings": [
+    "Tambet"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tambet may be a newer name formed for its sound; compare Taavet, Tõnis. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "07-23",
+   "country": "ee",
+   "name": "Seida",
+   "spellings": [
+    "Seida"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Seida may be a newer name formed for its sound; compare Saida, Leida. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-02",
+   "country": "ee",
+   "name": "Maive",
+   "spellings": [
+    "Maive"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Maive is probably a form of Mai. Marija is usually explained from Hebrew Miryām, “origin debated”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-06",
+   "country": "ee",
+   "name": "Aiki",
+   "spellings": [
+    "Aiki"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aiki may be a newer name formed for its sound; compare Aili, Aino. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-12",
+   "country": "ee",
+   "name": "Melli",
+   "spellings": [
+    "Melli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Melli is probably a form of Melanie, Amalie.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-15",
+   "country": "ee",
+   "name": "Kulmo",
+   "spellings": [
+    "Kulmo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kulmo may be a newer name formed for its sound; compare Kalmo, Kullo. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-15",
+   "country": "ee",
+   "name": "Kurmo",
+   "spellings": [
+    "Kurmo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kurmo may be a newer name formed for its sound; compare Kuno, Urmo. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-15",
+   "country": "ee",
+   "name": "Kuulo",
+   "spellings": [
+    "Kuulo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kuulo may be linked with the Estonian word kuulma, “to hear”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-18",
+   "country": "ee",
+   "name": "Tiidu",
+   "spellings": [
+    "Tiidu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Tiidu is a diminutive of Tiit (Theoderich). Dītrihs is usually explained from Germanic þeuda + rīk, “people + ruler”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-25",
+   "country": "ee",
+   "name": "Agur",
+   "spellings": [
+    "Agur"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Agur is a further development of Agu, a name often taken instead of August. Augusts is usually explained from Latin augustus, “venerable, majestic”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-28",
+   "country": "ee",
+   "name": "Linnar",
+   "spellings": [
+    "Linnar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Linnar is probably a form of Linnart. Leonhards is usually explained from Germanic lewo + hart, “lion + hardy”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-30",
+   "country": "ee",
+   "name": "Kaur",
+   "spellings": [
+    "Kaur"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kaur may be a newer name formed for its sound; compare Kaupo, Kauri. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "09-30",
+   "country": "ee",
+   "name": "Tauri",
+   "spellings": [
+    "Tauri"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Tauri may be a newer name formed for its sound; compare Tauno, Mauri. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-02",
+   "country": "ee",
+   "name": "Hinge",
+   "spellings": [
+    "Hinge"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hinge may be linked with the Estonian word hing, “soul”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-03",
+   "country": "ee",
+   "name": "Kaivo",
+   "spellings": [
+    "Kaivo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kaivo may be linked with the Finnish word kaivo, “well”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-03",
+   "country": "ee",
+   "name": "Kaimo",
+   "spellings": [
+    "Kaimo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kaimo may be linked with the Estonian word kaim, “namesake, kinsman”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-03",
+   "country": "ee",
+   "name": "Kaimar",
+   "spellings": [
+    "Kaimar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kaimar may be linked with the Estonian word kaim, “namesake, kinsman”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-04",
+   "country": "ee",
+   "name": "Erle",
+   "spellings": [
+    "Erle"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Erle is probably a form of Erla. Erla is usually explained from Germanic Erla, “lady, ruler”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-05",
+   "country": "ee",
+   "name": "Vahto",
+   "spellings": [
+    "Vahto"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vahto may be a newer name formed for its sound; compare Vahur, Vaho. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-07",
+   "country": "ee",
+   "name": "Kiiri",
+   "spellings": [
+    "Kiiri"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kiiri may be linked with the Estonian word kiir, “ray”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-08",
+   "country": "ee",
+   "name": "Nele",
+   "spellings": [
+    "Nele"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Nele is a short form of Cornelia and Petronella. Kornēlija is usually explained from Latin Cornelius, “a Roman family name”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-04",
+   "country": "ee",
+   "name": "Ranno",
+   "spellings": [
+    "Ranno"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ranno may be linked with the Estonian word rand, “shore”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-10",
+   "country": "ee",
+   "name": "Karmo",
+   "spellings": [
+    "Karmo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Karmo may be linked with the Estonian word karm, “stern, strict”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-11",
+   "country": "ee",
+   "name": "Aldo",
+   "spellings": [
+    "Aldo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Aldo is usually explained from Germanic ald, “old, experienced”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-16",
+   "country": "ee",
+   "name": "Siret",
+   "spellings": [
+    "Siret"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Siret may be a newer name formed for its sound; compare Sirje, Reet. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-18",
+   "country": "ee",
+   "name": "Lui",
+   "spellings": [
+    "Lui"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Lui is probably a form of Louis. Ludvigs is usually explained from Germanic hlūd + wīg, “famous + battle”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-23",
+   "country": "ee",
+   "name": "Leevi",
+   "spellings": [
+    "Leevi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Leevi is usually explained from Hebrew Lēwî, “joined, attached”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-25",
+   "country": "ee",
+   "name": "Riivo",
+   "spellings": [
+    "Riivo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Riivo may be a newer name formed for its sound; compare Raivo, Riho. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-25",
+   "country": "ee",
+   "name": "Veevo",
+   "spellings": [
+    "Veevo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Veevo may be a newer name formed for its sound; compare Viivo, Vello. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-07",
+   "country": "ee",
+   "name": "Atso",
+   "spellings": [
+    "Atso"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Atso probably goes back to the Livonian name Asse or Asso in a 13th-century chronicle (written Azo, Aze), later read as Atso; it is also compared with Italian Azzo, a short form of Adolf.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-28",
+   "country": "ee",
+   "name": "Simmo",
+   "spellings": [
+    "Simmo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Simons is usually explained from Hebrew šāma, “to hear”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-31",
+   "country": "ee",
+   "name": "Arti",
+   "spellings": [
+    "Arti"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Arti is probably a form of Artur.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "12-30",
+   "country": "ee",
+   "name": "Taave",
+   "spellings": [
+    "Taave"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "supplement",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Taave is probably a form of Taavet. Dāvids is usually explained from Hebrew Dāwīḏ, “beloved”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-28",
+   "country": "lv",
+   "name": "Niseta",
+   "spellings": [
+    "Niseta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Niseta is probably a form of Niketa. Niketa is usually explained from Greek nikētēs, “victor”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-01",
+   "country": "lv",
+   "name": "Ikola",
+   "spellings": [
+    "Ikola"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ikola is probably a form of Nikolajs. Nikolajs is usually explained from Greek nikē + laos, “victory + people”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-01",
+   "country": "lv",
+   "name": "Ildefons",
+   "spellings": [
+    "Ildefons"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ildefonss is usually explained from Germanic hild + funs, “battle + ready”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-01",
+   "country": "lv",
+   "name": "Ildra",
+   "spellings": [
+    "Ildra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ildra may be a newer name formed for its sound; compare Ilga, Indra. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-01",
+   "country": "lv",
+   "name": "Ungars",
+   "spellings": [
+    "Ungars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ungars may be formed from the Latvian word ungārs, “Hungarian”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-02",
+   "country": "lv",
+   "name": "Vivanta",
+   "spellings": [
+    "Vivanta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vivanta is usually explained from Latin vivere, “to live”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-02",
+   "country": "lv",
+   "name": "Vivanto",
+   "spellings": [
+    "Vivanto"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vivanta is usually explained from Latin vivere, “to live”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-04",
+   "country": "lv",
+   "name": "Vegita",
+   "spellings": [
+    "Vegita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Vegita is probably a form of Vega.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-05",
+   "country": "lv",
+   "name": "Veimārs",
+   "spellings": [
+    "Veimārs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Veimārs is usually explained from Germanic wīg + māri, “battle + famous”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-07",
+   "country": "lv",
+   "name": "Veno",
+   "spellings": [
+    "Veno"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Veno is probably a form of Venceslavs, Benno.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-08",
+   "country": "lv",
+   "name": "Agreda",
+   "spellings": [
+    "Agreda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agreda may be formed from the Latvian word agrs, “early”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-08",
+   "country": "lv",
+   "name": "Agrija",
+   "spellings": [
+    "Agrija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agrija may be formed from the Latvian word agrs, “early”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-09",
+   "country": "lv",
+   "name": "Teovils",
+   "spellings": [
+    "Teovils"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Teovils is probably a form of Teofils. Teofils is usually explained from Greek theos + philos, “god + friend”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-11",
+   "country": "lv",
+   "name": "Nelima",
+   "spellings": [
+    "Nelima"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Nelima may be a newer name formed for its sound; compare Nelija, Neli. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-04",
+   "country": "lt",
+   "name": "Agrikola",
+   "spellings": [
+    "Agrikola"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Agrikola is usually explained from Latin agricola, “farmer”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-10",
+   "country": "lt",
+   "name": "Gelvydė",
+   "spellings": [
+    "Gelvydė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gelvydė is built like a Baltic two-stem name with the stems Gel- and -vyd- (compare Gelgaudas, Girvydas).",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-10",
+   "country": "lt",
+   "name": "Galvydė",
+   "spellings": [
+    "Galvydė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Galvydė is built like a Baltic two-stem name with the stems Gal- and -vyd- (compare Galvydas, Girvydas).",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-09",
+   "country": "lt",
+   "name": "Dargintas",
+   "spellings": [
+    "Dargintas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Dargintas is built like a Baltic two-stem name with the stems Dar- and -gint- (compare Dargaudas, Gintautas).",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-09",
+   "country": "lt",
+   "name": "Skirtautė",
+   "spellings": [
+    "Skirtautė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Skirtautė is built like a Baltic two-stem name with the stems Skir- and -taut- (compare Skirmantė, Vytautas).",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-08",
+   "country": "lt",
+   "name": "Severijonas",
+   "spellings": [
+    "Severijonas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Severinas is usually explained from Latin severus, “stern, serious”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-02",
+   "country": "lt",
+   "name": "Gedardas",
+   "spellings": [
+    "Gedardas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Gedardas may be a newer name formed for its sound; compare Gerardas, Gediminas. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-03",
+   "country": "lt",
+   "name": "Norvainė",
+   "spellings": [
+    "Norvainė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Norvainė is built like a Baltic two-stem name with the stems Nor- and -vain- (compare Normantas, Gilvainas).",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-03",
+   "country": "lt",
+   "name": "Sitvija",
+   "spellings": [
+    "Sitvija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Sitvija may be a newer name formed for its sound; compare Silvija. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "02-29",
+   "country": "ee",
+   "name": "Ulmi",
+   "spellings": [
+    "Ulmi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Ulmi may be a newer name formed for its sound; compare Ulme, Ilmi. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-02",
+   "country": "ee",
+   "name": "Hingi",
+   "spellings": [
+    "Hingi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Hingi may be linked with the Estonian word hing, “soul”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-03",
+   "country": "ee",
+   "name": "Kaidu",
+   "spellings": [
+    "Kaidu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Kaidu is probably a newer brother name to Kaidi. Katarīna is usually explained from Greek Aikaterinē, “origin debated”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-03",
+   "country": "ee",
+   "name": "Kairo",
+   "spellings": [
+    "Kairo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Kairo is probably a newer brother name to Kairi.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-04",
+   "country": "ee",
+   "name": "Erla",
+   "spellings": [
+    "Erla"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Erla is usually explained from Germanic Erla, “lady, ruler”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-07",
+   "country": "ee",
+   "name": "Kirke",
+   "spellings": [
+    "Kirke"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Kirke is the Greek Circe, the enchantress of Homer’s Odyssey.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-10",
+   "country": "ee",
+   "name": "Madro",
+   "spellings": [
+    "Madro"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Madro may be a newer name formed for its sound; compare Madis, Mardo. No clear base word is evident.",
+   "basis": "Sound comparison only; no base word found.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "11-11",
+   "country": "ee",
+   "name": "Elvo",
+   "spellings": [
+    "Elvo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Elvo is probably a newer brother name to Elvi. Elve is usually linked with Alvine, Elfriede and Elvira, whose first part is often explained from Germanic alb, “elf”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-28",
+   "country": "ee",
+   "name": "Simmu",
+   "spellings": [
+    "Simmu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [],
+   "sources": [],
+   "facts_used": "Simons is usually explained from Hebrew šāma, “to hear”.",
+   "basis": "Word or base-name comparison from general onomastic knowledge.",
+   "next_step": "Find a source that documents the origin of this name."
+  },
+  {
+   "batch": "empty-names-2026-11-17",
+   "date": "2026-11-17",
+   "calendar_date": "10-28",
+   "country": "ee",
+   "name": "Siimu",
+   "spellings": [
+    "Siimu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "status": "written",
+   "kind": "hypothesis",
+   "verification_status": "unverified",
+   "source_ids": [
+    "EE-RAJANDI66"
+   ],
+   "sources": [],
+   "facts_used": "Simons is usually explained from Hebrew šāma, “to hear”.",
+   "basis": "Rajandi 1966 body text (group, variant or base name), cached as EE-RAJANDI66.",
+   "next_step": "Find a source that documents the origin of this name."
+  }
+ ]
+}

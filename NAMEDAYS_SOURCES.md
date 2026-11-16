@@ -219,6 +219,8 @@ For the remaining 13 November spellings, neither a shared day nor a nearby name 
 
 Juozapotas now has an exact historical calendar record, but the proposed Juozapatas etymological bridge remains unverified. Commercial pages offer inconsistent derivations; do not collapse Joseph and Josaphat families on that basis. Its next step is an authoritative dictionary or explicit historical paired-form record, not another calendar listing.
 
+Round 164 (17 November 2026): Estonian Wikipedia name articles such as *Halliki* (cached as WEB-ET-WIKIPEDIA-ORG-WIKI-HALLIKI) give only bearer counts, rank and namesakes, with no origin; they are not productive for histories. For new Estonian names, the body text of EE-RAJANDI66 (pages before the index, about PDF 1–189) is productive: it gives name groups (nature names, sister and brother names), variants and base names. Search it with `var/namedays-research/rajandi164.cjs`.
+
 ## Productive sources for 21 November
 
 Reviewed **12 November 2026**. Individual outcomes and next steps are in [round21-notes.json](research/namedays/round21-notes.json). Fourteen histories are reviewed; eight proposals and three profiles without a supported proposal remain open.
