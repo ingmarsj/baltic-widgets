@@ -2,6 +2,7 @@ import {spawnSync} from 'node:child_process';
 import {randomUUID} from 'node:crypto';
 import {mkdir,readFile,realpath,stat,copyFile,writeFile} from 'node:fs/promises';
 import path from 'node:path';
+import {syncNamedays} from './nameday-release.mjs';
 
 export function publicationCommand(command,args,{capture=false,...options}={}){
  const result=spawnSync(command,args,{encoding:'utf8',stdio:capture?'pipe':'inherit',...options});
@@ -10,7 +11,7 @@ export function publicationCommand(command,args,{capture=false,...options}={}){
 }
 
 // Collection and publication use main; the caller's checkout and index stay untouched.
-export async function runPublishedUpdate({root,profile='auto',force=false,dataDir,run=publicationCommand,log=console.log}){
+export async function runPublishedUpdate({root,profile='auto',force=false,dataDir,namedaysRef,run=publicationCommand,log=console.log}){
  if(!['auto','prices','current','daily','weekly','monthly','full'].includes(profile))throw Error('Invalid update profile');
  root=await realpath(root);
  const env={...process.env,DATA_DIR:path.resolve(root,dataDir||process.env.DATA_DIR||'var')};
@@ -32,10 +33,13 @@ export async function runPublishedUpdate({root,profile='auto',force=false,dataDi
    if(process.platform==='win32')run('powershell.exe',['-NoProfile','-Command','& npm.cmd ci; exit $LASTEXITCODE'],{cwd:worktree,env});
    else run('npm',['ci'],{cwd:worktree,env});
   }
+  // Bring the name-day part of the name-day source branch (local main by default) into this checkout before
+  // collection, tests and build, so released name-day content is checked and published with the data.
+  await syncNamedays({git:(a,o={})=>run('git',a,{cwd:o.cwd||worktree,env,capture:true,input:o.input}),worktree,sourceRef:namedaysRef,log});
   const args=['-NoProfile','-ExecutionPolicy','Bypass','-File',path.join(worktree,'scripts','update-widgets.ps1'),'-Profile',profile,'-NoPublish'];
   if(force)args.push('-Force');
   run('powershell.exe',args,{cwd:worktree,env});
-  run(process.execPath,['scripts/publish-data.mjs'],{cwd:worktree,env:{...env,WIDGETS_PUBLICATION_WORKTREE:worktree,WIDGETS_PUBLICATION_MAIN:revision}});
+  run(process.execPath,[path.join(root,'scripts','publish-data.mjs')],{cwd:worktree,env:{...env,WIDGETS_PUBLICATION_WORKTREE:worktree,WIDGETS_PUBLICATION_MAIN:revision}});
   publishedRevision=git(['rev-parse','HEAD'],worktree);
   published=true;
  }catch(error){
