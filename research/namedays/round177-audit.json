@@ -58,6 +58,8 @@
     "tests": "165/165 passed in isolated detached worktree based on e654feb plus only round 177 files",
     "build": "passed in the same isolated worktree",
     "browser": "passed on isolated preview: LV Mudīte on 8 August (both new people and five local namesakes); LT Beata on 6 September (new actress and international tier); EE Hedi on 15 October (both new artists). Five birthday people visible on each card.",
-    "isolation_reason": "The first shared-workspace suite had 164/165 passes while unrelated market/chart changes were in progress; its failure was the monthly European gas/gold historical-FX test. Those unrelated changes were excluded from this batch and isolated verification passed."
+    "isolation_reason": "The first shared-workspace suite had 164/165 passes while unrelated market/chart changes were in progress; its failure was the monthly European gas/gold historical-FX test. Those unrelated changes were excluded from this batch and isolated verification passed.",
+    "integration_tests": "168/168 passed after merging concurrent origin/main e286fb3 in the isolated publication worktree",
+    "integration_build": "passed after the same integration; no name-day payload changed during integration"
   }
 }
