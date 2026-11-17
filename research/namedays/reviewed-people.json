@@ -24634,6 +24634,876 @@
     }
    ],
    "claim": "The Estonian art and architecture biographical database identifies Helina Loid-Kudu as a painter and lists her professional exhibitions. The Estonian institutional exhibition record supports the local association."
+  },
+  {
+   "id": "reviewed:henrijs-preiss",
+   "name": "Henrijs Preiss",
+   "labels": {
+    "lv": "Henrijs Preiss"
+   },
+   "aliases": [
+    "Henrijs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://www.bastejs.lv/lv/makslinieki/henrijs-preiss-lv/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-HENRIJS-PREISS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-HENRIJS-PREISS",
+     "url": "https://www.bastejs.lv/lv/makslinieki/henrijs-preiss-lv/",
+     "claim": "The representing gallery Bastejs biography identifies artist Henrijs Preiss, born in Riga, and his professional exhibitions in Riga and abroad. Residence abroad is not substituted for the documented local professional association."
+    }
+   ],
+   "claim": "The representing gallery Bastejs biography identifies artist Henrijs Preiss, born in Riga, and his professional exhibitions in Riga and abroad. Residence abroad is not substituted for the documented local professional association."
+  },
+  {
+   "id": "reviewed:maira-lescevica",
+   "name": "Maira Leščevica",
+   "labels": {
+    "lv": "Maira Leščevica"
+   },
+   "aliases": [
+    "Maira"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 180,
+   "source": {
+    "url": "https://va.lv/zinatne/petnieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SOLVITA-DENISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SOLVITA-DENISA",
+     "url": "https://va.lv/zinatne/petnieki",
+     "claim": "Vidzeme University of Applied Sciences identifies Maira Leščevica with an economics doctorate as a professor and leading researcher. Exact first name, scholarly role and local professional association are explicit."
+    }
+   ],
+   "claim": "Vidzeme University of Applied Sciences identifies Maira Leščevica with an economics doctorate as a professor and leading researcher. Exact first name, scholarly role and local professional association are explicit."
+  },
+  {
+   "id": "reviewed:maira-dobele",
+   "name": "Maira Dobele",
+   "labels": {
+    "lv": "Maira Dobele"
+   },
+   "aliases": [
+    "Maira"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 180,
+   "source": {
+    "url": "https://www.literatura.lv/en/persons/maira-dobele",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MAIRA-DOBELE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MAIRA-DOBELE",
+     "url": "https://www.literatura.lv/en/persons/maira-dobele",
+     "claim": "The national literature biography identifies author and film director Maira Dobele and her Latvian Literature Award for Nepareizas dzīves skola. Exact public first name and recognised Latvian literary work support the local association."
+    }
+   ],
+   "claim": "The national literature biography identifies author and film director Maira Dobele and her Latvian Literature Award for Nepareizas dzīves skola. Exact public first name and recognised Latvian literary work support the local association."
+  },
+  {
+   "id": "reviewed:kitija-balcare",
+   "name": "Kitija Balcare",
+   "labels": {
+    "lv": "Kitija Balcare"
+   },
+   "aliases": [
+    "Kitija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 180,
+   "source": {
+    "url": "https://lulfmi.lv/darbinieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LFMI-STAFF-2026"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LFMI-STAFF-2026",
+     "url": "https://lulfmi.lv/darbinieki",
+     "claim": "The University of Latvia institute staff directory identifies Kitija Balcare as a researcher and science communication specialist, establishing exact name and local scholarly activity."
+    }
+   ],
+   "claim": "The University of Latvia institute staff directory identifies Kitija Balcare as a researcher and science communication specialist, establishing exact name and local scholarly activity."
+  },
+  {
+   "id": "reviewed:antra-cilinska",
+   "name": "Antra Cilinska",
+   "labels": {
+    "lv": "Antra Cilinska"
+   },
+   "aliases": [
+    "Antra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "director",
+   "round": 180,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/podnieks-par-podnieku-0",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ANTRA-CILINSKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ANTRA-CILINSKA",
+     "url": "https://www.nkc.gov.lv/lv/podnieks-par-podnieku-0",
+     "claim": "The National Film Centre identifies Antra Cilinska as a director and screenwriter of Podnieks par Podnieku, a Latvian documentary film. The accepted role is separately supported as director, rather than inferred from a producer credit."
+    }
+   ],
+   "claim": "The National Film Centre identifies Antra Cilinska as a director and screenwriter of Podnieks par Podnieku, a Latvian documentary film. The accepted role is separately supported as director, rather than inferred from a producer credit."
+  },
+  {
+   "id": "reviewed:antra-gaile",
+   "name": "Antra Gaile",
+   "labels": {
+    "lv": "Antra Gaile"
+   },
+   "aliases": [
+    "Antra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-TINA-PETERSONE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-TINA-PETERSONE",
+     "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+     "claim": "The Latvian Academy of Culture names Antra Gaile as a film producer among its professional cultural graduates. The broad artist category is used without calling the producer a director."
+    }
+   ],
+   "claim": "The Latvian Academy of Culture names Antra Gaile as a film producer among its professional cultural graduates. The broad artist category is used without calling the producer a director."
+  },
+  {
+   "id": "reviewed:estere-taurina",
+   "name": "Estere Tauriņa",
+   "labels": {
+    "lv": "Estere Tauriņa"
+   },
+   "aliases": [
+    "Estere"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "musician",
+   "round": 180,
+   "source": {
+    "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-TINA-PETERSONE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-TINA-PETERSONE",
+     "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+     "claim": "The Latvian Academy of Culture names Estere Tauriņa as a musician among its professional cultural graduates. The explicit professional credit establishes the local association."
+    }
+   ],
+   "claim": "The Latvian Academy of Culture names Estere Tauriņa as a musician among its professional cultural graduates. The explicit professional credit establishes the local association."
+  },
+  {
+   "id": "reviewed:sigita-sne",
+   "name": "Sigita Šnē",
+   "labels": {
+    "lv": "Sigita Šnē"
+   },
+   "aliases": [
+    "Sigita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 180,
+   "source": {
+    "url": "https://www.hzf.lu.lv/par-mums/nodalas/vestures-un-arheologijas-nodala/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GINTA-IEVA-BIKSE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GINTA-IEVA-BIKSE",
+     "url": "https://www.hzf.lu.lv/par-mums/nodalas/vestures-un-arheologijas-nodala/",
+     "claim": "The University of Latvia humanities faculty staff directory lists Sigita Šnē as a researcher. Exact spelling and institutional scholarly activity support the local association."
+    }
+   ],
+   "claim": "The University of Latvia humanities faculty staff directory lists Sigita Šnē as a researcher. Exact spelling and institutional scholarly activity support the local association."
+  },
+  {
+   "id": "reviewed:anzela-jurane-bremane",
+   "name": "Anžela Jurāne-Brēmane",
+   "labels": {
+    "lv": "Anžela Jurāne-Brēmane"
+   },
+   "aliases": [
+    "Anžela"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 180,
+   "source": {
+    "url": "https://va.lv/zinatne/petnieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SOLVITA-DENISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SOLVITA-DENISA",
+     "url": "https://va.lv/zinatne/petnieki",
+     "claim": "Vidzeme University of Applied Sciences identifies Anžela Jurāne-Brēmane with an education doctorate as a dean, lecturer and researcher. The adjacent unaccented ORCID signature is not another person."
+    }
+   ],
+   "claim": "Vidzeme University of Applied Sciences identifies Anžela Jurāne-Brēmane with an education doctorate as a dean, lecturer and researcher. The adjacent unaccented ORCID signature is not another person."
+  },
+  {
+   "id": "reviewed:emma-daniela-grape",
+   "name": "Emma Daniela Grāpe",
+   "labels": {
+    "lv": "Emma Daniela Grāpe"
+   },
+   "aliases": [
+    "Emma"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "The National Film Centre credits Emma Daniela Grāpe as producer of Tīrība in the national film award nominations. The first given name Emma is exact; Daniela is retained in the full public name."
+    }
+   ],
+   "claim": "The National Film Centre credits Emma Daniela Grāpe as producer of Tīrība in the national film award nominations. The first given name Emma is exact; Daniela is retained in the full public name."
+  },
+  {
+   "id": "reviewed:sintija-andersone",
+   "name": "Sintija Andersone",
+   "labels": {
+    "lv": "Sintija Andersone"
+   },
+   "aliases": [
+    "Sintija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "The National Film Centre credits Sintija Andersone of KEF Studija as producer of Tumšzilais evaņģēlijs in the national film award nominations. The broad artist category avoids relabelling a producer as a director."
+    }
+   ],
+   "claim": "The National Film Centre credits Sintija Andersone of KEF Studija as producer of Tumšzilais evaņģēlijs in the national film award nominations. The broad artist category avoids relabelling a producer as a director."
+  },
+  {
+   "id": "reviewed:justine-savitska",
+   "name": "Justīne Savitska",
+   "labels": {
+    "lv": "Justīne Savitska"
+   },
+   "aliases": [
+    "Justīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://www.lsm.lv/raksts/kultura/maksla/izgaismot-neuzrakstitos-maksliniecu-stastus--izstade-atceros-tatad-esmu.a381672/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MUDITE-GAISEVSKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MUDITE-GAISEVSKA",
+     "url": "https://www.lsm.lv/raksts/kultura/maksla/izgaismot-neuzrakstitos-maksliniecu-stastus--izstade-atceros-tatad-esmu.a381672/",
+     "claim": "Latvian public radio identifies Justīne Savitska as an exhibition participant and creator of an audio work for the Latvian Centre for Contemporary Art exhibition at the national art museum."
+    }
+   ],
+   "claim": "Latvian public radio identifies Justīne Savitska as an exhibition participant and creator of an audio work for the Latvian Centre for Contemporary Art exhibition at the national art museum."
+  },
+  {
+   "id": "reviewed:gita-lancere",
+   "name": "Gita Lancere",
+   "labels": {
+    "lv": "Gita Lancere"
+   },
+   "aliases": [
+    "Gita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 180,
+   "source": {
+    "url": "https://www.lnkc.gov.lv/lv/strukturvieniba/vesturisko-zemju-un-nemateriala-kulturas-mantojuma-nodala",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GITA-LANCERE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GITA-LANCERE",
+     "url": "https://www.lnkc.gov.lv/lv/strukturvieniba/vesturisko-zemju-un-nemateriala-kulturas-mantojuma-nodala",
+     "claim": "The Latvian National Centre for Culture identifies Gita Lancere as its intangible cultural heritage expert. The accepted cultural professional role and local institutional association are explicit."
+    }
+   ],
+   "claim": "The Latvian National Centre for Culture identifies Gita Lancere as its intangible cultural heritage expert. The accepted cultural professional role and local institutional association are explicit."
+  },
+  {
+   "id": "reviewed:lita-beiris",
+   "name": "Lita Beiris",
+   "labels": {
+    "lv": "Lita Beiris"
+   },
+   "aliases": [
+    "Lita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://enciklopedija.lv/skirklis/148026",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LITA-BEIRIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LITA-BEIRIS",
+     "url": "https://enciklopedija.lv/skirklis/148026",
+     "claim": "The national encyclopedia biography identifies ballet dancer and choreographer Lita Beiris, born in Riga, and her Latvian National Opera career. Lita Beire is an explicitly documented alternative surname, not a separate bearer."
+    }
+   ],
+   "claim": "The national encyclopedia biography identifies ballet dancer and choreographer Lita Beiris, born in Riga, and her Latvian National Opera career. Lita Beire is an explicitly documented alternative surname, not a separate bearer."
+  },
+  {
+   "id": "reviewed:rasa-droiska",
+   "name": "Rasa Droiska",
+   "labels": {
+    "lv": "Rasa Droiska"
+   },
+   "aliases": [
+    "Rasa"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "director",
+   "round": 180,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "The National Film Centre credits Rasa Droiska as director of Bardo, produced at the Latvian Academy of Culture National Film School, in the national film award nominations."
+    }
+   ],
+   "claim": "The National Film Centre credits Rasa Droiska as director of Bardo, produced at the Latvian Academy of Culture National Film School, in the national film award nominations."
+  },
+  {
+   "id": "reviewed:gaile-pranckunaite",
+   "name": "Gailė Pranckūnaitė",
+   "labels": {
+    "lt": "Gailė Pranckūnaitė"
+   },
+   "aliases": [
+    "Gailė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://cac.lt/en/event/72865/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-GAILE-PRANCKUNAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-GAILE-PRANCKUNAITE",
+     "url": "https://cac.lt/en/event/72865/",
+     "claim": "The Contemporary Art Centre identifies Vilnius-based graphic designer Gailė Pranckūnaitė and her commissioned work for artists, museums and universities. Exact spelling and local professional art activity are explicit."
+    }
+   ],
+   "claim": "The Contemporary Art Centre identifies Vilnius-based graphic designer Gailė Pranckūnaitė and her commissioned work for artists, museums and universities. Exact spelling and local professional art activity are explicit."
+  },
+  {
+   "id": "reviewed:jura-elena-sedyte",
+   "name": "Jūra Elena Šedytė",
+   "labels": {
+    "lt": "Jūra Elena Šedytė"
+   },
+   "aliases": [
+    "Jūra"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "composer",
+   "round": 180,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/sedyte/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-JURA-ELENA-SEDYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-JURA-ELENA-SEDYTE",
+     "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/sedyte/",
+     "claim": "Music Information Centre Lithuania identifies composer Jūra Elena Šedytė, her academy composition studies and professional performances and collaborations in Vilnius and abroad."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania identifies composer Jūra Elena Šedytė, her academy composition studies and professional performances and collaborations in Vilnius and abroad."
+  },
+  {
+   "id": "reviewed:austeja-vasiliauskaite",
+   "name": "Austėja Vasiliauskaitė",
+   "labels": {
+    "lt": "Austėja Vasiliauskaitė"
+   },
+   "aliases": [
+    "Austėja"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "athlete",
+   "round": 180,
+   "source": {
+    "url": "https://tennis.lt/naujienos/favoritai-lietuvos-teniso-cempionate-neklumpa/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-KLAUDIJA-BUBELYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-KLAUDIJA-BUBELYTE",
+     "url": "https://tennis.lt/naujienos/favoritai-lietuvos-teniso-cempionate-neklumpa/",
+     "claim": "The Lithuanian tennis federation report identifies Austėja Vasiliauskaitė in the women’s singles quarterfinal pairing at the Lithuanian championship. The national competitive sporting role supports the local association; no semifinal result is inferred."
+    }
+   ],
+   "claim": "The Lithuanian tennis federation report identifies Austėja Vasiliauskaitė in the women’s singles quarterfinal pairing at the Lithuanian championship. The national competitive sporting role supports the local association; no semifinal result is inferred."
+  },
+  {
+   "id": "reviewed:dominyka-krisciunaite",
+   "name": "Dominyka Kriščiūnaitė",
+   "labels": {
+    "lt": "Dominyka Kriščiūnaitė"
+   },
+   "aliases": [
+    "Dominyka"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 180,
+   "source": {
+    "url": "https://www.mic.lt/lt/ivykiai/2020/02/09/grupe-shishi-jeigu-mums-patinka-grojame/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-DOMINYKA-KRISCIUNAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-DOMINYKA-KRISCIUNAITE",
+     "url": "https://www.mic.lt/lt/ivykiai/2020/02/09/grupe-shishi-jeigu-mums-patinka-grojame/",
+     "claim": "Music Information Centre Lithuania identifies Dominyka Kriščiūnaitė as the bass player of shishi and discusses the group music and performances. Exact public first name and Lithuanian professional music activity are supported."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania identifies Dominyka Kriščiūnaitė as the bass player of shishi and discusses the group music and performances. Exact public first name and Lithuanian professional music activity are supported."
+  },
+  {
+   "id": "reviewed:vilte-braziunaite",
+   "name": "Viltė Bražiūnaitė",
+   "labels": {
+    "lt": "Viltė Bražiūnaitė"
+   },
+   "aliases": [
+    "Viltė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://cac.lt/en/exhibition/shallow-quick-and-not-yet-titled-jcdecaux-award/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-VILTE-BRAZIUNAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-VILTE-BRAZIUNAITE",
+     "url": "https://cac.lt/en/exhibition/shallow-quick-and-not-yet-titled-jcdecaux-award/",
+     "claim": "The Contemporary Art Centre identifies Viltė Bražiūnaitė as an artist in its 2016 emerging-artists exhibition in Vilnius, collaborating with Tomas Sinkevičius. Professional exhibition activity supports the local association; the collaborators are separate people."
+    }
+   ],
+   "claim": "The Contemporary Art Centre identifies Viltė Bražiūnaitė as an artist in its 2016 emerging-artists exhibition in Vilnius, collaborating with Tomas Sinkevičius. Professional exhibition activity supports the local association; the collaborators are separate people."
+  },
+  {
+   "id": "reviewed:beatrice-mockeviciute",
+   "name": "Beatričė Mockevičiūtė",
+   "labels": {
+    "lt": "Beatričė Mockevičiūtė"
+   },
+   "aliases": [
+    "Beatričė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://cac.lt/paroda/beatrice-mockeviciute-asukas/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-BEATRICE-MOCKEVICIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-BEATRICE-MOCKEVICIUTE",
+     "url": "https://cac.lt/paroda/beatrice-mockeviciute-asukas/",
+     "claim": "The Contemporary Art Centre documents Beatričė Mockevičiūtė and her Asukas solo exhibition in Vilnius, with an earlier presentation at the Lithuanian Composers Union."
+    }
+   ],
+   "claim": "The Contemporary Art Centre documents Beatričė Mockevičiūtė and her Asukas solo exhibition in Vilnius, with an earlier presentation at the Lithuanian Composers Union."
+  },
+  {
+   "id": "reviewed:lii-ranniku",
+   "name": "Lii Ranniku",
+   "labels": {
+    "et": "Lii Ranniku"
+   },
+   "aliases": [
+    "Lii"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://eaa.ee/diverse-universe-performance-festival-printmaking-opening-rally",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-GRETA-RUGA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-GRETA-RUGA",
+     "url": "https://eaa.ee/diverse-universe-performance-festival-printmaking-opening-rally",
+     "claim": "The Estonian Artists Association Spring Exhibition lists Lii Ranniku with the EST country tag. The professional exhibition credit and explicit tag support the art role and local association."
+    }
+   ],
+   "claim": "The Estonian Artists Association Spring Exhibition lists Lii Ranniku with the EST country tag. The professional exhibition credit and explicit tag support the art role and local association."
+  },
+  {
+   "id": "reviewed:velli-saabas",
+   "name": "Velli Saabas",
+   "labels": {
+    "et": "Velli Saabas"
+   },
+   "aliases": [
+    "Velli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ULVE-KANGRO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ULVE-KANGRO",
+     "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+     "claim": "The Estonian Folk Art and Craft Union identifies Velli Saabas as a maker of Muhu traditional skirts and a 2024 Pärandihoidja laureate. The national craft award supports the professional art role and local association."
+    }
+   ],
+   "claim": "The Estonian Folk Art and Craft Union identifies Velli Saabas as a maker of Muhu traditional skirts and a 2024 Pärandihoidja laureate. The national craft award supports the professional art role and local association."
+  },
+  {
+   "id": "reviewed:piibe-kolka",
+   "name": "Piibe Kolka",
+   "labels": {
+    "et": "Piibe Kolka"
+   },
+   "aliases": [
+    "Piibe"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://eaa.ee/ekl-26-aastanaitus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-SIGRID-VIIR"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-SIGRID-VIIR",
+     "url": "https://eaa.ee/ekl-26-aastanaitus",
+     "claim": "The Estonian Artists Association annual exhibition list credits Piibe Kolka among its professional exhibiting artists, supporting exact name and local art activity."
+    }
+   ],
+   "claim": "The Estonian Artists Association annual exhibition list credits Piibe Kolka among its professional exhibiting artists, supporting exact name and local art activity."
+  },
+  {
+   "id": "reviewed:reeli-haamer",
+   "name": "Reeli Haamer",
+   "labels": {
+    "et": "Reeli Haamer"
+   },
+   "aliases": [
+    "Reeli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://eaa.ee/node/1437",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OLIVIA-NOGISTO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OLIVIA-NOGISTO",
+     "url": "https://eaa.ee/node/1437",
+     "claim": "The Estonian Artists Association artist directory identifies Reeli Haamer in ceramics and links her work at the ARS art centre. Exact public spelling, art discipline and professional local association are explicit."
+    }
+   ],
+   "claim": "The Estonian Artists Association artist directory identifies Reeli Haamer in ceramics and links her work at the ARS art centre. Exact public spelling, art discipline and professional local association are explicit."
+  },
+  {
+   "id": "reviewed:ragne-uutsalu",
+   "name": "Ragne Uutsalu",
+   "labels": {
+    "et": "Ragne Uutsalu"
+   },
+   "aliases": [
+    "Ragne"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://ekabl.ee/id/uutsaluragne",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-RAGNE-UUTSALU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-RAGNE-UUTSALU",
+     "url": "https://ekabl.ee/id/uutsaluragne",
+     "claim": "The Estonian art and architecture biographical database identifies graphic artist Ragne Uutsalu, born in Pärnu, and records her solo and group exhibitions at Draakoni Gallery and other Estonian art institutions."
+    }
+   ],
+   "claim": "The Estonian art and architecture biographical database identifies graphic artist Ragne Uutsalu, born in Pärnu, and records her solo and group exhibitions at Draakoni Gallery and other Estonian art institutions."
+  },
+  {
+   "id": "reviewed:reeda-marks",
+   "name": "Reeda Marks",
+   "labels": {
+    "et": "Reeda Marks"
+   },
+   "aliases": [
+    "Reeda"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://www.err.ee/436828/leedu-kunstinaitus-kuressaares",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-REEDA-MARKS"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-REEDA-MARKS",
+     "url": "https://www.err.ee/436828/leedu-kunstinaitus-kuressaares",
+     "claim": "Estonian public broadcasting identifies Reeda Marks as an Estonian artist of Lithuanian origin, describes her long professional leather-art and restoration practice in Estonia and documents her painting exhibition in Kuressaare. Local association is explicit rather than inferred from the name."
+    }
+   ],
+   "claim": "Estonian public broadcasting identifies Reeda Marks as an Estonian artist of Lithuanian origin, describes her long professional leather-art and restoration practice in Estonia and documents her painting exhibition in Kuressaare. Local association is explicit rather than inferred from the name."
+  },
+  {
+   "id": "reviewed:piibe-piirma",
+   "name": "Piibe Piirma",
+   "labels": {
+    "et": "Piibe Piirma"
+   },
+   "aliases": [
+    "Piibe"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 180,
+   "source": {
+    "url": "https://www.artun.ee/et/kalender/konverents-koostoopoore-kunstis-uurimisprotsess-kunstipraktikas/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-PIIBE-PIIRMA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-PIIBE-PIIRMA",
+     "url": "https://www.artun.ee/et/kalender/konverents-koostoopoore-kunstis-uurimisprotsess-kunstipraktikas/",
+     "claim": "The Estonian Academy of Arts conference biography identifies Piibe Piirma as a media artist, curator and teacher based in Tallinn, with professional exhibitions and art research in Estonia."
+    }
+   ],
+   "claim": "The Estonian Academy of Arts conference biography identifies Piibe Piirma as a media artist, curator and teacher based in Tallinn, with professional exhibitions and art research in Estonia."
+  },
+  {
+   "id": "reviewed:ragne-soosalu",
+   "name": "Ragne Soosalu",
+   "labels": {
+    "et": "Ragne Soosalu"
+   },
+   "aliases": [
+    "Ragne"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "scientist",
+   "round": 180,
+   "source": {
+    "url": "https://www.artun.ee/en/people/ragne-soosalu/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-RAGNE-SOOSALU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-RAGNE-SOOSALU",
+     "url": "https://www.artun.ee/en/people/ragne-soosalu/",
+     "claim": "The Estonian Academy of Arts identifies Ragne Soosalu as a junior researcher in art history and records her 2006–2022 KUMU museum work, including curating sound-art exhibitions. Exact name and local scholarly and museum activity support the association."
+    }
+   ],
+   "claim": "The Estonian Academy of Arts identifies Ragne Soosalu as a junior researcher in art history and records her 2006–2022 KUMU museum work, including curating sound-art exhibitions. Exact name and local scholarly and museum activity support the association."
   }
  ]
 }

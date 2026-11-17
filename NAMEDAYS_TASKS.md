@@ -1,10 +1,12 @@
 # Name-day work: start here
 
-This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 17 November 2026, after round 179 (three-month local exact namesake follow-up, 2 February–1 May). Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
+This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 17 November 2026, after round 180 (three-month local exact namesake follow-up, 2 May–1 August). Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
 
 ## Active priority: local famous exact namesakes
 
-Continue from **2 May**, after the completed round 179 three-month follow-up through 1 May. Publish each validated batch to main as authorized by the user.
+Continue from **2 August**, after the completed round 180 three-month follow-up through 1 August. Publish each validated batch to main as authorized by the user.
+
+**Calendar-cycle status:** the first calendar-order closure pass was completed in rounds 120–128. The later local exact namesake follow-up (round 169 onward) completed its first full calendar cycle during round 178. Current work revisits remaining under-five gaps with new targeted sources; broad discovery runs are exhausted and must not be restarted. A completed cycle does not mean every rare name has five bearers or a verified history.
 
 - [ ] Continue names with zero to four local exact bearers, aiming for at least five where evidence exists. Use the generated [namesake queue](NAMEDAYS_PEOPLE_BACKLOG.md) and its [complete CSV](research/namedays/people-backlog.csv). Work through upcoming calendar dates in LV, LT and EE; the queue identifies known people, source IDs and how many are still needed.
 - [ ] Reuse cached biographies and native labels first; then verify new candidates from institutional biographies, national encyclopedias, cultural/sport organizations or other reliable public sources. Prioritize remaining gaps rather than repeating completed broad queries.
@@ -13,7 +15,7 @@ Continue from **2 May**, after the completed round 179 three-month follow-up thr
 - [x] Separate geographic birthplace evidence (P19/P17) from citizenship evidence (P27). Do not infer nationality from spelling or treat related spelling forms as exact namesakes.
 - [x] Remove Today from the compact card header. Keep the Yesterday/Today/Tomorrow date controls in the dialog.
 
-Current local coverage: LV 1078 names, LT 683, EE 1035; at least five local bearers: LV 382, LT 365, EE 561. The generated queue is authoritative. Absence in the dataset is not proof that no bearer exists. Round 166 removes the separate attestation card and repeated related-name origin sentences, preserving distinct dated records. Historical round audits retain their original scope; use current generated queues for counts.
+Current local coverage: LV 1078 names, LT 683, EE 1035; at least five local bearers: LV 385, LT 366, EE 562. The generated queue is authoritative. Absence in the dataset is not proof that no bearer exists. Round 166 removes the separate attestation card and repeated related-name origin sentences, preserving distinct dated records. Historical round audits retain their original scope; use current generated queues for counts.
 
 Round 119 exhausted the Wikidata native-label route (LV citizenship at all sitelink counts plus single-sitelink citizenship/birthplace tails). Do not rerun those queries.
 
@@ -188,6 +190,13 @@ Per-day routine (run from the workspace root unless noted):
 - Evidence and held/negative outcomes: `research/namedays/round179-notes.json`; validation: `round179-audit.json`. Existing people, five birthday places and name histories are preserved.
 - **Next namesake date: 2 May**, all three countries; next round **180**. Earlier gaps remain open; this is not a rare-name completeness or history-verification claim.
 
+## Round 180: local namesakes, 2 May–1 August
+
+- [x] Reconciled **2,407 calendar memberships / 1,942 under-five profiles**, across **92 dates** in LV/LT/EE. Reused completed discovery/country outcomes, 124 saved cache-name searches, and ran 85 further cache searches before targeted professional follow-up.
+- [x] Added **29 local exact people** (LV 15, LT 6, EE 8) to **25 profiles**. Kitija, Antra, Sigita, Beatričė and Ragne now have at least five local bearers.
+- Evidence and held/negative outcomes: `research/namedays/round180-notes.json`; validation: `round180-audit.json`. Existing people, five birthday places and origin histories are preserved; one generated Reeda namesake example changes from Toots to Marks in five languages, with the exact delta audited.
+- **Next namesake date: 2 August**, all three countries; next round **181**. This is targeted gap follow-up after completed annual cycles; earlier gaps remain open.
+
 ## Where to get evidence and resume
 
 Always read [NAMEDAYS_SOURCES.md](NAMEDAYS_SOURCES.md), consult [NAMEDAYS_SOURCE_INDEX.md](NAMEDAYS_SOURCE_INDEX.md), and search the shared private cache before any new request. Read [NAMEDAYS_PEOPLE.md](NAMEDAYS_PEOPLE.md) for selection, claim limits and attribution. Keep source URLs in research/provenance, never in the widget interface.
@@ -257,7 +266,8 @@ Paths below are relative to this repository unless marked workspace-root:
 | Round 177 three-month namesake follow-up | `research/namedays/round177-notes.json`, `round177-audit.json`; private `queue177.json`, `cache177/`, `accepted177.json`, `people-before177/`, `audit177.mjs` | 2 August–1 November; next 2 November. |
 | Round 178 three-month namesake follow-up | `research/namedays/round178-notes.json`, `round178-audit.json`; private `queue178.json`, `cache178/`, `accepted178.json`, `people-before178/`, `audit178.mjs` | 2 November–1 February; next 2 February. |
 | Round 179 three-month namesake follow-up | `research/namedays/round179-notes.json`, `round179-audit.json`; private `queue179.json`, `cache179/`, `accepted179.json`, `people-before179/`, `audit179.mjs` | 2 February–1 May; next 2 May. |
-| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 180 unless another session has already created it; inspect files first. |
+| Round 180 three-month namesake follow-up | `research/namedays/round180-notes.json`, `round180-audit.json`; private `queue180.json`, `cache180/`, `accepted180.json`, `people-before180/`, `audit180.mjs` | 2 May–1 August; next 2 August. |
+| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 181 unless another session has already created it; inspect files first. |
 
 The private `prepare-local118.mjs` and `select-local119.mjs` helpers use fixed pre-round snapshots (`people-before119/`, `people-before120/`). Reuse its output; do not blindly rerun it as a current queue. Private collectors are not part of the portable repository. A cache-free public rebuild must retain published people and country evidence.
 

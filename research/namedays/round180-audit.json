@@ -1,0 +1,77 @@
+{
+  "round": 180,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.150",
+  "scope": {
+    "start": "2028-05-02",
+    "end": "2028-08-01",
+    "dates": 92,
+    "calendar_memberships": 2407,
+    "under_five_profiles_before": 1942,
+    "new_people": 29,
+    "changed_local_profiles": 25
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 15,
+      "profiles_with_exact_namesakes": 1803,
+      "profiles_with_local_bearers": 1078,
+      "profiles_with_at_least_five": 385,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 6,
+      "profiles_with_exact_namesakes": 731,
+      "profiles_with_local_bearers": 683,
+      "profiles_with_at_least_five": 366,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 8,
+      "profiles_with_exact_namesakes": 1113,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 562,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "compiled_history_deltas": [
+    {
+      "key": "ee:Reeda",
+      "kind": "generated_namesake_example_only",
+      "before": "Reeda Toots (actor)",
+      "after": "Reeda Marks (artist)",
+      "languages": [
+        "lv",
+        "ru",
+        "en",
+        "lt",
+        "et"
+      ],
+      "origin_hypothesis_and_history_facts_unchanged": true
+    }
+  ],
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": "pending",
+    "build": "pending",
+    "browser": "pending"
+  }
+}

@@ -9,8 +9,8 @@ Calendar-order reference: 2026-11-17 (Europe/Riga). Distance is a position in th
 | Measure | LV | LT | EE |
 | --- | ---: | ---: | ---: |
 | No local exact bearer | 4180 | 885 | 520 |
-| Fewer than five (includes zero) | 4876 | 1203 | 994 |
-| At least five | 382 | 365 | 561 |
+| Fewer than five (includes zero) | 4873 | 1202 | 993 |
+| At least five | 385 | 366 | 562 |
 
 ## First 60 queue entries
 
