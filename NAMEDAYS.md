@@ -58,7 +58,7 @@ The History tab shows dates within the narrative, without a separate old-record 
   - **Check:** `node ../var/namedays-research/plain-day.mjs MM-DD` (from `github-public/`) lists the day’s displayed reviewed histories that still mention sources or caveats; `parsers/namedays-plain.test.mjs` covers the rules.
 
 - **History reuse for LT and EE — done in round 129 (writer 1.9.107).** LT and EE names now reuse a verified history from a spelling variant in their own calendar or from the identical LV name, with a note; LT and EE never borrow from each other. See AGENTS.md for the exact rule.
-- **Famous people:** local exact namesakes cover LV 1064, LT 679, EE 1035 profiles; at least five local bearers cover 359, 355, 548 respectively (17 November 2026). Continue the generated local namesake queue and improve supported localized labels. Birthday people remain a separate five-person tier. [Coverage, limitations and data attribution](NAMEDAYS_PEOPLE.md).
+- **Famous people:** local exact namesakes cover LV 1067, LT 680, EE 1035 profiles; at least five local bearers cover 360, 356, 548 respectively (17 November 2026). Continue the generated local namesake queue and improve supported localized labels. Birthday people remain a separate five-person tier. [Coverage, limitations and data attribution](NAMEDAYS_PEOPLE.md).
 - **Spelling-variant reuse:** LV names whose only variant history is a spelling note (for example Valerijs, Valentīns) still need their own research; they are listed in the backlog as before.
 
 ### Research order

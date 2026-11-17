@@ -19533,6 +19533,756 @@
     }
    ],
    "claim": "Lithuania’s National Martynas Mažvydas Library’s own author event identifies cookbook writer Nida Degutienė presenting her latest book and explicitly notes her life and creative work abroad in Australia. Association rests on documented Lithuanian professional literary activity, not a claim of current residence or inferred citizenship."
+  },
+  {
+   "id": "reviewed:luize-nezberte",
+   "name": "Luīze Nežberte",
+   "labels": {
+    "lv": "Luīze Nežberte"
+   },
+   "aliases": [
+    "Luīze"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 172,
+   "source": {
+    "url": "https://kim.lv/lv/ingas-melderes-un-luizes-nezbertes-kopizstade-saulstaves/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LUIZE-NEZBERTE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LUIZE-NEZBERTE",
+     "url": "https://kim.lv/lv/ingas-melderes-un-luizes-nezbertes-kopizstade-saulstaves/",
+     "claim": "Kim contemporary art centre’s own exhibition biography identifies artist Luīze Nežberte, born in Riga, Latvia, in 1998, and documents her solo and group exhibitions. Birthplace establishes geographic association; her Vienna residence is not presented as Latvian residence."
+    }
+   ],
+   "claim": "Kim contemporary art centre’s own exhibition biography identifies artist Luīze Nežberte, born in Riga, Latvia, in 1998, and documents her solo and group exhibitions. Birthplace establishes geographic association; her Vienna residence is not presented as Latvian residence."
+  },
+  {
+   "id": "reviewed:vents-zvaigzne",
+   "name": "Vents Zvaigzne",
+   "labels": {
+    "lv": "Vents Zvaigzne"
+   },
+   "aliases": [
+    "Vents"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 172,
+   "source": {
+    "url": "https://dgramata.lv/dg-autori/vents-zvaigzne/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VENTS-ZVAIGZNE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-VENTS-ZVAIGZNE",
+     "url": "https://dgramata.lv/dg-autori/vents-zvaigzne/",
+     "claim": "Latvian publisher Dienas Grāmata’s own author page identifies literary editor Vents Zvaigzne and lists his credited book editing and literary consultancy work. Writer is the general literary-role category, not a claim that he authored the listed novels; country association is professional literary activity."
+    }
+   ],
+   "claim": "Latvian publisher Dienas Grāmata’s own author page identifies literary editor Vents Zvaigzne and lists his credited book editing and literary consultancy work. Writer is the general literary-role category, not a claim that he authored the listed novels; country association is professional literary activity."
+  },
+  {
+   "id": "reviewed:ventis-zilberts",
+   "name": "Ventis Zilberts",
+   "labels": {
+    "lv": "Ventis Zilberts"
+   },
+   "aliases": [
+    "Ventis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "musician",
+   "round": 172,
+   "source": {
+    "url": "https://www.lsm.lv/raksts/kultura/muzika/muza-balvas-ieguvejs-ventis-zilberts-inteligents-izsmalcinats-muzikis-latviesu-muzikas-patriots.a166205/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VENTIS-ZILBERTS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-VENTIS-ZILBERTS",
+     "url": "https://www.lsm.lv/raksts/kultura/muzika/muza-balvas-ieguvejs-ventis-zilberts-inteligents-izsmalcinats-muzikis-latviesu-muzikas-patriots.a166205/",
+     "claim": "Latvian public broadcasting’s own lifetime music award feature identifies pianist Ventis Zilberts and his Latvian music performing and pedagogical career. Country association rests on professional musical activity."
+    }
+   ],
+   "claim": "Latvian public broadcasting’s own lifetime music award feature identifies pianist Ventis Zilberts and his Latvian music performing and pedagogical career. Country association rests on professional musical activity."
+  },
+  {
+   "id": "reviewed:elmira-egle",
+   "name": "Elmīra Egle",
+   "labels": {
+    "lv": "Elmīra Egle"
+   },
+   "aliases": [
+    "Elmīra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/elmira-egle",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ELMIRA-EGLE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ELMIRA-EGLE",
+     "url": "https://www.literatura.lv/personas/elmira-egle",
+     "claim": "The national literature biography identifies bibliographer and literary editor Elmīra Egle, born in Druviena, and documents her literary bibliographies and work at Misiņš Library. Writer is the general literary-work category, not a claim of published fiction."
+    }
+   ],
+   "claim": "The national literature biography identifies bibliographer and literary editor Elmīra Egle, born in Druviena, and documents her literary bibliographies and work at Misiņš Library. Writer is the general literary-work category, not a claim of published fiction."
+  },
+  {
+   "id": "reviewed:dagmara-ausekle",
+   "name": "Dagmāra Ausekle",
+   "labels": {
+    "lv": "Dagmāra Ausekle"
+   },
+   "aliases": [
+    "Dagmāra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/dagmara-ausekle",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-DAGMARA-AUSEKLE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-DAGMARA-AUSEKLE",
+     "url": "https://www.literatura.lv/personas/dagmara-ausekle",
+     "claim": "The national literature biography identifies literary researcher and University of Latvia professor Dagmāra Ausekle, born in Viļaka in 1944. Geographic birthplace and documented research career support the association and role."
+    }
+   ],
+   "claim": "The national literature biography identifies literary researcher and University of Latvia professor Dagmāra Ausekle, born in Viļaka in 1944. Geographic birthplace and documented research career support the association and role."
+  },
+  {
+   "id": "reviewed:dagmara-vallena",
+   "name": "Dagmāra Vallena",
+   "labels": {
+    "lv": "Dagmāra Vallena"
+   },
+   "aliases": [
+    "Dagmāra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/dagmara-vallena",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-DAGMARA-VALLENA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-DAGMARA-VALLENA",
+     "url": "https://www.literatura.lv/personas/dagmara-vallena",
+     "claim": "The national literature biography identifies journalist and public worker Dagmāra Vallena, born in Riga, with a documented Latvian diaspora broadcasting and journalism career. No disputed birth day is transferred into the birthday tier."
+    }
+   ],
+   "claim": "The national literature biography identifies journalist and public worker Dagmāra Vallena, born in Riga, with a documented Latvian diaspora broadcasting and journalism career. No disputed birth day is transferred into the birthday tier."
+  },
+  {
+   "id": "reviewed:margita-gailitis",
+   "name": "Margita Gailītis",
+   "labels": {
+    "lv": "Margita Gailītis"
+   },
+   "aliases": [
+    "Margita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/margita-gailitis",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARGITA-GAILITIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARGITA-GAILITIS",
+     "url": "https://www.literatura.lv/personas/margita-gailitis",
+     "claim": "The national literature biography identifies poet and translator Margita Gailītis, born in Riga in 1939, and her translations and anthologies of Latvian literature."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and translator Margita Gailītis, born in Riga in 1939, and her translations and anthologies of Latvian literature."
+  },
+  {
+   "id": "reviewed:margita-mantina",
+   "name": "Margita Mantiņa",
+   "labels": {
+    "lv": "Margita Mantiņa"
+   },
+   "aliases": [
+    "Margita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/margita-mantina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARGITA-MANTINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARGITA-MANTINA",
+     "url": "https://www.literatura.lv/personas/margita-mantina",
+     "claim": "The national literature biography identifies theatre researcher Margita Mantiņa and her 1982–2020 work at the Eduards Smiļģis Theatre Museum in Riga. Country association is documented professional research activity."
+    }
+   ],
+   "claim": "The national literature biography identifies theatre researcher Margita Mantiņa and her 1982–2020 work at the Eduards Smiļģis Theatre Museum in Riga. Country association is documented professional research activity."
+  },
+  {
+   "id": "reviewed:beata-siuikaite",
+   "name": "Beata Šiuikaitė",
+   "labels": {
+    "lt": "Beata Šiuikaitė"
+   },
+   "aliases": [
+    "Beata"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 172,
+   "source": {
+    "url": "https://www.mic.lt/lt/ivykiai/2025/05/29/ant-melynos-bangos-lietuvisko-shoegazeo-jaunuolynas/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-BEATA-SIUIKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-BEATA-SIUIKAITE",
+     "url": "https://www.mic.lt/lt/ivykiai/2025/05/29/ant-melynos-bangos-lietuvisko-shoegazeo-jaunuolynas/",
+     "claim": "Music Information Centre Lithuania’s own interview identifies singer and band leader Beata Šiuikaitė of Mėlyna, discusses their released albums and Lithuanian concert activity."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s own interview identifies singer and band leader Beata Šiuikaitė of Mėlyna, discusses their released albums and Lithuanian concert activity."
+  },
+  {
+   "id": "reviewed:beata-juchnevic",
+   "name": "Beata Juchnevič",
+   "labels": {
+    "lt": "Beata Juchnevič"
+   },
+   "aliases": [
+    "Beata"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 172,
+   "source": {
+    "url": "https://www.mic.lt/lt/ivykiai/2019/08/12/neeklektiskas-beatos-juchnevic-kurybos-pasaulis/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-BEATA-JUCHNEVIC"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-BEATA-JUCHNEVIC",
+     "url": "https://www.mic.lt/lt/ivykiai/2019/08/12/neeklektiskas-beatos-juchnevic-kurybos-pasaulis/",
+     "claim": "Music Information Centre Lithuania’s interview identifies composer Beata Juchnevič and discusses her Lithuanian composition training and professional music work."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s interview identifies composer Beata Juchnevič and discusses her Lithuanian composition training and professional music work."
+  },
+  {
+   "id": "reviewed:lukrecija-petkute",
+   "name": "Lukrecija Petkutė",
+   "labels": {
+    "lt": "Lukrecija Petkutė"
+   },
+   "aliases": [
+    "Lukrecija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 172,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/petkute/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-LUKRECIJA-PETKUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-LUKRECIJA-PETKUTE",
+     "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/petkute/",
+     "claim": "Music Information Centre Lithuania’s composer biography identifies Lukrecija Petkutė, born in 1988, her LMTA studies and public composition/piano performance in Lithuania and abroad."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s composer biography identifies Lukrecija Petkutė, born in 1988, her LMTA studies and public composition/piano performance in Lithuania and abroad."
+  },
+  {
+   "id": "reviewed:gunda-vaivode",
+   "name": "Gunda Vaivode",
+   "labels": {
+    "lv": "Gunda Vaivode"
+   },
+   "aliases": [
+    "Gunda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 172,
+   "source": {
+    "url": "https://www.lsm.lv/raksts/arpus-etera/podkasti-raidieraksti/29.01.2026-kulturdeva-muzikologes-gunda-vaivode-un-inga-saksone.a632117/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GUNDA-VAIVODE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GUNDA-VAIVODE",
+     "url": "https://www.lsm.lv/raksts/arpus-etera/podkasti-raidieraksti/29.01.2026-kulturdeva-muzikologes-gunda-vaivode-un-inga-saksone.a632117/",
+     "claim": "Latvian public broadcasting’s own programme identifies musicologist and Latvijas Radio 3 Klasika director Gunda Vaivode. Country association is her documented cultural broadcasting work; public figure does not label her as a performing musician."
+    }
+   ],
+   "claim": "Latvian public broadcasting’s own programme identifies musicologist and Latvijas Radio 3 Klasika director Gunda Vaivode. Country association is her documented cultural broadcasting work; public figure does not label her as a performing musician."
+  },
+  {
+   "id": "reviewed:agija-abike-kondrate",
+   "name": "Agija Ābiķe-Kondrāte",
+   "labels": {
+    "lv": "Agija Ābiķe-Kondrāte"
+   },
+   "aliases": [
+    "Agija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/agija-abike-kondrate",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-AGIJA-ABIKE-KONDRATE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-AGIJA-ABIKE-KONDRATE",
+     "url": "https://www.literatura.lv/personas/agija-abike-kondrate",
+     "claim": "The national literature biography identifies literary scholar and critic Agija Ābiķe-Kondrāte and her Latvian research, criticism and literary-award work. Exact spelling comes from its heading; association is professional research activity."
+    }
+   ],
+   "claim": "The national literature biography identifies literary scholar and critic Agija Ābiķe-Kondrāte and her Latvian research, criticism and literary-award work. Exact spelling comes from its heading; association is professional research activity."
+  },
+  {
+   "id": "reviewed:una-jaunslaviete",
+   "name": "Una Jaunslaviete",
+   "labels": {
+    "lv": "Una Jaunslaviete"
+   },
+   "aliases": [
+    "Una"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/una-jaunslaviete",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-UNA-JAUNSLAVIETE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-UNA-JAUNSLAVIETE",
+     "url": "https://www.literatura.lv/personas/una-jaunslaviete",
+     "claim": "The national literature biography identifies translator and journalist Una Jaunslaviete, born in Riga in 1938, and lists her published literary translations. Writer is the existing general literary-role category."
+    }
+   ],
+   "claim": "The national literature biography identifies translator and journalist Una Jaunslaviete, born in Riga in 1938, and lists her published literary translations. Writer is the existing general literary-role category."
+  },
+  {
+   "id": "reviewed:marite-tabita-kalnina",
+   "name": "Mārīte Tabita Kalniņa",
+   "labels": {
+    "lv": "Mārīte Tabita Kalniņa"
+   },
+   "aliases": [
+    "Mārīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/marite-tabita-kalnina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARITE-TABITA-KALNINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARITE-TABITA-KALNINA",
+     "url": "https://www.literatura.lv/personas/marite-tabita-kalnina",
+     "claim": "The national literature biography identifies writer, illustrator and journalist Mārīte Tabita Kalniņa, born in Jersika parish in 1984, and her published children’s books, including a 2025 national literary award nomination. Mārīte is the separate first given name."
+    }
+   ],
+   "claim": "The national literature biography identifies writer, illustrator and journalist Mārīte Tabita Kalniņa, born in Jersika parish in 1984, and her published children’s books, including a 2025 national literary award nomination. Mārīte is the separate first given name."
+  },
+  {
+   "id": "reviewed:marite-aboltina",
+   "name": "Mārīte Āboltiņa",
+   "labels": {
+    "lv": "Mārīte Āboltiņa"
+   },
+   "aliases": [
+    "Mārīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 172,
+   "source": {
+    "url": "https://www.literatura.lv/personas/marite-aboltina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARITE-ABOLTINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARITE-ABOLTINA",
+     "url": "https://www.literatura.lv/personas/marite-aboltina",
+     "claim": "The national literature biography identifies literary researcher Mārīte Āboltiņa, her doctorate in philology and her University of Latvia research/teaching work. Association is professional research activity."
+    }
+   ],
+   "claim": "The national literature biography identifies literary researcher Mārīte Āboltiņa, her doctorate in philology and her University of Latvia research/teaching work. Association is professional research activity."
+  },
+  {
+   "id": "reviewed:akvile-anglickaite",
+   "name": "Akvilė Anglickaitė",
+   "labels": {
+    "lt": "Akvilė Anglickaitė"
+   },
+   "aliases": [
+    "Akvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 172,
+   "source": {
+    "url": "https://cac.lt/paroda/lietuvos-daile-2000-2010-desimt-metu/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-AKVILE-ANGLICKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-AKVILE-ANGLICKAITE",
+     "url": "https://cac.lt/paroda/lietuvos-daile-2000-2010-desimt-metu/",
+     "claim": "Vilnius Contemporary Art Centre’s own survey of Lithuanian art includes artist Akvilė Anglickaitė among its participants. The sustained national art-scene association is supported by this curated Lithuanian-art exhibition, not inferred citizenship."
+    }
+   ],
+   "claim": "Vilnius Contemporary Art Centre’s own survey of Lithuanian art includes artist Akvilė Anglickaitė among its participants. The sustained national art-scene association is supported by this curated Lithuanian-art exhibition, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:ula-tornau",
+   "name": "Ūla Tornau",
+   "labels": {
+    "lt": "Ūla Tornau"
+   },
+   "aliases": [
+    "Ūla"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "public_figure",
+   "round": 172,
+   "source": {
+    "url": "https://www.mic.lt/en/news/2024/11/07/good-times-for-the-lithuanian-music-ecosystem-cooperation-with-huddersfield-contemporary-music-festival-is-extended-and-deepened/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ULA-TORNAU"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-ULA-TORNAU",
+     "url": "https://www.mic.lt/en/news/2024/11/07/good-times-for-the-lithuanian-music-ecosystem-cooperation-with-huddersfield-contemporary-music-festival-is-extended-and-deepened/",
+     "claim": "Music Information Centre Lithuania’s own partnership announcement explicitly identifies Ūla Tornau as Lithuania’s cultural attaché in the United Kingdom and co-organizer of its national cultural programme. Association is documented representative cultural work, not UK residence used as citizenship evidence."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s own partnership announcement explicitly identifies Ūla Tornau as Lithuania’s cultural attaché in the United Kingdom and co-organizer of its national cultural programme. Association is documented representative cultural work, not UK residence used as citizenship evidence."
+  },
+  {
+   "id": "reviewed:ainar-toit",
+   "name": "Ainar Toit",
+   "labels": {
+    "et": "Ainar Toit"
+   },
+   "aliases": [
+    "Ainar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 172,
+   "source": {
+    "url": "https://jazz.ee/artist/ainar-toit/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-AINAR-TOIT"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-AINAR-TOIT",
+     "url": "https://jazz.ee/artist/ainar-toit/",
+     "claim": "Estonian Jazz Union’s own artist biography identifies guitarist Ainar Toit and describes his Estonian training, performances and collaborations with Estonian singers. Association is professional musical activity."
+    }
+   ],
+   "claim": "Estonian Jazz Union’s own artist biography identifies guitarist Ainar Toit and describes his Estonian training, performances and collaborations with Estonian singers. Association is professional musical activity."
+  },
+  {
+   "id": "reviewed:irma-holm",
+   "name": "Irma Holm",
+   "labels": {
+    "et": "Irma Holm"
+   },
+   "aliases": [
+    "Irma"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 172,
+   "source": {
+    "url": "https://www.eaa.ee/tallinna-kunstihoone-lasnamae-paviljoni-programmi-hakkavad-juhtima-mia-maria-rohumaa-ja-irma-holm",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-IRMA-HOLM"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-IRMA-HOLM",
+     "url": "https://www.eaa.ee/tallinna-kunstihoone-lasnamae-paviljoni-programmi-hakkavad-juhtima-mia-maria-rohumaa-ja-irma-holm",
+     "claim": "Estonian Artists Association’s announcement identifies artist and project manager Irma Holm, an Estonian Academy of Arts photography graduate and programme co-leader of Tallinn Art Hall’s Lasnamäe pavilion. Association is documented local professional art activity."
+    }
+   ],
+   "claim": "Estonian Artists Association’s announcement identifies artist and project manager Irma Holm, an Estonian Academy of Arts photography graduate and programme co-leader of Tallinn Art Hall’s Lasnamäe pavilion. Association is documented local professional art activity."
+  },
+  {
+   "id": "reviewed:laila-talunik",
+   "name": "Laila Talunik",
+   "labels": {
+    "et": "Laila Talunik"
+   },
+   "aliases": [
+    "Laila"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 172,
+   "source": {
+    "url": "https://ekabl.ee/id/taluniklaila",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-LAILA-TALUNIK"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-LAILA-TALUNIK",
+     "url": "https://ekabl.ee/id/taluniklaila",
+     "claim": "Estonian art biographical lexicon identifies Laila Talunik as an artist and records four exhibition participations, including shows at Võru City Gallery and Ajamaja Gallery. Association is documented local exhibition activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Estonian art biographical lexicon identifies Laila Talunik as an artist and records four exhibition participations, including shows at Võru City Gallery and Ajamaja Gallery. Association is documented local exhibition activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:ginta-ieva-bikse",
+   "name": "Ginta Ieva Bikše",
+   "labels": {
+    "lv": "Ginta Ieva Bikše"
+   },
+   "aliases": [
+    "Ginta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 172,
+   "source": {
+    "url": "https://www.hzf.lu.lv/par-mums/nodalas/vestures-un-arheologijas-nodala/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GINTA-IEVA-BIKSE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GINTA-IEVA-BIKSE",
+     "url": "https://www.hzf.lu.lv/par-mums/nodalas/vestures-un-arheologijas-nodala/",
+     "claim": "The University of Latvia History and Archaeology Department’s own staff directory identifies docent Ginta Ieva Bikše. Country association and research role follow her documented university post; Ginta is her separate first given name."
+    }
+   ],
+   "claim": "The University of Latvia History and Archaeology Department’s own staff directory identifies docent Ginta Ieva Bikše. Country association and research role follow her documented university post; Ginta is her separate first given name."
+  },
+  {
+   "id": "reviewed:gunda-reire",
+   "name": "Gunda Reire",
+   "labels": {
+    "lv": "Gunda Reire"
+   },
+   "aliases": [
+    "Gunda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 172,
+   "source": {
+    "url": "https://www.mfa.gov.lv/lv/jaunums/jauna-arlietu-ministrijas-parlamentara-sekretare-gunda-reire",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GUNDA-REIRE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GUNDA-REIRE",
+     "url": "https://www.mfa.gov.lv/lv/jaunums/jauna-arlietu-ministrijas-parlamentara-sekretare-gunda-reire",
+     "claim": "Latvia’s Ministry of Foreign Affairs announced Gunda Reire’s appointment as parliamentary secretary on 3 November 2022 and documents her preceding public-service and research career. This supports a public figure and Latvian professional association, not a claim that the 2022 office is current."
+    }
+   ],
+   "claim": "Latvia’s Ministry of Foreign Affairs announced Gunda Reire’s appointment as parliamentary secretary on 3 November 2022 and documents her preceding public-service and research career. This supports a public figure and Latvian professional association, not a claim that the 2022 office is current."
+  },
+  {
+   "id": "reviewed:akvile-kavaliauskaite",
+   "name": "Akvilė Kavaliauskaitė",
+   "labels": {
+    "lt": "Akvilė Kavaliauskaitė"
+   },
+   "aliases": [
+    "Akvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "writer",
+   "round": 172,
+   "source": {
+    "url": "https://srsvb.lt/jausmai-akvile-kavaliauskaite/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-AKVILE-KAVALIAUSKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-AKVILE-KAVALIAUSKAITE",
+     "url": "https://srsvb.lt/jausmai-akvile-kavaliauskaite/",
+     "claim": "Šiauliai district public library’s own book presentation identifies writer and journalist Akvilė Kavaliauskaitė, her published novel Jausmai, and her collection Kūnai winning the 2020 adult book-of-the-year selection. Association is documented Lithuanian literary work."
+    }
+   ],
+   "claim": "Šiauliai district public library’s own book presentation identifies writer and journalist Akvilė Kavaliauskaitė, her published novel Jausmai, and her collection Kūnai winning the 2020 adult book-of-the-year selection. Association is documented Lithuanian literary work."
+  },
+  {
+   "id": "reviewed:ula-ulijona-zebriunaite",
+   "name": "Ūla Ulijona Žebriūnaitė",
+   "labels": {
+    "lt": "Ūla Ulijona Žebriūnaitė"
+   },
+   "aliases": [
+    "Ūla"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 172,
+   "source": {
+    "url": "https://filharmonija.lt/festivaliai/vilniaus-festivalis/363/vilniaus-festivalis-2003%3A517",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ULA-ULIJONA-ZEBRIUNAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-ULA-ULIJONA-ZEBRIUNAITE",
+     "url": "https://filharmonija.lt/festivaliai/vilniaus-festivalis/363/vilniaus-festivalis-2003%3A517",
+     "claim": "Lithuanian National Philharmonic’s own Vilnius Festival 2003 introduction explicitly includes soloist Ūla Ulijona Žebriūnaitė among Lithuanian performers with the Lithuanian National Symphony Orchestra. Country association is documented representative professional musical activity; Ūla is a separate first given name."
+    }
+   ],
+   "claim": "Lithuanian National Philharmonic’s own Vilnius Festival 2003 introduction explicitly includes soloist Ūla Ulijona Žebriūnaitė among Lithuanian performers with the Lithuanian National Symphony Orchestra. Country association is documented representative professional musical activity; Ūla is a separate first given name."
   }
  ]
 }

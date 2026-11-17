@@ -1,0 +1,63 @@
+{
+  "round": 172,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.142",
+  "scope": {
+    "start": "2027-03-02",
+    "end": "2027-04-01",
+    "dates": 31,
+    "calendar_memberships": 770,
+    "under_five_profiles_before": 646,
+    "new_people": 25,
+    "changed_local_profiles": 18
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 15,
+      "profiles_with_exact_namesakes": 1796,
+      "profiles_with_local_bearers": 1067,
+      "profiles_with_at_least_five": 360,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 7,
+      "profiles_with_exact_namesakes": 729,
+      "profiles_with_local_bearers": 680,
+      "profiles_with_at_least_five": 356,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 3,
+      "profiles_with_exact_namesakes": 1113,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 548,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "compiled_history_deltas": [],
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": 165,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed LV Dagmāra (8 March), LT Akvilė (23 March) and EE Ainar (11 March), with new local exact bearers and five distinct birthday people visible in the accessibility tree; screenshot checked. Ignored dist-only clock fixture; no production date override."
+  }
+}
