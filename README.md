@@ -94,7 +94,7 @@ Fuel uses published LV operator prices, LEA in LT, and FuelEst in EE. Widget fee
 
 Euribor 6M replaces the inverse USD/EUR row, using official Bank of Finland / EMMI daily act/360 fixings with a 24-hour delay. The initial daily history starts in 2021; rate changes use percentage points. Commercial redistribution is subject to EMMI terms (see THIRD_PARTY.md).
 
-Currencies use ECB history from 1999; gold uses NBP from 2013 and a separate monthly World Bank series; Bitcoin uses Coin Metrics from 2010. Actual coverage depends on the source and the retained database.
+Currencies use ECB history from 1999; gold uses NBP from 2013 with ECB currency conversion; Bitcoin uses Coin Metrics from 2010. Actual coverage depends on the source and the retained database.
 
 Horoscopes use a **Do / Avoid** format: three suggestions in each group, with all three items per group displayed directly at every screen size. Horoscopes use editorial templates informed by Astronomy Engine calculations, with two moods (normal and funny) and three variants per sign and day. Dates follow Europe/Riga. Six areas cover work/business, money, relationships, personal plans, home/family, and balance/rest, using practical, topic-specific advice. Adjacent days change the topic and every sentence; a fixed description of the sign is not repeated. These are everyday prompts, not promises of specific events.
 
