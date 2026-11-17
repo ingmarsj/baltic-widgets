@@ -54,9 +54,10 @@
   },
   "compiled_history_deltas": [],
   "validation": {
-    "automated_data_audit": "passed",
-    "tests": "pending",
-    "build": "pending",
-    "browser": "pending"
+    "automated_data_audit": "passed: every annual profile and calendar membership; unchanged facts and final history text in five languages; previous people and five distinct birthday places preserved",
+    "tests": "168/168 passed in isolated publication worktree after merging origin/main 29f90e5",
+    "build": "passed in the same isolated publication worktree",
+    "browser": "passed in isolated preview: LV Ērika on 3 November 2027 (both new writers, five local namesakes); LT Austė on 25 December 2027 (both new artists); EE Naima on 24 January 2028 (new ceramist, five local namesakes and international tier). Five birthday people visible on each card.",
+    "isolation": "Concurrent chart/market changes in the shared worktree were preserved. Publication incorporates already committed main changes and the round 178 batch only."
   }
 }
