@@ -21814,6 +21814,576 @@
     }
    ],
    "claim": "The Estonian Artists Association’s own 26th annual exhibition page explicitly lists Sigrid Viir among the participating artists. This supports professional local exhibition activity, independently of inferred citizenship or birthplace."
+  },
+  {
+   "id": "reviewed:benita-veisberga",
+   "name": "Benita Veisberga",
+   "labels": {
+    "lv": "Benita Veisberga"
+   },
+   "aliases": [
+    "Benita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/personas/benita-veisberga",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-BENITA-VEISBERGA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-BENITA-VEISBERGA",
+     "url": "https://www.literatura.lv/personas/benita-veisberga",
+     "claim": "The national literature biography identifies writer Benita Veisberga, born in Jelgava in 1928, and documents her published prose and literary awards. Her later emigration does not change the documented geographic birthplace association; Benita Nita is a pseudonym, not another person."
+    }
+   ],
+   "claim": "The national literature biography identifies writer Benita Veisberga, born in Jelgava in 1928, and documents her published prose and literary awards. Her later emigration does not change the documented geographic birthplace association; Benita Nita is a pseudonym, not another person."
+  },
+  {
+   "id": "reviewed:benita-smilktina",
+   "name": "Benita Smilktiņa",
+   "labels": {
+    "lv": "Benita Smilktiņa"
+   },
+   "aliases": [
+    "Benita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/en/persons/benita-smilktina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-BENITA-SMILKTINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-BENITA-SMILKTINA",
+     "url": "https://www.literatura.lv/en/persons/benita-smilktina",
+     "claim": "The national literature biography identifies literary scholar Benita Smilktiņa, born in Riga in 1932, her research monographs and employment at the national literature institute. Birthplace and scholarly work support geographic/professional association."
+    }
+   ],
+   "claim": "The national literature biography identifies literary scholar Benita Smilktiņa, born in Riga in 1932, her research monographs and employment at the national literature institute. Birthplace and scholarly work support geographic/professional association."
+  },
+  {
+   "id": "reviewed:maruta-latkovska",
+   "name": "Maruta Latkovska",
+   "labels": {
+    "lv": "Maruta Latkovska"
+   },
+   "aliases": [
+    "Maruta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/personas/maruta-latkovska",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARUTA-LATKOVSKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARUTA-LATKOVSKA",
+     "url": "https://www.literatura.lv/personas/maruta-latkovska",
+     "claim": "The national literature biography identifies journalist and editor Maruta Latkovska as the long-serving editor of Katōļu Dzeive, records her Rēzekne residence and the 2014 Boņuks lifetime contribution award. Association rests on documented local professional cultural work."
+    }
+   ],
+   "claim": "The national literature biography identifies journalist and editor Maruta Latkovska as the long-serving editor of Katōļu Dzeive, records her Rēzekne residence and the 2014 Boņuks lifetime contribution award. Association rests on documented local professional cultural work."
+  },
+  {
+   "id": "reviewed:maruta-castrova",
+   "name": "Maruta Castrova",
+   "labels": {
+    "lv": "Maruta Castrova"
+   },
+   "aliases": [
+    "Maruta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "educator",
+   "round": 176,
+   "source": {
+    "url": "https://balvurcb.lv/kb/index.php?EntryID=1314&View=entry",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARUTA-CASTROVA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARUTA-CASTROVA",
+     "url": "https://balvurcb.lv/kb/index.php?EntryID=1314&View=entry",
+     "claim": "Balvi Central Library’s regional cultural biography identifies Maruta Castrova, born in Stāmeriena in 1959, and documents her leadership of Balvi cultural and continuing-education institutions. The general educator role follows her documented adult-education work; birthplace is geographic evidence."
+    }
+   ],
+   "claim": "Balvi Central Library’s regional cultural biography identifies Maruta Castrova, born in Stāmeriena in 1959, and documents her leadership of Balvi cultural and continuing-education institutions. The general educator role follows her documented adult-education work; birthplace is geographic evidence."
+  },
+  {
+   "id": "reviewed:dominyka-seibokaite",
+   "name": "Dominyka Šeibokaitė",
+   "labels": {
+    "lt": "Dominyka Šeibokaitė"
+   },
+   "aliases": [
+    "Dominyka"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 176,
+   "source": {
+    "url": "https://siauliugalerija.lt/dominykos-seibok-performansas-kuno-aidai/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-DOMINYKA-SEIBOKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-DOMINYKA-SEIBOKAITE",
+     "url": "https://siauliugalerija.lt/dominykos-seibok-performansas-kuno-aidai/",
+     "claim": "Šiauliai Art Gallery’s own VIRUS’30 performance announcement explicitly identifies flutist and interdisciplinary performer Dominyka Šeibokaitė and her professional performance in Šiauliai. The shorter stage surname Šeibok and full surname Šeibokaitė are the same person, not two entries. Association rests on local professional cultural activity."
+    }
+   ],
+   "claim": "Šiauliai Art Gallery’s own VIRUS’30 performance announcement explicitly identifies flutist and interdisciplinary performer Dominyka Šeibokaitė and her professional performance in Šiauliai. The shorter stage surname Šeibok and full surname Šeibokaitė are the same person, not two entries. Association rests on local professional cultural activity."
+  },
+  {
+   "id": "reviewed:greta-ruga",
+   "name": "Greta Ruga",
+   "labels": {
+    "et": "Greta Ruga"
+   },
+   "aliases": [
+    "Greta"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 176,
+   "source": {
+    "url": "https://eaa.ee/diverse-universe-performance-festival-printmaking-opening-rally",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-GRETA-RUGA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-GRETA-RUGA",
+     "url": "https://eaa.ee/diverse-universe-performance-festival-printmaking-opening-rally",
+     "claim": "The Estonian Artists Association’s own Diverse Universe/Printmaking In event announcement explicitly lists Greta Ruga_EST among participating artists. The source supplies exact public name and a country tag; professional local exhibition activity supports association, not an inferred birthplace."
+    }
+   ],
+   "claim": "The Estonian Artists Association’s own Diverse Universe/Printmaking In event announcement explicitly lists Greta Ruga_EST among participating artists. The source supplies exact public name and a country tag; professional local exhibition activity supports association, not an inferred birthplace."
+  },
+  {
+   "id": "reviewed:marika-svike",
+   "name": "Marika Svīķe",
+   "labels": {
+    "lv": "Marika Svīķe"
+   },
+   "aliases": [
+    "Marika"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/personas/marika-svike",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARIKA-SVIKE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARIKA-SVIKE",
+     "url": "https://www.literatura.lv/personas/marika-svike",
+     "claim": "The national literature biography identifies poet and journalist Marika Svīķe (1968–2021), her published poetry and song lyrics, and her Palsmane/Smiltene geographic roots and professional newspaper work. Exact first name and country association are documented."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and journalist Marika Svīķe (1968–2021), her published poetry and song lyrics, and her Palsmane/Smiltene geographic roots and professional newspaper work. Exact first name and country association are documented."
+  },
+  {
+   "id": "reviewed:krista-anna-belsevica",
+   "name": "Krista Anna Belševica",
+   "labels": {
+    "lv": "Krista Anna Belševica"
+   },
+   "aliases": [
+    "Krista"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/personas/krista-anna-belsevica",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-KRISTA-ANNA-BELSEVICA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-KRISTA-ANNA-BELSEVICA",
+     "url": "https://www.literatura.lv/personas/krista-anna-belsevica",
+     "claim": "The national literature biography identifies poet, writer and translator Krista Anna Belševica (1993), her published poetry and prose, and professional Latvian literary activity. Krista is the first given name; Anna is not separately added as a first-name bearer."
+    }
+   ],
+   "claim": "The national literature biography identifies poet, writer and translator Krista Anna Belševica (1993), her published poetry and prose, and professional Latvian literary activity. Krista is the first given name; Anna is not separately added as a first-name bearer."
+  },
+  {
+   "id": "reviewed:krista-betija-samauska",
+   "name": "Krista Betija Samauska",
+   "labels": {
+    "lv": "Krista Betija Samauska"
+   },
+   "aliases": [
+    "Krista"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/en/persons/krista-betija-samauska",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-KRISTA-BETIJA-SAMAUSKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-KRISTA-BETIJA-SAMAUSKA",
+     "url": "https://www.literatura.lv/en/persons/krista-betija-samauska",
+     "claim": "The national literature biography identifies writer and translator Krista Betija Samauska, born in Riga in 2001, her published novels and translations. The short signature Krista Betija does not create another person; Krista remains her documented first given name."
+    }
+   ],
+   "claim": "The national literature biography identifies writer and translator Krista Betija Samauska, born in Riga in 2001, her published novels and translations. The short signature Krista Betija does not create another person; Krista remains her documented first given name."
+  },
+  {
+   "id": "reviewed:digne-udre-lielbarde",
+   "name": "Digne Ūdre-Lielbārde",
+   "labels": {
+    "lv": "Digne Ūdre-Lielbārde"
+   },
+   "aliases": [
+    "Digne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 176,
+   "source": {
+    "url": "https://research.lu.lv/lv/persons/digne-%C5%ABdre-lielb%C4%81rde/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-DIGNE-UDRE-LIELBARDE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-DIGNE-UDRE-LIELBARDE",
+     "url": "https://research.lu.lv/lv/persons/digne-%C5%ABdre-lielb%C4%81rde/",
+     "claim": "The University of Latvia’s own researcher profile identifies Digne Ūdre-Lielbārde at its Institute of Literature, Folklore and Art and lists her research outputs. Association is documented professional scholarly employment, not inferred citizenship or birthplace."
+    }
+   ],
+   "claim": "The University of Latvia’s own researcher profile identifies Digne Ūdre-Lielbārde at its Institute of Literature, Folklore and Art and lists her research outputs. Association is documented professional scholarly employment, not inferred citizenship or birthplace."
+  },
+  {
+   "id": "reviewed:marina-henina",
+   "name": "Marina Heniņa",
+   "labels": {
+    "lv": "Marina Heniņa"
+   },
+   "aliases": [
+    "Marina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/personas/marina-henina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MARINA-HENINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MARINA-HENINA",
+     "url": "https://www.literatura.lv/personas/marina-henina",
+     "claim": "The national literature biography identifies illustrator and artist Marina Heniņa (1981) and lists her numerous published illustrations for Latvian children’s books and her own book. Country association rests on documented professional local publishing activity."
+    }
+   ],
+   "claim": "The national literature biography identifies illustrator and artist Marina Heniņa (1981) and lists her numerous published illustrations for Latvian children’s books and her own book. Country association rests on documented professional local publishing activity."
+  },
+  {
+   "id": "reviewed:saara-vali",
+   "name": "Saara Väli",
+   "labels": {
+    "et": "Saara Väli"
+   },
+   "aliases": [
+    "Saara"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 176,
+   "source": {
+    "url": "https://www.eaa.ee/ekl-19-aastanaitus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-VIVIAN-AINSALU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-VIVIAN-AINSALU",
+     "url": "https://www.eaa.ee/ekl-19-aastanaitus",
+     "claim": "Reused the cached Estonian Artists Association 19th annual exhibition announcement: Saara Väli is explicitly named among exhibiting artists. Association is professional local exhibition activity. This page was already cached in round 175 and was not downloaded again."
+    }
+   ],
+   "claim": "Reused the cached Estonian Artists Association 19th annual exhibition announcement: Saara Väli is explicitly named among exhibiting artists. Association is professional local exhibition activity. This page was already cached in round 175 and was not downloaded again."
+  },
+  {
+   "id": "reviewed:vilte-zakeviciute",
+   "name": "Viltė Žakevičiūtė",
+   "labels": {
+    "lt": "Viltė Žakevičiūtė"
+   },
+   "aliases": [
+    "Viltė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 176,
+   "source": {
+    "url": "https://www.mic.lt/lt/ivykiai/2020/02/05/zita-bruzaite-didele-mano-kurybos-ir-gyvenimo-dali/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-VILTE-ZAKEVICIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-VILTE-ZAKEVICIUTE",
+     "url": "https://www.mic.lt/lt/ivykiai/2020/02/05/zita-bruzaite-didele-mano-kurybos-ir-gyvenimo-dali/",
+     "claim": "Music Information Centre Lithuania’s own composer interview explicitly identifies interviewer Viltė Žakevičiūtė as a fellow composer. This documents exact public first name and professional national cultural activity; it does not assign the interviewed composer’s works to her."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s own composer interview explicitly identifies interviewer Viltė Žakevičiūtė as a fellow composer. This documents exact public first name and professional national cultural activity; it does not assign the interviewed composer’s works to her."
+  },
+  {
+   "id": "reviewed:radvile-juozapaityte",
+   "name": "Radvilė Juozapaitytė",
+   "labels": {
+    "lt": "Radvilė Juozapaitytė"
+   },
+   "aliases": [
+    "Radvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 176,
+   "source": {
+    "url": "https://umi.lt/parodos/akmuo-pienas-sirdis-aros-radviles-tapybos-paroda",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-RADVILE-JUOZAPAITYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-RADVILE-JUOZAPAITYTE",
+     "url": "https://umi.lt/parodos/akmuo-pienas-sirdis-aros-radviles-tapybos-paroda",
+     "claim": "Vilnius municipal Užupis Art Incubator’s own exhibition biography explicitly identifies Ara Radvilė as Radvilė Juozapaitytė (1995), documents her scenography studies and individual/group exhibitions in Lithuania. Radvilė is the documented real first name; Ara is the artistic signature, not a second person."
+    }
+   ],
+   "claim": "Vilnius municipal Užupis Art Incubator’s own exhibition biography explicitly identifies Ara Radvilė as Radvilė Juozapaitytė (1995), documents her scenography studies and individual/group exhibitions in Lithuania. Radvilė is the documented real first name; Ara is the artistic signature, not a second person."
+  },
+  {
+   "id": "reviewed:dita-nimante",
+   "name": "Dita Nīmante",
+   "labels": {
+    "lv": "Dita Nīmante"
+   },
+   "aliases": [
+    "Dita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 176,
+   "source": {
+    "url": "https://research.lu.lv/lv/persons/dita-n%C4%ABmante/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-DITA-NIMANTE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-DITA-NIMANTE",
+     "url": "https://research.lu.lv/lv/persons/dita-n%C4%ABmante/",
+     "claim": "The University of Latvia’s own researcher profile identifies education researcher and professor Dita Nīmante, her doctorate and professional university appointments and research outputs. Association rests on documented scholarly employment."
+    }
+   ],
+   "claim": "The University of Latvia’s own researcher profile identifies education researcher and professor Dita Nīmante, her doctorate and professional university appointments and research outputs. Association rests on documented scholarly employment."
+  },
+  {
+   "id": "reviewed:dita-jonite",
+   "name": "Dita Jonīte",
+   "labels": {
+    "lv": "Dita Jonīte"
+   },
+   "aliases": [
+    "Dita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 176,
+   "source": {
+    "url": "https://www.lsm.lv/autors/dita-jonite",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-DITA-JONITE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-DITA-JONITE",
+     "url": "https://www.lsm.lv/autors/dita-jonite",
+     "claim": "Latvian public broadcaster LSM’s own contributor biography identifies Dita Jonīte as a research assistant at the University of Latvia literature institute’s arts department and a dance/theatre critic. It documents professional local research and cultural work. The institute staff-page fetch failed and was not used."
+    }
+   ],
+   "claim": "Latvian public broadcaster LSM’s own contributor biography identifies Dita Jonīte as a research assistant at the University of Latvia literature institute’s arts department and a dance/theatre critic. It documents professional local research and cultural work. The institute staff-page fetch failed and was not used."
+  },
+  {
+   "id": "reviewed:sigita-kusnere",
+   "name": "Sigita Kušnere",
+   "labels": {
+    "lv": "Sigita Kušnere"
+   },
+   "aliases": [
+    "Sigita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 176,
+   "source": {
+    "url": "https://www.literatura.lv/personas/sigita-kusnere",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SIGITA-KUSNERE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SIGITA-KUSNERE",
+     "url": "https://www.literatura.lv/personas/sigita-kusnere",
+     "claim": "The national literature biography identifies literary scholar, editor and translator Sigita Kušnere (1975), her research and professional appointments at the University of Latvia and national literature institute. It does not promote doctoral candidacy into an awarded doctorate."
+    }
+   ],
+   "claim": "The national literature biography identifies literary scholar, editor and translator Sigita Kušnere (1975), her research and professional appointments at the University of Latvia and national literature institute. It does not promote doctoral candidacy into an awarded doctorate."
+  },
+  {
+   "id": "reviewed:sigita-ignatjeva",
+   "name": "Sigita Ignatjeva",
+   "labels": {
+    "lv": "Sigita Ignatjeva"
+   },
+   "aliases": [
+    "Sigita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 176,
+   "source": {
+    "url": "https://research.rtu.lv/en/persons/sigita-ignatjeva-10/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SIGITA-IGNATJEVA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SIGITA-IGNATJEVA",
+     "url": "https://research.rtu.lv/en/persons/sigita-ignatjeva-10/",
+     "claim": "Riga Technical University’s own researcher profile identifies Sigita Ignatjeva as assistant professor at its Centre for Humanities and Arts and lists her research publications on Latvian theatre. Association is professional scholarly employment."
+    }
+   ],
+   "claim": "Riga Technical University’s own researcher profile identifies Sigita Ignatjeva as assistant professor at its Centre for Humanities and Arts and lists her research publications on Latvian theatre. Association is professional scholarly employment."
+  },
+  {
+   "id": "reviewed:ance-strazda",
+   "name": "Ance Strazda",
+   "labels": {
+    "lv": "Ance Strazda"
+   },
+   "aliases": [
+    "Ance"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "actor",
+   "round": 176,
+   "source": {
+    "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-TINA-PETERSONE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-TINA-PETERSONE",
+     "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+     "claim": "Reused the cached Latvian Academy of Culture mentoring-programme announcement: it explicitly identifies Ance Strazda as actress, producer and co-founder of Kvadrifrons. This documents local professional theatre activity. The source was not fetched again."
+    }
+   ],
+   "claim": "Reused the cached Latvian Academy of Culture mentoring-programme announcement: it explicitly identifies Ance Strazda as actress, producer and co-founder of Kvadrifrons. This documents local professional theatre activity. The source was not fetched again."
   }
  ]
 }

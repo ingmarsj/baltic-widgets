@@ -1,0 +1,75 @@
+{
+  "round": 176,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.146",
+  "scope": {
+    "start": "2027-07-02",
+    "end": "2027-08-01",
+    "dates": 31,
+    "calendar_memberships": 815,
+    "under_five_profiles_before": 663,
+    "new_people": 19,
+    "changed_local_profiles": 14
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 14,
+      "profiles_with_exact_namesakes": 1803,
+      "profiles_with_local_bearers": 1078,
+      "profiles_with_at_least_five": 370,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 3,
+      "profiles_with_exact_namesakes": 731,
+      "profiles_with_local_bearers": 683,
+      "profiles_with_at_least_five": 360,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 2,
+      "profiles_with_exact_namesakes": 1113,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 554,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "compiled_history_deltas": [
+    {
+      "key": "lv:Digne",
+      "languages": [
+        "lv",
+        "ru",
+        "en",
+        "lt",
+        "et"
+      ],
+      "change": "Existing generated summary gains only the checked Digne Ūdre-Lielbārde namesake sentence. Origin, hypothesis status, related-name context and historical dates are unchanged.",
+      "source_id": "PEOPLE-LV-DIGNE-UDRE-LIELBARDE"
+    }
+  ],
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": "passed: npm test, 165 tests, zero failures",
+    "build": "passed: npm run build; source index and namesake backlog regenerated",
+    "browser": "passed: Russian-language LV Marina (22 July) and EE Greta (13 July) show five local namesakes, LT Radvilė (30 July) shows its new artist among four local namesakes. All three retain five independent birthday people. Greta screenshot visually checked. Dates supplied only by an ignored dist QA fixture; no production clock override."
+  }
+}
