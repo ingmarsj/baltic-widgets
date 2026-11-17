@@ -1,0 +1,62 @@
+{
+  "round": 175,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.145",
+  "scope": {
+    "start": "2027-06-02",
+    "end": "2027-07-01",
+    "dates": 30,
+    "calendar_memberships": 747,
+    "under_five_profiles_before": 613,
+    "new_people": 16,
+    "changed_local_profiles": 12
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 10,
+      "profiles_with_exact_namesakes": 1802,
+      "profiles_with_local_bearers": 1076,
+      "profiles_with_at_least_five": 364,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 3,
+      "profiles_with_exact_namesakes": 731,
+      "profiles_with_local_bearers": 683,
+      "profiles_with_at_least_five": 360,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 3,
+      "profiles_with_exact_namesakes": 1113,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 553,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "compiled_history_deltas": [],
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": "passed: npm test, 165 tests, zero failures",
+    "build": "passed: npm run build; source index and namesake backlog regenerated",
+    "browser": "passed: Russian-language LV Ingūna (26 June) shows five local namesakes, LT Vasarė (21 June) shows its first local namesake, and EE Maile (10 June) shows five local namesakes. All three retain five independent birthday people. Maile screenshot visually checked. Dates supplied only by an ignored dist QA fixture; no production clock override."
+  }
+}

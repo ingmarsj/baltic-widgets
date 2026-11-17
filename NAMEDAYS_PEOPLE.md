@@ -15,9 +15,9 @@ Within a tier, available Pantheon historical popularity scores (HPI) rank first,
 | Measure | LV | LT | EE |
 | --- | ---: | ---: | ---: |
 | Profiles | 5,258 | 1,568 | 1,555 |
-| Profiles with namesakes (all relationships) | 2,228 | 749 | 1,127 |
-| Profiles with a local exact-spelling namesake | 1,074 | 681 | 1,035 |
-| Profiles with at least five local exact namesakes | 362 | 360 | 550 |
+| Profiles with namesakes (all relationships) | 2,230 | 750 | 1,127 |
+| Profiles with a local exact-spelling namesake | 1,076 | 683 | 1,035 |
+| Profiles with at least five local exact namesakes | 364 | 360 | 553 |
 
 Use [the generated people queue](NAMEDAYS_PEOPLE_BACKLOG.md) for current per-name gaps. Five birthday-tier people remain independent of namesakes. All 366 month/day combinations have eight birthday candidates, including 29 February. Historical round audits describe the profiles and calendar memberships present at that time; their older totals are not current coverage. The round 165 calendar corrections and LV hiding rule changed profile membership. Namesake coverage does not verify name origins.
 

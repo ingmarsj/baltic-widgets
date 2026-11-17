@@ -21334,6 +21334,486 @@
     }
    ],
    "claim": "Reused the already cached Estonian Artists Association announcement of the 69th Annual Exhibition of Tartu Art: its selected artists explicitly include Miina Vilo. Country association rests on professional local exhibition activity; the source was not fetched or researched again."
+  },
+  {
+   "id": "reviewed:vivian-ainsalu",
+   "name": "Vivian Ainsalu",
+   "labels": {
+    "et": "Vivian Ainsalu"
+   },
+   "aliases": [
+    "Vivian"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 175,
+   "source": {
+    "url": "https://www.eaa.ee/ekl-19-aastanaitus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-VIVIAN-AINSALU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-VIVIAN-AINSALU",
+     "url": "https://www.eaa.ee/ekl-19-aastanaitus",
+     "claim": "The Estonian Artists Association's own 19th annual exhibition report explicitly lists Vivian Ainsalu among the selected exhibiting artists. Association rests on professional local exhibition activity, not inferred birthplace or citizenship."
+    }
+   ],
+   "claim": "The Estonian Artists Association's own 19th annual exhibition report explicitly lists Vivian Ainsalu among the selected exhibiting artists. Association rests on professional local exhibition activity, not inferred birthplace or citizenship."
+  },
+  {
+   "id": "reviewed:ineta-meimane",
+   "name": "Ineta Meimane",
+   "labels": {
+    "lv": "Ineta Meimane"
+   },
+   "aliases": [
+    "Ineta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/ineta-meimane",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-INETA-MEIMANE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-INETA-MEIMANE",
+     "url": "https://www.literatura.lv/personas/ineta-meimane",
+     "claim": "The national literature biography identifies writer and journalist Ineta Meimane, born in 1966, and documents her published books about Latvian cultural figures and Prose Readings awards. Association is professional literary activity, not an inferred birthplace."
+    }
+   ],
+   "claim": "The national literature biography identifies writer and journalist Ineta Meimane, born in 1966, and documents her published books about Latvian cultural figures and Prose Readings awards. Association is professional literary activity, not an inferred birthplace."
+  },
+  {
+   "id": "reviewed:ineta-atpile",
+   "name": "Ineta Atpile",
+   "labels": {
+    "lv": "Ineta Atpile"
+   },
+   "aliases": [
+    "Ineta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/ineta-atpile",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-INETA-ATPILE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-INETA-ATPILE",
+     "url": "https://www.literatura.lv/personas/ineta-atpile",
+     "claim": "The national literature biography identifies poet Ineta Atpile and her published Latgalian poetry. Exact first name and local professional literary activity support the association; surname variants are not separate people."
+    }
+   ],
+   "claim": "The national literature biography identifies poet Ineta Atpile and her published Latgalian poetry. Exact first name and local professional literary activity support the association; surname variants are not separate people."
+  },
+  {
+   "id": "reviewed:sintija-kampane-stelmahere",
+   "name": "Sintija Kampāne-Štelmahere",
+   "labels": {
+    "lv": "Sintija Kampāne-Štelmahere"
+   },
+   "aliases": [
+    "Sintija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/sintija-kampane-stelmahere",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SINTIJA-KAMPANE-STELMAHERE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SINTIJA-KAMPANE-STELMAHERE",
+     "url": "https://www.literatura.lv/personas/sintija-kampane-stelmahere",
+     "claim": "The national literature biography identifies poet and critic Sintija Kampāne-Štelmahere, born in Jēkabpils in 1989, and her poetry book dārzs (2025). Exact first name, birthplace and professional literary activity are documented. The award page returned HTTP 404 and was not used."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and critic Sintija Kampāne-Štelmahere, born in Jēkabpils in 1989, and her poetry book dārzs (2025). Exact first name, birthplace and professional literary activity are documented. The award page returned HTTP 404 and was not used."
+  },
+  {
+   "id": "reviewed:sintija-sudmale",
+   "name": "Sintija Sudmale",
+   "labels": {
+    "lv": "Sintija Sudmale"
+   },
+   "aliases": [
+    "Sintija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.dzejasdienas.com/autori/sintija-sudmale/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SINTIJA-SUDMALE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SINTIJA-SUDMALE",
+     "url": "https://www.dzejasdienas.com/autori/sintija-sudmale/",
+     "claim": "Poetry Days' own author biography identifies Sintija Sudmale, her published poetry collection Uz manas mēles (2024), literary publications and festival performances in Riga, Liepāja and Ventspils. These document professional local literary activity."
+    }
+   ],
+   "claim": "Poetry Days' own author biography identifies Sintija Sudmale, her published poetry collection Uz manas mēles (2024), literary publications and festival performances in Riga, Liepāja and Ventspils. These document professional local literary activity."
+  },
+  {
+   "id": "reviewed:gita-grinberga",
+   "name": "Gita Grīnberga",
+   "labels": {
+    "lv": "Gita Grīnberga"
+   },
+   "aliases": [
+    "Gita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/gita-grinberga",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GITA-GRINBERGA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GITA-GRINBERGA",
+     "url": "https://www.literatura.lv/personas/gita-grinberga",
+     "claim": "The national literature biography identifies translator Gita Grīnberga, born in Ogre in 1975, and her published French-Latvian literary translations and 2006 Poetry Days translation award. Birthplace is a geographic country association."
+    }
+   ],
+   "claim": "The national literature biography identifies translator Gita Grīnberga, born in Ogre in 1975, and her published French-Latvian literary translations and 2006 Poetry Days translation award. Birthplace is a geographic country association."
+  },
+  {
+   "id": "reviewed:vidvuds-medenis",
+   "name": "Vidvuds Medenis",
+   "labels": {
+    "lv": "Vidvuds Medenis"
+   },
+   "aliases": [
+    "Vidvuds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/vidvuds-medenis",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VIDVUDS-MEDENIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-VIDVUDS-MEDENIS",
+     "url": "https://www.literatura.lv/personas/vidvuds-medenis",
+     "claim": "The national literature biography identifies writer and radio journalist Vidvuds Medenis, born in Riga in 1960, and his poetry book Sasoļots vaigs (2012). He is the son of Jānis Medenis; his namesake uncle is not added as another person."
+    }
+   ],
+   "claim": "The national literature biography identifies writer and radio journalist Vidvuds Medenis, born in Riga in 1960, and his poetry book Sasoļots vaigs (2012). He is the son of Jānis Medenis; his namesake uncle is not added as another person."
+  },
+  {
+   "id": "Q87072655",
+   "name": "Maile Mölder",
+   "labels": {
+    "et": "Maile Mölder"
+   },
+   "aliases": [
+    "Maile"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "athlete",
+   "round": 175,
+   "source": {
+    "url": "https://www.curlingtallinn.ee/en/estonian-curling-milestones/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-MAILE-MOLDER"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-MAILE-MOLDER",
+     "url": "https://www.curlingtallinn.ee/en/estonian-curling-milestones/",
+     "claim": "Curling Tallinn’s own history identifies Maile Mölder as skip of the Estonian women’s team at its 2014 European Championship A-division debut. This supports exact spelling, sport and national-team association, independently of inconsistent birth years in discovery material."
+    }
+   ],
+   "claim": "Curling Tallinn’s own history identifies Maile Mölder as skip of the Estonian women’s team at its 2014 European Championship A-division debut. This supports exact spelling, sport and national-team association, independently of inconsistent birth years in discovery material."
+  },
+  {
+   "id": "reviewed:ginte-preisaite",
+   "name": "Gintė Preisaitė",
+   "labels": {
+    "lt": "Gintė Preisaitė"
+   },
+   "aliases": [
+    "Gintė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 175,
+   "source": {
+    "url": "https://www.ltkt.lt/kurejams/skirtos-stipendijos/muzika-399",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-GINTE-PREISAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-GINTE-PREISAITE",
+     "url": "https://www.ltkt.lt/kurejams/skirtos-stipendijos/muzika-399",
+     "claim": "The Lithuanian Council for Culture’s own music-grant results identify Gintė Preisaitė and award 4,000 euros for completing and presenting her experimental album Instruments of Forgetting and the Singing Bone. The project describes international concerts including Lithuania and a Copenhagen release. Association is a documented national professional cultural grant, not an inferred birthplace. Kirtimai venue text elsewhere in the table concerns another project and is not attributed to her."
+    }
+   ],
+   "claim": "The Lithuanian Council for Culture’s own music-grant results identify Gintė Preisaitė and award 4,000 euros for completing and presenting her experimental album Instruments of Forgetting and the Singing Bone. The project describes international concerts including Lithuania and a Copenhagen release. Association is a documented national professional cultural grant, not an inferred birthplace. Kirtimai venue text elsewhere in the table concerns another project and is not attributed to her."
+  },
+  {
+   "id": "reviewed:justine-klava",
+   "name": "Justīne Kļava",
+   "labels": {
+    "lv": "Justīne Kļava"
+   },
+   "aliases": [
+    "Justīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/justine-klava",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-JUSTINE-KLAVA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-JUSTINE-KLAVA",
+     "url": "https://www.literatura.lv/personas/justine-klava",
+     "claim": "The national literature biography identifies playwright Justīne Kļava, born in Riga in 1990, her plays produced by Latvian professional theatres and theatre awards. Birthplace supports geographic association."
+    }
+   ],
+   "claim": "The national literature biography identifies playwright Justīne Kļava, born in Riga in 1990, her plays produced by Latvian professional theatres and theatre awards. Birthplace supports geographic association."
+  },
+  {
+   "id": "reviewed:justine-janpaule",
+   "name": "Justīne Janpaule",
+   "labels": {
+    "lv": "Justīne Janpaule"
+   },
+   "aliases": [
+    "Justīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/justine-janpaule",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-JUSTINE-JANPAULE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-JUSTINE-JANPAULE",
+     "url": "https://www.literatura.lv/personas/justine-janpaule",
+     "claim": "The national literature biography identifies poet and translator Justīne Janpaule, born in Riga in 1989, her poetry book Tālsaruna (2015) and published literary translations. Birthplace supports geographic association."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and translator Justīne Janpaule, born in Riga in 1989, her poetry book Tālsaruna (2015) and published literary translations. Birthplace supports geographic association."
+  },
+  {
+   "id": "reviewed:inguna-jundze",
+   "name": "Ingūna Jundze",
+   "labels": {
+    "lv": "Ingūna Jundze"
+   },
+   "aliases": [
+    "Ingūna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/inguna-jundze",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-INGUNA-JUNDZE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-INGUNA-JUNDZE",
+     "url": "https://www.literatura.lv/personas/inguna-jundze",
+     "claim": "The national literature biography identifies translator and editor Ingūna Jundze, lists her published Latvian literary translations and documents membership in the Latvian Writers Union. Local association is professional literary activity; no birthplace is inferred."
+    }
+   ],
+   "claim": "The national literature biography identifies translator and editor Ingūna Jundze, lists her published Latvian literary translations and documents membership in the Latvian Writers Union. Local association is professional literary activity; no birthplace is inferred."
+  },
+  {
+   "id": "reviewed:inguna-bekere",
+   "name": "Ingūna Beķere",
+   "labels": {
+    "lv": "Ingūna Beķere"
+   },
+   "aliases": [
+    "Ingūna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 175,
+   "source": {
+    "url": "https://www.literatura.lv/personas/inguna-bekere",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-INGUNA-BEKERE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-INGUNA-BEKERE",
+     "url": "https://www.literatura.lv/personas/inguna-bekere",
+     "claim": "The national literature biography identifies translator Ingūna Beķere, born in Jēkabpils in 1965, and her published literary translations from Japanese and English. The heading and narrative retain ū; a photo caption with short u is not used to alter her name."
+    }
+   ],
+   "claim": "The national literature biography identifies translator Ingūna Beķere, born in Jēkabpils in 1965, and her published literary translations from Japanese and English. The heading and narrative retain ū; a photo caption with short u is not used to alter her name."
+  },
+  {
+   "id": "reviewed:vasare-kupreviciute",
+   "name": "Vasarė Kuprevičiūtė",
+   "labels": {
+    "lt": "Vasarė Kuprevičiūtė"
+   },
+   "aliases": [
+    "Vasarė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 175,
+   "source": {
+    "url": "https://artvilnius.com/exhibitor/the-rooster-gallery-26/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-VASARE-KUPREVICIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-VASARE-KUPREVICIUTE",
+     "url": "https://artvilnius.com/exhibitor/the-rooster-gallery-26/",
+     "claim": "ArtVilnius’s own 2026 exhibitor page identifies Vasarė Kuprevičiūtė (2002) as one of the two individual artists in VASARĖ+LUKAS represented by the Vilnius-based Rooster Gallery. National professional exhibition activity supports the association; the duo is not inserted as a second person."
+    }
+   ],
+   "claim": "ArtVilnius’s own 2026 exhibitor page identifies Vasarė Kuprevičiūtė (2002) as one of the two individual artists in VASARĖ+LUKAS represented by the Vilnius-based Rooster Gallery. National professional exhibition activity supports the association; the duo is not inserted as a second person."
+  },
+  {
+   "id": "reviewed:liepa-mondeikaite",
+   "name": "Liepa Mondeikaitė",
+   "labels": {
+    "lt": "Liepa Mondeikaitė"
+   },
+   "aliases": [
+    "Liepa"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 175,
+   "source": {
+    "url": "https://www.lrt.lt/radioteka/irasas/2000677154/liepa-kuryba-yra-nuostabus-procesas",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-LIEPA-MONDEIKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-LIEPA-MONDEIKAITE",
+     "url": "https://www.lrt.lt/radioteka/irasas/2000677154/liepa-kuryba-yra-nuostabus-procesas",
+     "claim": "LRT Radio’s own music-interview episode identifies singer Liepa Mondeikaitė and discusses five songs from her solo album Pradžia. Exact given name and professional participation in national cultural broadcasting support the association; alternate married surname is not another person."
+    }
+   ],
+   "claim": "LRT Radio’s own music-interview episode identifies singer Liepa Mondeikaitė and discusses five songs from her solo album Pradžia. Exact given name and professional participation in national cultural broadcasting support the association; alternate married surname is not another person."
+  },
+  {
+   "id": "reviewed:sigrid-viir",
+   "name": "Sigrid Viir",
+   "labels": {
+    "et": "Sigrid Viir"
+   },
+   "aliases": [
+    "Sigrid"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 175,
+   "source": {
+    "url": "https://eaa.ee/ekl-26-aastanaitus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-SIGRID-VIIR"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-SIGRID-VIIR",
+     "url": "https://eaa.ee/ekl-26-aastanaitus",
+     "claim": "The Estonian Artists Association’s own 26th annual exhibition page explicitly lists Sigrid Viir among the participating artists. This supports professional local exhibition activity, independently of inferred citizenship or birthplace."
+    }
+   ],
+   "claim": "The Estonian Artists Association’s own 26th annual exhibition page explicitly lists Sigrid Viir among the participating artists. This supports professional local exhibition activity, independently of inferred citizenship or birthplace."
   }
  ]
 }
