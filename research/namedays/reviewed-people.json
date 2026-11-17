@@ -22384,6 +22384,906 @@
     }
    ],
    "claim": "Reused the cached Latvian Academy of Culture mentoring-programme announcement: it explicitly identifies Ance Strazda as actress, producer and co-founder of Kvadrifrons. This documents local professional theatre activity. The source was not fetched again."
+  },
+  {
+   "id": "reviewed:mudite-treimane",
+   "name": "Mudīte Treimane",
+   "labels": {
+    "lv": "Mudīte Treimane"
+   },
+   "aliases": [
+    "Mudīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/mudite-treimane",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MUDITE-TREIMANE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MUDITE-TREIMANE",
+     "url": "https://www.literatura.lv/personas/mudite-treimane",
+     "claim": "The national literature biography identifies translator Mudīte Treimane, born in Limbaži, and documents her Nordic literary translations and work at the National Library of Latvia."
+    }
+   ],
+   "claim": "The national literature biography identifies translator Mudīte Treimane, born in Limbaži, and documents her Nordic literary translations and work at the National Library of Latvia."
+  },
+  {
+   "id": "reviewed:zita-karkla",
+   "name": "Zita Kārkla",
+   "labels": {
+    "lv": "Zita Kārkla"
+   },
+   "aliases": [
+    "Zita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/zita-karkla",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ZITA-KARKLA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ZITA-KARKLA",
+     "url": "https://www.literatura.lv/personas/zita-karkla",
+     "claim": "The national literature biography identifies literary scholar Zita Kārkla, born in Riga, her doctorate and published research at the national literature institute."
+    }
+   ],
+   "claim": "The national literature biography identifies literary scholar Zita Kārkla, born in Riga, her doctorate and published research at the national literature institute."
+  },
+  {
+   "id": "reviewed:elvira-leja",
+   "name": "Elvīra Leja",
+   "labels": {
+    "lv": "Elvīra Leja"
+   },
+   "aliases": [
+    "Elvīra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/elvira-leja",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ELVIRA-LEJA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ELVIRA-LEJA",
+     "url": "https://www.literatura.lv/personas/elvira-leja",
+     "claim": "The national literature biography identifies poet Elvīra Leja, born in Upesgrīva, and her two poetry collections. Later emigration does not change the documented birthplace association; her pseudonyms are not separate people."
+    }
+   ],
+   "claim": "The national literature biography identifies poet Elvīra Leja, born in Upesgrīva, and her two poetry collections. Later emigration does not change the documented birthplace association; her pseudonyms are not separate people."
+  },
+  {
+   "id": "reviewed:elvira-staprane",
+   "name": "Elvīra Staprāne",
+   "labels": {
+    "lv": "Elvīra Staprāne"
+   },
+   "aliases": [
+    "Elvīra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/elvira-staprane",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ELVIRA-STAPRANE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ELVIRA-STAPRANE",
+     "url": "https://www.literatura.lv/personas/elvira-staprane",
+     "claim": "The national literature biography identifies essayist and critic Elvīra Staprāne, born in Riga in 1903. Her later emigration does not change the geographic birthplace association."
+    }
+   ],
+   "claim": "The national literature biography identifies essayist and critic Elvīra Staprāne, born in Riga in 1903. Her later emigration does not change the geographic birthplace association."
+  },
+  {
+   "id": "reviewed:mykole-ganusauskaite",
+   "name": "Mykolė Ganusauskaitė",
+   "labels": {
+    "lt": "Mykolė Ganusauskaitė"
+   },
+   "aliases": [
+    "Mykolė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://umi.lt/rezidentai/umi-vilneles-rezidentai",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-MYKOLE-GANUSAUSKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-MYKOLE-GANUSAUSKAITE",
+     "url": "https://umi.lt/rezidentai/umi-vilneles-rezidentai",
+     "claim": "The Vilnius art incubator identifies painter and mentor Mykolė Ganusauskaitė among its professional resident artists, supporting exact name, artistic role and professional association with Lithuania. Mykolé is the same artistic identity."
+    }
+   ],
+   "claim": "The Vilnius art incubator identifies painter and mentor Mykolė Ganusauskaitė among its professional resident artists, supporting exact name, artistic role and professional association with Lithuania. Mykolé is the same artistic identity."
+  },
+  {
+   "id": "reviewed:patricija-marija-keisa",
+   "name": "Patrīcija Marija Keiša",
+   "labels": {
+    "lv": "Patrīcija Marija Keiša"
+   },
+   "aliases": [
+    "Patrīcija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/patricija-marija-keisa",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-PATRICIJA-MARIJA-KEISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-PATRICIJA-MARIJA-KEISA",
+     "url": "https://www.literatura.lv/personas/patricija-marija-keisa",
+     "claim": "The national literature biography identifies writer Patrīcija M. Keiša with her birth name Patrīcija Marija Keiša, born in Riga in 1997, and documents her published poetry and prose. Both signatures describe one person."
+    }
+   ],
+   "claim": "The national literature biography identifies writer Patrīcija M. Keiša with her birth name Patrīcija Marija Keiša, born in Riga in 1997, and documents her published poetry and prose. Both signatures describe one person."
+  },
+  {
+   "id": "reviewed:iluta-dzene",
+   "name": "Iluta Dzene",
+   "labels": {
+    "lv": "Iluta Dzene"
+   },
+   "aliases": [
+    "Iluta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/iluta-dzene",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ILUTA-DZENE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ILUTA-DZENE",
+     "url": "https://www.literatura.lv/personas/iluta-dzene",
+     "claim": "The national literature biography identifies Iluta Dzene as author of three novels published in Latvia, including Krāsmatas (2024), and records her Latvian university studies. Iluta Plotņikova is her birth name, not another person."
+    }
+   ],
+   "claim": "The national literature biography identifies Iluta Dzene as author of three novels published in Latvia, including Krāsmatas (2024), and records her Latvian university studies. Iluta Plotņikova is her birth name, not another person."
+  },
+  {
+   "id": "reviewed:beata-paskevica",
+   "name": "Beata Paškevica",
+   "labels": {
+    "lv": "Beata Paškevica"
+   },
+   "aliases": [
+    "Beata"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/beata-paskevica",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-BEATA-PASKEVICA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-BEATA-PASKEVICA",
+     "url": "https://www.literatura.lv/personas/beata-paskevica",
+     "claim": "The national literature biography identifies Germanist and literary scholar Beata Paškevica, her research monograph and work as lead researcher at the National Library of Latvia."
+    }
+   ],
+   "claim": "The national literature biography identifies Germanist and literary scholar Beata Paškevica, her research monograph and work as lead researcher at the National Library of Latvia."
+  },
+  {
+   "id": "reviewed:laivi-suurvali",
+   "name": "Laivi Suurväli",
+   "labels": {
+    "et": "Laivi Suurväli"
+   },
+   "aliases": [
+    "Laivi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://eaa.ee/node/1437",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OLIVIA-NOGISTO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OLIVIA-NOGISTO",
+     "url": "https://eaa.ee/node/1437",
+     "claim": "The Estonian Artists Association professional directory identifies installation and fashion artist Laivi Suurväli among its members/studio artists; the cached national annual exhibition also documents her exhibiting work."
+    }
+   ],
+   "claim": "The Estonian Artists Association professional directory identifies installation and fashion artist Laivi Suurväli among its members/studio artists; the cached national annual exhibition also documents her exhibiting work."
+  },
+  {
+   "id": "reviewed:jenny-gronholm",
+   "name": "Jenny Grönholm",
+   "labels": {
+    "et": "Jenny Grönholm"
+   },
+   "aliases": [
+    "Jenny"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://eaa.ee/node/1437",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OLIVIA-NOGISTO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OLIVIA-NOGISTO",
+     "url": "https://eaa.ee/node/1437",
+     "claim": "The Estonian Artists Association professional directory identifies painter Jenny Grönholm; its cached national annual exhibition also lists her work. This supports professional association, not an inferred citizenship."
+    }
+   ],
+   "claim": "The Estonian Artists Association professional directory identifies painter Jenny Grönholm; its cached national annual exhibition also lists her work. This supports professional association, not an inferred citizenship."
+  },
+  {
+   "id": "reviewed:angela-soop",
+   "name": "Angela Soop",
+   "labels": {
+    "et": "Angela Soop"
+   },
+   "aliases": [
+    "Angela"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://www.eaa.ee/ekl-19-aastanaitus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-VIVIAN-AINSALU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-VIVIAN-AINSALU",
+     "url": "https://www.eaa.ee/ekl-19-aastanaitus",
+     "claim": "The Estonian Artists Association lists Angela Soop among the selected exhibiting artists of its nineteenth annual exhibition in Tallinn. The institutional exhibition supports her exact name and professional artistic association."
+    }
+   ],
+   "claim": "The Estonian Artists Association lists Angela Soop among the selected exhibiting artists of its nineteenth annual exhibition in Tallinn. The institutional exhibition supports her exact name and professional artistic association."
+  },
+  {
+   "id": "reviewed:lembe-sihvre",
+   "name": "Lembe Sihvre",
+   "labels": {
+    "et": "Lembe Sihvre"
+   },
+   "aliases": [
+    "Lembe"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ULVE-KANGRO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ULVE-KANGRO",
+     "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+     "claim": "The Estonian Folk Art and Craft Union identifies Lembe Sihvre as a 2024 heritage-preserver award laureate, folk-costume maker, consultant and trainer. The national professional award supports artistic role and country association."
+    }
+   ],
+   "claim": "The Estonian Folk Art and Craft Union identifies Lembe Sihvre as a 2024 heritage-preserver award laureate, folk-costume maker, consultant and trainer. The national professional award supports artistic role and country association."
+  },
+  {
+   "id": "reviewed:hedi-jaansoo",
+   "name": "Hedi Jaansoo",
+   "labels": {
+    "et": "Hedi Jaansoo"
+   },
+   "aliases": [
+    "Hedi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://eaa.ee/ekl-26-aastanaitus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-SIGRID-VIIR"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-SIGRID-VIIR",
+     "url": "https://eaa.ee/ekl-26-aastanaitus",
+     "claim": "The Estonian Artists Association identifies Hedi Jaansoo among the selected exhibiting artists of its twenty-sixth annual exhibition in Tallinn, supporting exact name and professional artistic association."
+    }
+   ],
+   "claim": "The Estonian Artists Association identifies Hedi Jaansoo among the selected exhibiting artists of its twenty-sixth annual exhibition in Tallinn, supporting exact name and professional artistic association."
+  },
+  {
+   "id": "reviewed:hedi-kuhi",
+   "name": "Hedi Kuhi",
+   "labels": {
+    "et": "Hedi Kuhi"
+   },
+   "aliases": [
+    "Hedi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://www.eaa.ee/en/69th-annual-exhibition-tartu-art-and-worlds-first-exhibition-multisurrealism-tartu-art-house",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ENELI-VALGE"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ENELI-VALGE",
+     "url": "https://www.eaa.ee/en/69th-annual-exhibition-tartu-art-and-worlds-first-exhibition-multisurrealism-tartu-art-house",
+     "claim": "The Estonian Artists Association announcement identifies Hedi Kuhi among the selected artists exhibiting at the sixty-ninth Tartu annual art exhibition. Professional exhibition participation supports artistic role and geographic association."
+    }
+   ],
+   "claim": "The Estonian Artists Association announcement identifies Hedi Kuhi among the selected artists exhibiting at the sixty-ninth Tartu annual art exhibition. Professional exhibition participation supports artistic role and geographic association."
+  },
+  {
+   "id": "reviewed:ede-raadik",
+   "name": "Ede Raadik",
+   "labels": {
+    "et": "Ede Raadik"
+   },
+   "aliases": [
+    "Ede"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://eaa.ee/node/1437",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OLIVIA-NOGISTO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OLIVIA-NOGISTO",
+     "url": "https://eaa.ee/node/1437",
+     "claim": "The Estonian Artists Association professional directory identifies installation and graphic artist Ede Raadik, supporting exact public first name, professional artistic role and association with Estonia."
+    }
+   ],
+   "claim": "The Estonian Artists Association professional directory identifies installation and graphic artist Ede Raadik, supporting exact public first name, professional artistic role and association with Estonia."
+  },
+  {
+   "id": "reviewed:signe-birkova",
+   "name": "Signe Birkova",
+   "labels": {
+    "lv": "Signe Birkova"
+   },
+   "aliases": [
+    "Signe"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "director",
+   "round": 177,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "The National Film Centre identifies Signe Birkova as director of the Latvian feature Lotus in its national film-award nominations. The film credit and national selection support role and professional association."
+    }
+   ],
+   "claim": "The National Film Centre identifies Signe Birkova as director of the Latvian feature Lotus in its national film-award nominations. The film credit and national selection support role and professional association."
+  },
+  {
+   "id": "reviewed:vanda-haferberga",
+   "name": "Vanda Haferberga",
+   "labels": {
+    "lv": "Vanda Haferberga"
+   },
+   "aliases": [
+    "Vanda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 177,
+   "source": {
+    "url": "https://www.hzf.lu.lv/par-mums/nodalas/vestures-un-arheologijas-nodala/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GINTA-IEVA-BIKSE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GINTA-IEVA-BIKSE",
+     "url": "https://www.hzf.lu.lv/par-mums/nodalas/vestures-un-arheologijas-nodala/",
+     "claim": "The University of Latvia History and Archaeology Department identifies Vanda Haferberga as a researcher. This is a documented institutional research appointment, not nationality inferred from spelling."
+    }
+   ],
+   "claim": "The University of Latvia History and Archaeology Department identifies Vanda Haferberga as a researcher. This is a documented institutional research appointment, not nationality inferred from spelling."
+  },
+  {
+   "id": "reviewed:renate-punka",
+   "name": "Renāte Punka",
+   "labels": {
+    "lv": "Renāte Punka"
+   },
+   "aliases": [
+    "Renāte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/renate-boldane",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-RENATE-PUNKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-RENATE-PUNKA",
+     "url": "https://www.literatura.lv/personas/renate-boldane",
+     "claim": "The national literature biography identifies publisher and translator Renāte Punka, her Latvian publishing work and international Jānis Baltvilks translation award. Renāte Boldāne is her birth name, not another identity."
+    }
+   ],
+   "claim": "The national literature biography identifies publisher and translator Renāte Punka, her Latvian publishing work and international Jānis Baltvilks translation award. Renāte Boldāne is her birth name, not another identity."
+  },
+  {
+   "id": "reviewed:ursule-toleikyte",
+   "name": "Uršulė Toleikytė",
+   "labels": {
+    "lt": "Uršulė Toleikytė"
+   },
+   "aliases": [
+    "Uršulė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.zurnalasmetai.lt/ursule-toleikyte-eilerasciai/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-URSULE-TOLEIKYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-URSULE-TOLEIKYTE",
+     "url": "https://www.zurnalasmetai.lt/ursule-toleikyte-eilerasciai/",
+     "claim": "The literary journal Metai publishes a biographical introduction identifying poet Uršulė Toleikytė, born in Švėkšna in 1992, and her debut poetry book Šuo vaiduoklis (2024). Only the introduction supports the record; the poems are not reproduced."
+    }
+   ],
+   "claim": "The literary journal Metai publishes a biographical introduction identifying poet Uršulė Toleikytė, born in Švėkšna in 1992, and her debut poetry book Šuo vaiduoklis (2024). Only the introduction supports the record; the poems are not reproduced."
+  },
+  {
+   "id": "Q107185585",
+   "name": "Liivi Erm",
+   "labels": {
+    "et": "Liivi Erm"
+   },
+   "aliases": [
+    "Liivi"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "athlete",
+   "round": 177,
+   "source": {
+    "url": "https://www.spordiregister.ee/en/treener/1070/liivi_erm",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-LIIVI-ERM"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-LIIVI-ERM",
+     "url": "https://www.spordiregister.ee/en/treener/1070/liivi_erm",
+     "claim": "The Estonian Sports Register identifies shooting coach Liivi Erm, national coaching qualifications and appointments at Elva and Kaiu shooting clubs. Cached structured birthplace evidence remains separate from professional role evidence."
+    }
+   ],
+   "claim": "The Estonian Sports Register identifies shooting coach Liivi Erm, national coaching qualifications and appointments at Elva and Kaiu shooting clubs. Cached structured birthplace evidence remains separate from professional role evidence."
+  },
+  {
+   "id": "reviewed:rugile-norbutaite",
+   "name": "Rugilė Norbutaitė",
+   "labels": {
+    "lt": "Rugilė Norbutaitė"
+   },
+   "aliases": [
+    "Rugilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 177,
+   "source": {
+    "url": "https://www.ltkt.lt/kurejams/skirtos-stipendijos/muzika-399",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-GINTE-PREISAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-GINTE-PREISAITE",
+     "url": "https://www.ltkt.lt/kurejams/skirtos-stipendijos/muzika-399",
+     "claim": "The Lithuanian Council for Culture music-grant decision identifies Rugilė Norbutaitė as a recipient for the publication and distribution of her full-length album Neriuos. The funded authored music project supports professional role and Lithuanian cultural association, not the same-name junior volleyball entrant."
+    }
+   ],
+   "claim": "The Lithuanian Council for Culture music-grant decision identifies Rugilė Norbutaitė as a recipient for the publication and distribution of her full-length album Neriuos. The funded authored music project supports professional role and Lithuanian cultural association, not the same-name junior volleyball entrant."
+  },
+  {
+   "id": "reviewed:klaudija-bubelyte",
+   "name": "Klaudija Bubelytė",
+   "labels": {
+    "lt": "Klaudija Bubelytė"
+   },
+   "aliases": [
+    "Klaudija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "athlete",
+   "round": 177,
+   "source": {
+    "url": "https://tennis.lt/naujienos/favoritai-lietuvos-teniso-cempionate-neklumpa/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-KLAUDIJA-BUBELYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-KLAUDIJA-BUBELYTE",
+     "url": "https://tennis.lt/naujienos/favoritai-lietuvos-teniso-cempionate-neklumpa/",
+     "claim": "The Lithuanian Tennis Union identifies Klaudija Bubelytė as the national championship top seed and records her WTA ranking and professional match result. Country association rests on the national professional competition context."
+    }
+   ],
+   "claim": "The Lithuanian Tennis Union identifies Klaudija Bubelytė as the national championship top seed and records her WTA ranking and professional match result. Country association rests on the national professional competition context."
+  },
+  {
+   "id": "reviewed:patricija-paukstyte",
+   "name": "Patricija Paukštytė",
+   "labels": {
+    "lt": "Patricija Paukštytė"
+   },
+   "aliases": [
+    "Patricija"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "athlete",
+   "round": 177,
+   "source": {
+    "url": "https://tennis.lt/naujienos/favoritai-lietuvos-teniso-cempionate-neklumpa/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-KLAUDIJA-BUBELYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-KLAUDIJA-BUBELYTE",
+     "url": "https://tennis.lt/naujienos/favoritai-lietuvos-teniso-cempionate-neklumpa/",
+     "claim": "The Lithuanian Tennis Union identifies Patricija Paukštytė as the national championship second seed, with a WTA ranking and professional match result, supporting exact name, sporting role and Lithuanian professional association."
+    }
+   ],
+   "claim": "The Lithuanian Tennis Union identifies Patricija Paukštytė as the national championship second seed, with a WTA ranking and professional match result, supporting exact name, sporting role and Lithuanian professional association."
+  },
+  {
+   "id": "reviewed:deimante-malunaviciute",
+   "name": "Deimantė Malūnavičiūtė",
+   "labels": {
+    "lt": "Deimantė Malūnavičiūtė"
+   },
+   "aliases": [
+    "Deimantė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://rumsiskiukc.lt/rumsiskiu-kulturos-centre-iseksponuota-deimantes-malunaviciutes-plakatu-serija-plynu-kirtimu-miskuose-zalai-parodyti/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-DEIMANTE-MALUNAVICIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-DEIMANTE-MALUNAVICIUTE",
+     "url": "https://rumsiskiukc.lt/rumsiskiu-kulturos-centre-iseksponuota-deimantes-malunaviciutes-plakatu-serija-plynu-kirtimu-miskuose-zalai-parodyti/",
+     "claim": "Rumšiškės Cultural Centre identifies social-design artist Deimantė Malūnavičiūtė and exhibits her poster series, documenting professional artistic activity in Lithuania."
+    }
+   ],
+   "claim": "Rumšiškės Cultural Centre identifies social-design artist Deimantė Malūnavičiūtė and exhibits her poster series, documenting professional artistic activity in Lithuania."
+  },
+  {
+   "id": "reviewed:eliza-paula-graudina",
+   "name": "Elīza Paula Graudiņa",
+   "labels": {
+    "lv": "Elīza Paula Graudiņa"
+   },
+   "aliases": [
+    "Elīza"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 177,
+   "source": {
+    "url": "https://lulfmi.lv/darbinieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LFMI-STAFF-2026"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LFMI-STAFF-2026",
+     "url": "https://lulfmi.lv/darbinieki",
+     "claim": "The University of Latvia literature institute staff directory identifies Elīza Paula Graudiņa as a research assistant in its scientific staff, supporting exact name, scholarly role and an institutional appointment in Latvia. The individual biography URL failed to cache and was not used as evidence."
+    }
+   ],
+   "claim": "The University of Latvia literature institute staff directory identifies Elīza Paula Graudiņa as a research assistant in its scientific staff, supporting exact name, scholarly role and an institutional appointment in Latvia. The individual biography URL failed to cache and was not used as evidence."
+  },
+  {
+   "id": "reviewed:elga-kairisa",
+   "name": "Elga Kairiša",
+   "labels": {
+    "lv": "Elga Kairiša"
+   },
+   "aliases": [
+    "Elga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/elga-kairisa",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ELGA-KAIRISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ELGA-KAIRISA",
+     "url": "https://www.literatura.lv/personas/elga-kairisa",
+     "claim": "The national literature biography identifies novelist Elga Kairiša, lists three published novels and records her Dzintars Sodums literary award in Latvia in 2023."
+    }
+   ],
+   "claim": "The national literature biography identifies novelist Elga Kairiša, lists three published novels and records her Dzintars Sodums literary award in Latvia in 2023."
+  },
+  {
+   "id": "reviewed:helga-grase",
+   "name": "Helga Grase",
+   "labels": {
+    "lv": "Helga Grase"
+   },
+   "aliases": [
+    "Helga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 177,
+   "source": {
+    "url": "https://www.literatura.lv/personas/helga-grase",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-HELGA-GRASE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-HELGA-GRASE",
+     "url": "https://www.literatura.lv/personas/helga-grase",
+     "claim": "The national literature biography identifies philologist Helga Grase, born in Viļķene, and documents her research appointment and published Latvian literature teaching methodology."
+    }
+   ],
+   "claim": "The national literature biography identifies philologist Helga Grase, born in Viļķene, and documents her research appointment and published Latvian literature teaching methodology."
+  },
+  {
+   "id": "reviewed:beata-tiskevic",
+   "name": "Beata Tiškevič",
+   "labels": {
+    "lt": "Beata Tiškevič"
+   },
+   "aliases": [
+    "Beata"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "actor",
+   "round": 177,
+   "source": {
+    "url": "https://www.teatras.lt/lt/naujienos/lndt-naujienos/kankinyje_mokytoja_rot_nuo_siol_vaidins_beata_tiskevic/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-BEATA-TISKEVIC"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-BEATA-TISKEVIC",
+     "url": "https://www.teatras.lt/lt/naujienos/lndt-naujienos/kankinyje_mokytoja_rot_nuo_siol_vaidins_beata_tiskevic/",
+     "claim": "The Lithuanian National Drama Theatre announcement identifies Beata Tiškevič as the actress taking the role of teacher Erika Roth in its production Kankinys. This documents exact public name, acting role and professional association with Lithuania."
+    }
+   ],
+   "claim": "The Lithuanian National Drama Theatre announcement identifies Beata Tiškevič as the actress taking the role of teacher Erika Roth in its production Kankinys. This documents exact public name, acting role and professional association with Lithuania."
+  },
+  {
+   "id": "reviewed:beatrise-reidzane",
+   "name": "Beatrise Reidzāne",
+   "labels": {
+    "lv": "Beatrise Reidzāne"
+   },
+   "aliases": [
+    "Beatrise"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 177,
+   "source": {
+    "url": "https://lulfmi.lv/darbinieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LFMI-STAFF-2026"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LFMI-STAFF-2026",
+     "url": "https://lulfmi.lv/darbinieki",
+     "claim": "The University of Latvia literature institute staff directory identifies Beatrise Reidzāne as a researcher, documenting exact name and an institutional scholarly appointment in Latvia."
+    }
+   ],
+   "claim": "The University of Latvia literature institute staff directory identifies Beatrise Reidzāne as a researcher, documenting exact name and an institutional scholarly appointment in Latvia."
+  },
+  {
+   "id": "reviewed:mudite-gaisevska",
+   "name": "Mudīte Gaiševska",
+   "labels": {
+    "lv": "Mudīte Gaiševska"
+   },
+   "aliases": [
+    "Mudīte"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 177,
+   "source": {
+    "url": "https://www.lsm.lv/raksts/kultura/maksla/izgaismot-neuzrakstitos-maksliniecu-stastus--izstade-atceros-tatad-esmu.a381672/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MUDITE-GAISEVSKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MUDITE-GAISEVSKA",
+     "url": "https://www.lsm.lv/raksts/kultura/maksla/izgaismot-neuzrakstitos-maksliniecu-stastus--izstade-atceros-tatad-esmu.a381672/",
+     "claim": "The exhibition curator interviewed by Latvian Public Media identifies theatre director and performance artist Mudīte Gaiševska as one of the Latvian women artists whose archives and creative work form the national museum exhibition. The documented professional artistic activity supports local association; her role is not mislabeled as film direction."
+    }
+   ],
+   "claim": "The exhibition curator interviewed by Latvian Public Media identifies theatre director and performance artist Mudīte Gaiševska as one of the Latvian women artists whose archives and creative work form the national museum exhibition. The documented professional artistic activity supports local association; her role is not mislabeled as film direction."
   }
  ]
 }

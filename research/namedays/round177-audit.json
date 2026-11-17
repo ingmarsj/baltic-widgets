@@ -1,0 +1,63 @@
+{
+  "round": 177,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.147",
+  "scope": {
+    "start": "2027-08-02",
+    "end": "2027-11-01",
+    "dates": 92,
+    "calendar_memberships": 2322,
+    "under_five_profiles_before": 1875,
+    "new_people": 30,
+    "changed_local_profiles": 27
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 15,
+      "profiles_with_exact_namesakes": 1803,
+      "profiles_with_local_bearers": 1078,
+      "profiles_with_at_least_five": 375,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 7,
+      "profiles_with_exact_namesakes": 731,
+      "profiles_with_local_bearers": 683,
+      "profiles_with_at_least_five": 363,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 8,
+      "profiles_with_exact_namesakes": 1113,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 557,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "compiled_history_deltas": [],
+  "validation": {
+    "automated_data_audit": "passed: all annual profiles and calendar memberships; unchanged history facts and final text in five languages; old people and five distinct birthday places retained",
+    "tests": "165/165 passed in isolated detached worktree based on e654feb plus only round 177 files",
+    "build": "passed in the same isolated worktree",
+    "browser": "passed on isolated preview: LV Mudīte on 8 August (both new people and five local namesakes); LT Beata on 6 September (new actress and international tier); EE Hedi on 15 October (both new artists). Five birthday people visible on each card.",
+    "isolation_reason": "The first shared-workspace suite had 164/165 passes while unrelated market/chart changes were in progress; its failure was the monthly European gas/gold historical-FX test. Those unrelated changes were excluded from this batch and isolated verification passed."
+  }
+}
