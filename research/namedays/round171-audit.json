@@ -1,0 +1,63 @@
+{
+  "round": 171,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.141",
+  "scope": {
+    "start": "2026-12-19",
+    "end": "2027-03-01",
+    "dates": 73,
+    "calendar_memberships": 1711,
+    "under_five_profiles_before": 1371,
+    "new_people": 41,
+    "changed_local_profiles": 37
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 19,
+      "profiles_with_local_bearers": 1064,
+      "profiles_with_at_least_five": 359,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 13,
+      "profiles_with_local_bearers": 679,
+      "profiles_with_at_least_five": 355,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 9,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 548,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": 165,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed LV Arta (20 December), EE Ande (12 January), and LT Donata (17 February): new local exact namesakes and five distinct birthday people displayed; screenshot checked. Used an ignored dist-only clock fixture, with no production date override."
+  },
+  "compiled_history_delta": {
+    "profile": "ee:Ande",
+    "change": "One generated namesake sentence naming Ande Rahe is appended in each language. All original hypothesis paragraphs/labels and all other compiled histories are identical to the baseline."
+  }
+}

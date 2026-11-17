@@ -18300,6 +18300,1239 @@
     }
    ],
    "claim": "VEF Kvartāls’ own concert announcement names singer Klinta Ivika Erdmane, her jazz education at Liepāja’s music/art school and her Erdmane Kronbergs performance in Riga on 7 August 2025. Documented professional musical activity in Latvia, not citizenship."
+  },
+  {
+   "id": "reviewed:arta-jekabsone",
+   "name": "Arta Jēkabsone",
+   "labels": {
+    "lv": "Arta Jēkabsone"
+   },
+   "aliases": [
+    "Arta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://artajekabsone.com/velvety-voice-owner/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ARTA-JEKABSONE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ARTA-JEKABSONE",
+     "url": "https://artajekabsone.com/velvety-voice-owner/",
+     "claim": "The artist’s official biography identifies Latvia-born vocalist, composer and arranger Arta Jēkabsone and her international jazz career. Geographic birthplace association, not inferred citizenship."
+    }
+   ],
+   "claim": "The artist’s official biography identifies Latvia-born vocalist, composer and arranger Arta Jēkabsone and her international jazz career. Geographic birthplace association, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:rimante-kulvinskyte",
+   "name": "Rimantė Kulvinskytė",
+   "labels": {
+    "lt": "Rimantė Kulvinskytė"
+   },
+   "aliases": [
+    "Rimantė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://akez.lt/kulvinskyte-rimante/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-RIMANTE-KULVINSKYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-RIMANTE-KULVINSKYTE",
+     "url": "https://akez.lt/kulvinskyte-rimante/",
+     "claim": "Akmenė’s regional encyclopedia identifies journalist and book author Rimantė Kulvinskytė, her regional birthplace and published books. Documented geographic and professional association, not inferred citizenship."
+    }
+   ],
+   "claim": "Akmenė’s regional encyclopedia identifies journalist and book author Rimantė Kulvinskytė, her regional birthplace and published books. Documented geographic and professional association, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:minjona-klavina",
+   "name": "Minjona Kļaviņa",
+   "labels": {
+    "lv": "Minjona Kļaviņa"
+   },
+   "aliases": [
+    "Minjona"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://biblioteka.ventspils.lv/nozaru-literaturas-jaunumi-decembris-ii-3/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MINJONA-KLAVINA-VENTSPILS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MINJONA-KLAVINA-VENTSPILS",
+     "url": "https://biblioteka.ventspils.lv/nozaru-literaturas-jaunumi-decembris-ii-3/",
+     "claim": "Ventspils Library’s book annotation identifies sculptor Minjona Kļaviņa, born in Riga and later emigrated to America, her sculpture studies and works in several media. Latvian birthplace association, not inferred citizenship or current residence."
+    }
+   ],
+   "claim": "Ventspils Library’s book annotation identifies sculptor Minjona Kļaviņa, born in Riga and later emigrated to America, her sculpture studies and works in several media. Latvian birthplace association, not inferred citizenship or current residence."
+  },
+  {
+   "id": "reviewed:solvita-denisa-liepniece",
+   "name": "Solvita Denisa-Liepniece",
+   "labels": {
+    "lv": "Solvita Denisa-Liepniece"
+   },
+   "aliases": [
+    "Solvita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 171,
+   "source": {
+    "url": "https://va.lv/zinatne/petnieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SOLVITA-DENISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SOLVITA-DENISA",
+     "url": "https://va.lv/zinatne/petnieki",
+     "claim": "Vidzeme University of Applied Sciences’ researcher directory explicitly identifies Solvita Denisa-Liepniece and her research role. Local academic activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Vidzeme University of Applied Sciences’ researcher directory explicitly identifies Solvita Denisa-Liepniece and her research role. Local academic activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:ilva-skulte",
+   "name": "Ilva Skulte",
+   "labels": {
+    "lv": "Ilva Skulte"
+   },
+   "aliases": [
+    "Ilva"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 171,
+   "source": {
+    "url": "https://www.rsu.lv/ilva-skulte",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ILVA-SKULTE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ILVA-SKULTE",
+     "url": "https://www.rsu.lv/ilva-skulte",
+     "claim": "Rīga Stradiņš University’s own biography identifies associate professor Dr. philol. Ilva Skulte in its Faculty of Social Sciences and credits her scholarly publications. Documented local academic role, not inferred nationality."
+    }
+   ],
+   "claim": "Rīga Stradiņš University’s own biography identifies associate professor Dr. philol. Ilva Skulte in its Faculty of Social Sciences and credits her scholarly publications. Documented local academic role, not inferred nationality."
+  },
+  {
+   "id": "reviewed:zintis-sils",
+   "name": "Zintis Sils",
+   "labels": {
+    "lv": "Zintis Sils"
+   },
+   "aliases": [
+    "Zintis"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/zintis-sils",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ZINTIS-SILS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ZINTIS-SILS",
+     "url": "https://www.literatura.lv/personas/zintis-sils",
+     "claim": "Literatura’s biography identifies Ragaciems-born writer Zintis Sils (2002), Stroika co-founder, author of the 2024 short-story collection Apvārsnis and 2025 Latvian Literary Award debut nominee. Adult author and documented Latvian literary activity."
+    }
+   ],
+   "claim": "Literatura’s biography identifies Ragaciems-born writer Zintis Sils (2002), Stroika co-founder, author of the 2024 short-story collection Apvārsnis and 2025 Latvian Literary Award debut nominee. Adult author and documented Latvian literary activity."
+  },
+  {
+   "id": "reviewed:meda-kaunaite",
+   "name": "Meda Kaunaitė",
+   "labels": {
+    "lt": "Meda Kaunaitė"
+   },
+   "aliases": [
+    "Meda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/pop-rock-urban/note-lithuania-2021/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-NOTE-2021"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-NOTE-2021",
+     "url": "https://www.mic.lt/lt/baze/pop-rock-urban/note-lithuania-2021/",
+     "claim": "Music Information Centre Lithuania’s Note Lithuania 2021 release explicitly credits Crucial Features guitarist/vocalist Meda Kaunaitė for Altorius (2020). Professional work in the Lithuanian alternative-music programme, not inferred citizenship."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s Note Lithuania 2021 release explicitly credits Crucial Features guitarist/vocalist Meda Kaunaitė for Altorius (2020). Professional work in the Lithuanian alternative-music programme, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:arune-tornau",
+   "name": "Arūnė Tornau",
+   "labels": {
+    "lt": "Arūnė Tornau"
+   },
+   "aliases": [
+    "Arūnė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://www.vda.lt/lt/parodu-sales-titanikas/naujienos/arune-tornau-netvarios-busenos",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ARUNE-TORNAU"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-ARUNE-TORNAU",
+     "url": "https://www.vda.lt/lt/parodu-sales-titanikas/naujienos/arune-tornau-netvarios-busenos",
+     "claim": "Vilnius Academy of Arts’ own Titanikas exhibition announcement identifies painter Arūnė Tornau and her solo exhibition Netvarios būsenos. Documented professional artistic activity in Lithuania, not inferred citizenship."
+    }
+   ],
+   "claim": "Vilnius Academy of Arts’ own Titanikas exhibition announcement identifies painter Arūnė Tornau and her solo exhibition Netvarios būsenos. Documented professional artistic activity in Lithuania, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:aukse-petruliene",
+   "name": "Auksė Petrulienė",
+   "labels": {
+    "lt": "Auksė Petrulienė"
+   },
+   "aliases": [
+    "Auksė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://unima.lt/unima/aukse-petruliene/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-AUKSE-PETRULIENE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-AUKSE-PETRULIENE",
+     "url": "https://unima.lt/unima/aukse-petruliene/",
+     "claim": "UNIMA Lithuania’s artist biography names Auksė Petrulienė, born in Užventis, a museum professional and founder of Psilikono teatras. Public artistic work and geographic birthplace association, not inferred citizenship."
+    }
+   ],
+   "claim": "UNIMA Lithuania’s artist biography names Auksė Petrulienė, born in Užventis, a museum professional and founder of Psilikono teatras. Public artistic work and geographic birthplace association, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:snieguole-dikciute",
+   "name": "Snieguolė Dikčiūtė",
+   "labels": {
+    "lt": "Snieguolė Dikčiūtė"
+   },
+   "aliases": [
+    "Snieguolė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "composer",
+   "round": 171,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/dikciute/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-SNIEGUOLE-DIKCIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-SNIEGUOLE-DIKCIUTE",
+     "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/dikciute/",
+     "claim": "Music Information Centre Lithuania’s composer biography identifies Snieguolė Dikčiūtė (1966), her composition studies in Vilnius and professional works and music-therapy practice. Documented Lithuanian musical activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s composer biography identifies Snieguolė Dikčiūtė (1966), her composition studies in Vilnius and professional works and music-therapy practice. Documented Lithuanian musical activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:inita-saulite-zandere",
+   "name": "Inita Saulīte-Zandere",
+   "labels": {
+    "lv": "Inita Saulīte-Zandere"
+   },
+   "aliases": [
+    "Inita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/inita-saulite-zandere",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-INITA-SAULITE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-INITA-SAULITE",
+     "url": "https://www.literatura.lv/personas/inita-saulite-zandere",
+     "claim": "Literatura identifies historian, journalist and author Inita Saulīte-Zandere (1969), former Pastaiga editor and author of Elegantā Rīga. Explicit Riga publishing and editorial work establish local public activity."
+    }
+   ],
+   "claim": "Literatura identifies historian, journalist and author Inita Saulīte-Zandere (1969), former Pastaiga editor and author of Elegantā Rīga. Explicit Riga publishing and editorial work establish local public activity."
+  },
+  {
+   "id": "reviewed:merili-kasper",
+   "name": "Merili Käsper",
+   "labels": {
+    "et": "Merili Käsper"
+   },
+   "aliases": [
+    "Merili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://eeter.err.ee/1608837820/eesti-laulul-osalev-m-els-lava-show-tuleb-kindlasti-omanaoline",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-MERILI-KASPER"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-MERILI-KASPER",
+     "url": "https://eeter.err.ee/1608837820/eesti-laulul-osalev-m-els-lava-show-tuleb-kindlasti-omanaoline",
+     "claim": "ERR’s own interview identifies Eesti Laul performer M Els explicitly as Merili Käsper. Exact real given name and professional Estonian music activity, not an inferred nickname or citizenship."
+    }
+   ],
+   "claim": "ERR’s own interview identifies Eesti Laul performer M Els explicitly as Merili Käsper. Exact real given name and professional Estonian music activity, not an inferred nickname or citizenship."
+  },
+  {
+   "id": "reviewed:taavo-remmel",
+   "name": "Taavo Remmel",
+   "labels": {
+    "et": "Taavo Remmel"
+   },
+   "aliases": [
+    "Taavo"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://jazz.ee/artist/taavo-remmel/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-TAAVO-REMMEL"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-TAAVO-REMMEL",
+     "url": "https://jazz.ee/artist/taavo-remmel/",
+     "claim": "The Estonian Jazz Union biography names bassist Taavo Remmel, national jazz award recipient and teacher at Estonian music institutions. Documented local professional music activity."
+    }
+   ],
+   "claim": "The Estonian Jazz Union biography names bassist Taavo Remmel, national jazz award recipient and teacher at Estonian music institutions. Documented local professional music activity."
+  },
+  {
+   "id": "reviewed:ove-kalde",
+   "name": "Ove Kalde",
+   "labels": {
+    "et": "Ove Kalde"
+   },
+   "aliases": [
+    "Ove"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://www.ekabl.ee/id/kaldeove",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OVE-KALDE"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OVE-KALDE",
+     "url": "https://www.ekabl.ee/id/kaldeove",
+     "claim": "EKABL’s artist biography lists Ove Kalde (1963), his solo shows at Võru City Gallery and Jakobi Gallery and group exhibitions at Tallinn Art Hall and Tartu Art House. Country association is professional artistic activity, not citizenship."
+    }
+   ],
+   "claim": "EKABL’s artist biography lists Ove Kalde (1963), his solo shows at Võru City Gallery and Jakobi Gallery and group exhibitions at Tallinn Art Hall and Tartu Art House. Country association is professional artistic activity, not citizenship."
+  },
+  {
+   "id": "reviewed:ove-maidla",
+   "name": "Ove Maidla",
+   "labels": {
+    "et": "Ove Maidla"
+   },
+   "aliases": [
+    "Ove"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://www.tartu.ee/et/uudised/ove-maidla-tartu-kunstimajas",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OVE-MAIDLA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OVE-MAIDLA",
+     "url": "https://www.tartu.ee/et/uudised/ove-maidla-tartu-kunstimajas",
+     "claim": "Tartu City publishes Tartu Art House’s own 2025 exhibition announcement and biography of artist and photographer Ove Maidla (1959), including awards and previous Tartu exhibitions. Documented local artistic activity."
+    }
+   ],
+   "claim": "Tartu City publishes Tartu Art House’s own 2025 exhibition announcement and biography of artist and photographer Ove Maidla (1959), including awards and previous Tartu exhibitions. Documented local artistic activity."
+  },
+  {
+   "id": "Q12359080",
+   "name": "Ande Rahe",
+   "labels": {
+    "et": "Ande Rahe"
+   },
+   "aliases": [
+    "Ande"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "actor",
+   "round": 171,
+   "source": {
+    "url": "https://www.entsyklopeedia.ee/artikkel/rahe_ande2",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ANDE-RAHE"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ANDE-RAHE",
+     "url": "https://www.entsyklopeedia.ee/artikkel/rahe_ande2",
+     "claim": "The Estonian Theatre Biographical Lexicon identifies Tallinn-born actress Ande Rahe (1927–1994), a member of the Estonian Theatre Union and performer at Rakvere, Ugala and Vanemuine. The corrected Ande calendar entry gains its first local namesake."
+    }
+   ],
+   "claim": "The Estonian Theatre Biographical Lexicon identifies Tallinn-born actress Ande Rahe (1927–1994), a member of the Estonian Theatre Union and performer at Rakvere, Ugala and Vanemuine. The corrected Ande calendar entry gains its first local namesake."
+  },
+  {
+   "id": "Q8071797",
+   "name": "Zigmars Berkolds",
+   "labels": {
+    "lv": "Zigmars Berkolds"
+   },
+   "aliases": [
+    "Zigmars"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "athlete",
+   "round": 171,
+   "source": {
+    "url": "https://en.wikipedia.org/wiki/Zigmars_Berkolds",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ZIGMARS-BERKOLDS-WIKI"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "P19/P17",
+     "birthplace": "http://www.wikidata.org/entity/Q1579076",
+     "url": "https://www.wikidata.org/wiki/Q8071797",
+     "source_id": "PEOPLE-WD-BORN118-LV",
+     "license": "CC0"
+    }
+   ],
+   "claim": "The opened biography identifies luger Zigmars Berkolds (1979), representing Latvia and a 2003 world mixed-team silver medallist. Cached native-label birthplace evidence PEOPLE-WD-BORN118-LV independently associates him with Latvia. No citizenship inferred; FIL’s direct announcement URL failed and is not the accepted source."
+  },
+  {
+   "id": "reviewed:sonora-broka",
+   "name": "Sonora Broka",
+   "labels": {
+    "lv": "Sonora Broka"
+   },
+   "aliases": [
+    "Sonora"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 171,
+   "source": {
+    "url": "https://www.lka.edu.lv/lv/aktuali/pasakumi/saruna-par-karjeras-iespejam-kino-industrija/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SONORA-BROKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SONORA-BROKA",
+     "url": "https://www.lka.edu.lv/lv/aktuali/pasakumi/saruna-par-karjeras-iespejam-kino-industrija/",
+     "claim": "Latvian Academy of Culture’s own cinema-careers event identifies Sonora Broka as RIGA IFF creative director and creator of the Piejūras klimats radio programme. Documented local public film and broadcasting activity; not classified as a film director merely from a festival-director job title."
+    }
+   ],
+   "claim": "Latvian Academy of Culture’s own cinema-careers event identifies Sonora Broka as RIGA IFF creative director and creator of the Piejūras klimats radio programme. Documented local public film and broadcasting activity; not classified as a film director merely from a festival-director job title."
+  },
+  {
+   "id": "reviewed:tina-petersone",
+   "name": "Tīna Pētersone",
+   "labels": {
+    "lv": "Tīna Pētersone"
+   },
+   "aliases": [
+    "Tīna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-TINA-PETERSONE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-TINA-PETERSONE",
+     "url": "https://www.lka.edu.lv/lv/aktuali/jaunumi/atklata-ceturta-latvijas-kulturas-akademijas-mentoringa-programmas-sezona/",
+     "claim": "The Latvian Academy of Culture’s own fourth mentoring-season announcement identifies art curator Tīna Pētersone as a mentor. Public curatorial work in Latvia, not a nationality inference."
+    }
+   ],
+   "claim": "The Latvian Academy of Culture’s own fourth mentoring-season announcement identifies art curator Tīna Pētersone as a mentor. Public curatorial work in Latvia, not a nationality inference."
+  },
+  {
+   "id": "reviewed:daniela-zacmane",
+   "name": "Daniela Zacmane",
+   "labels": {
+    "lv": "Daniela Zacmane"
+   },
+   "aliases": [
+    "Daniela"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://www.lka.edu.lv/lv/aktuali/pasakumi/saruna-par-karjeras-iespejam-kino-industrija/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SONORA-BROKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SONORA-BROKA",
+     "url": "https://www.lka.edu.lv/lv/aktuali/pasakumi/saruna-par-karjeras-iespejam-kino-industrija/",
+     "claim": "The Latvian Academy of Culture’s own cinema-careers event names Daniela Zacmane as Kino Bize film-school co-founder and lecturer and author for Rīgas Laiks and KinoRaksti. Public film criticism, writing and teaching in Latvia; no role or citizenship inferred from her name."
+    }
+   ],
+   "claim": "The Latvian Academy of Culture’s own cinema-careers event names Daniela Zacmane as Kino Bize film-school co-founder and lecturer and author for Rīgas Laiks and KinoRaksti. Public film criticism, writing and teaching in Latvia; no role or citizenship inferred from her name."
+  },
+  {
+   "id": "reviewed:alvils-altmanis",
+   "name": "Alvils Altmanis",
+   "labels": {
+    "lv": "Alvils Altmanis"
+   },
+   "aliases": [
+    "Alvils"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "composer",
+   "round": 171,
+   "source": {
+    "url": "https://www.musicabaltica.com/catalog/product/view/id/91645/s/altmanis-alvils/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ALVILS-ALTMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ALVILS-ALTMANIS",
+     "url": "https://www.musicabaltica.com/catalog/product/view/id/91645/s/altmanis-alvils/",
+     "claim": "The composer’s publisher Musica Baltica identifies composer, clarinettist and teacher Alvils Altmanis, born in Sidrabene, Jelgava district in 1950, and his Latvian musical work. Birthplace and public professional activity, not inferred citizenship."
+    }
+   ],
+   "claim": "The composer’s publisher Musica Baltica identifies composer, clarinettist and teacher Alvils Altmanis, born in Sidrabene, Jelgava district in 1950, and his Latvian musical work. Birthplace and public professional activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:morta-jonynaite",
+   "name": "Morta Jonynaitė",
+   "labels": {
+    "lt": "Morta Jonynaitė"
+   },
+   "aliases": [
+    "Morta"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://cac.lt/paroda/jcdecaux-premija-2022-galimybiu-bangos/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-MORTA-JONYNAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-MORTA-JONYNAITE",
+     "url": "https://cac.lt/paroda/jcdecaux-premija-2022-galimybiu-bangos/",
+     "claim": "Lithuania’s Contemporary Art Centre names artist Morta Jonynaitė in its own JCDecaux Award 2022 exhibition at the Artists Union gallery in Vilnius. Documented professional Lithuanian artistic activity."
+    }
+   ],
+   "claim": "Lithuania’s Contemporary Art Centre names artist Morta Jonynaitė in its own JCDecaux Award 2022 exhibition at the Artists Union gallery in Vilnius. Documented professional Lithuanian artistic activity."
+  },
+  {
+   "id": "reviewed:brigita-bublyte",
+   "name": "Brigita Bublytė",
+   "labels": {
+    "lt": "Brigita Bublytė"
+   },
+   "aliases": [
+    "Brigita"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/dziazas/kompozitoriai-atlikejai/bb/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-BRIGITA-BUBLYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-BRIGITA-BUBLYTE",
+     "url": "https://www.mic.lt/lt/baze/dziazas/kompozitoriai-atlikejai/bb/",
+     "claim": "Music Information Centre Lithuania’s artist biography identifies singer and actress Brigita Bublytė, her professional roles in Lithuanian rock operas and Lithuanian music/acting education. Local artistic activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s artist biography identifies singer and actress Brigita Bublytė, her professional roles in Lithuanian rock operas and Lithuanian music/acting education. Local artistic activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:vilte-ambrazaityte",
+   "name": "Viltė Ambrazaitytė",
+   "labels": {
+    "lt": "Viltė Ambrazaitytė"
+   },
+   "aliases": [
+    "Viltė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/folk-world-country/kompozitoriai-atlikejai/adasirvilte/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-VILTE-AMBRAZAITYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-VILTE-AMBRAZAITYTE",
+     "url": "https://www.mic.lt/lt/baze/folk-world-country/kompozitoriai-atlikejai/adasirvilte/",
+     "claim": "Music Information Centre Lithuania’s Adas ir Viltė biography explicitly credits singer Viltė Ambrazaitytė, her Kūlgrinda and Žalvarinis work and recordings of Lithuanian folk music. Documented professional Lithuanian music activity."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s Adas ir Viltė biography explicitly credits singer Viltė Ambrazaitytė, her Kūlgrinda and Žalvarinis work and recordings of Lithuanian folk music. Documented professional Lithuanian music activity."
+  },
+  {
+   "id": "reviewed:donata-minderyte",
+   "name": "Donata Minderytė",
+   "labels": {
+    "lt": "Donata Minderytė"
+   },
+   "aliases": [
+    "Donata"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://kolekcija.mo.lt/lt/Authors/43384",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-DONATA-MINDERYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-DONATA-MINDERYTE",
+     "url": "https://kolekcija.mo.lt/lt/Authors/43384",
+     "claim": "MO Museum’s own collection biography identifies painter Donata Minderytė, born in Vilnius in 1991, and lists her works in its collection. Geographic birthplace and public professional work, not inferred citizenship."
+    }
+   ],
+   "claim": "MO Museum’s own collection biography identifies painter Donata Minderytė, born in Vilnius in 1991, and lists her works in its collection. Geographic birthplace and public professional work, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:zemyna-trinkunaite",
+   "name": "Žemyna Trinkūnaitė",
+   "labels": {
+    "lt": "Žemyna Trinkūnaitė"
+   },
+   "aliases": [
+    "Žemyna"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/folk-world-country/kompozitoriai-atlikejai/zemyna/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ZEMYNA-TRINKUNAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-ZEMYNA-TRINKUNAITE",
+     "url": "https://www.mic.lt/lt/baze/folk-world-country/kompozitoriai-atlikejai/zemyna/",
+     "claim": "Music Information Centre Lithuania’s biography identifies kanklės musician and composer Žemyna Trinkūnaitė, her work with Lithuanian folk ensembles and published recordings. Local musical activity, not citizenship."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s biography identifies kanklės musician and composer Žemyna Trinkūnaitė, her work with Lithuanian folk ensembles and published recordings. Local musical activity, not citizenship."
+  },
+  {
+   "id": "reviewed:tea-lemberpuu",
+   "name": "Tea Lemberpuu",
+   "labels": {
+    "et": "Tea Lemberpuu"
+   },
+   "aliases": [
+    "Tea"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://www.artrovert.ee/art/artrovert-kunstnikud/tea-lemberpuu/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-TEA-LEMBERPUU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-TEA-LEMBERPUU",
+     "url": "https://www.artrovert.ee/art/artrovert-kunstnikud/tea-lemberpuu/",
+     "claim": "The representing gallery Artrovert’s own biography identifies painter Tea Lemberpuu (1980), Estonian Academy of Arts Young Artist Award recipient and Tartu Artists Union member, and her exhibition at the gallery. Local professional artistic activity, not inferred citizenship."
+    }
+   ],
+   "claim": "The representing gallery Artrovert’s own biography identifies painter Tea Lemberpuu (1980), Estonian Academy of Arts Young Artist Award recipient and Tartu Artists Union member, and her exhibition at the gallery. Local professional artistic activity, not inferred citizenship."
+  },
+  {
+   "id": "Q23652382",
+   "name": "Adris Plūksna",
+   "labels": {
+    "lv": "Adris Plūksna"
+   },
+   "aliases": [
+    "Adris"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "athlete",
+   "round": 171,
+   "source": {
+    "url": "https://en.wikipedia.org/wiki/Adris_Pl%C5%ABksna",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ADRIS-PLUKSNA-WIKI"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "P19/P17",
+     "birthplace": "http://www.wikidata.org/entity/Q104036",
+     "url": "https://www.wikidata.org/wiki/Q23652382",
+     "source_id": "PEOPLE-WD-BORN118-LV",
+     "license": "CC0"
+    }
+   ],
+   "claim": "The opened biography identifies Adris Plūksna (1967), a Latvian bobsledder who represented Latvia at the 1992 and 1994 Winter Olympics. Native exact label and separate P19/P17 geographic association are retained from PEOPLE-WD-BORN118-LV."
+  },
+  {
+   "id": "Q9139195",
+   "name": "Ada Wińcza",
+   "labels": {
+    "lt": "Ada Wińcza"
+   },
+   "aliases": [
+    "Ada"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://www.polskieradio.pl/8/4650/Artykul/1176386,W-Afryce-Wschodniej-jest-cos-z-czego-Polacy-powinni-byc-dumni",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ADA-WINCZA"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "P19/P17",
+     "birthplace": "http://www.wikidata.org/entity/Q216",
+     "url": "https://www.wikidata.org/wiki/Q9139195",
+     "source_id": "PEOPLE-WD-BORN118-LT",
+     "license": "CC0"
+    }
+   ],
+   "claim": "Polish Radio’s own programme identifies author and East African cultural expert Ada Wińcza. Her association with Lithuania rests separately on cached birthplace evidence (Vilnius) PEOPLE-WD-BORN118-LT, not on Polish-language authorship or an inferred Lithuanian nationality."
+  },
+  {
+   "id": "reviewed:ulve-kangro",
+   "name": "Ulve Kangro",
+   "labels": {
+    "et": "Ulve Kangro"
+   },
+   "aliases": [
+    "Ulve"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 171,
+   "source": {
+    "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ULVE-KANGRO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ULVE-KANGRO",
+     "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+     "claim": "The Estonian Folk Art and Craft Union’s own Pärandihoidja award roll identifies Ulve Kangro, honoured for promoting and renewing coloured Seto lace. The source is used for her craft-artist role and documented Estonian cultural activity; no award year is copied into the widget."
+    }
+   ],
+   "claim": "The Estonian Folk Art and Craft Union’s own Pärandihoidja award roll identifies Ulve Kangro, honoured for promoting and renewing coloured Seto lace. The source is used for her craft-artist role and documented Estonian cultural activity; no award year is copied into the widget."
+  },
+  {
+   "id": "reviewed:ingvar-saare",
+   "name": "Ingvar Saare",
+   "labels": {
+    "et": "Ingvar Saare"
+   },
+   "aliases": [
+    "Ingvar"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "public_figure",
+   "round": 171,
+   "source": {
+    "url": "https://www.elvl.ee/uudised/eesti-linnade-ja-valdade-liidu-juhatuse-liikmeks-valiti-laaneranna-vallavanem-ingvar-saare",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-INGVAR-SAARE"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-INGVAR-SAARE",
+     "url": "https://www.elvl.ee/uudised/eesti-linnade-ja-valdade-liidu-juhatuse-liikmeks-valiti-laaneranna-vallavanem-ingvar-saare",
+     "claim": "The Association of Estonian Cities and Municipalities’ own announcement identifies Ingvar Saare as Lääneranna municipality mayor elected to its board and describes his local-government experience. Historical public-office association, not a claim that this office is still current or an inference of citizenship."
+    }
+   ],
+   "claim": "The Association of Estonian Cities and Municipalities’ own announcement identifies Ingvar Saare as Lääneranna municipality mayor elected to its board and describes his local-government experience. Historical public-office association, not a claim that this office is still current or an inference of citizenship."
+  },
+  {
+   "id": "reviewed:mattias-tirmaste",
+   "name": "Mattias Tirmaste",
+   "labels": {
+    "et": "Mattias Tirmaste"
+   },
+   "aliases": [
+    "Mattias"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 171,
+   "source": {
+    "url": "https://kultuur.err.ee/1608640189/mattias-tirmaste-andis-valja-luhiplaadi-peatus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-MATTIAS-TIRMASTE"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-MATTIAS-TIRMASTE",
+     "url": "https://kultuur.err.ee/1608640189/mattias-tirmaste-andis-valja-luhiplaadi-peatus",
+     "claim": "ERR’s artist feature identifies Mattias Tirmaste as a composer, producer and guitarist releasing Peatus, and his work in Estonia’s jazz, indie, folk and pop music. Professional local musical activity, not inferred citizenship."
+    }
+   ],
+   "claim": "ERR’s artist feature identifies Mattias Tirmaste as a composer, producer and guitarist releasing Peatus, and his work in Estonia’s jazz, indie, folk and pop music. Professional local musical activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:aksels-ozols",
+   "name": "Aksels Ozols",
+   "labels": {
+    "lv": "Aksels Ozols"
+   },
+   "aliases": [
+    "Aksels"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "athlete",
+   "round": 171,
+   "source": {
+    "url": "https://www.lhf.lv/en/player/aksels-ozols",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-AKSELS-OZOLS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-AKSELS-OZOLS",
+     "url": "https://www.lhf.lv/en/player/aksels-ozols",
+     "claim": "The Latvian Ice Hockey Federation’s own profile identifies adult goalkeeper Aksels Ozols (9 February 2005), Latvia, HK Zemgale/LBTU and senior OHL appearances. National federation biography and senior professional sporting activity; not an amateur youth-roster inference."
+    }
+   ],
+   "claim": "The Latvian Ice Hockey Federation’s own profile identifies adult goalkeeper Aksels Ozols (9 February 2005), Latvia, HK Zemgale/LBTU and senior OHL appearances. National federation biography and senior professional sporting activity; not an amateur youth-roster inference."
+  },
+  {
+   "id": "reviewed:liva-vecvagare",
+   "name": "Līva Vecvagare",
+   "labels": {
+    "lv": "Līva Vecvagare"
+   },
+   "aliases": [
+    "Līva"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/liva-vecvagare",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LIVA-VECVAGARE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LIVA-VECVAGARE",
+     "url": "https://www.literatura.lv/personas/liva-vecvagare",
+     "claim": "Literatura’s biography identifies Līva Vecvagare (1991), Liepāja writer, editor and journalist, her published books and Latvian literary-award nominations. Local professional literary activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Literatura’s biography identifies Līva Vecvagare (1991), Liepāja writer, editor and journalist, her published books and Latvian literary-award nominations. Local professional literary activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:liva-kukle-kalnina",
+   "name": "Līva Kukle-Kalniņa",
+   "labels": {
+    "lv": "Līva Kukle-Kalniņa"
+   },
+   "aliases": [
+    "Līva"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/liva-kukle",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LIVA-KUKLE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LIVA-KUKLE",
+     "url": "https://www.literatura.lv/personas/liva-kukle",
+     "claim": "Literatura identifies Riga-born translator, editor and literary critic Līva Kukle-Kalniņa (1996), her published book translations and professional work in Latvian publishing and cultural events. The writer role covers her published literary work, not a claim that she writes novels."
+    }
+   ],
+   "claim": "Literatura identifies Riga-born translator, editor and literary critic Līva Kukle-Kalniņa (1996), her published book translations and professional work in Latvian publishing and cultural events. The writer role covers her published literary work, not a claim that she writes novels."
+  },
+  {
+   "id": "reviewed:liva-marta-roze",
+   "name": "Līva Marta Roze",
+   "labels": {
+    "lv": "Līva Marta Roze"
+   },
+   "aliases": [
+    "Līva"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "poet",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/liva-marta-roze",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LIVA-ROZE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LIVA-ROZE",
+     "url": "https://www.literatura.lv/personas/liva-marta-roze",
+     "claim": "Literatura’s opened biography identifies poet Līva Marta Roze and her published Latvian poetry. Līva is the first given name in a documented multi-given-name public identity, not a nickname or related form."
+    }
+   ],
+   "claim": "Literatura’s opened biography identifies poet Līva Marta Roze and her published Latvian poetry. Līva is the first given name in a documented multi-given-name public identity, not a nickname or related form."
+  },
+  {
+   "id": "reviewed:selga-silkalna",
+   "name": "Selga Silkalna",
+   "labels": {
+    "lv": "Selga Silkalna"
+   },
+   "aliases": [
+    "Selga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "poet",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/selga-silkalna",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SELGA-SILKALNA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SELGA-SILKALNA",
+     "url": "https://www.literatura.lv/personas/selga-silkalna",
+     "claim": "Literatura’s biography explicitly identifies poet and translator Selga Silkalna, born in Kuldīga, and explains that Karmena Kurzemniece is her literary pseudonym while essays and reviews use her real name. The exact real given name is accepted; no nickname-only match."
+    }
+   ],
+   "claim": "Literatura’s biography explicitly identifies poet and translator Selga Silkalna, born in Kuldīga, and explains that Karmena Kurzemniece is her literary pseudonym while essays and reviews use her real name. The exact real given name is accepted; no nickname-only match."
+  },
+  {
+   "id": "reviewed:selga-palu",
+   "name": "Selga Palu",
+   "labels": {
+    "lv": "Selga Palu"
+   },
+   "aliases": [
+    "Selga"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "poet",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/selga-palu",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SELGA-PALU"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SELGA-PALU",
+     "url": "https://www.literatura.lv/personas/selga-palu",
+     "claim": "Literatura identifies Ērģeme-born poet, lyricist and journalist Selga Palu (1938–2014), her published poetry collection and professional Latvian journalism. Birthplace and public professional activity, not inferred citizenship."
+    }
+   ],
+   "claim": "Literatura identifies Ērģeme-born poet, lyricist and journalist Selga Palu (1938–2014), her published poetry collection and professional Latvian journalism. Birthplace and public professional activity, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:andra-konste",
+   "name": "Andra Konste",
+   "labels": {
+    "lv": "Andra Konste"
+   },
+   "aliases": [
+    "Andra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 171,
+   "source": {
+    "url": "https://www.literatura.lv/personas/andra-konste",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ANDRA-KONSTE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ANDRA-KONSTE",
+     "url": "https://www.literatura.lv/personas/andra-konste",
+     "claim": "Literatura identifies Riga-born literary scholar and museum professional Andra Konste (1956), her work with the International Writers and Translators House in Ventspils and major Latvian literary editions and events. Public literary scholarship/administration, not an unsupported translator attribution."
+    }
+   ],
+   "claim": "Literatura identifies Riga-born literary scholar and museum professional Andra Konste (1956), her work with the International Writers and Translators House in Ventspils and major Latvian literary editions and events. Public literary scholarship/administration, not an unsupported translator attribution."
+  },
+  {
+   "id": "reviewed:radvile-buivydiene",
+   "name": "Radvilė Buivydienė",
+   "labels": {
+    "lt": "Radvilė Buivydienė"
+   },
+   "aliases": [
+    "Radvilė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "public_figure",
+   "round": 171,
+   "source": {
+    "url": "https://www.mic.lt/lt/ivykiai/2021/06/16/lietuvos-muzikos-informacijos-centrui-vadovaus/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-RADVILE-BUIVYDIENE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-RADVILE-BUIVYDIENE",
+     "url": "https://www.mic.lt/lt/ivykiai/2021/06/16/lietuvos-muzikos-informacijos-centrui-vadovaus/",
+     "claim": "Music Information Centre Lithuania’s own 2021 appointment announcement identifies cultural manager Radvilė Buivydienė as its new director and describes her professional work. Public cultural administration in Lithuania, not a current-office or citizenship inference."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s own 2021 appointment announcement identifies cultural manager Radvilė Buivydienė as its new director and describes her professional work. Public cultural administration in Lithuania, not a current-office or citizenship inference."
+  },
+  {
+   "id": "reviewed:nida-degutiene",
+   "name": "Nida Degutienė",
+   "labels": {
+    "lt": "Nida Degutienė"
+   },
+   "aliases": [
+    "Nida"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "writer",
+   "round": 171,
+   "source": {
+    "url": "https://www.lnb.lt/renginiai/14166-nidos-degutienes-kulinarines-knygos-pristatymas",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-NIDA-DEGUTIENE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-NIDA-DEGUTIENE",
+     "url": "https://www.lnb.lt/renginiai/14166-nidos-degutienes-kulinarines-knygos-pristatymas",
+     "claim": "Lithuania’s National Martynas Mažvydas Library’s own author event identifies cookbook writer Nida Degutienė presenting her latest book and explicitly notes her life and creative work abroad in Australia. Association rests on documented Lithuanian professional literary activity, not a claim of current residence or inferred citizenship."
+    }
+   ],
+   "claim": "Lithuania’s National Martynas Mažvydas Library’s own author event identifies cookbook writer Nida Degutienė presenting her latest book and explicitly notes her life and creative work abroad in Australia. Association rests on documented Lithuanian professional literary activity, not a claim of current residence or inferred citizenship."
   }
  ]
 }
