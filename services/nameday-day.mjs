@@ -1,5 +1,6 @@
 import {calendarNames,dayKey} from '../public/namedays-core.js';
-import {describeName,greetingsForName,historyBlocks,roleLabel,LANGUAGES} from '../public/namedays-content.js';
+import {describeName,historyBlocks,roleLabel,LANGUAGES} from '../public/namedays-content.js';
+import {greetingsForLanguage} from '../public/namedays-greetings.js';
 import {text} from '../public/namedays-labels.js';
 import {compareFame} from '../public/namedays-people.js';
 import {populationCopy} from '../public/namedays-population.js';
@@ -24,15 +25,13 @@ export function createDayCompiler({calendar,profiles,population,birthdays}){
   const names=calendarNames(calendar,country,date).map(({key})=>{
    const cacheKey=key+':'+lang;if(cache.has(cacheKey))return cache.get(cacheKey);
    const p=profiles[key];if(!p)throw Error('Missing profile '+key);
-   const greetings=[0,1,2].map(v=>greetingsForName(p,lang,v));
    const exact=(p.people||[]).filter(p=>p.match==='exact');
    const ordered=distinct([...exact.filter(p=>p.countries?.includes(country)).sort(compareFame),...exact.filter(p=>!p.countries?.includes(country)).sort(compareFame)]);
    const value={name:p.name,history:p.display_history?.[lang]||historyBlocks(describeName(p,lang,0,profiles),lang),population:populationCopy(population,p.name,country,lang)?.title||null,
-    namesakes:{local:ordered.filter(p=>p.countries?.includes(country)).map(personCopy),international:ordered.filter(p=>!p.countries?.includes(country)).map(personCopy)},
-    greetings:Object.fromEntries(['serious','humor'].map(mood=>[mood,greetings.map((copy,v)=>copy[mood][v])]))};
+    namesakes:{local:ordered.filter(p=>p.countries?.includes(country)).map(personCopy),international:ordered.filter(p=>!p.countries?.includes(country)).map(personCopy)}};
    cache.set(cacheKey,value);return value;
   });
   const birthdayCopies=birthdayPeopleForCountry(birthdays,day,country).map(p=>({...personCopy(p),description:roleLabel(p.role,lang)+' · '+text(lang,'bornOn',{date:dateLabel,year:p.birth_year})}));
-  return {day,country,language:lang,names,birthdays:birthdayCopies};
+  return {day,country,language:lang,names,greetings:greetingsForLanguage(lang),birthdays:birthdayCopies};
  };
 }

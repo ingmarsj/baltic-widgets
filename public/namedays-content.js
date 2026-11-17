@@ -1,3 +1,4 @@
+import {greetingsForLanguage} from './namedays-greetings.js';
 import {formatAttestation,attestationPeriod} from './namedays-attestation.js';
 import {reviewedHistory,reusedHistory} from './namedays-history.js';
 import {unverifiedHistory,HYPOTHESIS_LABELS} from './namedays-hypotheses.js';
@@ -297,98 +298,6 @@ const registryKinds={
   "Nimi {name} mõeldi välja uue isikunimena."
  ]
 };
-const wishes={
- "ru": {
-  "serious": [
-   "{name}, с именинами! Пусть будет кому позвонить с хорошей новостью, с кем посмеяться и к кому прийти просто так. Желаю тёплого дома и людей, рядом с которыми легко.",
-   "{name}, желаю времени на всё, что любишь: на долгий завтрак, прогулку без маршрута и разговор, который не хочется заканчивать. Пусть таких дней будет больше. С именинами!",
-   "{name}, с именинами! Пусть задуманное получается, а рядом будут люди, которые поддержат и порадуются вместе с тобой. И пусть сегодня обязательно случится что-нибудь приятное.",
-   "{name}, желаю просыпаться с хорошими планами и возвращаться туда, где тебя ждут. Пусть хватает сил на любимое дело, а после него остаётся время на жизнь. С праздником!",
-   "{name}, пусть впереди будет поездка, которую давно хотелось устроить, встреча, которой ждёшь, и хорошая новость без особого повода. С именинами!",
-   "{name}, с именинами! Желаю здоровья, спокойных вечеров и побольше поводов собираться за одним столом. Пусть близкие чаще говорят вслух, как ты им дорог."
-  ],
-  "humor": [
-   "{name}, с именинами! Сегодня все срочные дела получают новое имя — «Завтра». А тебе достаются торт, поздравления и право первым выбрать самый большой кусок.",
-   "{name}, у твоего имени сегодня праздник. Предлагаю отметить это так, чтобы завтра холодильник мог рассказать: «Да, было весело. Нет, торта не осталось».",
-   "{name}, пусть деньги находят дорогу к тебе так же уверенно, как гости — к запаху пирога. А проблемы пусть хотя бы раз перепутают адрес. С именинами!",
-   "{name}, с именинами! Пусть будильник проспит, кофе сварится сам, а человек с вопросом «можно на минутку?» принесёт с собой подарок.",
-   "{name}, желаю столько хороших новостей, чтобы телефон уставал раньше тебя. И столько свободного времени, чтобы наконец прочитать их не на бегу. С праздником!",
-   "{name}, сегодня можно брать добавку и говорить: «Это в честь имени». Если кто-то спросит, при чём здесь третья порция, отвечай: имя красивое, повод серьёзный. С именинами!"
-  ]
- },
- "en": {
-  "serious": [
-   "{name}, happy name day! May there always be someone to call with good news, someone to laugh with and a door you can knock on just because. Here’s to a warm home and people who make you feel at ease.",
-   "{name}, I wish you time for what you love: a long breakfast, a walk with no route and a conversation you never want to end. May there be more days like that. Happy name day!",
-   "{name}, happy name day! May your plans work out, with people beside you who help along the way and celebrate with you. And may something lovely happen today.",
-   "{name}, may you wake up with plans to look forward to and come home to people glad to see you. May your favourite work leave you energy for the rest of life. Happy name day!",
-   "{name}, here’s to the trip you’ve been meaning to take, a reunion you’re looking forward to and good news on an ordinary day. Happy name day!",
-   "{name}, happy name day! I wish you good health, peaceful evenings and plenty of reasons to gather around one table. May the people you love tell you often how much you mean to them."
-  ],
-  "humor": [
-   "{name}, happy name day! Every urgent task has a new name today: Tomorrow. You get the cake, the greetings and first choice of the biggest slice.",
-   "{name}, your name has its own holiday. Let’s celebrate until the fridge can report tomorrow: “Yes, it was fun. No, there’s no cake left.”",
-   "{name}, may money find you as easily as guests find a freshly baked pie. May problems get the address wrong for once. Happy name day!",
-   "{name}, happy name day! May your alarm oversleep, your coffee make itself and anyone asking for a quick minute bring a present.",
-   "{name}, may you get so much good news that your phone gets tired before you do. And enough free time to read it sitting down. Happy name day!",
-   "{name}, today you can ask for seconds and say it’s in honour of your name. If anyone questions the third helping, explain that a lovely name deserves a proper celebration. Happy name day!"
-  ]
- },
- "lv": {
-  "serious": [
-   "{name}, sveicu vārda dienā! Lai vienmēr ir kam piezvanīt ar labām ziņām, ar ko pasmieties un pie kā iegriezties tāpat vien. Vēlu siltas mājas un cilvēkus, kuru tuvumā ir viegli būt.",
-   "{name}, vēlu laiku visam mīļajam: garām brokastīm, pastaigai bez maršruta un sarunai, kuru negribas beigt. Lai šādu dienu ir vairāk. Priecīgu vārda dienu!",
-   "{name}, sveicu vārda dienā! Lai iecerētais izdodas un blakus ir cilvēki, kuri palīdz un priecājas kopā ar tevi. Lai šodien noteikti notiek kas patīkams.",
-   "{name}, lai no rīta gaida labi plāni un vakarā — mājas, kur tevi priecājas redzēt. Lai pietiek spēka mīļajam darbam un pēc tā paliek laiks arī dzīvei. Priecīgus svētkus!",
-   "{name}, lai priekšā ir sen iecerēts ceļojums, gaidīta tikšanās un laba ziņa pavisam parastā dienā. Priecīgu vārda dienu!",
-   "{name}, sveicu vārda dienā! Vēlu veselību, mierīgus vakarus un vairāk iemeslu sanākt pie viena galda. Lai tuvie biežāk pasaka, cik daudz tu viņiem nozīmē."
-  ],
-  "humor": [
-   "{name}, sveicu vārda dienā! Visi steidzamie darbi šodien iegūst jaunu vārdu — «Rīt». Tev pienākas torte, sveicieni un tiesības pirmajam izvēlēties lielāko gabalu.",
-   "{name}, tavam vārdam šodien ir svētki. Nosvinēsim tā, lai ledusskapis rīt varētu ziņot: «Jā, bija jautri. Nē, tortes vairs nav.»",
-   "{name}, lai nauda atrod ceļu pie tevis tikpat droši kā viesi pie svaigi cepta pīrāga. Bet problēmas lai kaut reizi sajauc adresi. Priecīgu vārda dienu!",
-   "{name}, sveicu vārda dienā! Lai modinātājs aizguļas, kafija uzvārās pati un cilvēks ar jautājumu «var uz minūtīti?» atnes dāvanu.",
-   "{name}, vēlu tik daudz labu ziņu, lai tālrunis nogurst ātrāk par tevi. Un tik daudz brīva laika, lai tās beidzot var izlasīt nesteidzoties. Priecīgus svētkus!",
-   "{name}, šodien drīkst prasīt papildporciju un teikt: «Tas par godu vārdam.» Ja kāds jautā par trešo porciju, atbilde vienkārša: skaists vārds pelna kārtīgus svētkus. Priecīgu vārda dienu!"
-  ]
- },
- "lt": {
-  "serious": [
-   "{name}, su vardadieniu! Tegul visada yra kam paskambinti su gera naujiena, su kuo pasijuokti ir pas ką užsukti šiaip sau. Linkiu šiltų namų ir žmonių, šalia kurių lengva būti.",
-   "{name}, linkiu laiko viskam, ką mėgsti: ilgiems pusryčiams, pasivaikščiojimui be maršruto ir pokalbiui, kurio nesinori baigti. Tegul tokių dienų būna daugiau. Su vardadieniu!",
-   "{name}, su vardadieniu! Tegul sumanymai pavyksta, o šalia būna žmonės, kurie padės ir pasidžiaugs kartu. Ir tegul šiandien būtinai nutinka kas nors malonaus.",
-   "{name}, linkiu pabusti su gerais planais ir grįžti ten, kur tavęs laukia. Tegul užtenka jėgų mėgstamam darbui, o po jo lieka laiko gyvenimui. Su švente!",
-   "{name}, tegul laukia seniai planuota kelionė, išsiilgtas susitikimas ir gera naujiena visai paprastą dieną. Su vardadieniu!",
-   "{name}, su vardadieniu! Linkiu sveikatos, ramių vakarų ir daugiau progų susėsti prie vieno stalo. Tegul artimieji dažniau pasako, kiek daug jiems reiški."
-  ],
-  "humor": [
-   "{name}, su vardadieniu! Visi skubūs darbai šiandien gauna naują vardą — «Rytoj». Tau tenka tortas, sveikinimai ir teisė pirmiausia išsirinkti didžiausią gabalą.",
-   "{name}, tavo vardas šiandien švenčia. Atšvęskime taip, kad šaldytuvas rytoj galėtų pranešti: «Taip, buvo linksma. Ne, torto nebeliko.»",
-   "{name}, tegul pinigai randa kelią pas tave taip užtikrintai, kaip svečiai randa ką tik iškeptą pyragą. O problemos tegul bent kartą supainioja adresą. Su vardadieniu!",
-   "{name}, su vardadieniu! Tegul žadintuvas pramiega, kava išsiverda pati, o žmogus su klausimu «galima minutėlei?» atsineša dovaną.",
-   "{name}, linkiu tiek gerų naujienų, kad telefonas pavargtų anksčiau už tave. Ir tiek laisvo laiko, kad jas pagaliau perskaitytum neskubant. Su švente!",
-   "{name}, šiandien galima prašyti pakartoti ir sakyti: «Čia vardo garbei.» Jei kas paklaustų apie trečią porciją, paaiškink: gražus vardas vertas rimtos šventės. Su vardadieniu!"
-  ]
- },
- "et": {
-  "serious": [
-   "{name}, head nimepäeva! Olgu alati keegi, kellele hea uudisega helistada, kellega naerda ja kelle juurde niisama sisse astuda. Soovin sooja kodu ja inimesi, kelle kõrval on kerge olla.",
-   "{name}, soovin aega kõigele, mida armastad: pikale hommikusöögile, sihita jalutuskäigule ja vestlusele, mida ei taha lõpetada. Olgu selliseid päevi rohkem. Head nimepäeva!",
-   "{name}, head nimepäeva! Mingu plaanid korda ja olgu kõrval inimesed, kes aitavad ning rõõmustavad koos sinuga. Ja juhtugu täna kindlasti midagi toredat.",
-   "{name}, soovin hommikuid heade plaanidega ja õhtuid kodus, kus sind oodatakse. Jätkugu jõudu lemmiktööks ning pärast seda aega ka muuks eluks. Ilusat pidupäeva!",
-   "{name}, olgu ees ammu plaanitud reis, oodatud kohtumine ja hea uudis täiesti tavalisel päeval. Head nimepäeva!",
-   "{name}, head nimepäeva! Soovin tervist, rahulikke õhtuid ja rohkem põhjusi ühe laua ümber koguneda. Öelgu lähedased sagedamini, kui palju sa neile tähendad."
-  ],
-  "humor": [
-   "{name}, head nimepäeva! Kõik kiired tööd saavad täna uue nime — «Homme». Sulle jäävad tort, õnnesoovid ja õigus valida esimesena kõige suurem tükk.",
-   "{name}, su nimel on täna pidupäev. Tähistame nii, et külmik saaks homme teatada: «Jah, lõbus oli. Ei, torti enam pole.»",
-   "{name}, leidku raha tee sinuni sama kindlalt kui külalised värske piruka lõhnani. Probleemid võiksid vähemalt kord aadressiga eksida. Head nimepäeva!",
-   "{name}, head nimepäeva! Magagu äratuskell sisse, valmigu kohv ise ja toogu inimene küsimusega «kas tohib korraks?» kaasa kingituse.",
-   "{name}, soovin nii palju häid uudiseid, et telefon väsiks enne sind. Ja nii palju vaba aega, et saaksid neid lõpuks rahulikult lugeda. Ilusat pidupäeva!",
-   "{name}, täna võib lisa küsida ja öelda: «See on mu nime auks.» Kui keegi kolmanda portsjoni kohta küsib, selgita: ilus nimi väärib korralikku pidu. Head nimepäeva!"
-  ]
- }
-};
 const special={
  "leo": {
   "ru": "Греческое Leon и латинское Leo означают «лев». Эти родственные формы распространились в европейских языках. Имя носили раннехристианские святые и римские папы.",
@@ -420,20 +329,13 @@ const special={
  }
 };
 function fill(value,name){return value.replaceAll('{name}',name);}
-const familyHumor={
- charlotte:{ru:'{name}, у твоего имени за плечами дворцы и романы. Сегодня предлагаю королевский указ: торт подать немедленно, тревоги выслать из королевства, а все срочные дела выпустить под псевдонимом «Завтра». С именинами!',en:'{name}, your name has palaces and novels behind it. Today’s royal decree: serve cake immediately, banish worries from the kingdom and publish every urgent task under the pen name Tomorrow. Happy name day!',lv:'{name}, aiz tava vārda stāv pilis un romāni. Šodienas karaļa dekrēts: torti pasniegt nekavējoties, raizes izraidīt no karaļvalsts un visus steidzamos darbus izdot ar pseidonīmu «Rīt». Priecīgu vārda dienu!',lt:'{name}, už tavo vardo stovi rūmai ir romanai. Šiandienos karališkas įsakas: tortą patiekti nedelsiant, rūpesčius ištremti iš karalystės, o visus skubius darbus išleisti slapyvardžiu «Rytoj». Su vardadieniu!',et:'{name}, su nime taga on lossid ja romaanid. Tänane kuninglik määrus: tort kohe lauale, mured kuningriigist välja ja kõik kiired ülesanded ilmugu kirjanikunime «Homme» all. Head nimepäeva!'},
- leonard:{ru:'{name}, твоему имени достался «храбрый лев». Желаю, чтобы львиная доля зарплаты оставалась тебе, а не коммунальным службам, и чтобы слово «прайд» означало круг друзей, а не совещание в понедельник. С именинами!',en:'{name}, your name inherited a brave lion. May the lion’s share of your income stay with you rather than the utility companies, and may your pride mean friends around a table, never a Monday meeting. Happy name day!',lv:'{name}, tavam vārdam ticis «drosmīgs lauva». Lai algas lauvas tiesa paliek tev, nevis komunālajiem pakalpojumiem, un lauvu bars lai nozīmē draugus pie galda, nevis pirmdienas sapulci. Priecīgu vārda dienu!',lt:'{name}, tavo vardui teko «drąsus liūtas». Linkiu, kad liūto dalis atlyginimo liktų tau, o ne komunalinėms įmonėms, ir liūtų būrys reikštų draugus prie stalo, o ne pirmadienio susirinkimą. Su vardadieniu!',et:'{name}, su nimi päris vapra lõvi. Jäägu lõviosa palgast sulle, mitte kommunaalfirmadele, ja tähendagu lõvikari sõpru laua ümber, mitte esmaspäevast koosolekut. Head nimepäeva!'}
-};
 const listFormats=new Map(),dayFormats=new Map();
 const listFormat=lang=>{if(!listFormats.has(lang))listFormats.set(lang,new Intl.ListFormat(lang,{style:"long",type:"conjunction"}));return listFormats.get(lang);};
 const localeForName=lang=>({lv:'lv-LV',ru:'ru-RU',en:'en-GB',lt:'lt-LT',et:'et-EE'}[lang]);
 const REUSE_NOTES={"lv":{"lv":"Vārds {name} sakrīt ar Latvijā lietoto vārdu {source}.","ru":"Имя {name} совпадает с латышским именем {source}.","en":"{name} matches the Latvian name {source}.","lt":"{name} sutampa su Latvijoje vartojamu vardu {source}.","et":"{name} kattub Lätis kasutatava nimega {source}."},"variant":{"lv":"{name} ir vārda {source} rakstības variants.","ru":"{name} — вариант написания имени {source}.","en":"{name} is a spelling variant of {source}.","lt":"{name} – vardo {source} rašybos variantas.","et":"{name} on nime {source} kirjaviisi variant."},"lt":{"lv":"Vārds {name} sakrīt ar Lietuvā lietoto vārdu {source}.","ru":"Имя {name} совпадает с литовским именем {source}.","en":"{name} matches the Lithuanian name {source}.","lt":"{name} sutampa su Lietuvoje vartojamu vardu {source}.","et":"{name} kattub Leedus kasutatava nimega {source}."},"ee":{"lv":"Vārds {name} sakrīt ar Igaunijā lietoto vārdu {source}.","ru":"Имя {name} совпадает с эстонским именем {source}.","en":"{name} matches the Estonian name {source}.","lt":"{name} sutampa su Estijoje vartojamu vardu {source}.","et":"{name} kattub Eestis kasutatava nimega {source}."}};
-export function greetingsForName(profile,requested='en',variant=0){
- const lang=LANGUAGES.includes(requested)?requested:'en',name=profile.name,seed=hash(nameIdentity(name));
- const wishIndex=(seed+variant)>>>0;
- const greetings=Object.fromEntries(['serious','humor'].map(mood=>[mood,Array.from({length:3},(_,n)=>fill(wishes[lang][mood][(wishIndex+n)%wishes[lang][mood].length],name))]));
- if(familyHumor[profile.family])greetings.humor[0]=fill(familyHumor[profile.family][lang],name);
- return greetings;
+// Retain the editorial preview API; greetings themselves are independent of names.
+export function greetingsForName(_profile,requested='en',variant=0){
+ return Object.fromEntries(Object.entries(greetingsForLanguage(requested)).map(([mood,copies])=>[mood,Array.from({length:3},(_,n)=>copies[(variant+n)%copies.length])]));
 }
 export function describeName(profile,requested='en',variant=0,profiles=null){
  const lang=LANGUAGES.includes(requested)?requested:'en',i=LANGUAGES.indexOf(lang),seed=hash(nameIdentity(profile.name)),name=profile.name;
