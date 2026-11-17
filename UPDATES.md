@@ -34,7 +34,7 @@ Missing prices are retained as missing. FuelEst prices are community submissions
 | `horoscope` | Once per Riga calendar day | Local validated cache for the current day and tomorrow | No external model request; no editorial changes |
 | `directories` | Every 7 days | Circle K, Virši, Viada, Straujupīte, KOOL and Neste station addresses, coordinates and fuel types | Price pages; successful location refreshes never re-date a price |
 | `fuel_archive` | Every 7 days | European Commission Weekly Oil Bulletin national averages | Individual station prices |
-| `commodity_archive` | Once per Riga calendar month | World Bank monthly gas/gold history | Live quotes |
+| `commodity_archive` | Once per Riga calendar month | World Bank monthly gas history | Live quotes |
 | `nameday_statistics` | Once per Riga calendar month | Latest PMLP name-count snapshot | Name-history research and calendar edits |
 
 LEA and FuelEst include station addresses/coordinates in their price responses. Those fields are reused; no additional station-catalogue request is needed. KOOL requires its homepage to discover the price-page URL, but frequent refreshes do not fetch its station list or Google map. Rietumu publishes its single station together with its diesel quote. Cached station lists can be re-exported locally without downloading them again.

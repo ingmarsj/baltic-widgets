@@ -167,7 +167,7 @@ These are the implemented resource families, not a promise that every source cur
 | Currencies | [ECB](https://www.ecb.europa.eu/), daily EUR reference rates and history | `parsers/markets.mjs` |
 | Gold | [NBP API](https://api.nbp.pl/), with exchange-rate conversion | `parsers/markets.mjs` |
 | Bitcoin | [Coin Metrics Community API](https://community-api.coinmetrics.io/), daily history | `parsers/markets.mjs` |
-| Monthly commodity benchmarks | [World Bank Pink Sheet](https://www.worldbank.org/en/research/commodity-markets) | `parsers/markets.mjs` |
+| Monthly European gas benchmark | [World Bank Pink Sheet](https://www.worldbank.org/en/research/commodity-markets) | `parsers/markets.mjs` |
 | Euribor | [Bank of Finland](https://www.suomenpankki.fi/en/statistics/interest-rates-and-exchange-rates/euribor-rates/), delayed EMMI fixings | `parsers/euribor.mjs` |
 | Horoscope astronomy | [Astronomy Engine](https://github.com/cosinekitty/astronomy), local calculations; no live text-provider request | `parsers/horoscope.mjs` |
 | Name origins/history | User-supplied country calendars; Wiktionary, VLKK, Personvārdu izpētnieks/Siliņš references, Latvian Language Agency and reviewed name-family references | Name-day parser, history and research modules |
