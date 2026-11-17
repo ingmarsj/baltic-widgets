@@ -1,0 +1,63 @@
+{
+  "round": 173,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.143",
+  "scope": {
+    "start": "2027-04-02",
+    "end": "2027-05-01",
+    "dates": 30,
+    "calendar_memberships": 718,
+    "under_five_profiles_before": 570,
+    "new_people": 20,
+    "changed_local_profiles": 17
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 10,
+      "profiles_with_exact_namesakes": 1800,
+      "profiles_with_local_bearers": 1073,
+      "profiles_with_at_least_five": 361,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 4,
+      "profiles_with_exact_namesakes": 729,
+      "profiles_with_local_bearers": 680,
+      "profiles_with_at_least_five": 358,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 6,
+      "profiles_with_exact_namesakes": 1113,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 549,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "compiled_history_deltas": [],
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": 165,
+    "failures": 0,
+    "build": "passed",
+    "browser": "Passed LV Valda (4 April), LT Kristijonas (3 April) and EE Eneli (2 April), with new local exact bearers and five distinct birthday people verified in the accessibility tree; screenshot checked. Ignored dist-only clock fixture; no production date override."
+  }
+}

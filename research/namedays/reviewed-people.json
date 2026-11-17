@@ -20283,6 +20283,607 @@
     }
    ],
    "claim": "Lithuanian National Philharmonic’s own Vilnius Festival 2003 introduction explicitly includes soloist Ūla Ulijona Žebriūnaitė among Lithuanian performers with the Lithuanian National Symphony Orchestra. Country association is documented representative professional musical activity; Ūla is a separate first given name."
+  },
+  {
+   "id": "reviewed:daira-abolina",
+   "name": "Daira Āboliņa",
+   "labels": {
+    "lv": "Daira Āboliņa"
+   },
+   "aliases": [
+    "Daira"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "public_figure",
+   "round": 173,
+   "source": {
+    "url": "https://www.kinoraksti.lv/domas/elizabetes-iela/daira-abolina-splendid-palace-ir-notikumu-kinoteatris-883",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-DAIRA-ABOLINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-DAIRA-ABOLINA",
+     "url": "https://www.kinoraksti.lv/domas/elizabetes-iela/daira-abolina-splendid-palace-ir-notikumu-kinoteatris-883",
+     "claim": "Film journal Kino Raksti’s own interview identifies Daira Āboliņa as artistic director of Riga’s Splendid Palace cinema and documents her professional programming work. Country association is local cultural activity, not an inferred citizenship or a claim that she directs films."
+    }
+   ],
+   "claim": "Film journal Kino Raksti’s own interview identifies Daira Āboliņa as artistic director of Riga’s Splendid Palace cinema and documents her professional programming work. Country association is local cultural activity, not an inferred citizenship or a claim that she directs films."
+  },
+  {
+   "id": "reviewed:valda-melgalve",
+   "name": "Valda Melgalve",
+   "labels": {
+    "lv": "Valda Melgalve"
+   },
+   "aliases": [
+    "Valda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 173,
+   "source": {
+    "url": "https://www.literatura.lv/personas/valda-melgalve",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VALDA-MELGALVE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-VALDA-MELGALVE",
+     "url": "https://www.literatura.lv/personas/valda-melgalve",
+     "claim": "The national literature biography identifies writer and translator Valda Melgalve, born in Riga in 1955, and her published short prose and literary translations."
+    }
+   ],
+   "claim": "The national literature biography identifies writer and translator Valda Melgalve, born in Riga in 1955, and her published short prose and literary translations."
+  },
+  {
+   "id": "reviewed:valda-salmina",
+   "name": "Valda Salmiņa",
+   "labels": {
+    "lv": "Valda Salmiņa"
+   },
+   "aliases": [
+    "Valda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 173,
+   "source": {
+    "url": "https://www.literatura.lv/personas/valda-salmina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VALDA-SALMINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-VALDA-SALMINA",
+     "url": "https://www.literatura.lv/personas/valda-salmina",
+     "claim": "The national literature biography identifies translator Valda Salmiņa, born in Saldus in 1962, and her national literary-award nomination for translation from Old Armenian. Writer is the existing general literary-role category."
+    }
+   ],
+   "claim": "The national literature biography identifies translator Valda Salmiņa, born in Saldus in 1962, and her national literary-award nomination for translation from Old Armenian. Writer is the existing general literary-role category."
+  },
+  {
+   "id": "reviewed:eneken-maripuu",
+   "name": "Eneken Maripuu",
+   "labels": {
+    "et": "Eneken Maripuu"
+   },
+   "aliases": [
+    "Eneken"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 173,
+   "source": {
+    "url": "https://kultuur.err.ee/1609276386/skulptor-ja-raamatukoguhoidja-eneken-maripuu-tegelen-igapaevase-vaikese-noiakunstiga",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ENEKEN-MARIPUU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ENEKEN-MARIPUU",
+     "url": "https://kultuur.err.ee/1609276386/skulptor-ja-raamatukoguhoidja-eneken-maripuu-tegelen-igapaevase-vaikese-noiakunstiga",
+     "claim": "Estonian public broadcasting’s own interview identifies sculptor and librarian Eneken Maripuu and discusses her sculpture practice and local cultural work. The association rests on documented Estonian professional art activity."
+    }
+   ],
+   "claim": "Estonian public broadcasting’s own interview identifies sculptor and librarian Eneken Maripuu and discusses her sculpture practice and local cultural work. The association rests on documented Estonian professional art activity."
+  },
+  {
+   "id": "reviewed:herta-krauja",
+   "name": "Herta Krauja",
+   "labels": {
+    "lv": "Herta Krauja"
+   },
+   "aliases": [
+    "Herta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 173,
+   "source": {
+    "url": "https://www.literatura.lv/personas/herta-krauja",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-HERTA-KRAUJA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-HERTA-KRAUJA",
+     "url": "https://www.literatura.lv/personas/herta-krauja",
+     "claim": "The national literature biography identifies poet Herta Krauja, born in Dobele parish in 1900, and her poetry collections and Latvian diaspora journalism. The birth surname differs, but the first given name Herta is retained."
+    }
+   ],
+   "claim": "The national literature biography identifies poet Herta Krauja, born in Dobele parish in 1900, and her poetry collections and Latvian diaspora journalism. The birth surname differs, but the first given name Herta is retained."
+  },
+  {
+   "id": "reviewed:herta-luize-burmeistere",
+   "name": "Herta Luīze Burmeistere",
+   "labels": {
+    "lv": "Herta Luīze Burmeistere"
+   },
+   "aliases": [
+    "Herta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 173,
+   "source": {
+    "url": "https://www.literatura.lv/personas/herta-luize-burmeistere",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-HERTA-LUIZE-BURMEISTERE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-HERTA-LUIZE-BURMEISTERE",
+     "url": "https://www.literatura.lv/personas/herta-luize-burmeistere",
+     "claim": "The national literature biography identifies writer, reciter and actor Herta Luīze Burmeistere, documents her Riga theatre debut in 1925 and local cultural career. Herta is the separate first given name; country association is geographic/professional, not nationality inferred from spelling."
+    }
+   ],
+   "claim": "The national literature biography identifies writer, reciter and actor Herta Luīze Burmeistere, documents her Riga theatre debut in 1925 and local cultural career. Herta is the separate first given name; country association is geographic/professional, not nationality inferred from spelling."
+  },
+  {
+   "id": "reviewed:vesma-kokle-livina",
+   "name": "Vēsma Kokle-Līviņa",
+   "labels": {
+    "lv": "Vēsma Kokle-Līviņa"
+   },
+   "aliases": [
+    "Vēsma"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 173,
+   "source": {
+    "url": "https://www.literatura.lv/personas/vesma-kokle-livina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-VESMA-KOKLE-LIVINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-VESMA-KOKLE-LIVINA",
+     "url": "https://www.literatura.lv/personas/vesma-kokle-livina",
+     "claim": "The national literature biography identifies writer Vēsma Kokle-Līviņa, born in Beja parish in 1931, and her published poetry and prose and long cultural career in Alūksne."
+    }
+   ],
+   "claim": "The national literature biography identifies writer Vēsma Kokle-Līviņa, born in Beja parish in 1931, and her published poetry and prose and long cultural career in Alūksne."
+  },
+  {
+   "id": "reviewed:elona-lubyte",
+   "name": "Elona Lubytė",
+   "labels": {
+    "lt": "Elona Lubytė"
+   },
+   "aliases": [
+    "Elona"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "scientist",
+   "round": 173,
+   "source": {
+    "url": "https://www.vda.lt/lt/menas-mokslas/meno-ir-mokslo-skyrius/elona-lubyte",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ELONA-LUBYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-ELONA-LUBYTE",
+     "url": "https://www.vda.lt/lt/menas-mokslas/meno-ir-mokslo-skyrius/elona-lubyte",
+     "claim": "Vilnius Academy of Arts’ own biography identifies professor and art researcher Elona Lubytė, born in Vilnius in 1964, and her art historical scholarship and museum work."
+    }
+   ],
+   "claim": "Vilnius Academy of Arts’ own biography identifies professor and art researcher Elona Lubytė, born in Vilnius in 1964, and her art historical scholarship and museum work."
+  },
+  {
+   "id": "reviewed:kristijonas-lucinskas",
+   "name": "Kristijonas Lučinskas",
+   "labels": {
+    "lt": "Kristijonas Lučinskas"
+   },
+   "aliases": [
+    "Kristijonas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 173,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/elektronine/kompozitoriai-atlikejai/driezhas/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-KRISTIJONAS-LUCINSKAS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-KRISTIJONAS-LUCINSKAS",
+     "url": "https://www.mic.lt/lt/baze/elektronine/kompozitoriai-atlikejai/driezhas/",
+     "claim": "Music Information Centre Lithuania’s own biography identifies composer, performer and sound designer Kristijonas Lučinskas as the founder of Driezhas in Klaipėda in 1998. Country association is documented professional musical work, not an inferred citizenship."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s own biography identifies composer, performer and sound designer Kristijonas Lučinskas as the founder of Driezhas in Klaipėda in 1998. Country association is documented professional musical work, not an inferred citizenship."
+  },
+  {
+   "id": "reviewed:vykintas-baltakas",
+   "name": "Vykintas Baltakas",
+   "labels": {
+    "lt": "Vykintas Baltakas"
+   },
+   "aliases": [
+    "Vykintas"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 173,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/baltakas/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-VYKINTAS-BALTAKAS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-VYKINTAS-BALTAKAS",
+     "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/baltakas/",
+     "claim": "Music Information Centre Lithuania’s composer biography identifies Vykintas Baltakas, born in 1972, his Lithuanian composition/conducting studies and local ensembles, followed by his international career. The source explicitly identifies a Lithuanian composer; no claim of current Lithuanian residence is made."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s composer biography identifies Vykintas Baltakas, born in 1972, his Lithuanian composition/conducting studies and local ensembles, followed by his international career. The source explicitly identifies a Lithuanian composer; no claim of current Lithuanian residence is made."
+  },
+  {
+   "id": "reviewed:arp-karm",
+   "name": "Arp Karm",
+   "labels": {
+    "et": "Arp Karm"
+   },
+   "aliases": [
+    "Arp"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 173,
+   "source": {
+    "url": "https://www.erm.ee/en/people/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ARP-KARM"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ARP-KARM",
+     "url": "https://www.erm.ee/en/people/",
+     "claim": "Estonian National Museum’s own professional directory identifies photographer Arp Karm in its Photo Studio. Association is documented national-museum professional photography, not citizenship inferred from spelling."
+    }
+   ],
+   "claim": "Estonian National Museum’s own professional directory identifies photographer Arp Karm in its Photo Studio. Association is documented national-museum professional photography, not citizenship inferred from spelling."
+  },
+  {
+   "id": "reviewed:eneli-valge",
+   "name": "Eneli Valge",
+   "labels": {
+    "et": "Eneli Valge"
+   },
+   "aliases": [
+    "Eneli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 173,
+   "source": {
+    "url": "https://www.eaa.ee/en/69th-annual-exhibition-tartu-art-and-worlds-first-exhibition-multisurrealism-tartu-art-house",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ENELI-VALGE"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ENELI-VALGE",
+     "url": "https://www.eaa.ee/en/69th-annual-exhibition-tartu-art-and-worlds-first-exhibition-multisurrealism-tartu-art-house",
+     "claim": "Estonian Artists Association’s own announcement includes artist Eneli Valge among the selected participants in the 69th Annual Exhibition of Tartu Art. The national professional art exhibition supports local activity, not a legal citizenship claim."
+    }
+   ],
+   "claim": "Estonian Artists Association’s own announcement includes artist Eneli Valge among the selected participants in the 69th Annual Exhibition of Tartu Art. The national professional art exhibition supports local activity, not a legal citizenship claim."
+  },
+  {
+   "id": "reviewed:eneli-luiga",
+   "name": "Eneli Luiga",
+   "labels": {
+    "et": "Eneli Luiga"
+   },
+   "aliases": [
+    "Eneli"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 173,
+   "source": {
+    "url": "https://www.eaa.ee/eesti-maalikunstnike-liidu-naituste-sari-virtuoosid-viljad-vorsed",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ENELI-LUIGA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ENELI-LUIGA",
+     "url": "https://www.eaa.ee/eesti-maalikunstnike-liidu-naituste-sari-virtuoosid-viljad-vorsed",
+     "claim": "Estonian Artists Association’s own announcement identifies Eneli Luiga as curator of its painting exhibition series. The artist category covers professional visual art/curatorial work and does not claim she painted the exhibited works; association is local professional activity."
+    }
+   ],
+   "claim": "Estonian Artists Association’s own announcement identifies Eneli Luiga as curator of its painting exhibition series. The artist category covers professional visual art/curatorial work and does not claim she painted the exhibited works; association is local professional activity."
+  },
+  {
+   "id": "reviewed:zinta-aistara",
+   "name": "Zinta Aistara",
+   "labels": {
+    "lv": "Zinta Aistara"
+   },
+   "aliases": [
+    "Zinta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 173,
+   "source": {
+    "url": "https://www.literatura.lv/personas/zinta-aistara",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ZINTA-AISTARA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ZINTA-AISTARA",
+     "url": "https://www.literatura.lv/personas/zinta-aistara",
+     "claim": "The national literature biography identifies Latvian diaspora writer Zinta Aistara, born in Chicago, and her published Latvian poetry/prose, Jaunsudrabiņš prose award and 1999 public presentation in Jelgava. The association is documented Latvian literary/cultural activity, not Latvian birthplace or inferred citizenship."
+    }
+   ],
+   "claim": "The national literature biography identifies Latvian diaspora writer Zinta Aistara, born in Chicago, and her published Latvian poetry/prose, Jaunsudrabiņš prose award and 1999 public presentation in Jelgava. The association is documented Latvian literary/cultural activity, not Latvian birthplace or inferred citizenship."
+  },
+  {
+   "id": "reviewed:laine-kristberga",
+   "name": "Laine Kristberga",
+   "labels": {
+    "lv": "Laine Kristberga"
+   },
+   "aliases": [
+    "Laine"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 173,
+   "source": {
+    "url": "https://research.lu.lv/lv/persons/laine-kristberga/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LAINE-KRISTBERGA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LAINE-KRISTBERGA",
+     "url": "https://research.lu.lv/lv/persons/laine-kristberga/",
+     "claim": "The University of Latvia research directory identifies researcher and associate professor Laine Kristberga in its Literature, Folklore and Art Institute and Art and Technology department. Country association is documented professional research work."
+    }
+   ],
+   "claim": "The University of Latvia research directory identifies researcher and associate professor Laine Kristberga in its Literature, Folklore and Art Institute and Art and Technology department. Country association is documented professional research work."
+  },
+  {
+   "id": "Q4088487",
+   "name": "Liāna Blumfelde",
+   "labels": {
+    "lv": "Liāna Blumfelde"
+   },
+   "aliases": [
+    "Liāna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 173,
+   "source": {
+    "url": "https://www.literatura.lv/personas/liana-blumfelde",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LIANA-BLUMFELDE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "P19/P17",
+     "birthplace": "http://www.wikidata.org/entity/Q1773",
+     "url": "https://www.wikidata.org/wiki/Q4088487",
+     "source_id": "PEOPLE-WD-BORN118-LV",
+     "license": "CC0"
+    }
+   ],
+   "claim": "The national literature biography identifies translator and literary critic Liāna Blumfelde. The separately cached native-label P19/P17 record establishes Riga birthplace as geographic association, not legal citizenship. No unsupported museum-director attribution is used."
+  },
+  {
+   "id": "reviewed:merje-kagu",
+   "name": "Merje Kägu",
+   "labels": {
+    "et": "Merje Kägu"
+   },
+   "aliases": [
+    "Merje"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 173,
+   "source": {
+    "url": "https://www.jazz.ee/kas-jargmine-nimi-on-sinu-oma-avanes-kandideerimine-tiit-pauluse-nimelise-noore-kitarrimangija-preemiale/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-MERJE-KAGU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-MERJE-KAGU",
+     "url": "https://www.jazz.ee/kas-jargmine-nimi-on-sinu-oma-avanes-kandideerimine-tiit-pauluse-nimelise-noore-kitarrimangija-preemiale/",
+     "claim": "Estonian Jazz Union’s own award announcement identifies Merje Kägu among Estonian guitarists who have received the Tiit Paulus young guitarist prize. This is professional musical recognition and explicit local association, not an inference from the name."
+    }
+   ],
+   "claim": "Estonian Jazz Union’s own award announcement identifies Merje Kägu among Estonian guitarists who have received the Tiit Paulus young guitarist prize. This is professional musical recognition and explicit local association, not an inference from the name."
+  },
+  {
+   "id": "reviewed:skaidra-jancaite",
+   "name": "Skaidra Jančaitė",
+   "labels": {
+    "lt": "Skaidra Jančaitė"
+   },
+   "aliases": [
+    "Skaidra"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 173,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/irasu-leidiniai/228/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-SKAIDRA-JANCAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-SKAIDRA-JANCAITE",
+     "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/irasu-leidiniai/228/",
+     "claim": "Music Information Centre Lithuania’s own catalogue credits soprano Skaidra Jančaitė on a 2004 Lithuanian National Philharmonic recording. The record documents professional national music activity, not inferred nationality or unverified birthplace."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s own catalogue credits soprano Skaidra Jančaitė on a 2004 Lithuanian National Philharmonic recording. The record documents professional national music activity, not inferred nationality or unverified birthplace."
+  },
+  {
+   "id": "reviewed:ritums-ivanovs",
+   "name": "Ritums Ivanovs",
+   "labels": {
+    "lv": "Ritums Ivanovs"
+   },
+   "aliases": [
+    "Ritums"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 173,
+   "source": {
+    "url": "https://www.bastejs.lv/lv/makslinieki/ritums-ivanovs-lv/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-RITUMS-IVANOVS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-RITUMS-IVANOVS",
+     "url": "https://www.bastejs.lv/lv/makslinieki/ritums-ivanovs-lv/",
+     "claim": "The representing gallery Bastejs identifies painter Ritums Ivanovs, born in Cēsis, Latvia, in 1968, and documents his artistic training and solo exhibitions. Geographic birthplace supports the Latvian association; his exact given name is Ritums."
+    }
+   ],
+   "claim": "The representing gallery Bastejs identifies painter Ritums Ivanovs, born in Cēsis, Latvia, in 1968, and documents his artistic training and solo exhibitions. Geographic birthplace supports the Latvian association; his exact given name is Ritums."
+  },
+  {
+   "id": "reviewed:olivia-nogisto",
+   "name": "Olivia Nõgisto",
+   "labels": {
+    "et": "Olivia Nõgisto"
+   },
+   "aliases": [
+    "Olivia"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 173,
+   "source": {
+    "url": "https://eaa.ee/node/1437",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OLIVIA-NOGISTO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OLIVIA-NOGISTO",
+     "url": "https://eaa.ee/node/1437",
+     "claim": "Estonian Artists Association’s own directory of members and resident artists’ shops identifies Olivia Nõgisto under illustration. Association rests on documented professional local illustration activity, not inferred birthplace or citizenship."
+    }
+   ],
+   "claim": "Estonian Artists Association’s own directory of members and resident artists’ shops identifies Olivia Nõgisto under illustration. Association rests on documented professional local illustration activity, not inferred birthplace or citizenship."
   }
  ]
 }
