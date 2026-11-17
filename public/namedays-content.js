@@ -7,242 +7,11 @@ import {plainHistory,plainHypothesis} from './namedays-plain.js';
 import {finalWording} from './namedays-plain-r163.js';
 import {readerParagraph} from './namedays-reader.js';
 import {readerOpening} from './namedays-reader-r168.js';
-export const WRITER_VERSION='namedays-1.9.150';
+export const WRITER_VERSION='namedays-1.10.0';
 export function nameIdentity(name){return name.normalize('NFD').replace(/(\p{Script=Latin})\p{M}+/gu,'$1').normalize('NFC').replace(/\.$/,'').toLowerCase();}
 export const LANGUAGES=['lv','ru','en','lt','et'];
-const bundles={
- "ru": {
-  "title": "Именины",
-  "yesterday": "Вчера",
-  "today": "Сегодня",
-  "tomorrow": "Завтра",
-  "history": "История",
-  "people": "Знаменитые люди",
-  "wish": "Поздравить",
-  "serious": "От души",
-  "humor": "С юмором",
-  "close": "Закрыть",
-  "all": "Все имена",
-  "more": "Ещё {n}",
-  "loading": "Загружаем имена…",
-  "error": "Не удалось загрузить именины.",
-  "retry": "Попробовать снова",
-  "empty": "В календаре нет имён на эту дату.",
-  "country": "Календарь",
-  "lv": "Латвия",
-  "lt": "Литва",
-  "ee": "Эстония",
-  "author": "Исторический контекст",
-  "documented": "История имени",
-  "origin": "У имени {name} {origins} корни.",
-  "related": "Это имя также связывают с именами {names}.",
-  "local": "Местные тёзки",
-  "international": "Международные тёзки",
-  "variant": "Родственная форма имени",
-  "noPeople": "Проверенных биографий для этого имени и дня пока нет.",
-  "copy": "Скопировать",
-  "copied": "Скопировано",
-  "copyError": "Выдели и скопируй текст поздравления.",
-  "another": "Ещё вариант",
-  "calendarDate": "Дата",
-  "inYear": "{year} год",
-  "century": "{n} век",
-  "countryNote": "Имена соответствуют выбранной стране; язык текста меняется отдельно.",
-  "namesake": "Среди известных тёзок — {role} {person}.",
-  "relatedNamesake": "Родственную форму имени носили, например, {person}.",
-  "wordRoots": "В его основе — {words}.",
-  "possibleRelated": "Имя может быть связано с {names}.",
-  "archivalVariant": "В одном архивном описании один и тот же человек назван {name} и {names}."
-,
-  "birthdayPeople": "Родились в этот день",
-  "bornOn": "Дата рождения: {date} {year}"
- },
- "en": {
-  "title": "Name day",
-  "yesterday": "Yesterday",
-  "today": "Today",
-  "tomorrow": "Tomorrow",
-  "history": "History",
-  "people": "Famous people",
-  "wish": "Celebrate",
-  "serious": "Heartfelt",
-  "humor": "Funny",
-  "close": "Close",
-  "all": "All names",
-  "more": "{n} more",
-  "loading": "Loading names…",
-  "error": "Could not load name days.",
-  "retry": "Try again",
-  "empty": "No names are listed for this date.",
-  "country": "Calendar",
-  "lv": "Latvia",
-  "lt": "Lithuania",
-  "ee": "Estonia",
-  "author": "Historical context",
-  "documented": "The name’s history",
-  "origin": "{name} has {origins} roots.",
-  "related": "The name is also linked with {names}.",
-  "local": "Local namesakes",
-  "international": "International namesakes",
-  "variant": "A related form of the name",
-  "noPeople": "No verified biographies for this name and date yet.",
-  "copy": "Copy",
-  "copied": "Copied",
-  "copyError": "Select and copy the greeting text.",
-  "another": "Another version",
-  "calendarDate": "Date",
-  "inYear": "{year}",
-  "century": "{n}th century",
-  "countryNote": "Names follow the selected country; text language is independent.",
-  "namesake": "Famous namesakes include the {role} {person}.",
-  "relatedNamesake": "A related form of the name was borne by {person}.",
-  "wordRoots": "Its roots include {words}.",
-  "possibleRelated": "The name may be connected with {names}.",
-  "archivalVariant": "One archive description uses both {name} and {names} for the same person."
-,
-  "birthdayPeople": "Born on this day",
-  "bornOn": "Born: {date} {year}"
- },
- "lv": {
-  "title": "Vārda diena",
-  "yesterday": "Vakar",
-  "today": "Šodien",
-  "tomorrow": "Rīt",
-  "history": "Vēsture",
-  "people": "Slaveni cilvēki",
-  "wish": "Apsveikt",
-  "serious": "No sirds",
-  "humor": "Ar humoru",
-  "close": "Aizvērt",
-  "all": "Visi vārdi",
-  "more": "Vēl {n}",
-  "loading": "Ielādē vārdus…",
-  "error": "Neizdevās ielādēt vārdadienas.",
-  "retry": "Mēģināt vēlreiz",
-  "empty": "Šim datumam kalendārā nav vārdu.",
-  "country": "Kalendārs",
-  "lv": "Latvija",
-  "lt": "Lietuva",
-  "ee": "Igaunija",
-  "author": "Vēsturiskais konteksts",
-  "documented": "Vārda vēsture",
-  "origin": "Vārdam {name} ir {origins} saknes.",
-  "related": "Šo vārdu saista arī ar vārdiem {names}.",
-  "local": "Vietējie vārdabrāļi",
-  "international": "Starptautiskie vārdabrāļi",
-  "variant": "Radniecīga vārda forma",
-  "noPeople": "Šim vārdam un datumam pārbaudītu biogrāfiju vēl nav.",
-  "copy": "Kopēt",
-  "copied": "Nokopēts",
-  "copyError": "Iezīmē un nokopē apsveikuma tekstu.",
-  "another": "Cits variants",
-  "calendarDate": "Datums",
-  "inYear": "{year}. gads",
-  "century": "{n}. gadsimts",
-  "countryNote": "Vārdi atbilst izvēlētajai valstij; teksta valoda ir neatkarīga.",
-  "namesake": "Starp pazīstamiem vārdabrāļiem ir {role} {person}.",
-  "relatedNamesake": "Radniecīgu vārda formu nesa, piemēram, {person}.",
-  "wordRoots": "Tā pamatā ir {words}.",
-  "possibleRelated": "Vārds var būt saistīts ar {names}.",
-  "archivalVariant": "Vienā arhīva aprakstā viens un tas pats cilvēks minēts kā {name} un {names}."
-,
-  "birthdayPeople": "Dzimuši šajā dienā",
-  "bornOn": "Dzimšanas datums: {date} {year}"
- },
- "lt": {
-  "title": "Vardadienis",
-  "yesterday": "Vakar",
-  "today": "Šiandien",
-  "tomorrow": "Rytoj",
-  "history": "Istorija",
-  "people": "Žymūs žmonės",
-  "wish": "Pasveikinti",
-  "serious": "Nuoširdžiai",
-  "humor": "Su humoru",
-  "close": "Uždaryti",
-  "all": "Visi vardai",
-  "more": "Dar {n}",
-  "loading": "Įkeliami vardai…",
-  "error": "Nepavyko įkelti vardadienių.",
-  "retry": "Bandyti dar kartą",
-  "empty": "Šiai datai kalendoriuje vardų nėra.",
-  "country": "Kalendorius",
-  "lv": "Latvija",
-  "lt": "Lietuva",
-  "ee": "Estija",
-  "author": "Istorinis kontekstas",
-  "documented": "Vardo istorija",
-  "origin": "Vardas {name} turi {origins} šaknis.",
-  "related": "Šis vardas taip pat siejamas su vardais {names}.",
-  "local": "Vietiniai bendravardžiai",
-  "international": "Tarptautiniai bendravardžiai",
-  "variant": "Gimininga vardo forma",
-  "noPeople": "Šiam vardui ir datai patikrintų biografijų dar nėra.",
-  "copy": "Kopijuoti",
-  "copied": "Nukopijuota",
-  "copyError": "Pažymėk ir nukopijuok sveikinimo tekstą.",
-  "another": "Kitas variantas",
-  "calendarDate": "Data",
-  "inYear": "{year} m.",
-  "century": "{n} a.",
-  "countryNote": "Vardai priklauso pasirinktai šaliai, o teksto kalba pasirenkama atskirai.",
-  "namesake": "Tarp žinomų bendravardžių yra {role} {person}.",
-  "relatedNamesake": "Giminingą vardo formą turėjo, pavyzdžiui, {person}.",
-  "wordRoots": "Vardo šaknys — {words}.",
-  "possibleRelated": "Vardas gali sietis su {names}.",
-  "archivalVariant": "Viename archyvo apraše tas pats žmogus įvardytas kaip {name} ir {names}."
-,
-  "birthdayPeople": "Gimę šią dieną",
-  "bornOn": "Gimimo data: {date} {year}"
- },
- "et": {
-  "title": "Nimepäev",
-  "yesterday": "Eile",
-  "today": "Täna",
-  "tomorrow": "Homme",
-  "history": "Lugu",
-  "people": "Kuulsad inimesed",
-  "wish": "Õnnitle",
-  "serious": "Südamest",
-  "humor": "Huumoriga",
-  "close": "Sulge",
-  "all": "Kõik nimed",
-  "more": "Veel {n}",
-  "loading": "Nimede laadimine…",
-  "error": "Nimepäevade laadimine ebaõnnestus.",
-  "retry": "Proovi uuesti",
-  "empty": "Selle kuupäeva kohta kalendris nimesid pole.",
-  "country": "Kalender",
-  "lv": "Läti",
-  "lt": "Leedu",
-  "ee": "Eesti",
-  "author": "Ajalooline taust",
-  "documented": "Nime ajalugu",
-  "origin": "Nimel {name} on {origins} juured.",
-  "related": "Seda nime seostatakse ka nimedega {names}.",
-  "local": "Kohalikud nimekaimud",
-  "international": "Rahvusvahelised nimekaimud",
-  "variant": "Nime sugulasvorm",
-  "noPeople": "Selle nime ja kuupäeva kohta pole veel kontrollitud elulugusid.",
-  "copy": "Kopeeri",
-  "copied": "Kopeeritud",
-  "copyError": "Vali õnnitluse tekst ja kopeeri see.",
-  "another": "Teine variant",
-  "calendarDate": "Kuupäev",
-  "inYear": "{year}. aasta",
-  "century": "{n}. sajand",
-  "countryNote": "Nimed vastavad valitud riigile, teksti keel on eraldi valik.",
-  "namesake": "Tuntud nimekaimude seas on {role} {person}.",
-  "relatedNamesake": "Sugulasvormi kandis näiteks {person}.",
-  "wordRoots": "Selle taga on {words}.",
-  "possibleRelated": "Nimi võib olla seotud nimedega {names}.",
-  "archivalVariant": "Ühes arhiivikirjelduses kasutatakse sama inimese kohta kujusid {name} ja {names}."
-,
-  "birthdayPeople": "Sündinud sel päeval",
-  "bornOn": "Sünniaeg: {date} {year}"
- }
-};
-export function text(lang,key,values={}){return(bundles[lang]?.[key]??bundles.en[key]??key).replace(/\{(\w+)\}/g,(m,k)=>values[k]??m);}
+import {text} from './namedays-labels.js';
+export {text} from './namedays-labels.js';
 export function hash(value){let h=2166136261;for(const c of value)h=Math.imul(h^c.codePointAt(0),16777619);return h>>>0;}
 const traditions={
  "French": [
@@ -659,6 +428,13 @@ const listFormats=new Map(),dayFormats=new Map();
 const listFormat=lang=>{if(!listFormats.has(lang))listFormats.set(lang,new Intl.ListFormat(lang,{style:"long",type:"conjunction"}));return listFormats.get(lang);};
 const localeForName=lang=>({lv:'lv-LV',ru:'ru-RU',en:'en-GB',lt:'lt-LT',et:'et-EE'}[lang]);
 const REUSE_NOTES={"lv":{"lv":"Vārds {name} sakrīt ar Latvijā lietoto vārdu {source}.","ru":"Имя {name} совпадает с латышским именем {source}.","en":"{name} matches the Latvian name {source}.","lt":"{name} sutampa su Latvijoje vartojamu vardu {source}.","et":"{name} kattub Lätis kasutatava nimega {source}."},"variant":{"lv":"{name} ir vārda {source} rakstības variants.","ru":"{name} — вариант написания имени {source}.","en":"{name} is a spelling variant of {source}.","lt":"{name} – vardo {source} rašybos variantas.","et":"{name} on nime {source} kirjaviisi variant."},"lt":{"lv":"Vārds {name} sakrīt ar Lietuvā lietoto vārdu {source}.","ru":"Имя {name} совпадает с литовским именем {source}.","en":"{name} matches the Lithuanian name {source}.","lt":"{name} sutampa su Lietuvoje vartojamu vardu {source}.","et":"{name} kattub Leedus kasutatava nimega {source}."},"ee":{"lv":"Vārds {name} sakrīt ar Igaunijā lietoto vārdu {source}.","ru":"Имя {name} совпадает с эстонским именем {source}.","en":"{name} matches the Estonian name {source}.","lt":"{name} sutampa su Estijoje vartojamu vardu {source}.","et":"{name} kattub Eestis kasutatava nimega {source}."}};
+export function greetingsForName(profile,requested='en',variant=0){
+ const lang=LANGUAGES.includes(requested)?requested:'en',name=profile.name,seed=hash(nameIdentity(name));
+ const wishIndex=(seed+variant)>>>0;
+ const greetings=Object.fromEntries(['serious','humor'].map(mood=>[mood,Array.from({length:3},(_,n)=>fill(wishes[lang][mood][(wishIndex+n)%wishes[lang][mood].length],name))]));
+ if(familyHumor[profile.family])greetings.humor[0]=fill(familyHumor[profile.family][lang],name);
+ return greetings;
+}
 export function describeName(profile,requested='en',variant=0,profiles=null){
  const lang=LANGUAGES.includes(requested)?requested:'en',i=LANGUAGES.indexOf(lang),seed=hash(nameIdentity(profile.name)),name=profile.name;
  const facts=profile.facts||{},paragraphs=[];
@@ -680,9 +456,7 @@ export function describeName(profile,requested='en',variant=0,profiles=null){
  if(related.length)paragraphs.push(text(lang,'related',{names:listFormat(lang).format(related)}));
  if(facts.possible_related?.length)paragraphs.push(text(lang,'possibleRelated',{names:listFormat(lang).format(facts.possible_related.slice(0,3))}));
  if(facts.archival_variants?.length)paragraphs.push(text(lang,'archivalVariant',{name:facts.archival_form||name,names:listFormat(lang).format(facts.archival_variants)}));
- const wishIndex=(seed+variant)>>>0;
- const greetings=Object.fromEntries(['serious','humor'].map(mood=>[mood,Array.from({length:3},(_,n)=>fill(wishes[lang][mood][(wishIndex+n)%wishes[lang][mood].length],name))]));
- if(familyHumor[profile.family])greetings.humor[0]=fill(familyHumor[profile.family][lang],name);
+ const greetings=greetingsForName(profile,lang,variant);
  const reuseNote=reuse?REUSE_NOTES[reuse.country===profile.country?'variant':reuse.country][lang].replaceAll('{name}',name).replaceAll('{source}',reuse.source):'';
  const plain=reviewed?plainHistory(reuse?reuse.source:name,reuse?reuse.country:profile.country,reviewed):null;
  const crossTrim=reuse&&profile.country!=='lv'&&reuse.country!==profile.country;

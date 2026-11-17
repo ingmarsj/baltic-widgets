@@ -1,0 +1,20 @@
+{
+  "round": 181,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.10.0",
+  "scope": "Delivery architecture and Namesakes/Birthdays tab separation. No new biography or history research.",
+  "source_ids": [],
+  "records": [],
+  "decisions": [
+    "One prepared month/day JSON per language and country; complete 366-day export generated in dist only, never committed.",
+    "Load today for the selected country/language; load adjacent days or another country only when chosen.",
+    "Namesakes contains exact local/international given-name bearers only. Birthdays is independent of the selected name.",
+    "Birthday selection belongs to a country/day; duplicate it in every country JSON so future local ranking may differ. Current fame ranking remains unchanged.",
+    "Retain all annual profiles, birthday candidates, population snapshots, provenance, private cache, notes and generated research queues."
+  ],
+  "continuation": {
+    "next_namesake_date": "08-02",
+    "next_round": 182,
+    "history_queue": "Unchanged; use NAMEDAYS_BACKLOG.md separately."
+  }
+}

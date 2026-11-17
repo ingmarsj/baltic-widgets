@@ -22,7 +22,8 @@
 .nameday-names{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:16px}
 .nameday-name{font-size:12px;line-height:18px;max-width:100%;overflow-wrap:anywhere;padding:4px 9px;border:1px solid var(--portal-border-secondary,var(--line,light-dark(#e8e8ed,#3d3e44)));border-radius:20px;background:transparent;color:inherit}
 .nameday-name[aria-pressed=true]{background:light-dark(#fbefef,#402a2d);border-color:transparent;color:light-dark(#b62528,#ed929b)}
-.nameday-tabs{display:flex;gap:17px;border-bottom:1px solid var(--portal-border-secondary,var(--line,light-dark(#e8e8ed,#3d3e44)));margin-bottom:14px}
+.nameday-tabs{display:flex;gap:12px;border-bottom:1px solid var(--portal-border-secondary,var(--line,light-dark(#e8e8ed,#3d3e44)));margin-bottom:14px}
+.nameday-tabs button{min-width:0;flex:1;text-align:left;overflow-wrap:normal}
 .nameday-tabs button{font-size:12px;line-height:20px;background:transparent;color:var(--portal-text-secondary,var(--secondary,light-dark(#808084,#a0a0a8)));border:0;border-bottom:2px solid transparent;padding:0 0 8px}
 .nameday-tabs button[aria-selected=true]{color:inherit;border-bottom-color:light-dark(#b62528,#ed929b)}
 .nameday-content{font-size:13px;line-height:1.65;min-height:130px;overflow-wrap:anywhere}

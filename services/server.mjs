@@ -1,4 +1,5 @@
 import {runPlannedUpdates} from './update-runner.mjs';
+import {createNamedayDayStore} from './nameday-day-store.mjs';
 import {initializeHoroscope,horoscopeData,calendarDate} from '../parsers/horoscope.mjs';
 import http from 'node:http';
 import {initializeMarkets,exchangeData} from '../parsers/markets.mjs';
@@ -13,6 +14,7 @@ import { initializeElectricity, electricityData } from '../parsers/electricity.m
 const project = fileURLToPath(new URL('../', import.meta.url));
 const dataDir = path.resolve(process.env.DATA_DIR || path.join(project, 'var'));
 const publicDir = path.resolve(process.env.PUBLIC_DIR || path.join(project, 'public'));
+const namedayDay=createNamedayDayStore(path.join(publicDir,'data','namedays'));
 const interval = Number(process.env.COLLECT_INTERVAL_HOURS || 6);
 const port = Number(process.env.PORT || 8080), host = process.env.HOST || '0.0.0.0';
 if (!(interval >= 6 && interval <= 168) || !(port >= 1 && port <= 65535)) throw new Error('Invalid runtime configuration');
@@ -74,6 +76,11 @@ const server = http.createServer(async (req, res) => {
   try {
     if (!['GET', 'HEAD'].includes(req.method)) { res.writeHead(405).end(); return; }
     const url = new URL(req.url, 'http://localhost');
+    const namedayPath=/^\/data\/namedays\/(lv|lt|et|ru|en)\/(lv|lt|ee)\/(\d\d-\d\d)\.json$/.exec(url.pathname);
+    if(namedayPath){
+      try{return json(res,await namedayDay(namedayPath[2],namedayPath[1],namedayPath[3]));}
+      catch(error){if(error.message.startsWith('Invalid'))return json(res,{error:'Invalid name-day request'},400);throw error;}
+    }
     const market = url.searchParams.get('market') || 'LV';
     const localizedPath=/^\/data\/(lv|lt|et|ru|en)\/(.+)$/.exec(url.pathname);
     const lang=url.searchParams.get('lang') || localizedPath?.[1] || 'lv';

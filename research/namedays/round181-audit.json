@@ -1,0 +1,24 @@
+{
+  "round": 181,
+  "writer_version": "namedays-1.10.0",
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "retained_people_links": 8520,
+      "facts_histories_and_memberships_preserved": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "retained_people_links": 4342,
+      "facts_histories_and_memberships_preserved": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "retained_people_links": 7456,
+      "facts_histories_and_memberships_preserved": true
+    }
+  },
+  "validation": {
+    "research_preservation": "passed: every profile, biography, historical fact, edited history in five languages and calendar membership equals round 180"
+  }
+}

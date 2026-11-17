@@ -1,10 +1,12 @@
 # Name-day work: start here
 
-This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 17 November 2026, after round 180 (three-month local exact namesake follow-up, 2 May–1 August). Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
+This is the maintained task entry point. Read it before continuing name-day work; conversation history is not required. Last reconciled: 17 November 2026, after round 181 (day-delivery architecture and separate Namesakes/Birthdays tabs). Continue on `codex/namedays-round4`. The portable application is this directory (`github-public/`); workspace-root copies are separate legacy files.
 
 ## Active priority: local famous exact namesakes
 
 Continue from **2 August**, after the completed round 180 three-month follow-up through 1 August. Publish each validated batch to main as authorized by the user.
+
+Round 181 changes delivery, not research content: one prepared JSON per day/language/country, separate Namesakes and Birthdays tabs, and country-owned birthday selections duplicated into each day payload. All annual editorial inputs, provenance and open research queues are retained. The next namesake date is still **2 August**. See [delivery rules](NAMEDAYS.md#ready-to-render-day-delivery-round-181).
 
 **Calendar-cycle status:** the first calendar-order closure pass was completed in rounds 120–128. The later local exact namesake follow-up (round 169 onward) completed its first full calendar cycle during round 178. Current work revisits remaining under-five gaps with new targeted sources; broad discovery runs are exhausted and must not be restarted. A completed cycle does not mean every rare name has five bearers or a verified history.
 
@@ -267,7 +269,7 @@ Paths below are relative to this repository unless marked workspace-root:
 | Round 178 three-month namesake follow-up | `research/namedays/round178-notes.json`, `round178-audit.json`; private `queue178.json`, `cache178/`, `accepted178.json`, `people-before178/`, `audit178.mjs` | 2 November–1 February; next 2 February. |
 | Round 179 three-month namesake follow-up | `research/namedays/round179-notes.json`, `round179-audit.json`; private `queue179.json`, `cache179/`, `accepted179.json`, `people-before179/`, `audit179.mjs` | 2 February–1 May; next 2 May. |
 | Round 180 three-month namesake follow-up | `research/namedays/round180-notes.json`, `round180-audit.json`; private `queue180.json`, `cache180/`, `accepted180.json`, `people-before180/`, `audit180.mjs` | 2 May–1 August; next 2 August. |
-| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 181 unless another session has already created it; inspect files first. |
+| Last decisions and verification | `research/namedays/round116-` through `round120-notes.json` and corresponding audits | Check accepted claim limits and failures. Next content/research round is 182 unless another session has already created it; inspect files first. |
 
 The private `prepare-local118.mjs` and `select-local119.mjs` helpers use fixed pre-round snapshots (`people-before119/`, `people-before120/`). Reuse its output; do not blindly rerun it as a current queue. Private collectors are not part of the portable repository. A cache-free public rebuild must retain published people and country evidence.
 

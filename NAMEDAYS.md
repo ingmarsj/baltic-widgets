@@ -4,7 +4,7 @@ For the current work priority, saved sources and next actions, start with [NAMED
 
 The name-day widget occupies the existing desktop sidebar slot. Its desktop card remains **238 × 78 px**. In the compact layout it becomes the first tab, selected by default, before Energy, Horoscope and Markets; there is no duplicate mobile card. As many complete name pills as fit are shown, based on measured rendered widths and the exact remaining-count button. A single unusually long name is ellipsized while preserving the counter; its full text remains available on hover and in the dialog. The remaining count opens the complete list. Long names and narrow containers reduce the number of visible pills rather than increasing the card height. Layout is recalculated on container resizing, compact-tab changes and font loading.
 
-Clicking a name opens one native modal dialog. Names are visible buttons, with no name dropdown or duplicate name heading. Yesterday, Today and Tomorrow follow civil dates in **Europe/Riga**, including year boundaries, leap days and daylight-saving changes. The History, Famous people and Celebrate tabs share the selected name. Famous people shows local exact-spelling namesakes first, international exact-spelling namesakes next, and keeps five people born on the selected date below them. Adding namesakes expands the list. See [selection rules and attribution](NAMEDAYS_PEOPLE.md). Celebrate offers three heartfelt and three humorous greetings, a next-version button and copying.
+Clicking a name opens one native modal dialog. Names are visible buttons, with no name dropdown or duplicate name heading. Yesterday, Today and Tomorrow follow civil dates in **Europe/Riga**, including year boundaries, leap days and daylight-saving changes. The History, Namesakes and Celebrate tabs use the selected name. Namesakes shows only local exact-spelling namesakes followed by international exact-spelling namesakes. The separate Birthdays tab shows five people born on the selected date, independently of the selected name. Adding namesakes never consumes birthday places. See [selection rules and attribution](NAMEDAYS_PEOPLE.md). Celebrate offers three heartfelt and three humorous greetings, a next-version button and copying.
 
 ## Standalone use
 
@@ -17,6 +17,18 @@ For another host page, include `namedays.css` and the module `namedays.js`, and 
 ```
 
 The module resolves data relative to itself, supporting repository subpaths and Home Assistant Ingress. It does not depend on the portal script, the finance widgets, SQLite or a backend. Host theme variables are inherited; the standalone page follows the system appearance.
+
+## Ready-to-render day delivery (round 181)
+
+The runtime contract is one complete JSON per month/day, interface language and selected calendar country: `data/namedays/{language}/{country}/{MM-DD}.json`. For example, `data/namedays/ru/lv/11-17.json` contains only Russian display content for the Latvian calendar on 17 November. Routing fields are `day`, `country` and `language`; `names` contains each name's edited history blocks, optional localized bearer-count line, exact local/international namesakes and all three greetings for both moods. `birthdays` is the country/day list, with localized names, roles and birth-date descriptions. No source URLs, IDs, research flags, writer metadata, other languages or other dates are delivered.
+
+Only today's selected-country JSON is fetched initially. Opening its dialog reuses that request. Yesterday and tomorrow load on selection; changing the country requests that country's day. Failed loads can be retried. Dates follow Europe/Riga and filenames use recurring month/day keys, including 29 February and year rollover.
+
+`npm run build` exports all **5,490** day documents (366 days × 5 languages × 3 countries) into ignored `dist/`; these generated files are never committed. Static hosting requires no daily build. The local HTTP server exposes the same paths with the same compiler. The deployed bundle excludes annual editorial JSON and research/content JavaScript; the browser renders prepared data instead of assembling histories, population statistics or biographies.
+
+**Birthday country rule (user decision, 17 November 2026):** duplicate the birthday content into each country/day JSON even while rankings happen to match. Selection is country-aware and belongs to the day, not a selected name. Future local-birthday weighting may yield different LV, LT and EE lists; never replace this with a single globally shared birthday request. The current ranking is unchanged and selects five distinct birthday people independently of namesakes. A person can legitimately appear in both tabs.
+
+Annual profiles/calendars, birthday candidates, population snapshots, curated biographies, provenance, source cache and research notes remain the maintained build/research inputs. Do not edit files in `dist`. Continue content work through `NAMEDAYS_TASKS.md`, regenerate profiles with `npm run generate:namedays`, refresh queues with `npm run backlog:namedays`, and build. Research continuation remains **2 August**, all three countries.
 
 ## Data and editorial policy
 
