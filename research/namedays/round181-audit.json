@@ -19,6 +19,21 @@
     }
   },
   "validation": {
-    "research_preservation": "passed: every profile, biography, historical fact, edited history in five languages and calendar membership equals round 180"
+    "research_preservation": "passed: every profile, biography, historical fact, edited history in five languages and calendar membership equals round 180",
+    "tests": "171/171 passed in isolated publication worktree after merging origin/main 911492d",
+    "build": "passed; 5,490 day documents generated in ignored dist only",
+    "payload": {
+      "documents": 5490,
+      "bytes": 95005291,
+      "maximum_day_bytes": 124173,
+      "live_static_parity": "passed for all 15 country/language variants",
+      "invalid_date": "400",
+      "metadata_absent": true,
+      "annual_inputs_not_in_dist": true
+    },
+    "browser": "passed on local HTTP and static preview: four tabs; exact namesakes only; five independent birthdays unchanged after selecting another name; prepared greeting variants; tomorrow adds only its own JSON request; country switch LV to LT preserves Russian language; 320px layout checked",
+    "network": "Static initial load requests only data/namedays/ru/lv/11-17.json; no annual JSON or research/content modules. Dialog/name/tab selection adds no JSON request; tomorrow requests only 11-18.json.",
+    "birthday_country_rule": "Country/day owns the birthday list and every country JSON includes its own complete copy. Shared present-day ranking does not collapse this contract.",
+    "screenshot": "Private QA artifact: var/namedays-research/preview181.jpg"
   }
 }
