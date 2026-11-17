@@ -23284,6 +23284,696 @@
     }
    ],
    "claim": "The exhibition curator interviewed by Latvian Public Media identifies theatre director and performance artist Mudīte Gaiševska as one of the Latvian women artists whose archives and creative work form the national museum exhibition. The documented professional artistic activity supports local association; her role is not mislabeled as film direction."
+  },
+  {
+   "id": "reviewed:erika-berzina",
+   "name": "Ērika Bērziņa",
+   "labels": {
+    "lv": "Ērika Bērziņa"
+   },
+   "aliases": [
+    "Ērika"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/personas/erika-berzina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ERIKA-BERZINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ERIKA-BERZINA",
+     "url": "https://www.literatura.lv/personas/erika-berzina",
+     "claim": "The national literature biography identifies poet and editor Ērika Bērziņa, born in Riga, and documents her published poetry collections and Latvian literary work."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and editor Ērika Bērziņa, born in Riga, and documents her published poetry collections and Latvian literary work."
+  },
+  {
+   "id": "reviewed:erika-luse",
+   "name": "Ērika Lūse",
+   "labels": {
+    "lv": "Ērika Lūse"
+   },
+   "aliases": [
+    "Ērika"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/personas/erika-luse",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ERIKA-LUSE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ERIKA-LUSE",
+     "url": "https://www.literatura.lv/personas/erika-luse",
+     "claim": "The national literature biography identifies translator Ērika Lūse and her published literary translations into Latvian, including Thomas Mann. Professional literary work supports the local association."
+    }
+   ],
+   "claim": "The national literature biography identifies translator Ērika Lūse and her published literary translations into Latvian, including Thomas Mann. Professional literary work supports the local association."
+  },
+  {
+   "id": "reviewed:nellija-darkevica",
+   "name": "Nellija Darkeviča",
+   "labels": {
+    "lv": "Nellija Darkeviča"
+   },
+   "aliases": [
+    "Nellija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/personas/nellija-darkevica",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-NELLIJA-DARKEVICA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-NELLIJA-DARKEVICA",
+     "url": "https://www.literatura.lv/personas/nellija-darkevica",
+     "claim": "The national literature biography identifies graphic artist and painter Nellija Darkeviča, her professional exhibitions and work in Jelgava and Riga. Conflicting birth-year metadata are not imported; the record uses only the documented exact name, artistic role and professional association."
+    }
+   ],
+   "claim": "The national literature biography identifies graphic artist and painter Nellija Darkeviča, her professional exhibitions and work in Jelgava and Riga. Conflicting birth-year metadata are not imported; the record uses only the documented exact name, artistic role and professional association."
+  },
+  {
+   "id": "reviewed:nellija-grisle",
+   "name": "Nellija Grīsle",
+   "labels": {
+    "lv": "Nellija Grīsle"
+   },
+   "aliases": [
+    "Nellija"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/personas/nellija-grisle",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-NELLIJA-GRISLE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-NELLIJA-GRISLE",
+     "url": "https://www.literatura.lv/personas/nellija-grisle",
+     "claim": "The national literature biography identifies poet and folklore collector Nellija Grīsle, born in Rauna parish, and documents her published poetry and the poem used as the Rauna anthem."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and folklore collector Nellija Grīsle, born in Rauna parish, and documents her published poetry and the poem used as the Rauna anthem."
+  },
+  {
+   "id": "reviewed:zigrida-fride",
+   "name": "Zigrīda Frīde",
+   "labels": {
+    "lv": "Zigrīda Frīde"
+   },
+   "aliases": [
+    "Zigrīda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/personas/zigrida-fride",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ZIGRIDA-FRIDE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ZIGRIDA-FRIDE",
+     "url": "https://www.literatura.lv/personas/zigrida-fride",
+     "claim": "The national literature biography identifies literary scholar Zigrīda Frīde, born in Riga, her doctorate, research monographs and institutional scholarly work in Latvia."
+    }
+   ],
+   "claim": "The national literature biography identifies literary scholar Zigrīda Frīde, born in Riga, her doctorate, research monographs and institutional scholarly work in Latvia."
+  },
+  {
+   "id": "reviewed:sarma-klavina",
+   "name": "Sarma Kļaviņa",
+   "labels": {
+    "lv": "Sarma Kļaviņa"
+   },
+   "aliases": [
+    "Sarma"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/en/persons/sarma-klavina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SARMA-KLAVINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SARMA-KLAVINA",
+     "url": "https://www.literatura.lv/en/persons/sarma-klavina",
+     "claim": "The national literature biography identifies linguist Sarma Kļaviņa and her research and teaching at the University of Latvia, supporting scholarly role and professional association."
+    }
+   ],
+   "claim": "The national literature biography identifies linguist Sarma Kļaviņa and her research and teaching at the University of Latvia, supporting scholarly role and professional association."
+  },
+  {
+   "id": "reviewed:sabine-tikmane",
+   "name": "Sabīne Tīkmane",
+   "labels": {
+    "lv": "Sabīne Tīkmane"
+   },
+   "aliases": [
+    "Sabīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "actor",
+   "round": 178,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "The National Film Centre lists Sabīne Tīkmane as a best-leading-actress nominee for the Latvian film Mūžīgi jauni in its national film-award nominations. The institutional film credit and selection support acting role and local professional association."
+    }
+   ],
+   "claim": "The National Film Centre lists Sabīne Tīkmane as a best-leading-actress nominee for the Latvian film Mūžīgi jauni in its national film-award nominations. The institutional film credit and selection support acting role and local professional association."
+  },
+  {
+   "id": "reviewed:kulliki-jarvila",
+   "name": "Külliki Järvila",
+   "labels": {
+    "et": "Külliki Järvila"
+   },
+   "aliases": [
+    "Külliki"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://eaa.ee/node/1437",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OLIVIA-NOGISTO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OLIVIA-NOGISTO",
+     "url": "https://eaa.ee/node/1437",
+     "claim": "The Estonian Artists Association professional directory identifies graphic artist Külliki Järvila, supporting exact first name, professional artistic role and association with Estonia."
+    }
+   ],
+   "claim": "The Estonian Artists Association professional directory identifies graphic artist Külliki Järvila, supporting exact first name, professional artistic role and association with Estonia."
+  },
+  {
+   "id": "reviewed:ere-viisitam",
+   "name": "Ere Viisitam",
+   "labels": {
+    "et": "Ere Viisitam"
+   },
+   "aliases": [
+    "Ere"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://eaa.ee/diverse-universe-performance-festival-printmaking-opening-rally",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-GRETA-RUGA"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-GRETA-RUGA",
+     "url": "https://eaa.ee/diverse-universe-performance-festival-printmaking-opening-rally",
+     "claim": "The Estonian Artists Association Diverse Universe/Printmaking In announcement lists Ere Viisitam_EST among participating artists. The source supplies exact public name and country tag; professional exhibition activity supports association."
+    }
+   ],
+   "claim": "The Estonian Artists Association Diverse Universe/Printmaking In announcement lists Ere Viisitam_EST among participating artists. The source supplies exact public name and country tag; professional exhibition activity supports association."
+  },
+  {
+   "id": "reviewed:killu-sukmit",
+   "name": "Killu Sukmit",
+   "labels": {
+    "et": "Killu Sukmit"
+   },
+   "aliases": [
+    "Killu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://eaa.ee/ekl-26-aastanaitus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-SIGRID-VIIR"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-SIGRID-VIIR",
+     "url": "https://eaa.ee/ekl-26-aastanaitus",
+     "claim": "The Estonian Artists Association identifies Killu Sukmit among the selected exhibiting artists of its twenty-sixth annual exhibition in Tallinn, supporting exact name, artistic role and professional local association."
+    }
+   ],
+   "claim": "The Estonian Artists Association identifies Killu Sukmit among the selected exhibiting artists of its twenty-sixth annual exhibition in Tallinn, supporting exact name, artistic role and professional local association."
+  },
+  {
+   "id": "reviewed:raili-keiv",
+   "name": "Raili Keiv",
+   "labels": {
+    "et": "Raili Keiv"
+   },
+   "aliases": [
+    "Raili"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://www.artun.ee/en/the-winners-of-the-young-artist-young-designer-and-young-applied-artist-awards-announced/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ETHEL-UTSMUTS"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ETHEL-UTSMUTS",
+     "url": "https://www.artun.ee/en/the-winners-of-the-young-artist-young-designer-and-young-applied-artist-awards-announced/",
+     "claim": "The Estonian Academy of Arts identifies Raili Keiv on its professional Young Applied Artist Award committee. The institutional award-jury appointment supports artistic role and local professional association."
+    }
+   ],
+   "claim": "The Estonian Academy of Arts identifies Raili Keiv on its professional Young Applied Artist Award committee. The institutional award-jury appointment supports artistic role and local professional association."
+  },
+  {
+   "id": "reviewed:guna-roze",
+   "name": "Guna Roze",
+   "labels": {
+    "lv": "Guna Roze"
+   },
+   "aliases": [
+    "Guna"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 178,
+   "source": {
+    "url": "https://rakstnieciba.lv/rakstnieki/guna-roze/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GUNA-ROZE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GUNA-ROZE",
+     "url": "https://rakstnieciba.lv/rakstnieki/guna-roze/",
+     "claim": "The Latvian Writers Union biography identifies prose writer Guna Roze, born in Limbaži, and documents her published novel and short-story collections. Her pseudonyms are not separate exact-name identities."
+    }
+   ],
+   "claim": "The Latvian Writers Union biography identifies prose writer Guna Roze, born in Limbaži, and documents her published novel and short-story collections. Her pseudonyms are not separate exact-name identities."
+  },
+  {
+   "id": "reviewed:sniedze-runge",
+   "name": "Sniedze Ruņģe",
+   "labels": {
+    "lv": "Sniedze Ruņģe"
+   },
+   "aliases": [
+    "Sniedze"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/personas/sniedze-runge",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SNIEDZE-RUNGE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SNIEDZE-RUNGE",
+     "url": "https://www.literatura.lv/personas/sniedze-runge",
+     "claim": "The national literature biography identifies poet and theatre artist Sniedze Ruņģe, her published Latvian poetry, publications in Latvia and professional theatre performance in Riga in 1980. Association is documented cultural activity, not a Latvian birthplace; she was born in Eutin. Dīna Rauna is a pseudonym of the same person."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and theatre artist Sniedze Ruņģe, her published Latvian poetry, publications in Latvia and professional theatre performance in Riga in 1980. Association is documented cultural activity, not a Latvian birthplace; she was born in Eutin. Dīna Rauna is a pseudonym of the same person."
+  },
+  {
+   "id": "reviewed:nomeda-valanciute",
+   "name": "Nomeda Valančiūtė",
+   "labels": {
+    "lt": "Nomeda Valančiūtė"
+   },
+   "aliases": [
+    "Nomeda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "composer",
+   "round": 178,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/valanciute/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-NOMEDA-VALANCIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-NOMEDA-VALANCIUTE",
+     "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/valanciute/",
+     "claim": "Music Information Centre Lithuania identifies composer Nomeda Valančiūtė, her composition studies, national composition prizes and performed works, documenting exact first name and professional association."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania identifies composer Nomeda Valančiūtė, her composition studies, national composition prizes and performed works, documenting exact first name and professional association."
+  },
+  {
+   "id": "reviewed:beatrice-kleizaite-vasaris",
+   "name": "Beatričė Kleizaitė-Vasaris",
+   "labels": {
+    "lt": "Beatričė Kleizaitė-Vasaris"
+   },
+   "aliases": [
+    "Beatričė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://www.lrt.lt/naujienos/kultura/12/1948629/mire-kulturos-mecenate-dailetyrininke-beatrice-kleizaite-vasaris",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-BEATRICE-KLEIZAITE-VASARIS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-BEATRICE-KLEIZAITE-VASARIS",
+     "url": "https://www.lrt.lt/naujienos/kultura/12/1948629/mire-kulturos-mecenate-dailetyrininke-beatrice-kleizaite-vasaris",
+     "claim": "Lithuanian Public Radio and Television identifies Beatričė Kleizaitė-Vasaris as an art historian, theatre and cultural figure and benefactor, records her Kaunas birthplace and cites the national art museum deputy director. The municipal obituary fetch returned HTTP 403 and was not used as cached evidence."
+    }
+   ],
+   "claim": "Lithuanian Public Radio and Television identifies Beatričė Kleizaitė-Vasaris as an art historian, theatre and cultural figure and benefactor, records her Kaunas birthplace and cites the national art museum deputy director. The municipal obituary fetch returned HTTP 403 and was not used as cached evidence."
+  },
+  {
+   "id": "reviewed:gertruda-gilyte",
+   "name": "Gertrūda Gilytė",
+   "labels": {
+    "lt": "Gertrūda Gilytė"
+   },
+   "aliases": [
+    "Gertrūda"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://mo.lt/ivykiai/zemyn-triusio-urvu/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-GERTRUDA-GILYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-GERTRUDA-GILYTE",
+     "url": "https://mo.lt/ivykiai/zemyn-triusio-urvu/",
+     "claim": "MO Museum identifies Gertrūda Gilytė among the artists whose works form its Žemyn triušio urvu exhibition in Vilnius. The museum’s institutional exhibition supports exact public name, artistic role and professional cultural association with Lithuania."
+    }
+   ],
+   "claim": "MO Museum identifies Gertrūda Gilytė among the artists whose works form its Žemyn triušio urvu exhibition in Vilnius. The museum’s institutional exhibition supports exact public name, artistic role and professional cultural association with Lithuania."
+  },
+  {
+   "id": "reviewed:naima-uustalu",
+   "name": "Naima Uustalu",
+   "labels": {
+    "et": "Naima Uustalu"
+   },
+   "aliases": [
+    "Naima"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://www.etdm.ee/autorid/naima-uustalu",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-NAIMA-UUSTALU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-NAIMA-UUSTALU",
+     "url": "https://www.etdm.ee/autorid/naima-uustalu",
+     "claim": "The Estonian Museum of Applied Art and Design identifies Naima Uustalu in its authors database and records her ceramics and porcelain in the museum collection, supporting artistic role and institutional cultural association."
+    }
+   ],
+   "claim": "The Estonian Museum of Applied Art and Design identifies Naima Uustalu in its authors database and records her ceramics and porcelain in the museum collection, supporting artistic role and institutional cultural association."
+  },
+  {
+   "id": "reviewed:rebeka-lukosus",
+   "name": "Rebeka Lukošus",
+   "labels": {
+    "lv": "Rebeka Lukošus"
+   },
+   "aliases": [
+    "Rebeka"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://www.literatura.lv/personas/rebeka-lukosus",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-REBEKA-LUKOSUS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-REBEKA-LUKOSUS",
+     "url": "https://www.literatura.lv/personas/rebeka-lukosus",
+     "claim": "The national literature biography identifies illustrator and author Rebeka Lukošus, her published Latvian picture books and readers’ jury award, supporting artistic role and professional local publishing activity."
+    }
+   ],
+   "claim": "The national literature biography identifies illustrator and author Rebeka Lukošus, her published Latvian picture books and readers’ jury award, supporting artistic role and professional local publishing activity."
+  },
+  {
+   "id": "reviewed:jekaterina-pranevic",
+   "name": "Jekaterina Pranevič",
+   "labels": {
+    "lt": "Jekaterina Pranevič"
+   },
+   "aliases": [
+    "Jekaterina"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 178,
+   "source": {
+    "url": "https://birstonasjazz.lt/istorija/istorija-2012-metai/lmta-vokalinis-ansamblis-singaz/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-JEKATERINA-PRANEVIC"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-JEKATERINA-PRANEVIC",
+     "url": "https://birstonasjazz.lt/istorija/istorija-2012-metai/lmta-vokalinis-ansamblis-singaz/",
+     "claim": "Birštonas Jazz festival identifies singer and music creator Jekaterina Pranevič, her national performance projects and Baltic singing-competition awards. The festival biography documents exact first name and professional Lithuanian cultural association."
+    }
+   ],
+   "claim": "Birštonas Jazz festival identifies singer and music creator Jekaterina Pranevič, her national performance projects and Baltic singing-competition awards. The festival biography documents exact first name and professional Lithuanian cultural association."
+  },
+  {
+   "id": "reviewed:auste-jurgelionyte-varne",
+   "name": "Austė Jurgelionytė-Varnė",
+   "labels": {
+    "lt": "Austė Jurgelionytė-Varnė"
+   },
+   "aliases": [
+    "Austė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://www.ndg.lt/renginiai/archyvas.aspx?category=1190&id=8879&year=2026",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-AUSTE-JURGELIONYTE-VARNE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-AUSTE-JURGELIONYTE-VARNE",
+     "url": "https://www.ndg.lt/renginiai/archyvas.aspx?category=1190&id=8879&year=2026",
+     "claim": "The National Gallery of Art identifies Austė Jurgelionytė-Varnė as a Baltos kandys artist working with textiles, animation and design, presenting her professional workshop and artistic practice in Lithuania."
+    }
+   ],
+   "claim": "The National Gallery of Art identifies Austė Jurgelionytė-Varnė as a Baltos kandys artist working with textiles, animation and design, presenting her professional workshop and artistic practice in Lithuania."
+  },
+  {
+   "id": "reviewed:auste-skardziukaite",
+   "name": "Austė Skardžiukaitė",
+   "labels": {
+    "lt": "Austė Skardžiukaitė"
+   },
+   "aliases": [
+    "Austė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 178,
+   "source": {
+    "url": "https://www.senamiesciomenomokykla.lt/auste-skardziukaite",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-AUSTE-SKARDZIUKAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-AUSTE-SKARDZIUKAITE",
+     "url": "https://www.senamiesciomenomokykla.lt/auste-skardziukaite",
+     "claim": "The art school’s own professional biography identifies graphic artist and teacher Austė Skardžiukaitė, her individual and group exhibitions and lecturing at Vilnius Academy of Arts Kaunas faculty. The source capitalizes her surname; case does not change identity."
+    }
+   ],
+   "claim": "The art school’s own professional biography identifies graphic artist and teacher Austė Skardžiukaitė, her individual and group exhibitions and lecturing at Vilnius Academy of Arts Kaunas faculty. The source capitalizes her surname; case does not change identity."
+  },
+  {
+   "id": "reviewed:martyna-puskunigyte",
+   "name": "Martyna Puskunigytė",
+   "labels": {
+    "lt": "Martyna Puskunigytė"
+   },
+   "aliases": [
+    "Martyna"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "composer",
+   "round": 178,
+   "source": {
+    "url": "https://maironiomuziejus.lt/renginiai/atmintis-ugnis-deguonis-is-musu-laiko-ukrainos-poezijos-su-antanu-a-jonynu-ir-javelina-lowquarters/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-MARTYNA-PUSKUNIGYTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-MARTYNA-PUSKUNIGYTE",
+     "url": "https://maironiomuziejus.lt/renginiai/atmintis-ugnis-deguonis-is-musu-laiko-ukrainos-poezijos-su-antanu-a-jonynu-ir-javelina-lowquarters/",
+     "claim": "Maironis Lithuanian Literature Museum identifies singer and composer Martyna Puskunigytė in its professional poetry-and-music event, supporting exact first name, musical role and Lithuanian cultural activity."
+    }
+   ],
+   "claim": "Maironis Lithuanian Literature Museum identifies singer and composer Martyna Puskunigytė in its professional poetry-and-music event, supporting exact first name, musical role and Lithuanian cultural activity."
+  },
+  {
+   "id": "reviewed:sarma-cakula",
+   "name": "Sarma Cakula",
+   "labels": {
+    "lv": "Sarma Cakula"
+   },
+   "aliases": [
+    "Sarma"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 178,
+   "source": {
+    "url": "https://va.lv/zinatne/petnieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SOLVITA-DENISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SOLVITA-DENISA",
+     "url": "https://va.lv/zinatne/petnieki",
+     "claim": "Vidzeme University of Applied Sciences identifies Sarma Cakula as a professor with a doctorate in education in its researchers directory, documenting exact name, academic role and professional association with Latvia."
+    }
+   ],
+   "claim": "Vidzeme University of Applied Sciences identifies Sarma Cakula as a professor with a doctorate in education in its researchers directory, documenting exact name, academic role and professional association with Latvia."
   }
  ]
 }

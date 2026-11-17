@@ -17,7 +17,7 @@ Select-String -Path research/namedays/source-index.csv -Pattern "Heinar"
 
 A text hit is a discovery aid. Inspect the rendered original page before using it as evidence.
 
-**2584 source IDs**; 115 with a cached PDF. 546 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
+**2601 source IDs**; 115 with a cached PDF. 546 privately cached working PDFs and web pages without a directory ID (LOCAL-*, WEB-*) are listed only in the private catalogue.
 
 ## Estonia
 
@@ -2407,6 +2407,7 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | PEOPLE-EE-MATTIAS-TIRMASTE | Mattias Tirmaste: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-EE-MERILI-KASPER | ERR: Eesti Laul singer M Els, real name Merili Kasper , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-EE-MERJE-KAGU | Merje Kägu | directory only | 0 / 0 |  |
+| PEOPLE-EE-NAIMA-UUSTALU | Naima Uustalu | directory only | 0 / 0 |  |
 | PEOPLE-EE-OLIVIA-NOGISTO | Olivia Nõgisto | directory only | 0 / 0 |  |
 | PEOPLE-EE-OVE-KALDE | EKABL: artist Ove Kalde and Estonian exhibitions , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-EE-OVE-MAIDLA | Tartu City and Tartu Art House: artist photographer Ove Maidla , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
@@ -2433,27 +2434,34 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | PEOPLE-LT-ARAS-ZVIRBLYS | Aras Žvirblys | directory only | 0 / 0 |  |
 | PEOPLE-LT-ARUNE-TORNAU | Arūnė Tornau: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LT-AUKSE-PETRULIENE | Auksė Petrulienė: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
+| PEOPLE-LT-AUSTE-JURGELIONYTE-VARNE | Austė Jurgelionytė-Varnė | directory only | 0 / 0 |  |
+| PEOPLE-LT-AUSTE-SKARDZIUKAITE | Austė Skardžiukaitė | directory only | 0 / 0 |  |
 | PEOPLE-LT-BARBORA-UMIASTAUSKAITE | Lituanistika: religious stories and legends about Barbora Umiastauskaite-Zagariete , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-LT-BEATA-JUCHNEVIC | Beata Juchnevič | directory only | 0 / 0 |  |
 | PEOPLE-LT-BEATA-SIUIKAITE | Beata Šiuikaitė | directory only | 0 / 0 |  |
 | PEOPLE-LT-BEATA-TISKEVIC | Beata Tiškevič | directory only | 0 / 0 |  |
+| PEOPLE-LT-BEATRICE-KLEIZAITE-VASARIS | Beatričė Kleizaitė-Vasaris | directory only | 0 / 0 |  |
 | PEOPLE-LT-BRIGITA-BUBLYTE | Brigita Bublytė: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LT-DEIMANTE-MALUNAVICIUTE | Deimantė Malūnavičiūtė | directory only | 0 / 0 |  |
 | PEOPLE-LT-DOMINYKA-SEIBOKAITE | Dominyka Šeibokaitė | directory only | 0 / 0 |  |
 | PEOPLE-LT-DONATA-MINDERYTE | Donata Minderytė: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LT-ELONA-LUBYTE | Elona Lubytė | directory only | 0 / 0 |  |
 | PEOPLE-LT-GAILE-GRICIUTE | Gailė Griciūtė | directory only | 0 / 0 |  |
+| PEOPLE-LT-GERTRUDA-GILYTE | Gertrūda Gilytė | directory only | 0 / 0 |  |
 | PEOPLE-LT-GINTE-PREISAITE | Gintė Preisaitė | directory only | 0 / 0 |  |
 | PEOPLE-LT-GINVYDAS-GEO | Lithuanian Geologists Union, geologists directory, Vilūnas Ginvydas entry; cached. | directory only | 0 / 0 |  |
 | PEOPLE-LT-GINVYDAS-SPORT2020 | Sport for All 2020 participant list, Ginvydas Vilūnas entries; cached. | directory only | 0 / 0 |  |
 | PEOPLE-LT-JAUNIUS-SAKALYS | Jaunius Šakalys | directory only | 0 / 0 |  |
+| PEOPLE-LT-JEKATERINA-PRANEVIC | Jekaterina Pranevič | directory only | 0 / 0 |  |
 | PEOPLE-LT-KLAUDIJA-BUBELYTE | Klaudija Bubelytė | directory only | 0 / 0 |  |
 | PEOPLE-LT-KRISTIJONAS-LUCINSKAS | Kristijonas Lučinskas | directory only | 0 / 0 |  |
 | PEOPLE-LT-LIEPA-MONDEIKAITE | Liepa Mondeikaitė | directory only | 0 / 0 |  |
 | PEOPLE-LT-LUKRECIJA-PETKUTE | Lukrecija Petkutė | directory only | 0 / 0 |  |
+| PEOPLE-LT-MARTYNA-PUSKUNIGYTE | Martyna Puskunigytė | directory only | 0 / 0 |  |
 | PEOPLE-LT-MORTA-JONYNAITE | Morta Jonynaitė: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LT-MYKOLE-GANUSAUSKAITE | Mykolė Ganusauskaitė | directory only | 0 / 0 |  |
 | PEOPLE-LT-NIDA-DEGUTIENE | Nida Degutienė: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
+| PEOPLE-LT-NOMEDA-VALANCIUTE | Nomeda Valančiūtė | directory only | 0 / 0 |  |
 | PEOPLE-LT-NOTE-2021 | Music Information Centre Lithuania: Note Lithuania 2021 artist credits , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LT-RADVILE-BUIVYDIENE | Radvilė Buivydienė: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LT-RADVILE-JUOZAPAITYTE | Radvilė Juozapaitytė | directory only | 0 / 0 |  |
@@ -2492,8 +2500,11 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | PEOPLE-LV-ELVIRA-LEJA | Elvīra Leja | directory only | 0 / 0 |  |
 | PEOPLE-LV-ELVIRA-STAPRANE | Elvīra Staprāne | directory only | 0 / 0 |  |
 | PEOPLE-LV-ENIJA-BIDZANE | Latvian Radio interview discovery URL | directory only | 0 / 0 |  |
+| PEOPLE-LV-ERIKA-BERZINA | Ērika Bērziņa | directory only | 0 / 0 |  |
+| PEOPLE-LV-ERIKA-LUSE | Ērika Lūse | directory only | 0 / 0 |  |
 | PEOPLE-LV-GINTA-IEVA-BIKSE | Ginta Ieva Bikše | directory only | 0 / 0 |  |
 | PEOPLE-LV-GITA-GRINBERGA | Gita Grīnberga | directory only | 0 / 0 |  |
+| PEOPLE-LV-GUNA-ROZE | Guna Roze | directory only | 0 / 0 |  |
 | PEOPLE-LV-GUNDA-REIRE | Gunda Reire | directory only | 0 / 0 |  |
 | PEOPLE-LV-GUNDA-VAIVODE | Gunda Vaivode | directory only | 0 / 0 |  |
 | PEOPLE-LV-GUNITA-BOKA | Gunita Boka | directory only | 0 / 0 |  |
@@ -2545,10 +2556,14 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | PEOPLE-LV-MINJONA-KLAVINA-VENTSPILS | Ventspils Library: sculptor Minjona Klavina, Riga birthplace , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LV-MUDITE-GAISEVSKA | Mudīte Gaiševska | directory only | 0 / 0 |  |
 | PEOPLE-LV-MUDITE-TREIMANE | Mudīte Treimane | directory only | 0 / 0 |  |
+| PEOPLE-LV-NELLIJA-DARKEVICA | Nellija Darkeviča | directory only | 0 / 0 |  |
+| PEOPLE-LV-NELLIJA-GRISLE | Nellija Grīsle | directory only | 0 / 0 |  |
 | PEOPLE-LV-NIKLAVS-SEKACS | Latvian Public Media and Radio 5: Niklavs Sekacs represents Latvia at Primavera Sound , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-LV-PATRICIJA-MARIJA-KEISA | Patrīcija Marija Keiša | directory only | 0 / 0 |  |
+| PEOPLE-LV-REBEKA-LUKOSUS | Rebeka Lukošus | directory only | 0 / 0 |  |
 | PEOPLE-LV-RENATE-PUNKA | Renāte Punka | directory only | 0 / 0 |  |
 | PEOPLE-LV-RITUMS-IVANOVS | Ritums Ivanovs | directory only | 0 / 0 |  |
+| PEOPLE-LV-SARMA-KLAVINA | Sarma Kļaviņa | directory only | 0 / 0 |  |
 | PEOPLE-LV-SARMA-MUIZNIECE | Latvians Abroad Museum: poet and board chair Sarma Muizniece Liepina , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-LV-SELGA-PALU | Literatura LV: Selga Palu , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LV-SELGA-SILKALNA | Literatura LV: poet Selga Silkalna , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
@@ -2556,6 +2571,7 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | PEOPLE-LV-SIGITA-KUSNERE | Sigita Kušnere | directory only | 0 / 0 |  |
 | PEOPLE-LV-SINTIJA-KAMPANE-STELMAHERE | Sintija Kampāne-Štelmahere | directory only | 0 / 0 |  |
 | PEOPLE-LV-SINTIJA-SUDMALE | Sintija Sudmale | directory only | 0 / 0 |  |
+| PEOPLE-LV-SNIEDZE-RUNGE | Sniedze Ruņģe | directory only | 0 / 0 |  |
 | PEOPLE-LV-SNIEDZE-SPROGE | LAMPA festival: Sniedze Sproge speaker biography , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-LV-SOLVITA-DENISA | Vidzeme University of Applied Sciences: researcher Solvita Denisa-Liepniece , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LV-SONORA-BROKA | Sonora Broka: professional biography , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
@@ -2571,6 +2587,7 @@ A text hit is a discovery aid. Inspect the rendered original page before using i
 | PEOPLE-LV-VSEVOLODS-CESIHINS | Literatura LV: Vsevolods Cesihins , biography, credited role or named-person paragraph. | directory only | 0 / 0 |  |
 | PEOPLE-LV-ZIGMARS-BERKOLDS-WIKI | Zigmars Berkolds: luge biography and Latvia representation , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LV-ZIGMUNDS-BEKMANIS | Zigmunds Bekmanis | directory only | 0 / 0 |  |
+| PEOPLE-LV-ZIGRIDA-FRIDE | Zigrīda Frīde | directory only | 0 / 0 |  |
 | PEOPLE-LV-ZINTA-AISTARA | Zinta Aistara | directory only | 0 / 0 |  |
 | PEOPLE-LV-ZINTIS-SILS | Literatura LV: writer Zintis Sils , named-person biography/role or credited activity. | directory only | 0 / 0 |  |
 | PEOPLE-LV-ZITA-KARKLA | Zita Kārkla | directory only | 0 / 0 |  |

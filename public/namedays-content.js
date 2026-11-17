@@ -7,7 +7,7 @@ import {plainHistory,plainHypothesis} from './namedays-plain.js';
 import {finalWording} from './namedays-plain-r163.js';
 import {readerParagraph} from './namedays-reader.js';
 import {readerOpening} from './namedays-reader-r168.js';
-export const WRITER_VERSION='namedays-1.9.147';
+export const WRITER_VERSION='namedays-1.9.148';
 export function nameIdentity(name){return name.normalize('NFD').replace(/(\p{Script=Latin})\p{M}+/gu,'$1').normalize('NFC').replace(/\.$/,'').toLowerCase();}
 export const LANGUAGES=['lv','ru','en','lt','et'];
 const bundles={

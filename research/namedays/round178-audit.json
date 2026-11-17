@@ -1,0 +1,62 @@
+{
+  "round": 178,
+  "date": "2026-11-17",
+  "writer_version": "namedays-1.9.148",
+  "scope": {
+    "start": "2027-11-02",
+    "end": "2028-02-01",
+    "dates": 92,
+    "calendar_memberships": 2126,
+    "under_five_profiles_before": 1684,
+    "new_people": 23,
+    "changed_local_profiles": 19
+  },
+  "countries": {
+    "lv": {
+      "profiles": 5258,
+      "new_local_exact_links": 11,
+      "profiles_with_exact_namesakes": 1803,
+      "profiles_with_local_bearers": 1078,
+      "profiles_with_at_least_five": 379,
+      "calendar_memberships": 5259,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "lt": {
+      "profiles": 1568,
+      "new_local_exact_links": 7,
+      "profiles_with_exact_namesakes": 731,
+      "profiles_with_local_bearers": 683,
+      "profiles_with_at_least_five": 364,
+      "calendar_memberships": 2253,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    },
+    "ee": {
+      "profiles": 1555,
+      "new_local_exact_links": 5,
+      "profiles_with_exact_namesakes": 1113,
+      "profiles_with_local_bearers": 1035,
+      "profiles_with_at_least_five": 560,
+      "calendar_memberships": 1560,
+      "history_facts_and_existing_origin_text_preserved": true,
+      "previous_people_preserved": true,
+      "five_distinct_birthday_people_preserved": true,
+      "all_final_histories_in_five_languages": true,
+      "published_and_data_copies_equal": true
+    }
+  },
+  "compiled_history_deltas": [],
+  "validation": {
+    "automated_data_audit": "passed",
+    "tests": "pending",
+    "build": "pending",
+    "browser": "pending"
+  }
+}
