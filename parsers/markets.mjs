@@ -32,10 +32,10 @@ export function parseBitcoin(payload,url){
 export async function parseWorldBank(buffer,sourceURL=marketSources.worldbank){
   const sheets=await readExcelFile(buffer),sheet=sheets.find(s=>s.sheet==='Monthly Prices'),descriptions=sheets.find(s=>s.sheet==='Description');
   if(!sheet)throw Error('World Bank monthly sheet missing');const data=sheet.data;
-  const header=data.findIndex(r=>r.includes('Natural gas, Europe')&&r.includes('Gold'));if(header<0)throw Error('World Bank columns changed');
+  const header=data.findIndex(r=>r.includes('Natural gas, Europe'));if(header<0)throw Error('World Bank columns changed');
   const rows=[];
-  for(const [column,series,unit] of [['Natural gas, Europe','gas_europe_monthly_usd','USD/MMBtu'],['Gold','gold_monthly_usd','USD/oz']]){
-    const index=data[header].indexOf(column),expected=column==='Gold'?'($/troy oz)':'($/mmbtu)';if(data[header+1][index]!==expected)throw Error('World Bank unit changed');const seen=new Set();
+  for(const [column,series,unit] of [['Natural gas, Europe','gas_europe_monthly_usd','USD/MMBtu']]){
+    const index=data[header].indexOf(column),expected='($/mmbtu)';if(data[header+1][index]!==expected)throw Error('World Bank unit changed');const seen=new Set();
     for(const row of data.slice(header+2)){
       const m=/^(\d{4})M(\d\d)$/.exec(row[0]);if(!m)continue;if(seen.has(row[0])||Number(m[2])<1||Number(m[2])>12)throw Error('Invalid/duplicate World Bank month');seen.add(row[0]);
       const value=row[index];if(value===null||value==='...'||value==='..'||value==='')continue;if(!(typeof value==='number'&&value>0))throw Error('Invalid World Bank price');
@@ -70,7 +70,7 @@ export function convertMonthlyMarketsToEUR(db){
   initializeMarkets(db);
   const rates=new Map(db.prepare("SELECT substr(at,1,7) AS month,avg(value) AS rate FROM market_prices WHERE series='eur_usd' GROUP BY substr(at,1,7)").all().map(r=>[r.month,r.rate]));
   const rows=[];
-  for(const [raw,target,factor,unit] of [['gas_europe_monthly_usd','gas_europe_monthly_eur',MMBTU_PER_MWH,'EUR/MWh'],['gold_monthly_usd','gold_monthly_eur',1,'EUR/oz']]){
+  for(const [raw,target,factor,unit] of [['gas_europe_monthly_usd','gas_europe_monthly_eur',MMBTU_PER_MWH,'EUR/MWh']]){
     for(const r of db.prepare('SELECT * FROM market_prices WHERE series=? ORDER BY at').all(raw)){
       const rate=rates.get(r.at.slice(0,7));if(!(rate>0))continue;
       rows.push({...r,series:target,value:r.value*factor/rate,unit,fx_at:r.at,raw_value:r.value,raw_unit:r.unit,source:r.source+' / ECB monthly mean USD per EUR'});
@@ -99,7 +99,6 @@ export function exchangeData(db){
     const rows=db.prepare('SELECT at,value,source,fx_at FROM market_prices WHERE series=? ORDER BY at').all(series);if(!rows.length)continue;const last=rows.at(-1);
     data[key]={price:last.value,previous:rows.at(-2)?.value??null,observed_at:last.at,fx_at:last.fx_at,history:rows.map(r=>({at:r.at,value:r.value})),history_source:last.source,frequency:'daily'};
     if(key==='euribor_6m')Object.assign(data[key],{unit:'%',comparison:'percentage_points',delay_hours:24,day_count:'act/360',source_url:meta(db,'euribor_last_run')?.source_url});
-    if(key==='gold_eur_oz'){const history=monthlyHistory(db,'gold_monthly_eur');if(history.length)data[key].chart_series=[{label:'Gold · World Bank · monthly',unit:'EUR/oz',digits:2,history,history_source:'World Bank / ECB monthly FX · monthly average',frequency:'monthly'}];}
   }
-  const report=meta(db,'markets_last_run'),euribor=meta(db,'euribor_last_run');return {schema_version:1,demo:false,updated_at:[report?.updated_at,euribor?.updated_at].filter(Boolean).sort().at(-1)||new Date().toISOString(),source:'ECB / Bank of Finland / EMMI / NBP / Coin Metrics Community; long archive: World Bank',data,errors:report?.errors||[]};
+  const report=meta(db,'markets_last_run'),euribor=meta(db,'euribor_last_run');return {schema_version:1,demo:false,updated_at:[report?.updated_at,euribor?.updated_at].filter(Boolean).sort().at(-1)||new Date().toISOString(),source:'ECB / Bank of Finland / EMMI / NBP / Coin Metrics Community',data,errors:report?.errors||[]};
 }
