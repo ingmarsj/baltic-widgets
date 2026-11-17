@@ -26,3 +26,10 @@ export function nearestPoint(points, at) {
   }
   return low > 0 && at - points[low - 1].at <= points[low].at - at ? low - 1 : low;
 }
+
+// Always compare the earlier observation with the later one.
+export function rangeChange(points,anchor,index,lowerIsBetter=false){
+  const from=points[Math.min(anchor,index)],to=points[Math.max(anchor,index)];
+  const change=priceChange(from.value,to.value);
+  return {from,to,...change,trend:colorTrend(change.delta,lowerIsBetter)};
+}

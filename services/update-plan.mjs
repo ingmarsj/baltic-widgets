@@ -10,7 +10,7 @@ export const updateTasks=[
  {id:'euribor',group:'daily',period:'day',notBeforeHour:16,retryInterval:hour,label:'Bank of Finland Euribor 6M daily fixing (24h delayed)'},
  {id:'horoscope',group:'daily',period:'day',label:'Local validated horoscope cache'},
  {id:'fuel_archive',group:'weekly',interval:7*24*hour,label:'European Commission weekly fuel averages'},
- {id:'commodity_archive',group:'monthly',period:'month',label:'World Bank monthly gas/gold history'},
+ {id:'commodity_archive',group:'monthly',period:'month',label:'World Bank monthly gas history'},
  {id:'nameday_statistics',group:'monthly',period:'month',label:'Official name bearer counts'}
 ];
 export const updateProfiles=['auto','prices','current','daily','weekly','monthly','full'];
