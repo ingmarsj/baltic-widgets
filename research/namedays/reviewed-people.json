@@ -23974,6 +23974,666 @@
     }
    ],
    "claim": "Vidzeme University of Applied Sciences identifies Sarma Cakula as a professor with a doctorate in education in its researchers directory, documenting exact name, academic role and professional association with Latvia."
+  },
+  {
+   "id": "reviewed:simona-sofija-valke",
+   "name": "Simona Sofija Valke",
+   "labels": {
+    "lv": "Simona Sofija Valke"
+   },
+   "aliases": [
+    "Simona"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 179,
+   "source": {
+    "url": "https://lulfmi.lv/darbinieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LFMI-STAFF-2026"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LFMI-STAFF-2026",
+     "url": "https://lulfmi.lv/darbinieki",
+     "claim": "The University of Latvia institute staff directory identifies Simona Sofija Valke as a researcher. Exact first name and scholarly work at the Latvian institute establish the local professional association."
+    }
+   ],
+   "claim": "The University of Latvia institute staff directory identifies Simona Sofija Valke as a researcher. Exact first name and scholarly work at the Latvian institute establish the local professional association."
+  },
+  {
+   "id": "reviewed:dina-bite",
+   "name": "Dina Bite",
+   "labels": {
+    "lv": "Dina Bite"
+   },
+   "aliases": [
+    "Dina"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 179,
+   "source": {
+    "url": "https://www.rsu.lv/ilva-skulte",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ILVA-SKULTE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ILVA-SKULTE",
+     "url": "https://www.rsu.lv/ilva-skulte",
+     "claim": "Rīga Stradiņš University lists associate professor Dina Bite as a lecturer and leading researcher. The academic role and work at the Latvian university are explicit."
+    }
+   ],
+   "claim": "Rīga Stradiņš University lists associate professor Dina Bite as a lecturer and leading researcher. The academic role and work at the Latvian university are explicit."
+  },
+  {
+   "id": "reviewed:andra-silapetere",
+   "name": "Andra Silapētere",
+   "labels": {
+    "lv": "Andra Silapētere"
+   },
+   "aliases": [
+    "Andra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://www.lsm.lv/raksts/kultura/maksla/izgaismot-neuzrakstitos-maksliniecu-stastus--izstade-atceros-tatad-esmu.a381672/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-MUDITE-GAISEVSKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-MUDITE-GAISEVSKA",
+     "url": "https://www.lsm.lv/raksts/kultura/maksla/izgaismot-neuzrakstitos-maksliniecu-stastus--izstade-atceros-tatad-esmu.a381672/",
+     "claim": "Latvian public radio identifies Andra Silapētere as curator of the Latvian Centre for Contemporary Art exhibition at the Latvian National Museum of Art. Curatorial work establishes the local art association."
+    }
+   ],
+   "claim": "Latvian public radio identifies Andra Silapētere as curator of the Latvian Centre for Contemporary Art exhibition at the Latvian National Museum of Art. Curatorial work establishes the local art association."
+  },
+  {
+   "id": "reviewed:agita-misane",
+   "name": "Agita Misāne",
+   "labels": {
+    "lv": "Agita Misāne"
+   },
+   "aliases": [
+    "Agita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 179,
+   "source": {
+    "url": "https://lulfmi.lv/darbinieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LFMI-STAFF-2026"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LFMI-STAFF-2026",
+     "url": "https://lulfmi.lv/darbinieki",
+     "claim": "The University of Latvia institute staff directory identifies Agita Misāne as a visiting researcher. Exact spelling and professional scholarly work support the local association."
+    }
+   ],
+   "claim": "The University of Latvia institute staff directory identifies Agita Misāne as a visiting researcher. Exact spelling and professional scholarly work support the local association."
+  },
+  {
+   "id": "reviewed:agita-cane-kile",
+   "name": "Agita Cāne-Ķīle",
+   "labels": {
+    "lv": "Agita Cāne-Ķīle"
+   },
+   "aliases": [
+    "Agita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "director",
+   "round": 179,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "The National Film Centre lists Agita Cāne-Ķīle among best documentary director nominees for Ērģeles naktī. Iveta Apkalna in the 2025 national film award nominations."
+    }
+   ],
+   "claim": "The National Film Centre lists Agita Cāne-Ķīle among best documentary director nominees for Ērģeles naktī. Iveta Apkalna in the 2025 national film award nominations."
+  },
+  {
+   "id": "reviewed:agita-smitina",
+   "name": "Agita Šmitiņa",
+   "labels": {
+    "lv": "Agita Šmitiņa"
+   },
+   "aliases": [
+    "Agita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 179,
+   "source": {
+    "url": "https://va.lv/zinatne/petnieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SOLVITA-DENISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SOLVITA-DENISA",
+     "url": "https://va.lv/zinatne/petnieki",
+     "claim": "Vidzeme University of Applied Sciences lists Agita Šmitiņa with a doctorate, as a lecturer, study-field director and researcher. The adjacent ORCID spelling without diacritics is not used as another identity."
+    }
+   ],
+   "claim": "Vidzeme University of Applied Sciences lists Agita Šmitiņa with a doctorate, as a lecturer, study-field director and researcher. The adjacent ORCID spelling without diacritics is not used as another identity."
+  },
+  {
+   "id": "reviewed:agita-livina",
+   "name": "Agita Līviņa",
+   "labels": {
+    "lv": "Agita Līviņa"
+   },
+   "aliases": [
+    "Agita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 179,
+   "source": {
+    "url": "https://va.lv/zinatne/petnieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SOLVITA-DENISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SOLVITA-DENISA",
+     "url": "https://va.lv/zinatne/petnieki",
+     "claim": "Vidzeme University of Applied Sciences identifies Agita Līviņa with an economics doctorate and a leading research role. Exact name and institutional professional activity support the local association."
+    }
+   ],
+   "claim": "Vidzeme University of Applied Sciences identifies Agita Līviņa with an economics doctorate and a leading research role. Exact name and institutional professional activity support the local association."
+  },
+  {
+   "id": "reviewed:raimonda-melngaile",
+   "name": "Raimonda Melngaile",
+   "labels": {
+    "lv": "Raimonda Melngaile"
+   },
+   "aliases": [
+    "Raimonda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 179,
+   "source": {
+    "url": "https://va.lv/zinatne/petnieki",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-SOLVITA-DENISA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-SOLVITA-DENISA",
+     "url": "https://va.lv/zinatne/petnieki",
+     "claim": "Vidzeme University of Applied Sciences lists Raimonda Melngaile with an economics doctorate as a researcher. Exact first name and separate academic role are explicit."
+    }
+   ],
+   "claim": "Vidzeme University of Applied Sciences lists Raimonda Melngaile with an economics doctorate as a researcher. Exact first name and separate academic role are explicit."
+  },
+  {
+   "id": "reviewed:gunda-bergmane",
+   "name": "Gunda Bergmane",
+   "labels": {
+    "lv": "Gunda Bergmane"
+   },
+   "aliases": [
+    "Gunda"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "The National Film Centre credits Gunda Bergmane of Berghein Production in Latvia as a producer of Detektīvs fon Foks, 2. sezona in the national film nominations. The general artist category is used, without calling the producer a director."
+    }
+   ],
+   "claim": "The National Film Centre credits Gunda Bergmane of Berghein Production in Latvia as a producer of Detektīvs fon Foks, 2. sezona in the national film nominations. The general artist category is used, without calling the producer a director."
+  },
+  {
+   "id": "reviewed:anitra-niedre",
+   "name": "Anitra Niedre",
+   "labels": {
+    "lv": "Anitra Niedre"
+   },
+   "aliases": [
+    "Anitra"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "musician",
+   "round": 179,
+   "source": {
+    "url": "https://www.ventspils.lv/jaunumi/pilseta/seru-vests-ventspils-zaudejusi-dirigenti-anitru-niedri/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ANITRA-NIEDRE-MUNICIPAL"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ANITRA-NIEDRE-MUNICIPAL",
+     "url": "https://www.ventspils.lv/jaunumi/pilseta/seru-vests-ventspils-zaudejusi-dirigenti-anitru-niedri/",
+     "claim": "The Ventspils municipal obituary identifies conductor Anitra Niedre, her Music School and Venda choir leadership and national award. The Latvian original spelling is used; automated translations that change the surname are not imported."
+    }
+   ],
+   "claim": "The Ventspils municipal obituary identifies conductor Anitra Niedre, her Music School and Venda choir leadership and national award. The Latvian original spelling is used; automated translations that change the surname are not imported."
+  },
+  {
+   "id": "reviewed:laimdota-malle",
+   "name": "Laimdota Malle",
+   "labels": {
+    "lv": "Laimdota Malle"
+   },
+   "aliases": [
+    "Laimdota"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://www.lsm.lv/raksts/kultura/maksla/22.02.2024-suligs-process-vares-ielukoties-makslinieces-laimdotas-malles-darbnica-anatomijas-muzeja.a543920/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LAIMDOTA-MALLE-MUSEUM"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LAIMDOTA-MALLE-MUSEUM",
+     "url": "https://www.lsm.lv/raksts/kultura/maksla/22.02.2024-suligs-process-vares-ielukoties-makslinieces-laimdotas-malles-darbnica-anatomijas-muzeja.a543920/",
+     "claim": "Latvian public media identifies artist Laimdota Malle and her residency and public art workshop at the Rīga Stradiņš University Anatomy Museum. Exact name and professional art activity support the local association."
+    }
+   ],
+   "claim": "Latvian public media identifies artist Laimdota Malle and her residency and public art workshop at the Rīga Stradiņš University Anatomy Museum. Exact name and professional art activity support the local association."
+  },
+  {
+   "id": "reviewed:ginta-ziverte",
+   "name": "Ginta Zīverte",
+   "labels": {
+    "lv": "Ginta Zīverte"
+   },
+   "aliases": [
+    "Ginta"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://tourism.sigulda.lv/fotografi-sigulda/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GINTA-ZIVERTE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GINTA-ZIVERTE",
+     "url": "https://tourism.sigulda.lv/fotografi-sigulda/",
+     "claim": "The Sigulda municipal tourism directory identifies photographer Ginta Zīverte. Existing national literature biographies independently credit her portraits of Latvian writers. The exact name and professional photography in Latvia support the association."
+    }
+   ],
+   "claim": "The Sigulda municipal tourism directory identifies photographer Ginta Zīverte. Existing national literature biographies independently credit her portraits of Latvian writers. The exact name and professional photography in Latvia support the association."
+  },
+  {
+   "id": "reviewed:dainora-pociute-abukeviciene",
+   "name": "Dainora Pociūtė-Abukevičienė",
+   "labels": {
+    "lt": "Dainora Pociūtė-Abukevičienė"
+   },
+   "aliases": [
+    "Dainora"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "scientist",
+   "round": 179,
+   "source": {
+    "url": "https://www.flf.vu.lt/institutai/lkvti/darbuotojai",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-DAINORA-POCIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-DAINORA-POCIUTE",
+     "url": "https://www.flf.vu.lt/institutai/lkvti/darbuotojai",
+     "claim": "Vilnius University lists professor Dainora Pociūtė-Abukevičienė and her research fields in literature and intellectual history. The institutional scholarly work supports the Lithuanian association."
+    }
+   ],
+   "claim": "Vilnius University lists professor Dainora Pociūtė-Abukevičienė and her research fields in literature and intellectual history. The institutional scholarly work supports the Lithuanian association."
+  },
+  {
+   "id": "reviewed:ula-ambrasaite",
+   "name": "Ūla Ambrasaitė",
+   "labels": {
+    "lt": "Ūla Ambrasaitė"
+   },
+   "aliases": [
+    "Ūla"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "public_figure",
+   "round": 179,
+   "source": {
+    "url": "https://www.leidyklalapas.lt/pages/ula-ambrasaite",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ULA-AMBRASAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-ULA-AMBRASAITE",
+     "url": "https://www.leidyklalapas.lt/pages/ula-ambrasaite",
+     "claim": "The publishing house LAPAS identifies its founder and publisher Ūla Ambrasaitė, her Lithuanian publishing work and exhibitions in Vilnius institutions. Residence abroad is not treated as excluding the documented Lithuanian cultural association."
+    }
+   ],
+   "claim": "The publishing house LAPAS identifies its founder and publisher Ūla Ambrasaitė, her Lithuanian publishing work and exhibitions in Vilnius institutions. Residence abroad is not treated as excluding the documented Lithuanian cultural association."
+  },
+  {
+   "id": "reviewed:urte-jasenka",
+   "name": "Urtė Jasenka",
+   "labels": {
+    "lt": "Urtė Jasenka"
+   },
+   "aliases": [
+    "Urtė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://kulturosfabrikas.lt/lt/renginiai/rudens-maratonas-vaizduotes-ir-kurybiskumo-lavinimo-dirbtuves-su-urte-jasenka/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-URTE-JASENKA"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-URTE-JASENKA",
+     "url": "https://kulturosfabrikas.lt/lt/renginiai/rudens-maratonas-vaizduotes-ir-kurybiskumo-lavinimo-dirbtuves-su-urte-jasenka/",
+     "claim": "Klaipėda Culture Factory identifies artist Urtė Jasenka, her exhibitions in Lithuania and abroad and her work in Klaipėda. Only exact name, professional role and association are imported."
+    }
+   ],
+   "claim": "Klaipėda Culture Factory identifies artist Urtė Jasenka, her exhibitions in Lithuania and abroad and her work in Klaipėda. Only exact name, professional role and association are imported."
+  },
+  {
+   "id": "reviewed:urte-janus",
+   "name": "Urtė Janus",
+   "labels": {
+    "lt": "Urtė Janus"
+   },
+   "aliases": [
+    "Urtė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://cac.lt/en/event/urte-janus-and-marie-aimee-de-montalembert-travelling-through-the-ages-an-embodied-imagination-online-workshop-jcdecaux-prize-2023-in-exchange-to-ages/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-URTE-JANUS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-URTE-JANUS",
+     "url": "https://cac.lt/en/event/urte-janus-and-marie-aimee-de-montalembert-travelling-through-the-ages-an-embodied-imagination-online-workshop-jcdecaux-prize-2023-in-exchange-to-ages/",
+     "claim": "The Contemporary Art Centre identifies Urtė Janus as a Lithuanian artist working in London and documents her sculptural installation practice in the national emerging-artists exhibition."
+    }
+   ],
+   "claim": "The Contemporary Art Centre identifies Urtė Janus as a Lithuanian artist working in London and documents her sculptural installation practice in the national emerging-artists exhibition."
+  },
+  {
+   "id": "reviewed:rusne-simulynaite",
+   "name": "Rusnė Šimulynaitė",
+   "labels": {
+    "lt": "Rusnė Šimulynaitė"
+   },
+   "aliases": [
+    "Rusnė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://www.vda.lt/lt/parodu-sales-titanikas/naujienos/vda-ma-2020",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-RUSNE-SIMULYNAITE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-RUSNE-SIMULYNAITE",
+     "url": "https://www.vda.lt/lt/parodu-sales-titanikas/naujienos/vda-ma-2020",
+     "claim": "Vilnius Academy of Arts identifies Rusnė Šimulynaitė as its museum employee and the designer and co-editor of the academy masters exhibition catalogue. The professional design credit supports the local association."
+    }
+   ],
+   "claim": "Vilnius Academy of Arts identifies Rusnė Šimulynaitė as its museum employee and the designer and co-editor of the academy masters exhibition catalogue. The professional design credit supports the local association."
+  },
+  {
+   "id": "reviewed:tea-vellerind",
+   "name": "Tea Vellerind",
+   "labels": {
+    "et": "Tea Vellerind"
+   },
+   "aliases": [
+    "Tea"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://eaa.ee/node/1437",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-OLIVIA-NOGISTO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-OLIVIA-NOGISTO",
+     "url": "https://eaa.ee/node/1437",
+     "claim": "The Estonian Artists Association professional artist directory lists Tea Vellerind in jewellery, with links to the national jewellery gallery. Exact spelling, professional art form and association are explicit."
+    }
+   ],
+   "claim": "The Estonian Artists Association professional artist directory lists Tea Vellerind in jewellery, with links to the national jewellery gallery. Exact spelling, professional art form and association are explicit."
+  },
+  {
+   "id": "reviewed:marja-matiisen",
+   "name": "Marja Matiisen",
+   "labels": {
+    "et": "Marja Matiisen"
+   },
+   "aliases": [
+    "Marja"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ULVE-KANGRO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ULVE-KANGRO",
+     "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+     "claim": "The Estonian Folk Art and Craft Union lists Marja Matiisen as a 2023 Pärandihoidja laureate for preserving and developing the craft field. This national professional award supports the art role and local association."
+    }
+   ],
+   "claim": "The Estonian Folk Art and Craft Union lists Marja Matiisen as a 2023 Pärandihoidja laureate for preserving and developing the craft field. This national professional award supports the art role and local association."
+  },
+  {
+   "id": "reviewed:meeri-raadik",
+   "name": "Meeri Raadik",
+   "labels": {
+    "et": "Meeri Raadik"
+   },
+   "aliases": [
+    "Meeri"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ULVE-KANGRO"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ULVE-KANGRO",
+     "url": "https://folkart.ee/meist/tunnustamine/parandihoidja/",
+     "claim": "The Estonian Folk Art and Craft Union identifies Meeri Raadik as a craft master and promoter from Ida-Virumaa, with a lifetime Pärandihoidja award for national craft traditions."
+    }
+   ],
+   "claim": "The Estonian Folk Art and Craft Union identifies Meeri Raadik as a craft master and promoter from Ida-Virumaa, with a lifetime Pärandihoidja award for national craft traditions."
+  },
+  {
+   "id": "reviewed:thea-karin",
+   "name": "Thea Karin",
+   "labels": {
+    "et": "Thea Karin"
+   },
+   "aliases": [
+    "Thea"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "writer",
+   "round": 179,
+   "source": {
+    "url": "https://albion.ee/reisijuhid/thea-karin",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-THEA-KARIN"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-THEA-KARIN",
+     "url": "https://albion.ee/reisijuhid/thea-karin",
+     "claim": "The travel organisation biography identifies Thea Karin as a travel journalist and author of a German-language guide to Estonia and documents her Reisirada broadcasts on Estonian Kuku Radio. Professional broadcasting supports the local association; no nationality is inferred from her name."
+    }
+   ],
+   "claim": "The travel organisation biography identifies Thea Karin as a travel journalist and author of a German-language guide to Estonia and documents her Reisirada broadcasts on Estonian Kuku Radio. Professional broadcasting supports the local association; no nationality is inferred from her name."
+  },
+  {
+   "id": "reviewed:helina-loid-kudu",
+   "name": "Helina Loid-Kudu",
+   "labels": {
+    "et": "Helina Loid-Kudu"
+   },
+   "aliases": [
+    "Helina"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 179,
+   "source": {
+    "url": "https://ekabl.ee/id/loidkuduhelina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-HELINA-LOID-KUDU"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-HELINA-LOID-KUDU",
+     "url": "https://ekabl.ee/id/loidkuduhelina",
+     "claim": "The Estonian art and architecture biographical database identifies Helina Loid-Kudu as a painter and lists her professional exhibitions. The Estonian institutional exhibition record supports the local association."
+    }
+   ],
+   "claim": "The Estonian art and architecture biographical database identifies Helina Loid-Kudu as a painter and lists her professional exhibitions. The Estonian institutional exhibition record supports the local association."
   }
  ]
 }
