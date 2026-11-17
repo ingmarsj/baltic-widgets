@@ -1,5 +1,5 @@
 {
-  "writer_version": "namedays-1.9.143",
+  "writer_version": "namedays-1.9.144",
   "enabled_countries": [
     "lv",
     "lt",
@@ -37,7 +37,7 @@
       "profiles": 1568,
       "hidden_zero_bearers": 0,
       "documented": 1316,
-      "with_namesakes": 748,
+      "with_namesakes": 749,
       "with_attestation": 198,
       "with_word_meanings": 54,
       "research_pending": 8,

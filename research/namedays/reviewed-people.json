@@ -20884,6 +20884,456 @@
     }
    ],
    "claim": "Estonian Artists Association’s own directory of members and resident artists’ shops identifies Olivia Nõgisto under illustration. Association rests on documented professional local illustration activity, not inferred birthplace or citizenship."
+  },
+  {
+   "id": "reviewed:zigmunds-bekmanis",
+   "name": "Zigmunds Bekmanis",
+   "labels": {
+    "lv": "Zigmunds Bekmanis"
+   },
+   "aliases": [
+    "Zigmunds"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 174,
+   "source": {
+    "url": "https://www.literatura.lv/personas/zigmunds-bekmanis",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-ZIGMUNDS-BEKMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-ZIGMUNDS-BEKMANIS",
+     "url": "https://www.literatura.lv/personas/zigmunds-bekmanis",
+     "claim": "The national literature biography identifies poet, journalist and novelist Zigmunds Bekmanis, born in Burtnieki in 1966, and lists his published poetry and novel. Geographic birthplace supports the Latvian association."
+    }
+   ],
+   "claim": "The national literature biography identifies poet, journalist and novelist Zigmunds Bekmanis, born in Burtnieki in 1966, and lists his published poetry and novel. Geographic birthplace supports the Latvian association."
+  },
+  {
+   "id": "reviewed:maiu-mooses",
+   "name": "Maiu Mooses",
+   "labels": {
+    "et": "Maiu Mooses"
+   },
+   "aliases": [
+    "Maiu"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 174,
+   "source": {
+    "url": "https://galerii.eaa.ee/vabaduse/?p=5240",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-MAIU-MOOSES"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-MAIU-MOOSES",
+     "url": "https://galerii.eaa.ee/vabaduse/?p=5240",
+     "claim": "Estonian Artists Association’s Vabaduse Gallery exhibition biography identifies artist Maiu Mooses, born in Rapla in 1974, and documents her art education, teaching and exhibitions. Geographic birthplace and professional art activity support the association."
+    }
+   ],
+   "claim": "Estonian Artists Association’s Vabaduse Gallery exhibition biography identifies artist Maiu Mooses, born in Rapla in 1974, and documents her art education, teaching and exhibitions. Geographic birthplace and professional art activity support the association."
+  },
+  {
+   "id": "reviewed:saale-fischer",
+   "name": "Saale Fischer",
+   "labels": {
+    "et": "Saale Fischer"
+   },
+   "aliases": [
+    "Saale"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "musician",
+   "round": 174,
+   "source": {
+    "url": "https://interpreet.ee/liikmed/saale-fischer/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-SAALE-FISCHER"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-SAALE-FISCHER",
+     "url": "https://interpreet.ee/liikmed/saale-fischer/",
+     "claim": "Estonian Performers Association’s own member biography identifies harpsichordist Saale Fischer, born in 1979, her Estonian music education and professional performances, ensemble and teaching activity. Association is documented local musical work, not inferred citizenship."
+    }
+   ],
+   "claim": "Estonian Performers Association’s own member biography identifies harpsichordist Saale Fischer, born in 1979, her Estonian music education and professional performances, ensemble and teaching activity. Association is documented local musical work, not inferred citizenship."
+  },
+  {
+   "id": "reviewed:jaunius-sakalys",
+   "name": "Jaunius Šakalys",
+   "labels": {
+    "lt": "Jaunius Šakalys"
+   },
+   "aliases": [
+    "Jaunius"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 174,
+   "source": {
+    "url": "https://www.mic.lt/lt/ivykiai/2021/04/30/karantino-subrandintas-konkurso-vox-juventutis-lau/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-JAUNIUS-SAKALYS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-JAUNIUS-SAKALYS",
+     "url": "https://www.mic.lt/lt/ivykiai/2021/04/30/karantino-subrandintas-konkurso-vox-juventutis-lau/",
+     "claim": "Music Information Centre Lithuania’s concert announcement explicitly identifies conductor Jaunius Šakalys leading Vilnius municipal choir Jauna muzika in the Vox juventutis laureates concert. Association is professional national musical activity, not inferred nationality."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s concert announcement explicitly identifies conductor Jaunius Šakalys leading Vilnius municipal choir Jauna muzika in the Vox juventutis laureates concert. Association is professional national musical activity, not inferred nationality."
+  },
+  {
+   "id": "reviewed:lita-silova",
+   "name": "Lita Silova",
+   "labels": {
+    "lv": "Lita Silova"
+   },
+   "aliases": [
+    "Lita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "scientist",
+   "round": 174,
+   "source": {
+    "url": "https://www.literatura.lv/personas/lita-silova",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LITA-SILOVA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LITA-SILOVA",
+     "url": "https://www.literatura.lv/personas/lita-silova",
+     "claim": "The national literature biography identifies literary researcher, critic and teacher Lita Silova, with a doctorate in philology, and documents her Latvian literary research and educational work. Association is professional scholarly activity."
+    }
+   ],
+   "claim": "The national literature biography identifies literary researcher, critic and teacher Lita Silova, with a doctorate in philology, and documents her Latvian literary research and educational work. Association is professional scholarly activity."
+  },
+  {
+   "id": "reviewed:leontine-apseniece",
+   "name": "Leontīne Apšeniece",
+   "labels": {
+    "lv": "Leontīne Apšeniece"
+   },
+   "aliases": [
+    "Leontīne"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 174,
+   "source": {
+    "url": "https://www.literatura.lv/personas/leontine-apseniece",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LEONTINE-APSENIECE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LEONTINE-APSENIECE",
+     "url": "https://www.literatura.lv/personas/leontine-apseniece",
+     "claim": "The national literature biography identifies poet Leontīne Apšeniece, born in Javenieki in Bērzpils parish, and her published poetry and song lyrics. The exact real first name is Leontīne; her separate pen name Ziedīte Indeve is not treated as this first name."
+    }
+   ],
+   "claim": "The national literature biography identifies poet Leontīne Apšeniece, born in Javenieki in Bērzpils parish, and her published poetry and song lyrics. The exact real first name is Leontīne; her separate pen name Ziedīte Indeve is not treated as this first name."
+  },
+  {
+   "id": "reviewed:gunita-lagzdina",
+   "name": "Gunita Lagzdiņa",
+   "labels": {
+    "lv": "Gunita Lagzdiņa"
+   },
+   "aliases": [
+    "Gunita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 174,
+   "source": {
+    "url": "https://www.literatura.lv/personas/gunita-lagzdina",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GUNITA-LAGZDINA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GUNITA-LAGZDINA",
+     "url": "https://www.literatura.lv/personas/gunita-lagzdina",
+     "claim": "The national literature biography identifies novelist and editor Gunita Lagzdiņa, born in Saldus in 1977, and her published short-story collections and novels. Birthplace supports geographic association."
+    }
+   ],
+   "claim": "The national literature biography identifies novelist and editor Gunita Lagzdiņa, born in Saldus in 1977, and her published short-story collections and novels. Birthplace supports geographic association."
+  },
+  {
+   "id": "reviewed:gunita-boka",
+   "name": "Gunita Boka",
+   "labels": {
+    "lv": "Gunita Boka"
+   },
+   "aliases": [
+    "Gunita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 174,
+   "source": {
+    "url": "https://www.literatura.lv/personas/gunita-boka",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-GUNITA-BOKA"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-GUNITA-BOKA",
+     "url": "https://www.literatura.lv/personas/gunita-boka",
+     "claim": "The national literature biography identifies poet and writer Gunita Boka, born in Liepāja in 1970, and her published poetry and prose collections. Birthplace supports geographic association."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and writer Gunita Boka, born in Liepāja in 1970, and her published poetry and prose collections. Birthplace supports geographic association."
+  },
+  {
+   "id": "reviewed:gaile-griciute",
+   "name": "Gailė Griciūtė",
+   "labels": {
+    "lt": "Gailė Griciūtė"
+   },
+   "aliases": [
+    "Gailė"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 174,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/griciute/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-GAILE-GRICIUTE"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-GAILE-GRICIUTE",
+     "url": "https://www.mic.lt/lt/baze/klasikine-siuolaikine/kompozitoriai/griciute/",
+     "claim": "Music Information Centre Lithuania’s composer biography identifies composer, performer and sound artist Gailė Griciūtė and documents her participation in Lithuanian festivals and professional music projects. Association is documented professional activity."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s composer biography identifies composer, performer and sound artist Gailė Griciūtė and documents her participation in Lithuanian festivals and professional music projects. Association is documented professional activity."
+  },
+  {
+   "id": "reviewed:aras-zvirblys",
+   "name": "Aras Žvirblys",
+   "labels": {
+    "lt": "Aras Žvirblys"
+   },
+   "aliases": [
+    "Aras"
+   ],
+   "countries": [
+    "lt"
+   ],
+   "role": "musician",
+   "round": 174,
+   "source": {
+    "url": "https://www.mic.lt/lt/baze/pop-rock-urban/irasu-leidiniai/355/",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LT-ARAS-ZVIRBLYS"
+   },
+   "country_sources": [
+    {
+     "country": "lt",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LT-ARAS-ZVIRBLYS",
+     "url": "https://www.mic.lt/lt/baze/pop-rock-urban/irasu-leidiniai/355/",
+     "claim": "Music Information Centre Lithuania’s catalogue credits Aras Žvirblys as arranger on Amberlife’s published 2007 album The Music Wont Stop. Association rests on professional Lithuanian recording work; the role is musical arrangement, not a claim that he is the album’s singer."
+    }
+   ],
+   "claim": "Music Information Centre Lithuania’s catalogue credits Aras Žvirblys as arranger on Amberlife’s published 2007 album The Music Wont Stop. Association rests on professional Lithuanian recording work; the role is musical arrangement, not a claim that he is the album’s singer."
+  },
+  {
+   "id": "reviewed:esta-voss",
+   "name": "Esta Voss",
+   "labels": {
+    "et": "Esta Voss"
+   },
+   "aliases": [
+    "Esta"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 174,
+   "source": {
+    "url": "https://www.eaa.ee/liidu-juubilarid-ja-sunnipaevalised-veebruar-2026",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ESTA-VOSS"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ESTA-VOSS",
+     "url": "https://www.eaa.ee/liidu-juubilarid-ja-sunnipaevalised-veebruar-2026",
+     "claim": "Estonian Artists Association’s own anniversary announcement explicitly identifies leather artist Esta Voss among its members. This supports professional artistic activity in Estonia; no birthday-tier record or inferred birthplace is added."
+    }
+   ],
+   "claim": "Estonian Artists Association’s own anniversary announcement explicitly identifies leather artist Esta Voss among its members. This supports professional artistic activity in Estonia; no birthday-tier record or inferred birthplace is added."
+  },
+  {
+   "id": "reviewed:lolita-gulbe",
+   "name": "Lolita Gulbe",
+   "labels": {
+    "lv": "Lolita Gulbe"
+   },
+   "aliases": [
+    "Lolita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 174,
+   "source": {
+    "url": "https://www.literatura.lv/personas/lolita-gulbe",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-GULBE"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-GULBE",
+     "url": "https://www.literatura.lv/personas/lolita-gulbe",
+     "claim": "The national literature biography identifies poet Lolita Gulbe, born in Jelgava in 1931, and her published poetry collections and Latvian diaspora literary work. Birthplace supports the geographic association."
+    }
+   ],
+   "claim": "The national literature biography identifies poet Lolita Gulbe, born in Jelgava in 1931, and her published poetry collections and Latvian diaspora literary work. Birthplace supports the geographic association."
+  },
+  {
+   "id": "reviewed:lolita-ritmanis",
+   "name": "Lolita Ritmanis",
+   "labels": {
+    "lv": "Lolita Ritmanis"
+   },
+   "aliases": [
+    "Lolita"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "musician",
+   "round": 174,
+   "source": {
+    "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-LOLITA-RITMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-LOLITA-RITMANIS",
+     "url": "https://www.nkc.gov.lv/lv/jaunums/preses-konference-pazinoti-nacionalas-kino-balvas-lielais-kristaps-2025-nominanti",
+     "claim": "Latvia’s National Film Centre’s own 2025 national film-award announcement identifies Lolita Ritmanis in its film-music composer nomination category. Association is documented national professional cultural activity, not a claim that she was born in Latvia or currently resides there."
+    }
+   ],
+   "claim": "Latvia’s National Film Centre’s own 2025 national film-award announcement identifies Lolita Ritmanis in its film-music composer nomination category. Association is documented national professional cultural activity, not a claim that she was born in Latvia or currently resides there."
+  },
+  {
+   "id": "reviewed:ingmars-freimanis",
+   "name": "Ingmārs Freimanis",
+   "labels": {
+    "lv": "Ingmārs Freimanis"
+   },
+   "aliases": [
+    "Ingmārs"
+   ],
+   "countries": [
+    "lv"
+   ],
+   "role": "writer",
+   "round": 174,
+   "source": {
+    "url": "https://www.literatura.lv/personas/ingmars-freimanis",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-LV-INGMARS-FREIMANIS"
+   },
+   "country_sources": [
+    {
+     "country": "lv",
+     "property": "public_activity",
+     "source_id": "PEOPLE-LV-INGMARS-FREIMANIS",
+     "url": "https://www.literatura.lv/personas/ingmars-freimanis",
+     "claim": "The national literature biography identifies poet and publicist Ingmārs Freimanis, born in Riga in 1987, and his published poetry collection Sirds un mute (2024). Birthplace supports geographic association."
+    }
+   ],
+   "claim": "The national literature biography identifies poet and publicist Ingmārs Freimanis, born in Riga in 1987, and his published poetry collection Sirds un mute (2024). Birthplace supports geographic association."
+  },
+  {
+   "id": "reviewed:miina-vilo",
+   "name": "Miina Vilo",
+   "labels": {
+    "et": "Miina Vilo"
+   },
+   "aliases": [
+    "Miina"
+   ],
+   "countries": [
+    "ee"
+   ],
+   "role": "artist",
+   "round": 174,
+   "source": {
+    "url": "https://www.eaa.ee/en/69th-annual-exhibition-tartu-art-and-worlds-first-exhibition-multisurrealism-tartu-art-house",
+    "type": "reviewed_biography",
+    "source_id": "PEOPLE-EE-ENELI-VALGE"
+   },
+   "country_sources": [
+    {
+     "country": "ee",
+     "property": "public_activity",
+     "source_id": "PEOPLE-EE-ENELI-VALGE",
+     "url": "https://www.eaa.ee/en/69th-annual-exhibition-tartu-art-and-worlds-first-exhibition-multisurrealism-tartu-art-house",
+     "claim": "Reused the already cached Estonian Artists Association announcement of the 69th Annual Exhibition of Tartu Art: its selected artists explicitly include Miina Vilo. Country association rests on professional local exhibition activity; the source was not fetched or researched again."
+    }
+   ],
+   "claim": "Reused the already cached Estonian Artists Association announcement of the 69th Annual Exhibition of Tartu Art: its selected artists explicitly include Miina Vilo. Country association rests on professional local exhibition activity; the source was not fetched or researched again."
   }
  ]
 }
