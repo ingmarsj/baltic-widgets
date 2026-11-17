@@ -21,13 +21,27 @@ test('Bitcoin backfill rejects truncated pagination and missing/invalid prices',
   assert.throws(()=>parseGold([{data:'2020-01-01',cena:-3}],'test'));
 });
 
-test('monthly European gas and gold use same-month historical FX and preserve raw units; missing EUR months are not invented',()=>{
+test('monthly European gas uses same-month historical FX and preserve raw units; missing EUR months are not invented',()=>{
   const db=new DatabaseSync(':memory:');db.exec('CREATE TABLE metadata(key TEXT PRIMARY KEY,value TEXT)');
   const row=(series,at,value,unit)=>({series,at:at+'T00:00:00.000Z',value,unit,source:'test',source_url:'test'});
   saveMarketRows(db,[row('eur_usd','2020-01-02',1,'USD/EUR'),row('eur_usd','2020-01-31',3,'USD/EUR'),row('eur_usd','2020-02-03',10,'USD/EUR'),row('gas_europe_monthly_usd','2020-01-01',10,'USD/MMBtu'),row('gold_monthly_usd','2020-01-01',1000,'USD/oz'),row('gas_europe_monthly_usd','1960-01-01',0.4,'USD/MMBtu')]);
-  assert.equal(convertMonthlyMarketsToEUR(db),2);convertMonthlyMarketsToEUR(db);
+  assert.equal(convertMonthlyMarketsToEUR(db),1);convertMonthlyMarketsToEUR(db);
   const gas=db.prepare("SELECT * FROM market_prices WHERE series='gas_europe_monthly_eur'").get();
   assert.ok(Math.abs(MMBTU_PER_MWH-3.412141633)<1e-9);assert.equal(gas.value,10*MMBTU_PER_MWH/2);assert.equal(gas.unit,'EUR/MWh');assert.equal(gas.raw_value,10);assert.equal(gas.raw_unit,'USD/MMBtu');
-  assert.equal(db.prepare("SELECT value FROM market_prices WHERE series='gold_monthly_eur'").get().value,500);
+  assert.equal(db.prepare("SELECT value FROM market_prices WHERE series='gold_monthly_eur'").get(),undefined);
   assert.equal(db.prepare("SELECT count(*) AS n FROM market_prices WHERE series='gas_europe_monthly_eur'").get().n,1);db.close();
+});
+
+
+test('gold publishes only NBP history even when an old monthly archive exists',()=>{
+  const db=new DatabaseSync(':memory:');db.exec('CREATE TABLE metadata(key TEXT PRIMARY KEY,value TEXT)');
+  saveMarketRows(db,[
+    {series:'gold_eur_oz',at:'2026-11-16T00:00:00Z',value:3500,unit:'EUR/oz',source:'NBP / ECB FX',source_url:'test'},
+    {series:'gold_monthly_eur',at:'2026-10-01T00:00:00Z',value:3400,unit:'EUR/oz',source:'World Bank',source_url:'test'}
+  ]);
+  const doc=exchangeData(db);
+  assert.equal(doc.data.gold_eur_oz.history_source,'NBP / ECB FX');
+  assert.equal(doc.data.gold_eur_oz.chart_series,undefined);
+  assert.ok(!doc.source.includes('World Bank'));
+  db.close();
 });

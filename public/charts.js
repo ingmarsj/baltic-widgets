@@ -1,7 +1,7 @@
 import {openModal} from './modal.js';
 import {t,locale} from './i18n.js';
 import {seriesForPeriod} from './chart-periods.js';
-import {chartWindow,priceChange,nearestPoint,colorTrend,energyUnit} from './chart-math.js';
+import {chartWindow,priceChange,nearestPoint,colorTrend,energyUnit,rangeChange} from './chart-math.js';
 const dialog = document.querySelector('.price-dialog');
 const canvas = document.querySelector('#chart-canvas');
 const readout = document.querySelector('.chart-readout');
@@ -84,10 +84,7 @@ function draw(days) {
     readout.textContent = ''; change.textContent = ''; plot = null; return;
   }
   const first = selectedPoints[0], last = selectedPoints.at(-1);
-  const {delta,percent:changePercent} = priceChange(first.value,last.value);
-  change.className = `trend ${colorTrend(delta,active.lowerIsBetter)}`;
-  const percent = !active.percentagePoints && changePercent !== null ? ` (${format(Math.abs(changePercent),2)}%)` : '';
-  change.textContent = `${delta>0?'↑':delta<0?'↓':'–'} ${format(Math.abs(delta),active.digits)}${active.percentagePoints?' '+t('percentage_points','pp'):''}${percent}`;
+  updateChange(first,last);
   let min = Math.min(...selectedPoints.map(p=>p.value)), max = Math.max(...selectedPoints.map(p=>p.value));
   const pad = (max-min)*.18 || Math.max(Math.abs(min)*.02,.01);
   const low = min-pad, high = max+pad;
@@ -136,22 +133,30 @@ function draw(days) {
   highlight(initial);
 }
 
+function updateChange(from,to) {
+  const change=document.querySelector('#chart-change');
+  const {delta,percent}=priceChange(from.value,to.value);
+  change.className=`trend ${colorTrend(delta,active.lowerIsBetter)}`;
+  const suffix=active.percentagePoints?' '+t('percentage_points','pp'):percent===null?'':` (${format(Math.abs(percent),2)}%)`;
+  change.textContent=`${delta>0?'↑':delta<0?'↓':'–'} ${format(Math.abs(delta),active.digits)}${suffix}`;
+}
+
 function highlight(index) {
   if(!plot) return;
   selectedIndex=index;
-  const p=selectedPoints[index];
+  const p=selectedPoints[comparison===null?index:Math.max(comparison,index)];
   plot.focusLine.setAttribute('x1',plot.x(p)); plot.focusLine.setAttribute('x2',plot.x(p));
   plot.dot.setAttribute('cx',plot.x(p)); plot.dot.setAttribute('cy',plot.y(p));
   const pointText=`${dateFormat(p.at,active.displayIntraday)} · ${format(p.value,active.digits)} ${active.unit}`;
   if(comparison !== null){
-    const a=selectedPoints[Math.min(comparison,index)],b=selectedPoints[Math.max(comparison,index)];
-    const {delta,percent}=priceChange(a.value,b.value),sign=delta>0?'+':delta<0?'−':'';
-    const trend=colorTrend(delta,active.lowerIsBetter);
+    const {from:a,to:b,delta,percent,trend}=rangeChange(selectedPoints,comparison,index,active.lowerIsBetter);
+    const sign=delta>0?'+':delta<0?'−':'';
+    updateChange(a,b);
     plot.svg.dataset.rangeTrend=trend;
     plot.selection.setAttribute('x',plot.x(a));plot.selection.setAttribute('width',plot.x(b)-plot.x(a));
     plot.selectionClip.setAttribute('x',plot.x(a));plot.selectionClip.setAttribute('width',plot.x(b)-plot.x(a));
     for(const n of [plot.selection,plot.selectedLine,plot.anchorLine,plot.anchorDot])n.setAttribute('visibility','visible');
-    const anchor=selectedPoints[comparison];
+    const anchor=a;
     plot.anchorLine.setAttribute('x1',plot.x(anchor));plot.anchorLine.setAttribute('x2',plot.x(anchor));
     plot.anchorDot.setAttribute('cx',plot.x(anchor));plot.anchorDot.setAttribute('cy',plot.y(anchor));
     readout.replaceChildren(
@@ -160,6 +165,7 @@ function highlight(index) {
       node('span','chart-comparison-values',`${format(a.value,active.digits)} → ${format(b.value,active.digits)} ${active.unit}`)
     );
   }else{
+    updateChange(selectedPoints[0],selectedPoints.at(-1));
     delete plot.svg.dataset.rangeTrend;
     for(const n of [plot.selection,plot.selectedLine,plot.anchorLine,plot.anchorDot])n.setAttribute('visibility','hidden');
     readout.textContent=pointText;
@@ -171,7 +177,7 @@ canvas.addEventListener('keydown',event=>{
   highlight(event.key==='Home'?0:event.key==='End'?selectedPoints.length-1:Math.max(0,Math.min(selectedPoints.length-1,selectedIndex+(event.key==='ArrowRight'?1:-1))));
 });
 function hoverPrice(index,event){
-  if(event.pointerType!=='mouse'){plot.tooltip.hidden=true;return;}
+  if(event.pointerType!=='mouse'||comparison!==null){plot.tooltip.hidden=true;return;}
   const tooltip=plot.tooltip,rect=canvas.getBoundingClientRect();
   tooltip.textContent=`${format(selectedPoints[index].value,active.digits)} ${active.unit}`;tooltip.hidden=false;
   tooltip.style.left=Math.max(4,Math.min(event.clientX-rect.left+12,canvas.clientWidth-tooltip.offsetWidth-4))+'px';
