@@ -46,7 +46,7 @@ async function renderDialog(){
   const doc=await day(state.country,lang,date);if(ticket!==renderTicket||!dialog.open)return;
   state.date=date;state.day=doc;state.profiles=Object.fromEntries(doc.names.map(p=>[p.name,p]));
   const names=doc.names.map(p=>({key:p.name,name:p.name}));state.selected=names.some(n=>n.key===state.selected)?state.selected:names[0]?.key;
-  const cloud=dialog.querySelector('.nameday-names');cloud.setAttribute('role','group');cloud.setAttribute('aria-label',tr('all'));cloud.scrollTop=0;names.forEach(n=>{const b=button('nameday-name',n.name,()=>{state.selected=n.key;state.variant=0;renderSelection();renderContent();});b.dataset.key=n.key;cloud.append(b);});
+  const cloud=dialog.querySelector('.nameday-names');cloud.setAttribute('role','group');cloud.setAttribute('aria-label',tr('all'));cloud.scrollTop=0;names.forEach(n=>{const b=button('nameday-name',n.name,()=>{state.selected=n.key;if(state.tab!=='wish')state.variant=0;renderSelection();renderContent();});b.dataset.key=n.key;cloud.append(b);});
   renderSelection();renderContent();
  }catch{if(ticket!==renderTicket)return;content.replaceChildren(element('p','',tr('error')),button('nameday-retry',tr('retry'),renderDialog));}
 }
@@ -62,6 +62,7 @@ function renderContent(){
   else content.append(element('p','nameday-state',tr('noBirthdays')));
   return;
  }
+ if(state.tab==='wish'){renderGreetings(content);return;}
  if(!state.selected){content.append(element('p','',tr('empty')));return;}
  const profile=state.profiles?.[state.selected];
  if(!profile){content.append(element('p','',tr('error')));return;}
@@ -72,12 +73,14 @@ function renderContent(){
   const groups=Object.entries(profile.namesakes).filter(([,people])=>people.length);
   if(!groups.length){content.append(element('p','nameday-state',tr('noPeople')));return;}
   for(const [tier,people]of groups){content.append(element('h3','',tr(tier)));appendPeople(people);}
- }else{
-  const moods=element('div','nameday-moods');for(const key of ['serious','humor']){const b=button('',tr(key),()=>{state.mood=key;state.variant=0;renderContent();});b.setAttribute('aria-pressed',String(state.mood===key));moods.append(b);}
-  const greeting=element('p','nameday-greeting',profile.greetings[state.mood][state.variant%3]);
-  const actions=element('div','nameday-actions');const copyButton=button('',tr('copy'),async()=>{try{await navigator.clipboard.writeText(greeting.textContent);copyButton.textContent=tr('copied');}catch{const range=document.createRange();range.selectNodeContents(greeting);const selection=getSelection();selection.removeAllRanges();selection.addRange(range);copyButton.textContent=tr('copyError');}});
-  actions.append(copyButton,button('',tr('another'),()=>{state.variant=(state.variant+1)%3;renderContent();}));content.append(moods,greeting,actions);
  }
+}
+function renderGreetings(content){
+ const copies=state.day.greetings[state.mood];
+  const moods=element('div','nameday-moods');for(const key of ['serious','humor']){const b=button('',tr(key),()=>{state.mood=key;state.variant=0;renderContent();});b.setAttribute('aria-pressed',String(state.mood===key));moods.append(b);}
+  const greeting=element('p','nameday-greeting',copies[state.variant%copies.length]);
+  const actions=element('div','nameday-actions');const copyButton=button('',tr('copy'),async()=>{try{await navigator.clipboard.writeText(greeting.textContent);copyButton.textContent=tr('copied');}catch{const range=document.createRange();range.selectNodeContents(greeting);const selection=getSelection();selection.removeAllRanges();selection.addRange(range);copyButton.textContent=tr('copyError');}});
+  actions.append(copyButton,button('',tr('another'),()=>{state.variant=(state.variant+1)%copies.length;renderContent();}));content.append(moods,greeting,actions);
 }
 const observed=new WeakMap();
 const loadTickets=new WeakMap();
