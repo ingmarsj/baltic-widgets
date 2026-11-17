@@ -69,9 +69,10 @@
     }
   ],
   "validation": {
-    "automated_data_audit": "passed",
-    "tests": "pending",
-    "build": "pending",
-    "browser": "pending"
+    "automated_data_audit": "passed for every annual profile and calendar membership: historical facts and origins preserved; only the explicitly audited generated Reeda namesake example changed in five languages; every previous person and five distinct birthday places preserved",
+    "tests": "168/168 passed in isolated publication worktree after merging origin/main ce53170",
+    "build": "passed in the same isolated publication worktree",
+    "browser": "passed in isolated preview: LT Gailė on 17 May 2028 (new graphic designer); LV Kitija on 28 June 2028 (new researcher, five local namesakes); EE Ragne on 15 July 2028 (new artist and scholar, five local namesakes); EE Reeda on 13 July 2028 (updated generated example, unchanged hypothesis, all previous namesakes retained). Five birthday people visible on each card.",
+    "isolation": "Unrelated chart/market changes in the shared worktree were preserved. Publication incorporates already committed main changes and the round 180 batch only."
   }
 }
