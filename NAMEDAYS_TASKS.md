@@ -6,6 +6,8 @@ This is the maintained task entry point. Read it before continuing name-day work
 
 Continue from **2 August**, after the completed round 180 three-month follow-up through 1 August. Publish each validated batch to main as authorized by the user.
 
+UI follow-up (17 November 2026): the birthday tab uses short labels (Born / Родились / Dzimuši / Gimė / Sündinud), with natural-width non-wrapping tabs and smaller gaps on narrow screens. Research continuation is unchanged.
+
 Round 181 changes delivery, not research content: one prepared JSON per day/language/country, separate Namesakes and Birthdays tabs, and country-owned birthday selections duplicated into each day payload. All annual editorial inputs, provenance and open research queues are retained. The next namesake date is still **2 August**. See [delivery rules](NAMEDAYS.md#ready-to-render-day-delivery-round-181).
 
 **Calendar-cycle status:** the first calendar-order closure pass was completed in rounds 120–128. The later local exact namesake follow-up (round 169 onward) completed its first full calendar cycle during round 178. Current work revisits remaining under-five gaps with new targeted sources; broad discovery runs are exhausted and must not be restarted. A completed cycle does not mean every rare name has five bearers or a verified history.

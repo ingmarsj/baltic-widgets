@@ -43,7 +43,7 @@ const bundles={
   "archivalVariant": "В одном архивном описании один и тот же человек назван {name} и {names}.",
   "birthdayPeople": "Родились в этот день",
   "bornOn": "Дата рождения: {date} {year}",
-  "birthdays": "Дни рождения",
+  "birthdays": "Родились",
   "noBirthdays": "На этот день пока нет проверенных биографий."
  },
  "en": {
@@ -90,7 +90,7 @@ const bundles={
   "archivalVariant": "One archive description uses both {name} and {names} for the same person.",
   "birthdayPeople": "Born on this day",
   "bornOn": "Born: {date} {year}",
-  "birthdays": "Birthdays",
+  "birthdays": "Born",
   "noBirthdays": "No verified birthdays for this day yet."
  },
  "lv": {
@@ -137,7 +137,7 @@ const bundles={
   "archivalVariant": "Vienā arhīva aprakstā viens un tas pats cilvēks minēts kā {name} un {names}.",
   "birthdayPeople": "Dzimuši šajā dienā",
   "bornOn": "Dzimšanas datums: {date} {year}",
-  "birthdays": "Dzimšanas dienas",
+  "birthdays": "Dzimuši",
   "noBirthdays": "Šai dienai pārbaudītu biogrāfiju vēl nav."
  },
  "lt": {
@@ -184,7 +184,7 @@ const bundles={
   "archivalVariant": "Viename archyvo apraše tas pats žmogus įvardytas kaip {name} ir {names}.",
   "birthdayPeople": "Gimę šią dieną",
   "bornOn": "Gimimo data: {date} {year}",
-  "birthdays": "Gimtadieniai",
+  "birthdays": "Gimė",
   "noBirthdays": "Šiai dienai patikrintų biografijų dar nėra."
  },
  "et": {
@@ -231,7 +231,7 @@ const bundles={
   "archivalVariant": "Ühes arhiivikirjelduses kasutatakse sama inimese kohta kujusid {name} ja {names}.",
   "birthdayPeople": "Sündinud sel päeval",
   "bornOn": "Sünniaeg: {date} {year}",
-  "birthdays": "Sünnipäevad",
+  "birthdays": "Sündinud",
   "noBirthdays": "Selle päeva kohta pole veel kontrollitud elulugusid."
  }
 };
