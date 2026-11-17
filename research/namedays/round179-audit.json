@@ -54,9 +54,10 @@
   },
   "compiled_history_deltas": [],
   "validation": {
-    "automated_data_audit": "passed",
-    "tests": "pending",
-    "build": "pending",
-    "browser": "pending"
+    "automated_data_audit": "passed across all annual profiles and calendar memberships: unchanged facts and final histories in five languages; every previous person and five distinct birthday places preserved",
+    "tests": "168/168 passed in isolated publication worktree after merging origin/main 8b0b92f",
+    "build": "passed in the same isolated publication worktree",
+    "browser": "passed in isolated preview: LV Laimdota on 11 February 2028 (new Malle, five local namesakes); LV Agita on 11 March 2028 (four new people, seven local namesakes); LT Dainora on 1 April 2028 (new scholar); EE Helina on 22 February 2028 (new painter). Five birthday people visible on every card.",
+    "isolation": "Unrelated chart/market edits in the shared worktree were preserved; publication incorporates already committed main changes and the round 179 batch only."
   }
 }
