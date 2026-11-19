@@ -3,11 +3,9 @@ import {dayKey} from './namedays-core.js';
 export function validateDay(doc,{country,language,date}){
  const person=p=>p&&typeof p.name==='string'&&!!p.name&&typeof p.description==='string'&&!!p.description;
  if(doc?.country!==country||doc.language!==language||doc.day!==dayKey(date)||!Array.isArray(doc.names)||!Array.isArray(doc.birthdays)||!doc.birthdays.every(person))throw Error('Invalid name-day document');
- const validGreetings=['serious','humor'].every(m=>Array.isArray(doc.greetings?.[m])&&doc.greetings[m].length>0&&doc.greetings[m].every(t=>typeof t==='string'&&!!t&&!t.includes('{name}')));
- if(!validGreetings)throw Error('Invalid name-day greetings');
  const names=new Set();
  for(const p of doc.names){
-  if(!p||typeof p.name!=='string'||!p.name||names.has(p.name)||!Array.isArray(p.history)||!p.history.every(b=>['heading','paragraph'].includes(b.type)&&typeof b.text==='string'&&b.text)||!(p.population===null||typeof p.population==='string')||!Array.isArray(p.namesakes?.local)||!Array.isArray(p.namesakes?.international)||![...p.namesakes.local,...p.namesakes.international].every(person))throw Error('Invalid name-day content');
+  if(!p||typeof p.name!=='string'||!p.name||names.has(p.name)||!Array.isArray(p.history)||!p.history.every(b=>['heading','paragraph'].includes(b.type)&&typeof b.text==='string'&&b.text)||!(p.population===null||typeof p.population==='string')||!Array.isArray(p.namesakes?.local)||!Array.isArray(p.namesakes?.international)||![...p.namesakes.local,...p.namesakes.international].every(person)||!['serious','humor'].every(m=>Array.isArray(p.greetings?.[m])&&p.greetings[m].length===3&&p.greetings[m].every(t=>typeof t==='string'&&t)))throw Error('Invalid name-day content');
   names.add(p.name);
  }
  return doc;

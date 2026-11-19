@@ -23,7 +23,7 @@
 .nameday-name{font-size:12px;line-height:18px;max-width:100%;overflow-wrap:anywhere;padding:4px 9px;border:1px solid var(--portal-border-secondary,var(--line,light-dark(#e8e8ed,#3d3e44)));border-radius:20px;background:transparent;color:inherit}
 .nameday-name[aria-pressed=true]{background:light-dark(#fbefef,#402a2d);border-color:transparent;color:light-dark(#b62528,#ed929b)}
 .nameday-tabs{display:flex;gap:12px;border-bottom:1px solid var(--portal-border-secondary,var(--line,light-dark(#e8e8ed,#3d3e44)));margin-bottom:14px}
-.nameday-tabs button{min-width:0;flex:none;text-align:left;white-space:nowrap}
+.nameday-tabs button{min-width:0;flex:1;text-align:left;overflow-wrap:normal}
 .nameday-tabs button{font-size:12px;line-height:20px;background:transparent;color:var(--portal-text-secondary,var(--secondary,light-dark(#808084,#a0a0a8)));border:0;border-bottom:2px solid transparent;padding:0 0 8px}
 .nameday-tabs button[aria-selected=true]{color:inherit;border-bottom-color:light-dark(#b62528,#ed929b)}
 .nameday-content{font-size:13px;line-height:1.65;min-height:130px;overflow-wrap:anywhere}
@@ -46,7 +46,7 @@
 html[data-bs-theme=dark] .nameday-dialog,html[data-theme=dark] .nameday-dialog,html[data-bs-theme=dark] .nameday-widget,html[data-theme=dark] .nameday-widget{color-scheme:dark}
 html[data-bs-theme=light] .nameday-dialog,html[data-theme=light] .nameday-dialog,html[data-bs-theme=light] .nameday-widget,html[data-theme=light] .nameday-widget{color-scheme:light}
 @media(pointer:coarse){.nameday-days button,.nameday-tabs button,.nameday-name,.nameday-actions button,.nameday-moods button{min-height:36px}.nameday-close{width:36px;height:36px}.nameday-clouds{padding-bottom:2px}}
-@media(max-width:360px){.nameday-dialog{padding:15px}.nameday-tabs{gap:8px}}
+@media(max-width:360px){.nameday-dialog{padding:15px}.nameday-tabs{gap:13px}}
 
 /* A fixed shell keeps the selected name and tab controls in the same place. */
 .nameday-dialog{box-sizing:border-box;height:min(680px,calc(100dvh - 32px));overflow:hidden;scrollbar-gutter:stable}
