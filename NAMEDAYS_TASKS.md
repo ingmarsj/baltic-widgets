@@ -4,6 +4,8 @@ This is the maintained task entry point. Read it before continuing name-day work
 
 ## Active priority: local famous exact namesakes
 
+Header follow-up (20 November 2026): the desktop name-day selector combines a softly tinted gift icon, title and country. In the compact layout, the icon and title move into the widget tab and the country selector sits above the names. The date remains available in the dialog.
+
 Continue from **2 August**, after the completed round 180 three-month follow-up through 1 August. Publish each validated batch to main as authorized by the user.
 
 UI follow-up (17 November 2026): the birthday tab uses short labels (Born / Родились / Dzimuši / Gimė / Sündinud), with natural-width non-wrapping tabs and smaller gaps on narrow screens. Research continuation is unchanged.

@@ -23,7 +23,6 @@ body{background:var(--portal-bg-primary);color:var(--portal-text-primary)}
 #widgets .widget{min-height:0;padding:11px 13px 10px;border-radius:8px;box-shadow:var(--portal-shadow);border:0;background:var(--portal-surface-primary);color:var(--portal-text-primary)}
 #widgets .widget-header{margin-bottom:7px;gap:7px;min-height:21px}
 #widgets .widget h3{font-size:13px;line-height:1.3;font-weight:600;gap:6px;color:var(--portal-text-primary)}
-#widgets .widget-icon,#widgets .widget-icon svg{width:16px;height:16px;color:var(--portal-text-secondary)}
 #widgets .location{font-size:9px;white-space:nowrap;color:var(--portal-text-secondary)}
 #widgets .fuel-table{font-size:11px;line-height:16px;margin:0}
 #widgets .fuel-table th:first-child{width:35%}
@@ -105,6 +104,28 @@ body{background:var(--portal-bg-primary);color:var(--portal-text-primary)}
 #widgets .station-date{display:block;font-size:10px;color:var(--portal-text-secondary);line-height:1.5}
 #widgets .price-age-marker{font-size:10px;margin-left:2px;color:var(--portal-text-secondary)}
 #widgets .fuel-age-note{font-size:10px;line-height:1.5;margin:7px 0;color:var(--portal-text-secondary)}
+#widgets .fuel-table-footer{display:flex;align-items:center;gap:5px 8px;margin-top:5px}
+#widgets .fuel-price-note{margin:0;color:var(--portal-text-secondary);font-size:10px;font-weight:500;line-height:1.4}
+#widgets .fuel-photo-trigger{display:inline-flex;align-items:center;gap:5px;min-height:28px;margin-inline-start:auto;padding:2px 6px;border:0;border-radius:5px;background:transparent;color:var(--portal-text-secondary);font:inherit;font-size:11px;font-weight:500;text-align:left;cursor:pointer}
+#widgets .fuel-photo-trigger svg{width:14px;height:14px;flex:none}
+#widgets .fuel-photo-trigger:hover{background:var(--portal-bg-secondary);color:var(--portal-text-primary)}
+#widgets .fuel-photo-trigger:focus-visible,.fuel-photo-dialog button:focus-visible{outline:2px solid var(--portal-text-secondary);outline-offset:2px}
+#widgets .fuel-table .unavailable{color:var(--portal-text-secondary)}
+@media(min-width:1200px){
+ #widgets #fuel-widget .fuel-table tbody :is(th,td){padding-block:1px}
+ #widgets #fuel-widget .stale{margin-top:4px}
+}
+@media(max-width:1199px) and (pointer:coarse){#widgets .fuel-photo-trigger{min-height:44px}}
+.fuel-photo-dialog{box-sizing:border-box;width:min(410px,calc(100% - 32px));max-height:calc(100dvh - 32px);overflow:auto;padding:18px;border:1px solid var(--portal-border-secondary);border-radius:12px;background:var(--portal-surface-primary);color:var(--portal-text-primary);box-shadow:0 18px 60px #0004;font:14px/1.5 system-ui,sans-serif}
+.fuel-photo-dialog::backdrop{background:#10121870}
+.fuel-photo-dialog header{display:flex;align-items:center;justify-content:space-between;gap:10px}
+.fuel-photo-dialog h2{margin:0;font-size:17px;font-weight:600}
+.fuel-photo-dialog p{margin:10px 0}
+.fuel-photo-close{flex:none;width:32px;height:32px;padding:0;border:0;border-radius:5px;background:none;color:var(--portal-text-secondary);font:23px/1 system-ui,sans-serif}
+.fuel-photo-choose{min-height:44px;padding:8px 13px;border:0;border-radius:7px;background:var(--portal-bg-secondary);color:var(--portal-text-primary);font:inherit;font-weight:600}
+.fuel-photo-choose:disabled{opacity:.55;cursor:default}
+.fuel-photo-preview{display:block;width:100%;height:auto;max-height:45dvh;object-fit:contain;margin-bottom:12px;border-radius:7px;background:var(--portal-bg-secondary)}
+.fuel-photo-dialog .fuel-photo-local{margin-bottom:0;color:var(--portal-text-secondary);font-size:12px}
 
 .providers-more{background:none;border:0;color:var(--portal-text-secondary);font:inherit;cursor:pointer;padding:8px 0}.station-count{font-size:10px;color:var(--portal-text-secondary);margin-left:4px}.fuel-table th:first-child{max-width:180px}.provider-button{max-width:100%;overflow-wrap:anywhere;text-align:left}
 
@@ -239,6 +260,7 @@ html[data-input-modality=pointer] #widgets select:focus,html[data-input-modality
 #widgets .energy-quotes .electricity-price{margin-left:0}
 #widgets .energy-quotes .price-value{font-size:14px;font-weight:600;line-height:21px}
 #widgets .energy-quotes .unit{font-size:9px}
+#fuel-widget .energy-quotes .unit+.trend{margin-inline-start:6px}
 #widgets .energy-quotes .electricity-title{font-size:12px}
 #widgets .horoscope-advice{gap:0;margin:12px 0 7px}
 #widgets .horoscope-advice-section:first-child{padding-right:14px}
@@ -264,10 +286,6 @@ html[data-input-modality=pointer] #widgets select:focus,html[data-input-modality
 }
 
 /* Sign picker and complete advice: use the card for reading rather than expansion. */
-#widgets .zodiac-select{display:inline-flex;align-items:center;gap:7px;border:0;border-radius:4px;background:none;color:var(--portal-text-primary);font:inherit;font-size:14px;font-weight:600;padding:4px 0;cursor:pointer;text-align:left}
-#widgets .zodiac-select svg{width:13px;height:13px;color:var(--portal-text-secondary)}
-#widgets .zodiac-select:hover{text-decoration:underline;text-underline-offset:4px}
-#widgets .zodiac-select:focus-visible{outline:2px solid var(--portal-text-secondary);outline-offset:3px}
 .zodiac-dialog{width:min(390px,calc(100% - 24px));max-height:calc(100dvh - 32px);overflow-y:auto;padding:16px;margin:auto;border:1px solid var(--portal-border-secondary);border-radius:14px;background:var(--portal-surface-primary);color:var(--portal-text-primary);box-shadow:0 18px 70px #0003;font-family:system-ui,-apple-system,'Segoe UI',sans-serif}
 .zodiac-dialog::backdrop{background:#10121855;backdrop-filter:blur(2px)}
 .zodiac-dialog-header{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px}
@@ -300,24 +318,14 @@ html[data-input-modality=pointer] #widgets select:focus,html[data-input-modality
 .nameday-today{display:none}
 @media(max-width:1199px){
  #widgets{border:1px solid var(--portal-border-secondary);border-radius:12px;background:var(--portal-surface-primary);box-shadow:var(--portal-shadow);overflow:hidden}
- #widgets .widget-switcher{padding:7px 10px;gap:5px;flex-wrap:nowrap;border:0;border-bottom:1px solid var(--portal-border-secondary);border-radius:0;background:var(--portal-bg-secondary)}
- #widgets .widget-switcher button{flex:1;min-width:0;padding:8px 5px;border:1px solid transparent;border-radius:6px;font-size:12px;font-weight:500;white-space:nowrap}
- #widgets .widget-switcher button[aria-selected=true]{border-color:var(--portal-border-secondary);background:var(--portal-surface-primary);color:var(--portal-text-primary);box-shadow:0 1px 3px #0000000d}
  #widgets .widget{border:0;border-radius:0;padding:16px!important}
- #widgets .nameday-tab-panel{height:auto;min-height:130px;padding:18px 20px!important}
- #widgets .nameday-tab-panel .nameday-heading{justify-content:flex-start;gap:8px;margin-bottom:14px;font-size:13px;color:var(--portal-text-secondary)}
- #widgets .nameday-tab-panel .nameday-title{display:none}
- #widgets .nameday-tab-panel .nameday-today{display:inline}
- #widgets .nameday-tab-panel .nameday-heading time{font-size:13px;color:var(--portal-text-primary)}
- #widgets .nameday-tab-panel .nameday-clouds{width:100%;max-width:660px;gap:8px;min-height:38px}
- #widgets .nameday-tab-panel .nameday-pill{font-size:14px;font-weight:500;padding:7px 11px;line-height:20px;border-radius:7px;background:transparent}
+ #widgets .nameday-tab-panel{display:block;height:auto;min-height:0;padding:8px 14px 12px!important}
+ #widgets .nameday-tab-panel .nameday-heading{margin-bottom:5px;font-size:13px}
+ #widgets .nameday-tab-panel .nameday-clouds{width:100%;max-width:660px;gap:5px}
+ #widgets .nameday-tab-panel .nameday-pill{font-size:13px;padding:5px 8px}
  #widgets .nameday-tab-panel .nameday-more{font-size:12px;color:var(--portal-text-secondary);background:var(--portal-bg-secondary)}
 }
 @media(max-width:420px){
- #widgets .widget-switcher{padding:6px;gap:2px}
- #widgets .widget-switcher button{font-size:11px;padding-inline:3px}
- #widgets .nameday-tab-panel{padding:15px 16px!important;min-height:116px}
- #widgets .nameday-tab-panel .nameday-pill{font-size:13px;padding:6px 9px}
  #widgets .horoscope-advice li{font-size:12px}
  #widgets .horoscope-advice-section:first-child{padding-right:10px}
  #widgets .horoscope-advice-section+.horoscope-advice-section{padding-left:10px}
@@ -329,18 +337,20 @@ html[data-input-modality=pointer] #widgets select:focus,html[data-input-modality
  #widgets .widget{display:flex;flex-direction:column;min-width:0}
  #widgets .widget-content{flex:1;min-width:0}
  #widgets #exchange-content{display:flex;flex-direction:column}
- #widgets #exchange-widget .market-list{display:grid;grid-template-rows:repeat(5,minmax(49px,auto));align-content:start;flex:0}
- #widgets #exchange-widget .market-row{align-content:center;min-height:49px}
+ #widgets #exchange-widget .market-list{display:grid;grid-template-rows:repeat(5,minmax(47px,auto));align-content:start;flex:0}
+ #widgets #exchange-widget .market-row{align-content:center;min-height:47px}
 }
 @media(max-width:1199px){
- #widgets .widget-switcher{display:flex;gap:0;padding:0 8px;background:var(--portal-surface-primary);border-bottom:1px solid var(--portal-border-secondary);overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}
- #widgets .widget-switcher button{position:relative;flex:1 0 auto;min-height:46px;padding:12px 15px;border:0;border-radius:0;background:transparent;color:var(--portal-text-secondary);font-size:13px;font-weight:500;line-height:20px;box-shadow:none}
- #widgets .widget-switcher button::after{content:'';position:absolute;bottom:0;left:12px;right:12px;height:3px;border-radius:3px 3px 0 0;background:transparent}
- #widgets .widget-switcher button[aria-selected=true]{color:var(--portal-text-primary);font-weight:600;border:0;background:transparent;box-shadow:none}
- #widgets .widget-switcher button[aria-selected=true]::after{background:var(--red,#b62528)}
+ #widgets .widget-switcher{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;padding:0 4px;border:0;border-bottom:1px solid var(--portal-border-secondary);border-radius:0;background:var(--portal-surface-primary)}
+ #widgets .widget-switcher button{display:grid;align-content:center;justify-items:center;gap:3px;min-height:48px;min-width:0;padding:5px 2px 4px;border:0;border-bottom:2px solid transparent;border-radius:0;background:transparent;color:var(--portal-text-secondary);font-size:11px;font-weight:500;line-height:1.2;overflow-wrap:anywhere}
+ #widgets .widget-switcher button[aria-selected=true]{color:var(--portal-text-primary);font-weight:600;border-bottom-color:var(--widget-icon-color)}
  #widgets .widget-switcher button:hover{background:var(--portal-bg-secondary);color:var(--portal-text-primary)}
  #widgets .widget-switcher button:focus-visible{outline:2px solid var(--portal-text-secondary);outline-offset:-4px}
  #widgets .widget[role=tabpanel]:focus-visible{outline:2px solid var(--portal-text-secondary);outline-offset:-4px}
+ #widgets .widget-heading-control .widget-heading-icon{display:none}
+ #widgets .widget-heading-title{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+ #widgets .widget-heading-value{color:var(--portal-text-primary);font-weight:600}
+ #widgets #exchange-widget .widget-header{display:none}
  #widgets #exchange-widget .market-list{max-width:760px;margin-inline:auto}
 }
 @media(min-width:768px) and (max-width:1199px){
@@ -356,12 +366,6 @@ html[data-input-modality=pointer] #widgets select:focus,html[data-input-modality
  #widgets #exchange-widget .market-price{font-size:13px}
  #widgets #exchange-widget .market-value-trigger{grid-template-columns:minmax(65px,1fr) auto;gap:10px}
 }
-@media(max-width:420px){
- #widgets .widget-switcher{padding-inline:3px}
- #widgets .widget-switcher button{font-size:12px;padding-inline:9px}
- #widgets .widget-switcher button::after{left:8px;right:8px}
-}
-[data-bs-theme=dark] #widgets .widget-switcher button[aria-selected=true]::after{background:#ed929b}
 
 /* Station comparison is isolated from the equal-height dashboard cards. */
 #widgets .fuel-comparison-actions{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;margin-top:10px}
@@ -457,7 +461,6 @@ html{scrollbar-gutter:stable}
 #widgets .fuel-header-actions{margin-left:auto;display:flex;align-items:center;flex:none}
 #widgets .fuel-header-actions .compare-stations-button{min-height:26px;padding:3px 4px;font-size:11px;gap:4px;white-space:nowrap}
 #widgets .fuel-header-actions .compare-stations-button svg{width:10px;height:10px}
-#widgets #fuel-widget .widget-header>.location{margin-left:0}
 @media(max-width:360px){#widgets .fuel-header-actions .compare-stations-button{font-size:10px;padding-inline:1px}#widgets #fuel-widget .widget-header{gap:4px}}
 
 /* Long advice scrolls inside its card, never grows the whole widget row. */
@@ -474,10 +477,8 @@ html{scrollbar-gutter:stable}
 }
 
 /* One personal currency row fits the shared 320px desktop card. */
-@media(min-width:1200px){#widgets #exchange-widget .market-row{padding:4px 0}}
-.currency-edit-icon{display:inline-flex;vertical-align:middle;margin-left:6px;color:var(--portal-text-secondary)}
-.currency-edit-icon svg{width:13px;height:13px}
-#widgets #exchange-widget .currency-choice-trigger{cursor:pointer;min-height:36px}
+@media(min-width:1200px){#widgets #exchange-widget .market-row{padding:3px 0}}
+#widgets #exchange-widget .currency-edit-icon{display:inline-block;width:13px;height:13px;margin-inline-start:6px;vertical-align:middle;color:var(--portal-text-secondary)}
 #widgets #exchange-widget .currency-choice-trigger:hover .currency-edit-icon{color:var(--portal-text-primary)}
 .currency-dialog{width:min(360px,calc(100% - 32px));max-height:calc(100dvh - 32px);overflow:auto;padding:18px;border:1px solid var(--portal-border-secondary);border-radius:12px;background:var(--portal-surface-primary);color:var(--portal-text-primary);box-shadow:0 18px 60px #0004;font-family:system-ui,sans-serif}
 .currency-dialog::backdrop{background:#10121870}
@@ -491,3 +492,5 @@ html{scrollbar-gutter:stable}
 .currency-option:hover,.currency-option[aria-pressed=true]{background:color-mix(in srgb,var(--portal-surface-primary),var(--portal-text-primary) 7%)}
 .currency-option[aria-pressed=true]{border-color:var(--portal-border-secondary)}
 .currency-dialog button:focus-visible{outline:2px solid var(--portal-text-secondary);outline-offset:1px}
+
+#widgets #horoscope-widget .widget-header,#widgets #fuel-widget .widget-header{flex-wrap:wrap}
