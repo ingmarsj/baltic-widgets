@@ -7,12 +7,14 @@ import path from 'node:path';
 import {runPublishedUpdate} from './published-update.mjs';
 
 const source=new URL('../scripts/publish-data.mjs',import.meta.url);
-function command(exe,args,options={}){const r=spawnSync(exe,args,{...options,stdio:'pipe',encoding:'utf8'});if(r.status!==0)throw Error(r.stderr||r.error?.message||`${exe} failed`);return r.stdout.trim();}
+function command(exe,args,options={}){const r=spawnSync(exe,args,{...options,stdio:'pipe',encoding:'utf8'});if(r.status!==0)throw Error(r.stderr||r.error?.message||`${exe} failed`);return r.stdout.trimEnd();}
 async function fixture(t){
  const parent=await realpath(tmpdir()),dir=await mkdtemp(path.join(parent,'widgets-publication-')),root=path.join(dir,'checkout'),remote=path.join(dir,'origin.git');
  t.after(async()=>{if(path.dirname(dir)!==parent||!path.basename(dir).startsWith('widgets-publication-'))throw Error('Unsafe fixture cleanup');await rm(dir,{recursive:true,force:true});});
  command('git',['init','--bare',remote]);await mkdir(root);const git=args=>command('git',args,{cwd:root});git(['init','-b','main']);git(['config','user.name','Publication test']);git(['config','user.email','publication@example.test']);
  await mkdir(path.join(root,'scripts'));await mkdir(path.join(root,'data'));await mkdir(path.join(root,'node_modules'));
+ await mkdir(path.join(root,'services'));
+ await writeFile(path.join(root,'services','nameday-release.mjs'),await readFile(new URL('./nameday-release.mjs',import.meta.url)));
  await writeFile(path.join(root,'.gitignore'),'var/\nartifacts/\nnode_modules/\n');await writeFile(path.join(root,'package.json'),'{"type":"module"}');await writeFile(path.join(root,'package-lock.json'),'{}');
  await writeFile(path.join(root,'scripts','publish-data.mjs'),await readFile(source));
  await writeFile(path.join(root,'scripts','update-widgets.ps1'),'# Main updater fixture');
@@ -51,10 +53,16 @@ test('a failed isolated update preserves its checkout and reports failure withou
 test('direct publication from a feature branch cannot publish its code or consume staged work',async t=>{
  const f=await fixture(t);assert.throws(()=>command(process.execPath,['scripts/publish-data.mjs'],{cwd:f.root}),/Direct data publication requires main/);assert.equal(f.git(['status','--porcelain']),f.status);
 });
-test('publication releases the name-day part of local main but no other unreleased code',async t=>{
+test('publication releases local editorial changes and preserves newer production name-day UI and data',async t=>{
  const f=await fixture(t),wt=path.join(path.dirname(f.root),'main-work');
- f.git(['worktree','add',wt,'main']);const g=args=>command('git',args,{cwd:wt});
+ f.git(['worktree','add','--detach',wt,'main']);const g=args=>command('git',args,{cwd:wt});
  await mkdir(path.join(wt,'public'),{recursive:true});await mkdir(path.join(wt,'data','namedays'),{recursive:true});
+ await writeFile(path.join(wt,'public','namedays.js'),'new production widget');
+ await writeFile(path.join(wt,'data','namedays','existing.json'),'{"version":"production"}');
+ g(['add','.']);g(['commit','-m','Production name-day widget and data']);g(['push','origin','HEAD:main']);
+ g(['switch','main']);
+ await mkdir(path.join(wt,'public'),{recursive:true});await mkdir(path.join(wt,'data','namedays'),{recursive:true});
+ await writeFile(path.join(wt,'public','namedays.js'),'old local widget');
  await writeFile(path.join(wt,'public','namedays-content.js'),'export const history="new name-day text";');
  await writeFile(path.join(wt,'data','namedays','profiles-lv.json'),'{"new":true}');
  await writeFile(path.join(wt,'app.txt'),'unreleased main code');
@@ -63,7 +71,8 @@ test('publication releases the name-day part of local main but no other unreleas
   if(exe==='powershell.exe'){
    // Collection, tests and build already see the released name-day files.
    assert.equal(command(process.execPath,['-e',"process.stdout.write(require('fs').readFileSync('public/namedays-content.js','utf8'))"],{cwd:options.cwd}),'export const history="new name-day text";');
-   command(process.execPath,['-e',"require('fs').writeFileSync('data/prices.json','fresh main prices');require('fs').mkdirSync('artifacts',{recursive:true});require('fs').writeFileSync('artifacts/update-report.json','{}')"],{cwd:options.cwd});
+   assert.equal(command(process.execPath,['-e',"process.stdout.write(require('fs').readFileSync('public/namedays.js','utf8'))"],{cwd:options.cwd}),'new production widget');
+   command(process.execPath,['-e',"require('fs').writeFileSync('data/prices.json','fresh main prices');require('fs').writeFileSync('public/namedays.js','local UI edit');require('fs').mkdirSync('artifacts',{recursive:true});require('fs').writeFileSync('artifacts/update-report.json','{}')"],{cwd:options.cwd});
    return '';
   }
   return command(exe,args,options);
@@ -72,6 +81,8 @@ test('publication releases the name-day part of local main but no other unreleas
  assert(r.publication_verified);
  const show=file=>command('git',['--git-dir',f.remote,'show','main:'+file]);
  assert.equal(show('public/namedays-content.js'),'export const history="new name-day text";');
+ assert.equal(show('public/namedays.js'),'new production widget');
+ assert.equal(show('data/namedays/existing.json'),'{"version":"production"}');
  assert.equal(show('data/namedays/profiles-lv.json'),'{"new":true}');
  assert.equal(show('app.txt'),'main application');
  assert.equal(show('data/prices.json'),'fresh main prices');

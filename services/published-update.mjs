@@ -7,7 +7,7 @@ import {syncNamedays} from './nameday-release.mjs';
 export function publicationCommand(command,args,{capture=false,...options}={}){
  const result=spawnSync(command,args,{encoding:'utf8',stdio:capture?'pipe':'inherit',...options});
  if(result.error||result.status!==0)throw Error(result.error?.message||result.stderr?.trim()||`${command} failed (${result.status})`);
- return result.stdout?.trim()||'';
+ return result.stdout?.trimEnd()||'';
 }
 
 // Collection and publication use main; the caller's checkout and index stay untouched.
@@ -33,13 +33,12 @@ export async function runPublishedUpdate({root,profile='auto',force=false,dataDi
    if(process.platform==='win32')run('powershell.exe',['-NoProfile','-Command','& npm.cmd ci; exit $LASTEXITCODE'],{cwd:worktree,env});
    else run('npm',['ci'],{cwd:worktree,env});
   }
-  // Bring the name-day part of the name-day source branch (local main by default) into this checkout before
-  // collection, tests and build, so released name-day content is checked and published with the data.
+  // Apply editorial changes before collection so the tests and build see the name-day content being released.
   await syncNamedays({git:(a,o={})=>run('git',a,{cwd:o.cwd||worktree,env,capture:true,input:o.input}),worktree,sourceRef:namedaysRef,log});
   const args=['-NoProfile','-ExecutionPolicy','Bypass','-File',path.join(worktree,'scripts','update-widgets.ps1'),'-Profile',profile,'-NoPublish'];
   if(force)args.push('-Force');
   run('powershell.exe',args,{cwd:worktree,env});
-  run(process.execPath,[path.join(root,'scripts','publish-data.mjs')],{cwd:worktree,env:{...env,WIDGETS_PUBLICATION_WORKTREE:worktree,WIDGETS_PUBLICATION_MAIN:revision}});
+  run(process.execPath,[path.join(worktree,'scripts','publish-data.mjs')],{cwd:worktree,env:{...env,WIDGETS_PUBLICATION_WORKTREE:worktree,WIDGETS_PUBLICATION_MAIN:revision}});
   publishedRevision=git(['rev-parse','HEAD'],worktree);
   published=true;
  }catch(error){
