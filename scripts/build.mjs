@@ -8,7 +8,9 @@ if(path.dirname(target)!==root||path.basename(target)!=='dist')throw Error('Unsa
 await rm(target,{recursive:true,force:true});
 await mkdir(target,{recursive:true});
 await cp(path.join(root,'public'),target,{recursive:true});
-await cp(path.join(root,'data'),path.join(target,'data'),{recursive:true});
+// Keep the UI translation catalog from public/ when overlaying generated data.
+const generatedCatalog=path.join(root,'data','translations.json');
+await cp(path.join(root,'data'),path.join(target,'data'),{recursive:true,filter:source=>source!==generatedCatalog});
 // Annual editorial/source documents remain build inputs in the repository.
 // The browser receives only ready-to-render single-language day documents.
 const namedayBuild=await buildNamedayDays({output:path.join(target,'data','namedays')});
