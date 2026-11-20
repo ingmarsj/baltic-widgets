@@ -125,15 +125,18 @@ setInterval(refreshFuelPriceViews,60000);
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')refreshFuelPriceViews();});
 
 function fuelPhotoButton(){
-  const trigger=element('button','fuel-photo-trigger',t('fuel_photo_add','Add a price photo'));
+  const label=t('fuel_photo_add','Add a price photo');
+  const trigger=element('button','fuel-photo-trigger');
   trigger.type='button';
+  trigger.setAttribute('aria-label',label);
+  trigger.title=label;
   trigger.setAttribute('aria-haspopup','dialog');
-  trigger.prepend(icon('camera'));
+  trigger.append(icon('camera'),element('span','fuel-photo-label',label));
   trigger.addEventListener('click',()=>{
     const dialog=element('dialog','fuel-photo-dialog');
     dialog.setAttribute('aria-labelledby','fuel-photo-title');
     const header=element('header');
-    const title=element('h2','',t('fuel_photo_add','Add a price photo'));
+    const title=element('h2','',label);
     title.id='fuel-photo-title';
     const close=element('button','fuel-photo-close','×');
     close.type='button';
@@ -255,7 +258,7 @@ function fuel(container, data) {
   });
   table.append(head,body);container.append(table);
   const footer=element('div','fuel-table-footer');
-  const note=element('p','fuel-price-note',t('fuel_no_current_operator_price','— No current price from the station network'));
+  const note=element('p','fuel-price-note',t('fuel_no_current_operator_price','— No current price from the station'));
   updateFuelPriceNote(note);
   footer.append(note,fuelPhotoButton());
   container.append(footer);

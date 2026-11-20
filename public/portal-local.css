@@ -116,6 +116,11 @@ body{background:var(--portal-bg-primary);color:var(--portal-text-primary)}
  #widgets #fuel-widget .stale{margin-top:4px}
 }
 @media(max-width:1199px) and (pointer:coarse){#widgets .fuel-photo-trigger{min-height:44px}}
+@media(max-width:600px){
+ #widgets .fuel-photo-trigger{flex:none;justify-content:center;width:44px;min-height:44px;padding:0;color:var(--portal-text-primary);background:var(--portal-bg-secondary)}
+ #widgets .fuel-photo-trigger svg{width:18px;height:18px}
+ #widgets .fuel-photo-label{display:none}
+}
 .fuel-photo-dialog{box-sizing:border-box;width:min(410px,calc(100% - 32px));max-height:calc(100dvh - 32px);overflow:auto;padding:18px;border:1px solid var(--portal-border-secondary);border-radius:12px;background:var(--portal-surface-primary);color:var(--portal-text-primary);box-shadow:0 18px 60px #0004;font:14px/1.5 system-ui,sans-serif}
 .fuel-photo-dialog::backdrop{background:#10121870}
 .fuel-photo-dialog header{display:flex;align-items:center;justify-content:space-between;gap:10px}
