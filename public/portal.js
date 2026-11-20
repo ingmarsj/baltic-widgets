@@ -1,4 +1,5 @@
 import {t,lang} from './i18n.js';
+import {widgetIcon} from './widget-heading.js';
 // Behaviour for the saved public portal markup. No original third-party JS runs.
 // URLs stored in CSS custom properties resolve against the consuming stylesheet.
 // Make card images absolute against the document base (also valid under HA Ingress).
@@ -7,6 +8,8 @@ document.querySelectorAll('.card__media').forEach(card=>{
   card.style.setProperty('--bg',image.replace(/url\(["']?([^"')]+)["']?\)/g,(_,url)=>`url("${new URL(url,document.baseURI).href}")`));
 });
 const widgets = document.querySelector('#widgets');
+const widgetsGrid = widgets.querySelector('.widgets-grid');
+const carousel = document.querySelector('.col-carousel');
 const home = document.createComment('widgets desktop location');
 widgets.before(home);
 const compact = matchMedia('(max-width: 1199px)');
@@ -24,9 +27,17 @@ switcher.setAttribute('role','tablist');
 switcher.setAttribute('aria-label',t('daily_information','Daily information'));
 let selectedWidget = 'namedays-widget';
 const panels = [...standardPanels,namedayPanel];
-for(const [id,title] of [['namedays-widget','Vārda diena'],['fuel-widget','Degviela'],['horoscope-widget','Horoskops'],['exchange-widget','Valūtas']]){
+for(const [id,key,title,accent] of [
+  ['namedays-widget','namedays','Vārda diena','gift'],
+  ['fuel-widget','fuel','Enerģija','bolt'],
+  ['horoscope-widget','horoscope','Horoskops','horoscope'],
+  ['exchange-widget','exchange_tab','Valūtas','market'],
+]){
   const button = document.createElement('button');
-  button.type='button';button.id=`tab-${id}`;button.textContent=t(id==='exchange-widget'?'exchange_tab':id.replace('-widget',''),title);
+  button.type='button';button.id=`tab-${id}`;button.dataset.accent=accent;
+  const label = document.createElement('span');
+  label.textContent=t(key,title);
+  button.append(widgetIcon(accent),label);
   button.setAttribute('role','tab');button.setAttribute('aria-controls',id);
   button.addEventListener('click',()=>{selectedWidget=id;updateWidgets();});
   switcher.append(button);
@@ -45,11 +56,11 @@ function updateWidgets(){
   namedayPanel.classList.toggle('nameday-tab-panel',mobile);
   namedayPanel.classList.toggle('mt-3',!mobile);
   namedayPanel.setAttribute('aria-live',mobile?'off':'polite');
-  if(mobile)widgets.querySelector('.widgets-grid').append(namedayPanel);
-  else namedayHome.after(namedayPanel);
-  if(mobilePlacement.matches){
-    document.querySelector('.col-carousel').after(widgets);
-  }else{home.after(widgets);}
+  if(mobile){
+    if(namedayPanel.parentElement!==widgetsGrid)widgetsGrid.append(namedayPanel);
+  }else if(namedayPanel.previousSibling!==namedayHome){namedayHome.after(namedayPanel);}
+  const anchor = mobilePlacement.matches ? carousel : home;
+  if(widgets.previousSibling!==anchor)anchor.after(widgets);
   if(mobile)widgets.dataset.compactMode='tabs';else delete widgets.dataset.compactMode;
   panels.forEach(panel=>{
     panel.hidden=mobile&&panel.id!==selectedWidget;
@@ -139,4 +150,3 @@ while((textNode=walker.nextNode())){
   if(key)textNode.textContent=textNode.textContent.replace(original,t(key,original));
 }
 trigger.setAttribute('aria-label',t('menu','Menu'));
-for(const panel of standardPanels)panel.querySelector('h3').textContent=t(panel.id.replace('-widget',''),panel.querySelector('h3').textContent);

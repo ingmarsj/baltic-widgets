@@ -1,0 +1,14 @@
+.widget-heading-control{position:relative;display:inline-flex;align-items:center;gap:7px;min-width:0;min-height:32px;margin:0;padding:0;border:0;border-radius:5px;background:none;color:inherit;font:inherit;text-align:left;cursor:pointer}
+.widget-heading-control:hover .widget-heading-value{text-decoration:underline;text-underline-offset:3px}
+.widget-heading-control:focus-visible,.widget-heading-country:has(select:focus-visible){outline:2px solid var(--portal-text-secondary,GrayText);outline-offset:2px}
+html[data-input-modality=pointer] .widget-heading-country:has(select:focus){outline:none}
+[data-accent=bolt]{--widget-icon-color:light-dark(#a56309,#ffc462)}
+[data-accent=gift]{--widget-icon-color:light-dark(#b2436a,#ff8eae)}
+[data-accent=horoscope]{--widget-icon-color:light-dark(#7952b5,#c5a4ff)}
+[data-accent=market]{--widget-icon-color:light-dark(#137867,#68cfb9)}
+.widget-heading-icon{display:inline-grid;place-items:center;flex:none;color:var(--widget-icon-color)}
+.widget-heading-icon svg{width:17px;height:17px}
+.widget-heading-control .widget-heading-icon,.widget-header h3>.widget-heading-icon{width:30px;height:30px;border-radius:8px;background:color-mix(in srgb,var(--widget-icon-color) 15%,transparent)}
+.widget-heading-value{color:var(--portal-text-secondary,light-dark(#666972,#adafb8));font-weight:400;white-space:nowrap}
+.widget-heading-arrow{flex:none;width:12px;height:12px;color:var(--portal-text-secondary,GrayText)}
+.widget-heading-country select{position:absolute;inset:0;width:100%;height:100%;max-width:none;margin:0;opacity:0;cursor:pointer}

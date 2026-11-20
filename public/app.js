@@ -3,7 +3,8 @@ import {selectedCurrency,saveCurrency} from './currency-core.js';
 import {chooseCurrency} from './currency-picker.js';
 import {createStationComparison} from './station-comparison.js';
 import {t,lang,locale,labels as uiLabels} from './i18n.js';
-import {zodiacPaths} from './zodiac-icons.js';
+import {icon} from './icons.js';
+import {widgetCountry,widgetIcon,widgetPicker} from './widget-heading.js';
 import { priceButton } from './charts.js';
 import { currentZodiac } from './zodiac.js';
 import {fuelPriceState} from './fuel-freshness.js';
@@ -16,7 +17,6 @@ document.addEventListener('pointerdown',event=>{
   for(const menu of document.querySelectorAll('.horoscope-tone[open]'))if(!menu.contains(event.target))menu.open=false;
 });
 document.addEventListener('keydown',event=>{if(!['Shift','Control','Alt','Meta'].includes(event.key))document.documentElement.dataset.inputModality='keyboard';},true);
-let labels=uiLabels;
 const $ = (selector) => document.querySelector(selector);
 const number = (value, digits = 3) => new Intl.NumberFormat(locale, { minimumFractionDigits: digits, maximumFractionDigits: digits }).format(value);
 
@@ -47,12 +47,6 @@ async function loadWidget(name, render) {
     const market = document.documentElement.dataset.market || 'LV';
     const json = await readJSON(`data/${lang}/${name === 'fuel' ? `fuel-${market}` : name}.json?lang=${lang}`);
     validateEnvelope(json);
-    labels=json.labels || json.translations?.[lang] || json.translations?.en || {};
-    for(const option of document.querySelectorAll('.fuel-market option'))option.textContent=labels.countries?.[option.value] || option.textContent;
-    document.documentElement.lang=lang;
-    const tab=document.querySelector(`#tab-${name}-widget`);if(tab)tab.textContent=t(name==='exchange'?'exchange_tab':name,name);
-    document.querySelector('.fuel-market').setAttribute('aria-label',t('country','Country'));
-    document.querySelector(`#${name}-widget h3`).textContent=t(name,name);
     container.replaceChildren();
     render(container, json.data);
     container.dataset.updatedAt = json.updated_at;
@@ -65,37 +59,6 @@ async function loadWidget(name, render) {
     message.append(retry);
     container.replaceChildren(message);
   }
-}
-
-const paths = {
-  ...zodiacPaths,
-  chevron:'M6 9l6 6 6-6',
-  fuel: 'M5 21V4h9v17M4 21h12M5 10h9M17 6l3 3v8a2 2 0 0 1-4 0v-3h-2M18 7v4h2',
-  horoscope: 'M12 3l2.5 6.5L21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5Z',
-  clock: 'M12 8v4l3 2M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0',
-  flame: 'M13 3c1 5-4 6-2 10 1-2 3-3 4-5 6 7 3 13-3 13-7 0-9-7-5-12 0 4 2 4 2 4-1-5 2-7 4-10Z',
-  market: 'M4 19V5M4 19h17M7 14l4-4 4 2 5-6M16 6h4v4',
-  bolt: 'M13 2L5 13h6l-1 9 9-13h-6Z',
-  gold: 'M9 4h6l3 7H6l3-7ZM4 14h6l3 6H1l3-6ZM15 14h6l2 6H12l3-6Z',
-  tone_serious:'M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0M8 9h.01M16 9h.01M8 15h8',
-  tone_humor:'M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0M7 9l2-1 2 1M13 9l2-1 2 1M7 13h10q-1 6-5 6t-5-6Z',
-  bitcoin: 'M9 5h6a3.5 3.5 0 0 1 0 7H9h7a3.5 3.5 0 0 1 0 7H9V5M12 2v3M16 2v3M12 19v3M16 19v3M6 5h3M6 19h3',
-  left: 'M14 6l-6 6 6 6', right: 'M10 6l6 6-6 6',
-};
-
-function icon(name) {
-  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
-  svg.setAttribute('viewBox', '0 0 24 24');
-  svg.setAttribute('fill', 'none');
-  svg.setAttribute('stroke', 'currentColor');
-  svg.setAttribute('stroke-width', '1.5');
-  svg.setAttribute('stroke-linecap', 'round');
-  svg.setAttribute('stroke-linejoin', 'round');
-  svg.setAttribute('aria-hidden', 'true');
-  for(const d of (Array.isArray(paths[name])?paths[name]:[paths[name]||paths.horoscope])){
-    const path=document.createElementNS('http://www.w3.org/2000/svg','path');path.setAttribute('d',d);svg.append(path);
-  }
-  return svg;
 }
 
 function trend(current, previous, percent = false,lowerIsBetter=false) {
@@ -120,8 +83,12 @@ function applyPriceTrend(button, current, previous) {
 const fuelKeys = ['petrol95', 'diesel'];
 const fuelPriceViews=[];
 function unavailableFuel(quote,label){
-  const state=fuelPriceState(quote),reason=t(state==='stale'?'fuel_price_expired':'fuel_price_unconfirmed',state==='stale'?'Published price is older than 48 hours':'No confirmed price from the last 48 hours');
-  const marker=Number.isFinite(quote?.price)?priceButton(quote,{label,unit:'EUR/l',text:'?',className:'unavailable'}):element('span','unavailable','?');
+  const state=fuelPriceState(quote);
+  const reason=state==='stale'?t('fuel_price_expired','Published price is older than 48 hours'):
+    quote?.source_status==='error'?t('source_unavailable','Source currently unavailable'):
+    t('fuel_price_unconfirmed','No confirmed price from the last 48 hours');
+  const marker=Number.isFinite(quote?.price)?priceButton(quote,{label,unit:'EUR/l',text:'—',className:'unavailable'}):element('span','unavailable','—');
+  if(marker.tagName==='SPAN')marker.setAttribute('role','img');
   marker.title=[reason,quote?.observed_at||quote?.observed_date].filter(Boolean).join(' · ');marker.setAttribute('aria-label',label+': '+reason);return marker;
 }
 function paintFuelPrice(cell,quote,label){
@@ -139,9 +106,133 @@ function paintFuelPrice(cell,quote,label){
   }
 }
 function fuelCell(quote,label){const cell=element('td','price-cell');paintFuelPrice(cell,quote,label);fuelPriceViews.push({node:cell,quote,label,state:fuelPriceState(quote)});return cell;}
-function refreshFuelPriceViews(){for(const item of fuelPriceViews){const state=fuelPriceState(item.quote);if(item.node.isConnected&&state!==item.state){paintFuelPrice(item.node,item.quote,item.label);item.state=state;}}}
+function updateFuelPriceNote(note){
+  note.hidden=fuelPriceViews.every(item=>item.state==='recent');
+}
+function refreshFuelPriceViews(){
+  let changed=false;
+  for(const item of fuelPriceViews){
+    const state=fuelPriceState(item.quote);
+    if(item.node.isConnected&&state!==item.state){
+      paintFuelPrice(item.node,item.quote,item.label);
+      item.state=state;
+      changed=true;
+    }
+  }
+  if(changed)updateFuelPriceNote(document.querySelector('#fuel-content .fuel-price-note'));
+}
 setInterval(refreshFuelPriceViews,60000);
 document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')refreshFuelPriceViews();});
+
+function fuelPhotoButton(){
+  const trigger=element('button','fuel-photo-trigger',t('fuel_photo_add','Add a price photo'));
+  trigger.type='button';
+  trigger.setAttribute('aria-haspopup','dialog');
+  trigger.prepend(icon('camera'));
+  trigger.addEventListener('click',()=>{
+    const dialog=element('dialog','fuel-photo-dialog');
+    dialog.setAttribute('aria-labelledby','fuel-photo-title');
+    const header=element('header');
+    const title=element('h2','',t('fuel_photo_add','Add a price photo'));
+    title.id='fuel-photo-title';
+    const close=element('button','fuel-photo-close','×');
+    close.type='button';
+    close.setAttribute('aria-label',t('close','Close'));
+    close.addEventListener('click',()=>dialog.close());
+    header.append(title,close);
+    dialog.addEventListener('close',()=>{
+      dialog.remove();
+      trigger.focus({preventScroll:true});
+    });
+    dialog.append(header);
+    document.body.append(dialog);
+    const cameraDevice=matchMedia('(pointer: coarse)').matches||navigator.userAgentData?.mobile;
+    if(!cameraDevice){
+      dialog.append(element('p','',t('fuel_photo_phone','Open this page on your phone. In Energy, tap Add a price photo.')));
+      openModal(dialog,close);
+      return;
+    }
+    openFuelCamera(dialog,close);
+  });
+  return trigger;
+}
+
+function openFuelCamera(dialog,close){
+  if(!navigator.mediaDevices?.getUserMedia){
+    dialog.append(element('p','',t('fuel_photo_secure','Open the HTTPS version of this page on your phone to use its camera.')));
+    openModal(dialog,close);
+    return;
+  }
+  const live=element('video','fuel-photo-preview');
+  live.muted=true;
+  live.playsInline=true;
+  live.hidden=true;
+  const preview=element('canvas','fuel-photo-preview');
+  preview.setAttribute('role','img');
+  preview.setAttribute('aria-label',t('fuel_photo_preview','Price board photo'));
+  preview.hidden=true;
+  const status=element('p','fuel-photo-status');
+  status.setAttribute('role','status');
+  const action=element('button','fuel-photo-choose');
+  action.type='button';
+  const takeLabel=t('fuel_photo_take','Take photo');
+  let stream;
+
+  function stopCamera(){
+    live.pause();
+    stream?.getTracks().forEach(track=>track.stop());
+    stream=null;
+    live.srcObject=null;
+    live.hidden=true;
+  }
+
+  async function startCamera(){
+    preview.hidden=true;
+    preview.width=0;
+    action.disabled=true;
+    action.textContent=takeLabel;
+    status.textContent=t('fuel_photo_starting','Opening the camera…');
+    try{
+      const camera=await navigator.mediaDevices.getUserMedia({
+        video:{facingMode:{ideal:'environment'},width:{ideal:1920},height:{ideal:1080}},
+        audio:false,
+      });
+      if(!dialog.open){
+        camera.getTracks().forEach(track=>track.stop());
+        return;
+      }
+      stream=camera;
+      live.srcObject=stream;
+      live.hidden=false;
+      await live.play();
+      if(!dialog.open)return;
+      status.textContent=t('fuel_photo_instructions','Hold the phone still and frame the prices and station logo.');
+    }catch{
+      stopCamera();
+      if(!dialog.open)return;
+      status.textContent=t('fuel_photo_camera_error','Could not open the camera. Check camera access in your browser.');
+      action.textContent=t('retry','Retry');
+    }
+    action.disabled=false;
+  }
+
+  action.addEventListener('click',()=>{
+    if(!stream){startCamera();return;}
+    if(!live.videoWidth||live.readyState<2)return;
+    preview.width=live.videoWidth;
+    preview.height=live.videoHeight;
+    preview.getContext('2d').drawImage(live,0,0);
+    preview.hidden=false;
+    stopCamera();
+    status.textContent=t('fuel_photo_check','Check that every digit is visible. If any are missing, take another photo.');
+    action.textContent=t('fuel_photo_replace','Retake photo');
+  });
+  dialog.addEventListener('close',stopCamera);
+  const local=element('p','fuel-photo-local',t('fuel_photo_local','Local preview only. The photo stays on this device.'));
+  dialog.append(status,live,preview,action,local);
+  openModal(dialog,close);
+  startCamera();
+}
 
 function fuel(container, data) {
   fuelPriceViews.length=0;
@@ -163,6 +254,11 @@ function fuel(container, data) {
     button.addEventListener('click',()=>compare.open(provider.name));name.append(button);row.append(name,...fuelKeys.map((key,i)=>fuelCell(withReference(provider.prices[key]),provider.name+' · '+['95',t('diesel','Diesel')][i])));body.append(row);
   });
   table.append(head,body);container.append(table);
+  const footer=element('div','fuel-table-footer');
+  const note=element('p','fuel-price-note',t('fuel_no_current_operator_price','— No current price from the station network'));
+  updateFuelPriceNote(note);
+  footer.append(note,fuelPhotoButton());
+  container.append(footer);
   const actions=element('div','fuel-header-actions'),compareButton=element('button','compare-stations-button',t('compare_stations','Compare stations'));compareButton.type='button';compareButton.setAttribute('aria-haspopup','dialog');compareButton.setAttribute('aria-controls','station-comparison');compareButton.append(icon('right'));compareButton.addEventListener('click',()=>compare.open());actions.append(compareButton);
   const fuelHeader=container.closest('.widget').querySelector('.widget-header');fuelHeader.querySelector('.fuel-header-actions')?.remove();fuelHeader.querySelector('h3').after(actions);
 
@@ -228,8 +324,9 @@ function horoscope(container, data) {
     const button=element('button','',label);button.type='button';button.dataset.day=key;
     button.addEventListener('click',()=>{day=key;show();});tabs.append(button);
   }
-  const top=element('div','zodiac-top'),symbol=element('span','zodiac-symbol'),info=element('div','zodiac-info');
-  const select=element('button','zodiac-select');select.type='button';select.setAttribute('aria-label',t('zodiac_sign','Zodiac sign'));select.setAttribute('aria-haspopup','dialog');select.setAttribute('aria-expanded','false');
+  const top=element('div','zodiac-top');
+  const {control:select,value:signValue}=widgetPicker(t('horoscope','Horoscope'),'horoscope');
+  select.setAttribute('aria-expanded','false');
   document.querySelector('#zodiac-dialog')?.remove();
   const picker=element('dialog','zodiac-dialog');picker.id='zodiac-dialog';picker.setAttribute('aria-labelledby','zodiac-dialog-title');
   const pickerHeader=element('header','zodiac-dialog-header'),pickerTitle=element('h2','',t('zodiac_sign','Zodiac sign'));pickerTitle.id='zodiac-dialog-title';
@@ -242,7 +339,7 @@ function horoscope(container, data) {
   select.addEventListener('click',()=>{openModal(picker,choices.children[selected]);select.setAttribute('aria-expanded','true');});
   picker.addEventListener('close',()=>{select.setAttribute('aria-expanded','false');select.focus({preventScroll:true});});
   picker.addEventListener('click',event=>{if(event.target!==picker)return;const r=picker.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)picker.close();});
-  const dates=element('p','zodiac-date');info.append(select,dates);
+  const dates=element('p','zodiac-date');
   const tone=element('details','horoscope-tone'),toneToggle=element('summary');
   const toneMenu=element('div','horoscope-tone-menu');toneMenu.setAttribute('role','group');toneMenu.setAttribute('aria-label',t('horoscope_mood','Tone'));
   for(const key of ['serious','humor']){
@@ -253,11 +350,11 @@ function horoscope(container, data) {
   // must not hide the menu before its click can select a mood.
   tone.addEventListener('focusout',event=>{if(event.relatedTarget && !tone.contains(event.relatedTarget))tone.open=false;});
   tone.addEventListener('keydown',event=>{if(event.key==='Escape'){tone.open=false;toneToggle.focus();}});
-  tone.append(toneToggle,toneMenu);top.append(symbol,info,tone);
+  tone.append(toneToggle,toneMenu);top.append(dates,tone);
   const text=element('div','horoscope-advice');text.id='horoscope-reading';text.tabIndex=0;text.setAttribute('role','region');text.setAttribute('aria-label',t('horoscope','Horoscope'));
   text.classList.add('is-expanded');
   function show(){
-    const sign=data.signs[selected];select.replaceChildren(document.createTextNode(sign.name),icon('chevron'));symbol.replaceChildren(icon(sign.id));dates.textContent=sign.dates;
+    const sign=data.signs[selected];signValue.textContent=sign.name;dates.textContent=sign.dates;
     [...choices.children].forEach((choice,i)=>choice.setAttribute('aria-pressed',String(i===selected)));
     const reading=sign.advice?.[day]?.[mood]?.[variant];text.replaceChildren();
     if(reading){
@@ -270,7 +367,7 @@ function horoscope(container, data) {
     toneMenu.querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.mood===mood)));
     tabs.querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.day===day)));
   }
-  const header=container.closest('.widget').querySelector('.widget-header');header.querySelector('.horoscope-days')?.remove();header.append(tabs);
+  const header=container.closest('.widget').querySelector('.widget-header');header.querySelector('h3').replaceChildren(select);header.querySelector('.horoscope-days')?.remove();header.append(tabs);
   container.dataset.horoscopeDate=data.date;
   container.append(top,text);show();
 }
@@ -278,36 +375,55 @@ function horoscope(container, data) {
 let marketCurrency;
 try{marketCurrency=selectedCurrency(window.localStorage);}catch{marketCurrency='SEK';}
 function exchange(container, data) {
-  const changeCurrency=()=>chooseCurrency(marketCurrency,code=>{marketCurrency=code;try{saveCurrency(window.localStorage,code);}catch{}exchange(container,data);});
   if (!['eur_usd','gold_eur_oz','btc_eur'].every(key => Number.isFinite(data[key]?.price) && data[key].price > 0)) throw new Error('Invalid rates');
-  const usd = data.eur_usd;
+  const changeCurrency=()=>chooseCurrency(marketCurrency,code=>{
+    marketCurrency=code;
+    try{saveCurrency(window.localStorage,code);}catch{}
+    exchange(container,data);
+  });
   const quotes = [
-    {name:'EUR / USD', symbol:'€', sub:t('euro','1 eiro'), quote:usd, digits:4},
     {name:'EUR / '+marketCurrency, symbol:'€',sub:t('euro','1 eiro'),quote:data['eur_'+marketCurrency.toLowerCase()],digits:4,currency:marketCurrency,editable:true},
+    {name:'EUR / USD', symbol:'€', sub:t('euro','1 eiro'), quote:data.eur_usd, digits:4, currency:'USD'},
     {name:'Euribor', symbol:'%', sub:t('six_months','6 months'), quote:data.euribor_6m, digits:3, rate:true},
     {name:t('gold','Zelts'), symbol:'gold', sub:'EUR / oz', quote:data.gold_eur_oz, digits:2},
     {name:'Bitcoin', symbol:'bitcoin', sub:'EUR / BTC', quote:data.btc_eur, digits:2}
   ];
   const list = element('div', 'market-list');
   quotes.forEach(item => {
-    if(!Number.isFinite(item.quote?.price)){
-      const row=element('div','market-row'),label=element(item.editable?'button':'span',item.editable?'currency-choice-trigger market-label':'market-label',item.name+(item.editable?' ✎':'')),value=element('span','market-unavailable','—');
-      if(item.editable){label.type='button';label.setAttribute('aria-haspopup','dialog');label.setAttribute('aria-label',t('edit_currency','Change currency: {currency}',{currency:marketCurrency}));label.addEventListener('click',changeCurrency);}
-      value.title=t('rate_unavailable','Rate not available yet');row.append(label,value);list.append(row);return;
-    }
-    const options={label:item.rate?'Euribor 6M':item.name,unit:item.rate?'%':item.currency||(item.name==='EUR / USD'?'USD':item.sub),digits:item.digits,lowerIsBetter:!!item.rate,percentagePoints:!!item.rate};
+    const available=Number.isFinite(item.quote?.price);
+    const options={label:item.rate?'Euribor 6M':item.name,unit:item.rate?'%':item.currency||item.sub,digits:item.digits,lowerIsBetter:!!item.rate,percentagePoints:!!item.rate};
     const row=element('div','market-row');
-    const label=priceButton(item.quote,{...options,text:item.name,className:'market-name-text'});label.classList.add('market-label','market-label-trigger');
-    let displayLabel=label;
+    let label;
     if(item.editable){
-      displayLabel=element('button','price-trigger market-label market-label-trigger currency-choice-trigger');displayLabel.type='button';displayLabel.append(element('span','market-name-text',item.name));
-      const pencil=element('span','currency-edit-icon');pencil.setAttribute('aria-hidden','true');pencil.innerHTML='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="m15 5 4 4M4 20l4-1L20 7a2.8 2.8 0 0 0-4-4L4 15z"/></svg>';displayLabel.querySelector('.market-name-text').append(pencil);
-      displayLabel.title=t('choose_currency','Choose currency');displayLabel.setAttribute('aria-label',t('edit_currency','Change currency: {currency}',{currency:marketCurrency}));displayLabel.setAttribute('aria-haspopup','dialog');
-      displayLabel.addEventListener('click',changeCurrency);
+      label=element('button','price-trigger currency-choice-trigger');
+      label.type='button';
+      label.title=t('choose_currency','Choose currency');
+      label.setAttribute('aria-label',t('edit_currency','Change currency: {currency}',{currency:item.currency}));
+      label.setAttribute('aria-haspopup','dialog');
+      const name=element('span','market-name-text',item.name);
+      const pencil=icon('pencil');
+      pencil.classList.add('currency-edit-icon');
+      name.append(pencil);
+      label.append(name);
+      label.addEventListener('click',changeCurrency);
+    }else if(available){
+      label=priceButton(item.quote,{...options,text:item.name,className:'market-name-text'});
+    }else{
+      label=element('span');
+      label.append(element('span','market-name-text',item.name));
     }
+    label.classList.add('market-label','market-label-trigger');
     const symbol = element('span', 'market-symbol'); symbol.setAttribute('aria-hidden','true');
     if (item.symbol === 'gold' || item.symbol === 'bitcoin') symbol.append(icon(item.symbol)); else symbol.textContent = item.symbol;
-    displayLabel.prepend(symbol);displayLabel.append(element('small','market-unit',item.sub));
+    label.prepend(symbol);label.append(element('small','market-unit',item.sub));
+    row.append(label);
+    list.append(row);
+    if(!available){
+      const value=element('span','market-unavailable','—');
+      value.title=t('rate_unavailable','Rate not available yet');
+      row.append(value);
+      return;
+    }
     const trigger=priceButton(item.quote,{...options,className:'market-price'});trigger.classList.add('market-value-trigger');
     trigger.title=[item.quote.history_source,item.quote.observed_at?.slice(0,10),t('previous_published','Compared with previous published value')].filter(Boolean).join(' · ');
     applyPriceTrend(trigger,item.quote.price,item.quote.previous);
@@ -318,15 +434,16 @@ function exchange(container, data) {
       change.title=known?t('previous_value','Previous: {value}',{value:number(item.quote.previous,3)+' %'})+' · '+t('change_points','Change: {value} pp',{value:number(delta,3)}):t('no_comparison','No comparison available');change.setAttribute('aria-label',change.title);trigger.append(change);
       trigger.title+=' · '+t('delayed_24h','Published with a 24-hour delay');
     }else trigger.append(trend(item.quote.price,item.quote.previous,true));
-    row.append(displayLabel,trigger); list.append(row);
+    row.append(trigger);
   });
+  const stale=container.querySelector('.stale');
   container.replaceChildren(list);
-  const caption=container.closest('.widget').querySelector('.widget-header>.muted,.widget-header>.period,.widget-header>span:last-child');if(caption)caption.remove();
+  if(stale)container.append(stale);
 }
 
 const requestedMarket = new URLSearchParams(location.search).get('market');
 if (['LV','LT','EE'].includes(requestedMarket)) document.documentElement.dataset.market = requestedMarket;
-const marketSelect = element('select', 'fuel-market'); marketSelect.setAttribute('aria-label',t('country','Country'));
+const marketSelect = element('select', 'fuel-market'); marketSelect.setAttribute('aria-label',t('fuel','Energy')+' — '+t('country','Country'));
 for (const [value, label] of [['LV','Latvia'],['LT','Lithuania'],['EE','Estonia']]) { const option = element('option','',uiLabels.countries?.[value]||label); option.value=value; marketSelect.append(option); }
 marketSelect.value = document.documentElement.dataset.market || 'LV';
 marketSelect.addEventListener('change',()=>{
@@ -334,8 +451,9 @@ marketSelect.addEventListener('change',()=>{
   const url = new URL(location.href); url.searchParams.set('market',marketSelect.value); history.replaceState(null,'',url);
   loadWidget('fuel',fuel);
 });
-document.querySelector('#fuel-widget .location').replaceChildren(marketSelect);
-document.querySelectorAll('[data-icon]').forEach(node => node.append(icon(node.dataset.icon)));
+document.querySelector('#fuel-widget h3').replaceChildren(widgetCountry(t('fuel','Energy'),'bolt',marketSelect).control);
+document.querySelector('#horoscope-widget h3').textContent=t('horoscope','Horoscope');
+document.querySelector('#exchange-widget h3').replaceChildren(widgetIcon('market'),t('exchange','Currencies and markets'));
 
 async function news() {
   try {

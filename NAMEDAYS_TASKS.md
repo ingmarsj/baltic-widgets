@@ -4,6 +4,8 @@ This is the maintained task entry point. Read it before continuing name-day work
 
 ## Active priority: local famous exact namesakes
 
+Header follow-up (20 November 2026): the desktop name-day selector combines a softly tinted gift icon, title and country. In the compact layout, the icon and title move into the widget tab and the country selector sits above the names. The date remains available in the dialog.
+
 Continue from **2 August**, after the completed round 180 three-month follow-up through 1 August. Publish each validated batch to main as authorized by the user.
 
 Round 181 changes delivery, not research content: one prepared JSON per day/language/country, separate Namesakes and Birthdays tabs, and country-owned birthday selections duplicated into each day payload. All annual editorial inputs, provenance and open research queues are retained. The next namesake date is still **2 August**. See [delivery rules](NAMEDAYS.md#ready-to-render-day-delivery-round-181).
