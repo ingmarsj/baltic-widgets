@@ -4,6 +4,8 @@ This is the maintained task entry point. Read it before continuing name-day work
 
 ## Active priority: local famous exact namesakes
 
+Publication follow-up (21 November 2026): the updater applies source-side editorial changes only. Deploy name-day widget layout changes through the application release.
+
 Header follow-up (20 November 2026): the desktop name-day selector combines a softly tinted gift icon, title and country. In the compact layout, the icon and title move into the widget tab and the country selector sits above the names. The date remains available in the dialog.
 
 Continue from **2 August**, after the completed round 180 three-month follow-up through 1 August. Publish each validated batch to main as authorized by the user.
