@@ -3,11 +3,13 @@ import {resolveLanguage,locales} from './i18n-core.js';
 import {calendarDate,fittingNameCount} from './namedays-core.js';
 import {text} from './namedays-labels.js';
 import {createDayLoader} from './namedays-day.js';
+import {widgetCountry} from './widget-heading.js';
 
 const params=new URLSearchParams(location.search),lang=resolveLanguage(params.get('lang')||document.documentElement.lang||'lv');
 const tr=(key,values)=>text(lang,key,values),locale=locales[lang];
 document.documentElement.lang=lang;
 const roots=[...document.querySelectorAll('[data-namedays]')];
+const refreshCountryLabel=new WeakMap();
 const dataBase=new URL('./data/namedays/',import.meta.url);
 const day=createDayLoader(dataBase,{fetchJSON:readJSON});
 function element(tag,className,content){const e=document.createElement(tag);if(className)e.className=className;if(content!==undefined)e.textContent=content;return e;}
@@ -90,7 +92,7 @@ function fit(root){
  const {buttons,more}=item,available=cloud.getBoundingClientRect().width,gap=parseFloat(getComputedStyle(cloud).columnGap)||0;
  cloud.classList.add('nameday-measuring');buttons.forEach(b=>b.style.removeProperty('max-width'));cloud.replaceChildren(...buttons,more);
  const widths=buttons.map(b=>b.getBoundingClientRect().width),counterWidths={};
- const moreLabel=remaining=>root.classList.contains('nameday-tab-panel')?tr('all')+' · +'+remaining:'+'+remaining;
+ const moreLabel=remaining=>'+'+remaining;
  for(let remaining=1;remaining<names.length;remaining++){more.textContent=moreLabel(remaining);counterWidths[remaining]=more.getBoundingClientRect().width;}
  let shown=fittingNameCount(widths,available,gap,counterWidths);
  if(root.classList.contains('nameday-tab-panel'))shown=Math.min(shown,6);
@@ -102,14 +104,68 @@ function fit(root){
  if(focused)(focused.isConnected?focused:more.isConnected?more:buttons[0])?.focus({preventScroll:true});
  if(state?.root===root&&state.trigger&&!state.trigger.isConnected)state.trigger=more.isConnected?more:buttons[0];
 }
+function initRoot(root){
+ root.classList.add('nameday-widget');
+ root.setAttribute('aria-label',tr('title'));
+ const heading=element('h3','nameday-heading');
+ const select=element('select','nameday-country');
+ select.setAttribute('aria-label',tr('title')+' — '+tr('country'));
+ for(const country of ['lv','lt','ee']){
+  const option=element('option','',tr(country));
+  option.value=country;
+  select.append(option);
+ }
+ select.value=countryOf(root);
+ select.addEventListener('change',()=>{
+  const url=new URL(location.href);
+  url.searchParams.set('country',select.value);
+  history.replaceState(null,'',url);
+  params.set('country',select.value);
+  for(const item of roots)item.dataset.namedayCountry=select.value;
+  roots.forEach(loadRoot);
+ });
+ const {control,updateValue}=widgetCountry(tr('title'),'gift',select);
+ refreshCountryLabel.set(root,updateValue);
+ heading.append(control);
+ root.replaceChildren(heading,element('div','nameday-card-content'));
+ loadRoot(root);
+}
+
 async function loadRoot(root){
- const country=countryOf(root),date=calendarDate(),ticket=(loadTickets.get(root)||0)+1;loadTickets.set(root,ticket);root.setAttribute('aria-label',tr('title'));root.replaceChildren(element('p','nameday-state',tr('loading')));
- try{const doc=await day(country,lang,date);if(loadTickets.get(root)!==ticket)return;const names=doc.names.map(p=>({key:p.name,name:p.name}));const heading=element('h3','nameday-heading');const time=element('time','',formatDate(date));time.dateTime=date;const select=element('select','nameday-country');select.setAttribute('aria-label',tr('country'));for(const c of ['lv','lt','ee']){const option=element('option','',tr(c));option.value=c;select.append(option);}select.value=country;select.addEventListener('change',()=>{for(const item of roots)item.dataset.namedayCountry=select.value;const url=new URL(location.href);url.searchParams.set('country',select.value);history.replaceState(null,'',url);params.set('country',select.value);roots.forEach(loadRoot);});heading.append(element('span','nameday-title',tr('title')),select,time);const cloud=element('div','nameday-clouds');const old=observed.get(root);if(old)resizeObserver?.unobserve(old.cloud);root.replaceChildren(heading,cloud);if(!names.length)cloud.append(element('p','nameday-state',tr('empty')));else{observed.set(root,{names,cloud});cloudOwners.set(cloud,root);resizeObserver?.observe(cloud);fit(root);}}
- catch{if(loadTickets.get(root)!==ticket)return;root.replaceChildren(element('p','nameday-state',tr('error')),button('nameday-retry',tr('retry'),()=>loadRoot(root)));}
+ const country=countryOf(root),date=calendarDate(),ticket=(loadTickets.get(root)||0)+1;
+ loadTickets.set(root,ticket);
+ const content=root.querySelector('.nameday-card-content');
+ const select=root.querySelector('.nameday-country');
+ select.value=country;
+ refreshCountryLabel.get(root)();
+ const old=observed.get(root);
+ if(old){
+  resizeObserver?.unobserve(old.cloud);
+  observed.delete(root);
+ }
+ content.replaceChildren(element('p','nameday-state',tr('loading')));
+ try{
+  const doc=await day(country,lang,date);
+  if(loadTickets.get(root)!==ticket)return;
+  const names=doc.names.map(p=>({key:p.name,name:p.name}));
+  const cloud=element('div','nameday-clouds');
+  content.replaceChildren(cloud);
+  if(!names.length){
+   cloud.append(element('p','nameday-state',tr('empty')));
+   return;
+  }
+  observed.set(root,{names,cloud});
+  cloudOwners.set(cloud,root);
+  resizeObserver?.observe(cloud);
+  fit(root);
+ }catch{
+  if(loadTickets.get(root)!==ticket)return;
+  content.replaceChildren(element('p','nameday-state',tr('error')),button('nameday-retry',tr('retry'),()=>loadRoot(root)));
+ }
 }
 if(roots.length){
  resizeObserver=new ResizeObserver(entries=>entries.forEach(e=>{const root=cloudOwners.get(e.target);if(root)scheduleFit(root);}));
- roots.forEach(root=>{root.classList.add('nameday-widget');loadRoot(root);});
+ roots.forEach(initRoot);
  document.fonts?.ready.then(()=>roots.forEach(scheduleFit));
  document.fonts?.addEventListener('loadingdone',()=>roots.forEach(scheduleFit));
  window.addEventListener('resize',()=>roots.forEach(scheduleFit));
