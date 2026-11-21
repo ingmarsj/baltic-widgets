@@ -1,0 +1,34 @@
+/* The original option inherits the production card styles without overrides. */
+#widgets .widget:has(.widget-heading-icon){--widget-tint:color-mix(in srgb,var(--widget-icon-color) 15%,transparent)}
+:root:not([data-widget-style=classic]) #widgets .widget:has(.widget-heading-icon){box-shadow:inset 0 0 0 1.5px var(--widget-tint),var(--portal-shadow)}
+:root[data-widget-style=wash] #widgets .widget:has(.widget-heading-icon){background-image:linear-gradient(180deg,color-mix(in srgb,var(--widget-icon-color) 9%,transparent),transparent 100px)}
+:root:is([data-widget-style=wash],[data-widget-style=corner],[data-widget-style=band]) #widgets .widget .widget-heading-icon{background:transparent}
+:root[data-widget-style=corner] #widgets .widget:has(.widget-heading-icon){background-image:radial-gradient(ellipse 190px 140px at 28px 26px,color-mix(in srgb,var(--widget-icon-color) 19%,transparent),transparent)}
+:root[data-widget-style=rail] #widgets .widget:has(.widget-heading-icon){box-shadow:inset 3px 0 0 color-mix(in srgb,var(--widget-icon-color) 55%,transparent),inset 0 0 0 1px var(--widget-tint),var(--portal-shadow)}
+@media(min-width:1200px){
+ :root[data-widget-style=band] #widgets .widget{--card-x:13px;--card-top:11px}
+ :root[data-widget-style=band] #widgets .widget-header{position:relative;isolation:isolate;margin-bottom:17px}
+ :root[data-widget-style=band] #widgets .widget-header::before{content:'';position:absolute;z-index:-1;inset:calc(-1 * var(--card-top)) calc(-1 * var(--card-x)) -8px;border-radius:8px 8px 0 0;background:color-mix(in srgb,var(--widget-icon-color) 12%,transparent);border-bottom:1px solid var(--widget-tint);pointer-events:none}
+}
+@media(min-width:1600px){:root[data-widget-style=band] #widgets .widget{--card-x:18px;--card-top:16px}}
+@media(max-width:1199px){
+ :root:not([data-widget-style=classic]) #widgets .widget:has(.widget-heading-icon){box-shadow:inset 0 0 0 1.5px var(--widget-tint)!important}
+ :root[data-widget-style=rail] #widgets .widget:has(.widget-heading-icon){box-shadow:inset 3px 0 0 color-mix(in srgb,var(--widget-icon-color) 55%,transparent),inset 0 0 0 1px var(--widget-tint)!important}
+ :root[data-widget-style=band] #widgets .widget:has(.widget-heading-icon){background-image:linear-gradient(180deg,color-mix(in srgb,var(--widget-icon-color) 12%,transparent) 0 54px,transparent 54px)}
+}
+body{padding-bottom:90px}
+.widget-style-picker{position:fixed;z-index:100;inset:auto auto max(16px,env(safe-area-inset-bottom)) 50%;transform:translateX(-50%);display:flex;align-items:center;gap:12px;max-width:calc(100vw - 24px);padding:8px 10px 8px 16px;border:1px solid var(--portal-border-secondary);border-radius:16px;background:var(--portal-surface-primary);color:var(--portal-text-primary);box-shadow:0 8px 32px #00103d26;font:12px/1.4 system-ui,sans-serif}
+.widget-style-picker-title{font-weight:600;white-space:nowrap}
+.widget-style-choices{display:flex;gap:4px;overflow-x:auto;overscroll-behavior-x:contain;padding:2px}
+.widget-style-choices button{display:flex;align-items:center;gap:6px;flex:none;min-height:36px;padding:6px 10px;border:1px solid transparent;border-radius:9px;background:transparent;color:var(--portal-text-secondary);font:inherit;white-space:nowrap;cursor:pointer}
+.widget-style-choices button:hover{background:var(--portal-bg-secondary)}
+.widget-style-choices button[aria-pressed=true]{background:var(--portal-bg-secondary);border-color:var(--portal-border-secondary);color:var(--portal-text-primary);font-weight:600}
+.widget-style-choices button:focus-visible{outline:2px solid var(--portal-text-primary);outline-offset:0}
+.widget-style-number{display:grid;place-items:center;width:18px;height:18px;border:1px solid currentColor;border-radius:50%;font-size:10px;opacity:.7}
+@media(max-width:767px){.widget-style-picker{gap:0;padding:6px;max-width:calc(100vw - 16px);border-radius:13px}.widget-style-picker-title{display:none}.widget-style-choices button{min-height:44px;padding:6px 8px;font-size:11px}}
+@media(max-width:767px){
+ .widget-style-picker{width:calc(100vw - 16px);max-width:440px}
+ .widget-style-choices{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));width:100%;gap:2px;overflow:visible}
+ .widget-style-choices button{flex-direction:column;justify-content:flex-start;gap:4px;min-width:0;min-height:66px;padding:5px 2px;white-space:normal;text-align:center;line-height:1.2;font-size:10px}
+ .widget-style-number{flex:none}
+}

@@ -186,3 +186,9 @@ Station search prepares normalized search text once per immutable snapshot, reus
 All native dialogs use a shared opening helper that preserves the document scroll position through autofocus and closing, including nested station-price charts. Scroll areas are discovered once when a dialog opens; wheel and touch handlers do not recalculate ancestor styles for each gesture. Background scrolling is contained without changing the root scroll container’s overflow, and document-level gesture handlers are removed when the last dialog closes. The station comparison uses a dimmed backdrop without live background blur. Price buttons use one text underline on hover without an additional shadow underline. Long horoscope advice remains complete in a keyboard-focusable internal scroll region; mobile advice is capped separately.
 
 Name-history research reuses a private PDF page index and resumable OCR for recurring scanned manuals. See [the source directory](NAMEDAYS_SOURCES.md) and [PDF cache guide](NAMEDAYS_PDF_CACHE.md); raw sources and extracted full text stay outside this portable repository.
+
+## Widget appearance comparison
+
+The live page includes five appearance choices in the bottom toolbar: Original, Soft wash (default), Corner glow, Tinted header and Side accent. Original inherits the previous production card styling. The other choices share each widget's existing icon palette and support light and dark themes. The toolbar remains available on narrow screens.
+
+The browser stores its selection under `inbox-widget-style`. An explicit `widgetStyle=classic|wash|corner|band|rail` URL parameter takes precedence over that saved preference; toolbar changes update the URL without reloading. This is a visual comparison control and does not change widget data or the updater.

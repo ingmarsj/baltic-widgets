@@ -2,10 +2,10 @@
 .widget-heading-control:hover .widget-heading-value{text-decoration:underline;text-underline-offset:3px}
 .widget-heading-control:focus-visible,.widget-heading-country:has(select:focus-visible){outline:2px solid var(--portal-text-secondary,GrayText);outline-offset:2px}
 html[data-input-modality=pointer] .widget-heading-country:has(select:focus){outline:none}
-[data-accent=bolt]{--widget-icon-color:light-dark(#a56309,#ffc462)}
-[data-accent=gift]{--widget-icon-color:light-dark(#b2436a,#ff8eae)}
-[data-accent=horoscope]{--widget-icon-color:light-dark(#7952b5,#c5a4ff)}
-[data-accent=market]{--widget-icon-color:light-dark(#137867,#68cfb9)}
+[data-accent=bolt],.widget:has(.widget-heading-icon[data-accent=bolt]){--widget-icon-color:light-dark(#a56309,#ffc462)}
+[data-accent=gift],.widget:has(.widget-heading-icon[data-accent=gift]){--widget-icon-color:light-dark(#b2436a,#ff8eae)}
+[data-accent=horoscope],.widget:has(.widget-heading-icon[data-accent=horoscope]){--widget-icon-color:light-dark(#7952b5,#c5a4ff)}
+[data-accent=market],.widget:has(.widget-heading-icon[data-accent=market]){--widget-icon-color:light-dark(#137867,#68cfb9)}
 .widget-heading-icon{display:inline-grid;place-items:center;flex:none;color:var(--widget-icon-color)}
 .widget-heading-icon svg{width:17px;height:17px}
 .widget-heading-control .widget-heading-icon,.widget-header h3>.widget-heading-icon{width:30px;height:30px;border-radius:8px;background:color-mix(in srgb,var(--widget-icon-color) 15%,transparent)}
