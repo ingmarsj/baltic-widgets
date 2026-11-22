@@ -32,7 +32,7 @@ npm run build
 npm run preview
 ```
 
-Open `http://127.0.0.1:8080/`. Use `http://127.0.0.1:8080/?lang=ru` to preview Russian. Supported languages are `lv`, `ru`, `en`, `lt`, and `et`, with English as the fallback. Horoscope content is available in LV/RU/EN; LT/ET use English content with localized interface labels.
+Open `http://127.0.0.1:8080/`. Use `http://127.0.0.1:8080/?lang=ru` to preview Russian. Supported languages are `lv`, `ru`, `en`, `lt`, and `et`, with English as the fallback. Horoscope content is written natively in all five languages.
 
 ## Updates and publication
 
@@ -73,7 +73,7 @@ Do not run an offline export against an empty database if you want to retain the
 
 ## GitHub Pages
 
-In Settings → Pages, set Source to **GitHub Actions**. The workflow in `.github/workflows/pages.yml` runs tests, builds `dist/`, and deploys it after a push to `main`. The build requires no database or custom secrets. The project is published at `https://nimda5.github.io/baltic-widgets/`. Local resources support the repository path prefix.
+In Settings → Pages, set Source to **GitHub Actions**. The workflow in `.github/workflows/pages.yml` runs tests, builds `dist/`, regenerates the horoscope files for the build date with the deployed code, and deploys it after a push to `main`. The build requires no database or custom secrets. The project is published at `https://nimda5.github.io/baltic-widgets/`. Local resources support the repository path prefix.
 
 ## JSON for individual widgets
 
@@ -81,7 +81,7 @@ In Settings → Pages, set Source to **GitHub Actions**. The workflow in `.githu
 - `data/en/electricity.json`: electricity prices and history.
 - `data/en/gas.json`: natural gas prices and history.
 - `data/en/exchange.json`: currencies, gold, and Bitcoin.
-- `data/en/horoscope.json`: horoscopes and all text variants.
+- `data/en/horoscope.json`: horoscopes for today and tomorrow, both moods, and the sky panel.
 - `data/fuel-stations.geojson`: station coordinates, when available.
 
 Replace `en` with the desired language. GitHub Pages does not process API query parameters: select the language through the file path and select the mood or random variant in client-side code. The Node server (`npm start`) additionally supports dynamic GET parameters and periodic collection; it is not needed for static hosting.
@@ -96,7 +96,7 @@ Euribor 6M replaces the inverse USD/EUR row, using official Bank of Finland / EM
 
 Currencies use ECB history from 1999; gold uses NBP from 2013 with ECB currency conversion; Bitcoin uses Coin Metrics from 2010. Actual coverage depends on the source and the retained database.
 
-Horoscopes use a **Do / Avoid** format: three suggestions in each group, with all three items per group displayed directly at every screen size. Horoscopes use editorial templates informed by Astronomy Engine calculations, with two moods (normal and funny) and three variants per sign and day. Dates follow Europe/Riga. Six areas cover work/business, money, relationships, personal plans, home/family, and balance/rest, using practical, topic-specific advice. Adjacent days change the topic and every sentence; a fixed description of the sign is not repeated. These are everyday prompts, not promises of specific events.
+Horoscopes are computed for the whole local day with Astronomy Engine: the Moon’s sign changes with exact times, lunar phases, the Sun’s ingress, planetary signs and retrograde stations. The day’s main Moon sign gives every sign a different house theme, so the twelve signs never share a reading. Each sign has one stable reading per day and mood (normal and funny): a headline, a short day text that opens with the day’s exact sky event, three areas (love, work and money, wellbeing) with 1–5 ratings, and three Do and three Avoid items. The widget remembers the chosen sign, and a sky chip opens a panel with the Moon’s phase and sign, the Sun, the next full and new moon, the planets and the reader’s house theme. Dates and times follow Baltic local time. These are everyday prompts, not promises of specific events.
 
 The news, advertisements, and weather in the layout are saved demonstration material. Their collection and refresh have not been implemented. See [THIRD_PARTY.md](THIRD_PARTY.md).
 
@@ -114,13 +114,15 @@ All project documentation is maintained in **English only**. Multilingual interf
 
 ## Horoscope response format
 
-`data.moods` contains `serious` (normal) and `humor` (funny). Each sign exposes structured variants in `advice.today[mood][variant]` and `advice.tomorrow[mood][variant]`. A variant contains `topic`, `do_topic`, `avoid_topic`, `do` (three strings), and `dont` (three strings). The groups use different subject areas. Avoid items name undesirable behaviours rather than negative commands, so they read naturally under the heading. `recommendations` contains the selected variant for each day. Plain-text `today`, `tomorrow`, and `readings` remain available for existing consumers.
+`data.format` is `daily_reading`. `data.moods` contains `serious` (normal) and `humor` (funny); `data.presentations` lists the three widget views: `do_dont` (Do / Avoid lists), `areas` (love, work and money, wellbeing with ratings) and `combined` (headline, day text, ratings and the first Do and Avoid item). Each sign exposes `reading.today[mood]` and `reading.tomorrow[mood]` with `house`, `headline`, `text`, `areas.{love,work,energy}.{text,rating}`, `do` (three strings), `dont` (three Avoid strings) and `topic`. `panel.today.rows` adds the sign’s element, ruling planet and house theme. `data.sky.today` and `data.sky.tomorrow` hold the localized sky panel (`chip`, `moon_phase`, `rows`, `planets`); raw calculations stay in `data.facts`. `recommendations` contains the selected mood’s reading, and plain-text `today` and `tomorrow` remain available for existing consumers.
 
-The Node API accepts `mood=serious|humor|random` and `variant=0|1|2|random`; the former `playful` mode is no longer supported. The widget migrates an old saved playful preference to funny mode. On GitHub Pages, choose structured variants client-side from the JSON file.
+The Node API accepts `mood=serious|humor|random`. The `variant` parameter is still accepted for older callers, but every variant returns the same stable reading. The widget migrates an old saved playful preference to funny mode, saves the chosen sign, and can show older published files (Do / Avoid variants) until the data is regenerated. In the prototype a floating “Horoscope version” picker (or `?horoscopeView=1|2|3`) switches between the three views.
+
+`HOROSCOPE_LANGS=lv,en` limits the copy modules loaded while a new language is being written. `node scripts/generate-horoscope.mjs --out=dist/data` writes preview files directly into a built site.
 
 ## Horoscope editorial policy
 
-Before authoring or changing horoscope copy, read [HOROSCOPE_EDITORIAL_RULES.md](HOROSCOPE_EDITORIAL_RULES.md). The rules cover grammar in every authored language, separate subjects for Do and Avoid, semantic non-mirroring, humour, and variation. The shared `validateAdvice` gate in `parsers/horoscope-policy.mjs` runs before caching and must also validate any future model/API output. Schema validation does not replace review of meaning.
+Before authoring or changing horoscope copy, read [HOROSCOPE_EDITORIAL_RULES.md](HOROSCOPE_EDITORIAL_RULES.md). The rules cover grammar in every authored language, separate subjects for Do and Avoid, semantic non-mirroring, humour, and variation. Copy lives in `parsers/horoscope-text/<lang>.mjs`; check a module with `node scripts/check-horoscope-text.mjs <lang> --samples`. The shared `validateReading` gate in `parsers/horoscope-policy.mjs` runs before caching and must also validate any future model/API output. Schema validation does not replace review of meaning.
 
 ## Station directory coverage
 
@@ -163,7 +165,7 @@ A reserve quote fills an unavailable/expired provider price and never replaces a
 
 ## Responsive widget interface
 
-The horoscope card shows all three Do and three Avoid items without a Read more control. The sign button opens an accessible two-column dialog with all twelve signs and short date ranges; Escape closes it and returns focus to the trigger. The markets header omits the redundant daily caption. Compact layouts retain name days as the default tab inside a shared framed group, with a date and a limited name preview plus access to all names. Wide layouts give horoscope text additional width and keep the three cards at a shared 320-pixel height, with long advice scrolling inside the horoscope card rather than growing the row. Compact layouts use an underlined active tab, 46-pixel tab targets and keyboard navigation. Markets use restrained 13-pixel values and a two-column quote grid on tablet widths.
+The horoscope card shows all three Do and three Avoid items, the area view or the all-in-one view without a Read more control or an internal scrollbar at desktop sizes. The sign button opens an accessible two-column dialog with all twelve signs and short date ranges; Escape closes it and returns focus to the trigger. The markets header omits the redundant daily caption. Compact layouts retain name days as the default tab inside a shared framed group, with a date and a limited name preview plus access to all names. Wide layouts give horoscope text additional width and keep the three cards at a shared 320-pixel height, with long advice scrolling inside the horoscope card rather than growing the row. Compact layouts use an underlined active tab, 46-pixel tab targets and keyboard navigation. Markets use restrained 13-pixel values and a two-column quote grid on tablet widths.
 
 ## Configurable market currency
 

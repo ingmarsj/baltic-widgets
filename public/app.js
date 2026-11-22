@@ -6,7 +6,7 @@ import {t,lang,locale,labels as uiLabels} from './i18n.js';
 import {icon} from './icons.js';
 import {widgetCountry,widgetIcon,widgetPicker} from './widget-heading.js';
 import { priceButton } from './charts.js';
-import { currentZodiac } from './zodiac.js';
+import {horoscope} from './horoscope-widget.js';
 import {fuelPriceState} from './fuel-freshness.js';
 import {colorTrend} from './chart-math.js';
 import {electricityQuoteAt} from './electricity-time.js';
@@ -313,66 +313,6 @@ async function loadGas(container){
     applyPriceTrend(trigger,quote.price_eur_mwh,quote.previous_eur_mwh);trigger.append(element('span','unit',' EUR/MWh'),trend(quote.price_eur_mwh,quote.previous_eur_mwh,false,true));
     const price=element('div','electricity-price');price.append(trigger);container.title=t('gas_basis','Wholesale, excluding VAT and delivery fees');container.replaceChildren(info,price);
   }catch{container.replaceChildren(element('span','muted',t('gas','Natural gas')+' · '+t('unavailable','Data unavailable')));}
-}
-
-function horoscope(container, data) {
-  if (!Array.isArray(data.signs) || !data.signs.length || data.signs.some(s => ['name', 'id', 'dates','today','tomorrow'].some(k => typeof s[k] !== 'string'))) throw new Error('Invalid horoscope data');
-  const timeZone=data.timezone||'Europe/Riga';
-  let selected=Math.max(0,data.signs.findIndex(sign=>sign.id===currentZodiac(new Date(),timeZone))),day='today';
-  let mood=data.selected_mood||'serious';
-  const variant=crypto.getRandomValues(new Uint32Array(1))[0]%(data.variants_per_mood||3);
-  try{const saved=localStorage.getItem('horoscope-mood');if(saved==='playful')mood='humor';else if(data.moods?.includes(saved))mood=saved;}catch{}
-  const tabs=element('div','horoscope-days segmented');
-  for(const [key,label] of [['today',t('today','Today')],['tomorrow',t('tomorrow','Tomorrow')]]){
-    const button=element('button','',label);button.type='button';button.dataset.day=key;
-    button.addEventListener('click',()=>{day=key;show();});tabs.append(button);
-  }
-  const top=element('div','zodiac-top');
-  const {control:select,value:signValue}=widgetPicker(t('horoscope','Horoscope'),'horoscope');
-  select.setAttribute('aria-expanded','false');
-  document.querySelector('#zodiac-dialog')?.remove();
-  const picker=element('dialog','zodiac-dialog');picker.id='zodiac-dialog';picker.setAttribute('aria-labelledby','zodiac-dialog-title');
-  const pickerHeader=element('header','zodiac-dialog-header'),pickerTitle=element('h2','',t('zodiac_sign','Zodiac sign'));pickerTitle.id='zodiac-dialog-title';
-  const closePicker=element('button','zodiac-dialog-close','×');closePicker.type='button';closePicker.setAttribute('aria-label',t('close','Close'));closePicker.addEventListener('click',()=>picker.close());pickerHeader.append(pickerTitle,closePicker);
-  const choices=element('div','zodiac-choices');
-  const ranges=['21.03–19.04','20.04–20.05','21.05–20.06','21.06–22.07','23.07–22.08','23.08–22.09','23.09–22.10','23.10–21.11','22.11–21.12','22.12–19.01','20.01–18.02','19.02–20.03'];
-  data.signs.forEach((sign,i)=>{const choice=element('button','zodiac-choice');choice.type='button';choice.dataset.sign=String(i);choice.append(icon(sign.id),element('span','zodiac-choice-name',sign.name),element('small','',ranges[i]));choice.addEventListener('click',()=>{selected=i;show();picker.close();});choices.append(choice);});
-  choices.addEventListener('keydown',event=>{const offsets={ArrowRight:1,ArrowLeft:-1,ArrowDown:2,ArrowUp:-2};if(!(event.key in offsets)&&!['Home','End'].includes(event.key))return;event.preventDefault();const buttons=[...choices.children],i=buttons.indexOf(document.activeElement),next=event.key==='Home'?0:event.key==='End'?buttons.length-1:(i+offsets[event.key]+buttons.length)%buttons.length;buttons[next].focus();});
-  picker.append(pickerHeader,choices);document.body.append(picker);
-  select.addEventListener('click',()=>{openModal(picker,choices.children[selected]);select.setAttribute('aria-expanded','true');});
-  picker.addEventListener('close',()=>{select.setAttribute('aria-expanded','false');select.focus({preventScroll:true});});
-  picker.addEventListener('click',event=>{if(event.target!==picker)return;const r=picker.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)picker.close();});
-  const dates=element('p','zodiac-date');
-  const tone=element('details','horoscope-tone'),toneToggle=element('summary');
-  const toneMenu=element('div','horoscope-tone-menu');toneMenu.setAttribute('role','group');toneMenu.setAttribute('aria-label',t('horoscope_mood','Tone'));
-  for(const key of ['serious','humor']){
-    const button=element('button','',t('mood_'+key,key));button.type='button';button.dataset.mood=key;button.prepend(icon('tone_'+key));
-    button.addEventListener('click',()=>{mood=key;try{localStorage.setItem('horoscope-mood',mood);}catch{}tone.open=false;show();toneToggle.focus();});toneMenu.append(button);
-  }
-  // Safari does not focus buttons on pointer activation. A null relatedTarget
-  // must not hide the menu before its click can select a mood.
-  tone.addEventListener('focusout',event=>{if(event.relatedTarget && !tone.contains(event.relatedTarget))tone.open=false;});
-  tone.addEventListener('keydown',event=>{if(event.key==='Escape'){tone.open=false;toneToggle.focus();}});
-  tone.append(toneToggle,toneMenu);top.append(dates,tone);
-  const text=element('div','horoscope-advice');text.id='horoscope-reading';text.tabIndex=0;text.setAttribute('role','region');text.setAttribute('aria-label',t('horoscope','Horoscope'));
-  text.classList.add('is-expanded');
-  function show(){
-    const sign=data.signs[selected];signValue.textContent=sign.name;dates.textContent=sign.dates;
-    [...choices.children].forEach((choice,i)=>choice.setAttribute('aria-pressed',String(i===selected)));
-    const reading=sign.advice?.[day]?.[mood]?.[variant];text.replaceChildren();
-    if(reading){
-      for(const [field,label] of [['do',t('horoscope_do','Do')],['dont',t('horoscope_dont','Avoid')]]){
-        const section=element('section','horoscope-advice-section '+field),heading=element('h4','',label),mark=element('span','advice-mark',field==='do'?'✓':'×');mark.setAttribute('aria-hidden','true');heading.prepend(mark);const list=element('ul');
-        reading[field].forEach(item=>list.append(element('li','',item)));section.append(heading,list);text.append(section);
-      }
-    }else{text.append(element('p','horoscope-text',sign.readings?.[day]?.[mood]?.[variant]||sign[day]));}
-    toneToggle.replaceChildren(icon('tone_'+mood));toneToggle.title=t('horoscope_mood','Tone')+': '+t('mood_'+mood,mood);toneToggle.setAttribute('aria-label',toneToggle.title);
-    toneMenu.querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.mood===mood)));
-    tabs.querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.day===day)));
-  }
-  const header=container.closest('.widget').querySelector('.widget-header');header.querySelector('h3').replaceChildren(select);header.querySelector('.horoscope-days')?.remove();header.append(tabs);
-  container.dataset.horoscopeDate=data.date;
-  container.append(top,text);show();
 }
 
 let marketCurrency;

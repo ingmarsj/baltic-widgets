@@ -1,53 +1,54 @@
 # Horoscope editorial rules
 
-These rules apply to local templates, manual edits, and any future model/API writer. Read them before changing horoscope copy. The executable contract is `parsers/horoscope-policy.mjs` (`do-avoid-v1`).
+These rules apply to the local copy in `parsers/horoscope-text/*.mjs`, to manual edits and to any future model/API writer. Read them before changing horoscope copy. The executable contract is `parsers/horoscope-policy.mjs` (`daily-reading-v2`); run `node scripts/check-horoscope-text.mjs <lang> --samples` after every change.
 
-## Required structure
+## How a reading is built
 
-- Keep exactly two moods: `serious` (normal) and `humor` (funny).
-- Return three `do` items and three `dont` items. The legacy JSON key `dont` means the **Avoid** group.
-- The displayed headings are Do/Avoid in English, with equivalent localized headings elsewhere. Do not repeat the heading inside an item.
-- Include `do_topic` and `avoid_topic`, using different life-area IDs: `work`, `money`, `relationships`, `personal`, `home`, or `balance`.
-- Keep each item self-contained. Aim for 60–110 characters; the hard limit is 180. The first item must work on its own in the compact preview.
+- The generator computes the real sky for the whole local day with Astronomy Engine (`parsers/horoscope-sky.mjs`): Moon sign changes with exact times, lunar phases, the Sun's ingress, planetary signs and retrograde stations. Times are Baltic local time (Riga, Vilnius and Tallinn share one zone).
+- The day's main Moon sign is the sign that holds the Moon longer between 07:00 and 23:00 (the sign at 15:00). It gives every reader a whole-sign house counted from their own sign (house 1 = the Moon in the reader's sign), so all 12 signs get different copy on the same day.
+- Each house has three entries per list. Entry *n* of every list is used on the same day; the entry changes on each day of a Moon transit, shifts every sidereal month and differs between signs. Adjacent days never share a sentence and a week never recycles house copy.
+- At most one sentence about an exact event opens the text, in this order: the Sun enters the reader's sign, a full or new moon, Mercury/Venus/Mars turning retrograde or direct, the Moon changing sign, the Sun entering another sign.
+- Ratings (1–5 stars) for love, work and money, and wellbeing come from the house (`houseProfiles` in `parsers/horoscope.mjs`); retrograde Mercury, Venus and Mars lower work, love and wellbeing by one star. They never fall below 2. Keep the copy's tone consistent with the rating.
+- One stable reading per sign, day and mood. Every visitor sees the same text all day; reloading does not change it.
 
-## Meaning and grammar
+## Required structure per house and mood
 
-Do is an affirmative, useful action. Avoid names an undesirable behaviour, situation, or habit. Do not place a negative command beneath Avoid: “Avoid: do not take another task” reverses the intended reading.
+- `headline`: 3 short headlines, 3–40 characters, no full stop.
+- `day`: 3 texts of 1–2 sentences, 80–230 characters, describing the house theme and a suggestion. Do not name the Moon's zodiac sign (it varies by reader).
+- `love`, `work`, `energy`: 3 entries each with `text` (45–200 characters), `do` (20–125) and `avoid` (15–125).
+- Event sentences (40–185 characters) and special headlines for the Sun entering, and a full or new moon in, the reader's sign.
+- The three entries of a list are different situations, not paraphrases. Every string in a language module is unique.
 
-Use a natural grammatical complement in each language:
+## Do and Avoid
 
-- English: a noun phrase or gerund, such as “An extra task accepted only out of politeness.”
-- Russian: a noun phrase in the appropriate case after the localized heading; never an opening negative command.
-- Latvian: a natural noun phrase introduced by the preposition required by the localized heading; never a negated imperative.
-- LT/ET currently use English body-text fallback and localized interface headings. Keep fallback metadata truthful; apply the same rule if native content is added later.
+Do is an affirmative, useful action in the imperative. Avoid names an undesirable behaviour, situation or habit that grammatically completes the heading. Never put a negative command under Avoid, and never repeat the heading inside an item.
 
-The two groups must not be inversions, paraphrases, or the same action with negation swapped. This applies to all nine cross-group item pairs, not just matching row numbers. Choosing distinct subject areas helps prevent mirrored advice; review meaning as well as metadata.
+- Latvian: heading „Izvairies no”; items are noun phrases in the genitive (singular) or dative (plural), capitalised and without a leading „No” („Solījumiem, kurus izpildīt var tikai ar veiksmi.”). Inline in the all-in-one view the first letter is lowercased: „Izvairies no solījumiem, …”.
+- Russian: heading «Избегай»; a genitive noun phrase.
+- English: heading “Avoid”; a gerund or noun phrase.
+- Lithuanian: heading „Venk“; a genitive noun phrase.
+- Estonian: heading „Väldi“; a partitive noun phrase.
 
-Good:
-
-- Do: “Confirm the project scope before quoting.”
-- Avoid: “Guessing someone’s feelings from a one-word reply.”
-
-Bad:
-
-- Do: “Skip exercise.” / Avoid: “Exercise.”
-- Do: “Take a break.” / Avoid: “Working without a break.”
-- Avoid: “Do not promise too much.”
+A Do item and the Avoid item of the same entry and area must not be inversions or paraphrases. Bad: Do “Take a break.” / Avoid “Working without breaks.”
 
 ## Tone and realism
 
-Normal mode is specific, clear, and practical. Avoid vague filler, fixed personality descriptions, moral lectures, and guaranteed predictions about money, health, or relationships.
+- Two moods: `serious` (normal) and `humor` (funny). Normal copy is warm, concrete and everyday, never bureaucratic or like a time-management course. Funny copy is witty in every single string: a concrete observation, an unexpected comparison or a punchline that still gives the advice. Keep humour warm; no jokes about gender, nationality, body weight, age or alcohol.
+- Describe tendencies, not guarantees, especially for health, money and relationships. No medical advice, no fixed personality descriptions, no fear-mongering.
+- Do not assume the reader has a partner, children, a car or an office job; address singles and couples alike.
+- Astronomical statements come only from the calculation and are rendered by the language module's functions with exact times.
 
-Funny mode must be witty throughout all six items. Use a concrete observation, an unexpected comparison, or a punchline that supports the advice. Do not add one generic joke to otherwise normal copy. Keep humour warm; do not shame the reader or rely on stereotypes. Put the joke early enough to survive a short preview where possible.
+## Language and typography
 
-Astronomical facts must come from calculations. Editorial variation is a writing rule, not evidence that a particular event will occur.
+- Write each language natively. Never translate another language's copy; re-create jokes so they work.
+- Address the reader with the informal singular “you” (LV tu, RU ты, LT tu, ET sina). The reader's gender must never show: no gendered participles, adjectives, past tense (Russian) or “you yourself” forms about the reader. Rephrase impersonally: „ja vēl nav pienācis laiks”, not „ja neesi gatavs”; „tas izkritis no prāta”, not „esi aizmirsis”.
+- No calques. Latvian examples to avoid: „cilvēcīgs teikums”, „tehniskais uzdevums”, „atsaukt pieteikumu”, „kalendārs pieprasa advokātu”, „viņš” for objects.
+- Quotation marks: LV „…” · LT/ET „…“ · RU «…» · EN “…” and ’. Never a straight `"`.
+- Dashes with spaces: LV/LT/ET/EN “ – ” (en dash), RU “ — ” (em dash). Use the ellipsis character … .
+- Time and date formats belong to each language module (`time`, `on`, `until` helpers); Latvian uses „plkst. 9.23” and „24. novembrī”.
 
 ## Variation and publication
 
-- Maintain three variants per sign, mood, and day.
-- Rotate life areas, situations, and wording. Adjacent days must not repeat complete items or sentences for the same sign/mood/variant.
-- Keep the normal and funny copies genuinely distinct and preserve variation between signs.
-- Produce LV/RU/EN content consistently; use English fallback explicitly for other languages.
-- Validate every result with `validateAdvice` before caching or publishing, including future model output. Validation checks structure, topic separation, duplicate text, opening negation, and length. Human/editorial review still checks meaning and whether the humour works.
-- Run `node --test parsers/horoscope.test.mjs` after changing copy. Run `npm test` in the public project before publishing.
-- Bump the writer/cache version when rules or copy change, regenerate public horoscope JSON, and deploy matching code and data. Retain older cached versions as history.
+- Validate every result with `validateReading` before caching or publishing, including future model output. Validation checks structure, ratings, lengths, duplicates, typography, negative openings and known gendered patterns. Human review still checks meaning, idiom and whether the humour works.
+- Run `node --test parsers/horoscope.test.mjs` after changing copy and `npm test` before publishing. The tests also check that adjacent days share no sentence and that a week does not recycle house copy.
+- Bump `version` in `parsers/horoscope.mjs` when rules or copy change, regenerate the public horoscope JSON, and deploy matching code and data. Retain older cached versions as history.

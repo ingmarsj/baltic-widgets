@@ -31,6 +31,8 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+      # Generate today's horoscope with the code being deployed, so copy and widget always match.
+      - run: node scripts/generate-horoscope.mjs --out=dist/data
       - uses: actions/configure-pages@v6.0.0
       - uses: actions/upload-pages-artifact@v5.0.0
         with:

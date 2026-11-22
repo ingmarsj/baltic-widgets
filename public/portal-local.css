@@ -499,3 +499,61 @@ html{scrollbar-gutter:stable}
 .currency-dialog button:focus-visible{outline:2px solid var(--portal-text-secondary);outline-offset:1px}
 
 #widgets #horoscope-widget .widget-header,#widgets #fuel-widget .widget-header{flex-wrap:wrap}
+
+/* Horoscope: three presentations of one reading, the sky chip and the sky panel. */
+#widgets .horoscope-advice:has(>.horoscope-view-do-dont,>.horoscope-view-areas,>.horoscope-view-combined){display:block}
+#widgets .horoscope-view-do-dont{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr)}
+#widgets .horoscope-view-areas,#widgets .horoscope-view-combined{padding-right:4px}
+#widgets :is(.horoscope-view-areas,.horoscope-view-combined) h4{position:static;background:none;padding:0}
+#widgets .horoscope-area h4{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:0 0 2px}
+#widgets .horoscope-area p{margin:0;font-size:12.5px;line-height:1.5;color:var(--portal-text-primary);text-wrap:pretty}
+#widgets .horoscope-area+.horoscope-area{border-top:1px solid var(--portal-border-secondary);margin-top:5px;padding-top:5px}
+#widgets .horoscope-stars{flex:none;font-size:11px;letter-spacing:1px;line-height:1;white-space:nowrap}
+#widgets .horoscope-stars .on{color:var(--widget-icon-color,#b8860b)}
+#widgets .horoscope-stars .off{color:var(--portal-border-secondary)}
+#widgets .horoscope-view-combined .horoscope-headline{font-size:13.5px;font-weight:600;line-height:1.3;margin:0 0 2px}
+#widgets .horoscope-lead{margin:0 0 6px;font-size:12px;line-height:1.45;color:var(--portal-text-primary);text-wrap:pretty}
+#widgets .horoscope-ratings{display:flex;flex-wrap:wrap;gap:3px 10px;margin:0 0 6px;padding:4px 0;border-block:1px solid var(--portal-border-secondary);font-size:10.5px;color:var(--portal-text-secondary)}
+#widgets .horoscope-rating{display:inline-flex;align-items:center;gap:4px}
+#widgets .horoscope-ratings .horoscope-stars{font-size:10px;letter-spacing:0}
+#widgets .horoscope-tips{list-style:none;margin:0;padding:0;display:grid;gap:3px}
+#widgets .horoscope-tips li{display:grid;grid-template-columns:14px minmax(0,1fr);gap:3px;font-size:12px;line-height:1.4;color:var(--portal-text-primary)}
+#widgets .zodiac-top .zodiac-date{min-width:0;flex:0 1 auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#widgets .zodiac-top .horoscope-sky{margin-left:auto;display:inline-flex;align-items:center;gap:5px;min-width:0;max-width:64%;padding:2px 8px 2px 4px;border:1px solid var(--portal-border-secondary);border-radius:999px;background:transparent;color:var(--portal-text-secondary);font:inherit;font-size:10px;line-height:16px;cursor:pointer}
+#widgets .zodiac-top .horoscope-sky span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+#widgets .zodiac-top .horoscope-sky svg{flex:none;width:15px;height:15px}
+#widgets .zodiac-top .horoscope-sky:hover{color:var(--portal-text-primary);background:rgba(128,128,128,.12)}
+#widgets .zodiac-top .horoscope-sky:focus-visible{outline:2px solid var(--portal-text-secondary);outline-offset:2px}
+#widgets .zodiac-top .horoscope-sky+.horoscope-tone{margin-left:2px}
+.moon-phase-disc{fill:none;stroke:currentColor;stroke-width:1.3;opacity:.6}
+.moon-phase-lit{fill:currentColor;opacity:.85}
+.horoscope-sky-dialog{width:min(420px,calc(100% - 24px))}
+.horoscope-sky-phase{display:flex;align-items:center;gap:12px;margin:2px 0 8px}
+.horoscope-sky-phase svg{flex:none;width:44px;height:44px;color:var(--portal-text-primary)}
+.horoscope-sky-phase p{margin:0;font-size:14px;font-weight:500;line-height:1.35}
+.horoscope-sky-rows{margin:0}
+.horoscope-sky-row{display:grid;grid-template-columns:minmax(0,38%) minmax(0,1fr);gap:10px;padding:6px 0;border-top:1px solid var(--portal-border-secondary);font-size:12.5px;line-height:1.4}
+.horoscope-sky-row dt{color:var(--portal-text-secondary)}
+.horoscope-sky-row dd{margin:0}
+.horoscope-sky-heading{font-size:12px;font-weight:600;margin:14px 0 2px}
+.horoscope-sky-note{font-size:11px;color:var(--portal-text-secondary);margin:12px 0 0}
+.widget-style-picker.horoscope-view-picker{bottom:calc(max(16px,env(safe-area-inset-bottom)) + 62px)}
+body:has(.horoscope-view-picker){padding-bottom:160px}
+@media(max-width:767px){.widget-style-picker.horoscope-view-picker{bottom:calc(max(16px,env(safe-area-inset-bottom)) + 88px)}body:has(.horoscope-view-picker){padding-bottom:190px}}
+@media(max-width:440px){#widgets .zodiac-top:has(.horoscope-sky) .zodiac-date{display:none}#widgets .zodiac-top .horoscope-sky{max-width:none;margin-left:0}#widgets .zodiac-top .horoscope-sky+.horoscope-tone{margin-left:auto}}
+/* Compact type so the longer RU/EN/LT/ET copy fits the fixed card height in every view. */
+#widgets .horoscope-advice.is-expanded .horoscope-view-do-dont li{font-size:12px;line-height:1.4}
+#widgets .horoscope-advice.is-expanded .horoscope-view-do-dont li+li{margin-top:5px;padding-top:5px}
+#widgets .horoscope-advice .horoscope-view-do-dont h4{margin-bottom:4px}
+#widgets .horoscope-area h4{font-size:11px;line-height:15px;margin:0 0 1px}
+#widgets .horoscope-area p{font-size:12px;line-height:1.4}
+#widgets .horoscope-area+.horoscope-area{margin-top:4px;padding-top:4px}
+#widgets .horoscope-lead{font-size:12px;line-height:1.4}
+#widgets .horoscope-tips li{line-height:1.35}
+#widgets .horoscope-advice.is-expanded .horoscope-view-do-dont li{line-height:1.36}
+#widgets .horoscope-advice.is-expanded .horoscope-view-do-dont li+li{margin-top:4px;padding-top:4px}
+#widgets .horoscope-view-combined .horoscope-headline{margin:0 0 1px}
+#widgets .horoscope-lead{line-height:1.38;margin-bottom:5px}
+#widgets .horoscope-ratings{padding:3px 0;margin-bottom:5px}
+#widgets .horoscope-tips{gap:2px}
+#widgets .horoscope-area h4{line-height:14px;margin:0}
