@@ -106,6 +106,11 @@ export function horoscope(container,data){
   const saved=load(moodKey);if(saved==='playful')mood='humor';else if(data.moods?.includes(saved))mood=saved;
   // Older published files carry Do/Avoid variants only; show them until the data is regenerated.
   const structured=data.signs.every(sign=>sign.reading?.today?.[mood]);
+  // A published file can be a day old (no rebuild yet after midnight): its "tomorrow" is today,
+  // so show that and hide the Tomorrow tab instead of presenting yesterday's reading as today's.
+  const localToday=new Intl.DateTimeFormat('en-CA',{timeZone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+  const shifted=Boolean(data.tomorrow_date)&&localToday>=data.tomorrow_date;
+  const key=d=>shifted&&d==='today'?'tomorrow':d;
 
   const tabs=element('div','horoscope-days segmented');
   for(const [key,label] of [['today',t('today','Today')],['tomorrow',t('tomorrow','Tomorrow')]]){
@@ -156,36 +161,37 @@ export function horoscope(container,data){
   text.classList.add('is-expanded');
 
   function fillSky(){
-    const panel=data.sky[day],sign=data.signs[selected];
+    const panel=data.sky[key(day)],sign=data.signs[selected];
     sky.title.textContent=t(day==='today'?'horoscope_sky_today':'horoscope_sky_tomorrow',day==='today'?"Today's sky":"Tomorrow's sky");
     const phase=element('div','horoscope-sky-phase');
     phase.append(moonIcon(panel.moon_phase.degrees),element('p','',panel.rows.find(r=>r.id==='phase')?.value||''));
     const signTitle=element('h3','horoscope-sky-heading',sign.name);
     const planetTitle=element('h3','horoscope-sky-heading',t('horoscope_planets','Planets'));
-    sky.body.replaceChildren(phase,rows(panel.rows.filter(r=>r.id!=='phase'),'horoscope-sky-rows'),signTitle,rows(sign.panel?.[day]?.rows||[],'horoscope-sky-rows'),planetTitle,rows(panel.planets,'horoscope-sky-rows planets'),element('p','horoscope-sky-note',t('horoscope_sky_note','Times are shown in Baltic time.')));
+    sky.body.replaceChildren(phase,rows(panel.rows.filter(r=>r.id!=='phase'),'horoscope-sky-rows'),signTitle,rows(sign.panel?.[key(day)]?.rows||[],'horoscope-sky-rows'),planetTitle,rows(panel.planets,'horoscope-sky-rows planets'),element('p','horoscope-sky-note',t('horoscope_sky_note','Times are shown in Baltic time.')));
   }
   function show(){
     const sign=data.signs[selected];signValue.textContent=sign.name;dates.textContent=sign.dates;
     [...choices.children].forEach((choice,i)=>choice.setAttribute('aria-pressed',String(i===selected)));
     text.replaceChildren();text.dataset.view=structured?view:'do_dont';
     if(structured){
-      const reading=sign.reading[day][mood];
+      const reading=sign.reading[key(day)][mood];
       text.append(view==='areas'?byArea(reading):view==='combined'?combined(reading):doDont(reading));
-      const panel=data.sky?.[day];
+      const panel=data.sky?.[key(day)];
       if(panel){skyButton.replaceChildren(moonIcon(panel.moon_phase.degrees),element('span','',panel.chip));skyButton.setAttribute('aria-label',`${t('horoscope_sky','Sky')}: ${panel.chip}`);}
       if(sky.dialog.open)fillSky();
     }else{
       // A stable variant per date, never a random one per page load.
       const variants=data.variants_per_mood||3,variant=Math.floor(Date.parse(data.date+'T12:00:00Z')/86400000)%variants;
-      const reading=sign.advice?.[day]?.[mood]?.[variant];
-      if(reading)text.append(doDont(reading));else text.append(element('p','horoscope-text',sign.readings?.[day]?.[mood]?.[variant]||sign[day]));
+      const reading=sign.advice?.[key(day)]?.[mood]?.[variant];
+      if(reading)text.append(doDont(reading));else text.append(element('p','horoscope-text',sign.readings?.[key(day)]?.[mood]?.[variant]||sign[key(day)]));
     }
     toneToggle.replaceChildren(icon('tone_'+mood));toneToggle.title=t('horoscope_mood','Tone')+': '+t('mood_'+mood,mood);toneToggle.setAttribute('aria-label',toneToggle.title);
     toneMenu.querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.mood===mood)));
     tabs.querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.day===day)));
   }
-  const header=container.closest('.widget').querySelector('.widget-header');header.querySelector('h3').replaceChildren(select);header.querySelector('.horoscope-days')?.remove();header.append(tabs);
-  container.dataset.horoscopeDate=data.date;
+  const header=container.closest('.widget').querySelector('.widget-header');header.querySelector('h3').replaceChildren(select);header.querySelector('.horoscope-days')?.remove();if(!shifted)header.append(tabs);
+  // The page reloads the widget when this date stops matching the local calendar day.
+  container.dataset.horoscopeDate=shifted?data.tomorrow_date:data.date;
   container.append(top,text);show();
   if(structured)viewPicker(next=>{view=next;show();});
 }
